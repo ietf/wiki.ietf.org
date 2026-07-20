@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-07-20T13:37:20.186Z
+date: 2026-07-20T13:50:26.116Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -236,7 +236,7 @@ Prio 4 (cluster)
 **- draft-ietf-ccamp-otn-tunnel-model**
 **-draft-ietf-ccamp-otn-path-computation-yang-08**
 > Dependency on draft-ietf-teas-yang-te resolved
-RTGDIR review requested jointly for both
+RTGDIR review requested and completed - jointly for both
 YANG DOTTOR review request for OTN path computation, already done for OTN tunnel model
 
 
