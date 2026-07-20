@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-07-08T22:04:51.474Z
+date: 2026-07-20T15:58:49.676Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -67,7 +67,7 @@ Please list topics in this section that could use discussion but may not warrant
 
 
 ### Topics Deferred Till Next Informal 
-* Discuss kramdown-rfc support (was raised at IETF 123 Sunday meeting)
+* IESG review of liaison statement drafts (4052bis & 4053bis), hopefully with Suresh present for discussion [raised at IETF 126 joint meeting]
 * `code` formatting in drafts, `.txt` output and doc production (Inacio)
 
 -------
