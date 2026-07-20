@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-20T13:39:09.714Z
+date: 2026-07-20T13:53:23.141Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -39,3 +39,4 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | PQC Interoperability Project  | John Gray, Dan Van Geest, Lucas Prabel, David Hook, Many others  |  john.gray@entrust.com |  https://github.com/IETF-Hackathon/pqc-certificates |
 | Validate YANG-Push to Message Broker End-To-End Data Processing Chain  | Thomas Graf and Leonardo Rodoni, Many others  |  thomas.graf@swisscom.com |  https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/126/Hackathon and https://www.network-analytics.org/yp/ |
 | DotBots in the LAKE | Geovane Fedrecheski | geovane.fedrecheski@inria.fr | https://github.com/geonnave/lakers-dotbot https://crates.io/crates/lakers https://pydotbot.readthedocs.io |
+| In-Network Telemetry Aggregation Using IOAM Aggregation Trace and Template Options | Ramon Bister <br> Alexander Clemm <br> Andrea Mayer <br> Stefano Salsano | ramon.bister@ost.ch ludwig@clemm.org andrea.mayer@uniroma2.it stefano.salsano@uniroma2.it | https://datatracker.ietf.org/doc/draft-cxx-ippm-ioamaggr/ <br> https://datatracker.ietf.org/doc/draft-mbci-ippm-ioam-template-option/ <br>  https://datatracker.ietf.org/doc/draft-mayer-ioam-gob/ |
