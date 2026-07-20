@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-07-15T14:28:39.896Z
+date: 2026-07-20T08:14:43.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-19T10:40:12.870Z
 ## Resources
 
 * [Standard IETF overview presentation](https://docs.google.com/presentation/d/1nO973anOW5Qh-CtgmzPPxAnzWRhyku4OW5ZSvlETJDA/edit?slide=id.p2#slide=id.p2)
-* [IETF Snapshot 2024](https://ietf.photoshelter.com/galleries/G0000UuIwl9_Hy.8/I00005X9jp4ehe_U/IETF-Snapshot-2024-pdf) - 1 page summary document
+* [IETF Snapshot 2025](https://www.ietf.org/media/documents/IETF-Snapshot-2025.pdf) - 1 page summary document
 * [IETF Annual Report 2024](https://www.ietf.org/blog/annual-report-2024/)
 * [Outreach Update given at IETF 122](https://datatracker.ietf.org/meeting/122/materials/slides-122-eodir-sessa-ietf-outreach-activities-00.pdf)
 
