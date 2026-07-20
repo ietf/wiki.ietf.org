@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-20T12:54:40.084Z
+date: 2026-07-20T12:55:18.031Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -37,5 +37,4 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | Quality of Outcome | Ike Kunze | ike.kunze@cujo.com | https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo <br> https://datatracker.ietf.org/doc/draft-ietf-ippm-qoo/ |
 | Secure Hybrid Network Monitoring  | Yutaka Oiwa, Satoru Kanno, Yumi Sakemi  |  y.oiwa@aist.go.jp, kanno@gmo-connect.jp, sakemi-yumi@gmo-connect.jp |  https://datatracker.ietf.org/doc/draft-oiwa-path-characteristics-service/ <br> https://datatracker.ietf.org/doc/draft-oiwa-secure-hybrid-network/ |
 | PQC Interoperability Project  | John Gray, Dan Van Geest, Lucas Prabel, David Hook, Many others  |  john.gray@entrust.com |  https://github.com/IETF-Hackathon/pqc-certificates |
-
 | Validate YANG-Push to Message Broker End-To-End Data Processing Chain  | Thomas Graf and Leonardo Rodoni, Many others  |  thomas.graf@swisscom.com |  https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/126/Hackathon and https://www.network-analytics.org/yp/ |
