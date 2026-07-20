@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-07-08T12:27:18.045Z
+date: 2026-07-20T09:58:38.223Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -21,6 +21,12 @@ TODO: Ask HotRFC and dispatch chairs to mention it
 
 Beverage Break, **11:00-11:30** (after dispatch)
 IAB Members: Dhruv, Matthew, Warren
+
+Tara Tarakiyee asked about how to progress [work](https://tarakiyee.github.io/funder-guide-draft/draft-tarakiyee-funder-guide.html) "Evaluating Technical Standards in the Public Interest: A Guide for Public Funding Organizations", we directed them to first post in EODIR and then take the work forward.  
+
+Some other side conversation were unrelated to new work! 
+
+Talked to Jim if some dispatch folks can pointed to the IAB if they need some help. 
 
 ## Thursday 23rd July
 
