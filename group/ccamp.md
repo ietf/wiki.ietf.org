@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-07-20T12:52:29.099Z
+date: 2026-07-20T13:37:20.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -220,7 +220,7 @@ A YANG Data Model for Client Signal Performance Monitoring
 
 ## Draft prioritization for WG last call
 Prio 1
-**- draft-ietf-ccamp-flexigrid-yang** (ready for 2nd WG last call to be done)
+**- draft-ietf-ccamp-flexigrid-yang** (2nd WG last call completed. Moved to IESG)
 
 Prio 2
 **- draft-ietf-dwdm-if-param-YANG**
@@ -230,7 +230,7 @@ A YANG data model to manage configurable DWDM optical interfaces
 Prio 3
 **- draft-ietf-ccamp-tsvmode-signaling-02**
 Conveying Transceiver-Related Information within RSVP-TE Signaling
-(RTG-DIR review requested in preparation for WG LC)
+(RTG-DIR review-update needed - expected in September after optical impairment topology and if param yang get published)
 
 Prio 4 (cluster)
 **- draft-ietf-ccamp-otn-tunnel-model**
