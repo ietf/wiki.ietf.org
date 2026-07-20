@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-19T15:38:23.732Z
+date: 2026-07-20T05:38:40.484Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -107,11 +107,12 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1002
 > 
-> 1. (time sensitive) Processing any appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) (Roman)
-> 2. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
-> 3. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
-> 4. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
-> 5. (not meeting relevant, not urgent) [IANA IP-related legacy registries](https://datatracker.ietf.org/doc/draft-vyncke-intarea-legacy-registries/) (Éric)
+> 1. (time sensitive) Processing appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) (Roman)
+> 2. (time sensitive) Meeting and Plenary Prep Part 1
+> 3. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
+> 4. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
+> 5. (not meeting relevant) RFC 3967 and unpublished I-D (Mahesh)
+> 6. (not meeting relevant, not urgent) [IANA IP-related legacy registries](https://datatracker.ietf.org/doc/draft-vyncke-intarea-legacy-registries/) (Éric)
 ### 12:45-13:45: IETF-3GPP Coordination (Room: Grand Klimt Hall 3)
 
 Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
