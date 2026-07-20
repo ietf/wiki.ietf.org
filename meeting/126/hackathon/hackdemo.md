@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-07-19T21:33:34.390Z
+date: 2026-07-20T07:07:43.336Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-07-01T15:29:41.889Z
@@ -34,4 +34,5 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 | CORECONF-M2M x SCHC: Tiny Weather, Big Standards  | Laurent Toutain, Javier A. Fernandez  | laurent.toutain@imt-atlantique.fr, javier-alejandro.fernandez@imt-atlantique.fr  | https://github.com/ltn22/cf-cockpit |
 | Intra-handshake.fail: CVE-2026-33697 (CVSS 7.5) |Muhammad Usama Sardar  | muhammad_usama.sardar@tu-dresden.de |https://github.com/muhammad-usama-sardar/intra-handshake.fail|
 | IPv6 Web Resource Checker  | Philipp Tiesel | philipp.tiesel@sap.com  | https://github.com/SAP/webres6<br/>https://webres6.dev.sap/  |
+| Quality of Outcome | Ike Kunze | ike.kunze@cujo.com | https://github.com/cj-ike-kunze/ietf-126-hackathon-qoo <br> https://datatracker.ietf.org/doc/draft-ietf-ippm-qoo/ |
 |   |   |   |   |
