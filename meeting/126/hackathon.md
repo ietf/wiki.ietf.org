@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-19T11:25:14.475Z
+date: 2026-07-20T09:41:13.438Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -2249,6 +2249,23 @@ A tool to checks IPv6-only readiness of a Web page or app. It loads a website us
 
 ----
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you must login to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it. TEMPLATE: Copy/paste and update the following template to add your project to the list:
+
+### DotBots in the LAKE
+- **Champions**
+  * Geovane Fedrecheski (Inria, France), geovane.fedrecheski@inria.fr
+- **Project Info**
+  * Deploy lakers (a formally-verified Rust implementation of EDHOC, RFC 9528) onto the DotBot testbed - a swarm of up to 1,000 nRF5340-based robots that run user code inside an ARM TrustZone sandbox, deployed over the air (OTAP) over a TSCH radio network. The idea is to use the testbed as an instrument to deploy and measure IETF protocol code on real hardware, at scale. Challenge: this is the first time running Rust in the DotBot sandbox (the DotBot firmware is in C).
+- **Hackathon Plan**
+  * Phase 1 - first embedded Rust on the nRF5340 app core (bare).
+  * Phase 2 - bare Rust inside the DotBot TrustZone sandbox.
+  * Phase 3 - lakers EDHOC handshake bare (on-chip loopback), to get real timing on the Cortex-M33.
+  * Phase 4 - lakers EDHOC running inside the sandbox.
+- **Results**
+  * Compiled a lakers EDHOC app in Rust, deployed it over the air onto a DotBot, and ran a full (local) EDHOC handshake inside the TrustZone sandbox in < 1 s. Next: message- and location-triggered handshakes, DotBot <-> laptop via lakers-python, and scaling to 10, 100, 1,000 DotBots.
+- **Resources**
+  * [EDHOC (RFC 9528)](https://datatracker.ietf.org/doc/rfc9528/)
+  * [lakers (lake-rs)](https://github.com/lake-rs/lakers)
+  * [DotBot testbed / PyDotBot](https://pydotbot.readthedocs.io/en/latest)
 
 ```markdown
 ### Your Project
