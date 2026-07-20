@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-20T05:38:40.484Z
+date: 2026-07-20T05:38:50.281Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -107,7 +107,7 @@ If you're not joining for the tour, please meet us in the M2 Executive Lounge, o
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1002
 > 
-> 1. (time sensitive) Processing appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) (Roman)
+> 1. (time sensitive) Processing appeal(s) -- [appeal1](https://docs.google.com/document/d/1TxbAXwIGnzuOE5lrsvthFh3siGoany9dpchY4ZnMcL8/edit?tab=t.0) and processes (Roman)
 > 2. (time sensitive) Meeting and Plenary Prep Part 1
 > 3. (not meeting relevant) [Revised statement on AD sponsorship](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0#heading=h.qo4k9xug9tdk) (Mahesh/Roman)
 > 4. (not meeting relevant) [Refine the outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med/Mike)
