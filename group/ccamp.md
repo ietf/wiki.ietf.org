@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-07-17T14:50:41.971Z
+date: 2026-07-20T12:52:29.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -208,7 +208,7 @@ YANG Data Models for fine grain Optical Transport Network
 (Just adopted)
 
 Prio 2
-**-draft-ybam-ccamp-rfc8561bis-00 **
+**-draft-ybam-ccamp-rfc8561bis-00**
 A YANG Data Model for Microwave Radio Link
 
 
