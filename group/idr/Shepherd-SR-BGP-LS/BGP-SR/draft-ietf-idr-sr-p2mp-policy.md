@@ -2,7 +2,7 @@
 title: Shepherd reports for draft-ietf-idr-sr-p2mp-policy
 description: Shepherd draft-ietf-idr-sr-p2mp-policy
 published: true
-date: 2025-02-24T20:53:24.155Z
+date: 2026-07-21T08:29:39.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:53:24.155Z
@@ -21,6 +21,74 @@ dateCreated: 2025-02-24T20:53:24.155Z
 **BESS draft:** draft-ietf-bess-multicast-controller 
 
 **Email:** https://mailarchive.ietf.org/arch/msg/idr/WKaz1MQDND6hc_EJPrpdZJzcM-c/
+
+
+## -01 Review
+### technical issues 
+#### Technical issues-01 - Abstrat needs to specify 2 new TLVs [RFC9012]
+This document specifies in section 3.2 two new Tunnel Types (P2MP Policy, Replication segment) described with texxt below:  
+> 
+>  Attribute originally defined in [RFC9012] using two new Tunnel-Type
+>    TLV (codepoint is TBD, assigned by IANA from the "BGP Tunnel
+>    Encapsulation Attribute Tunnel Types" registry) one for P2MP Policy
+>    and another for Replication segment.
+> 
+{.is-info}
+
+The abstract should mention this point. Perhaps this section of text is the place to mention it. 
+>    A P2MP policy consists of candidate paths (CPs) that connects the
+>    Root of the Tree to a set of Leaves.  The P2MP policy is composed of
+>    replication segments [RFC9524].  A replication segment is a
+>    forwarding instruction for a candidate path which is downloaded to
+>    the Root, transit nodes and the leaves.
+{.is-info}
+
+The abstract also needs to be shortened to just 2 paragraphs. 
+
+#### Technica 2 - Section 3.1.1 - Tree-ID value 
+
+Is the value "0" valid?  Or does the value zero denote something special? 
+The text reads as though a TREE-ID value of zero is like any other value. 
+
+#### Technical 3 - Section 3.1.2 - 
+(was Issue-11: Section 3.1.2).   
+
+Please specify ROOT-ID length, Node-ID length, and Replication SID length in the text.  Please specify range of valid values (e.g. 1-n, or 0-n).   
+
+The last sentence in the "instance-id" is unclear or hanging. 
+Old text:/ Instance-ID can be used.
+
+#### Technical 4 - Section 3.1.3 - 
+(was Issue-13: Section 3.1.3).   
+
+Please specify ROOT-ID length, Node-ID length, and Replication SID length in the text.  Please specify range of valid values (e.g. 1-n, or 0-n).  Specifically, can Tree-ID, P2MP-tree-instance (PTI), Distinguisher, and Outgoing-Replication-SID have a zero value.  If so, does zero specify a unique situation.
+
+#### Technical 5 - Section 3.2.1 
+
+Does the text: 
+>    *  SR P2MP-POLICY NLRI and P2MP Policy route type.
+{.is-info}
+mean that this Tunnel MUST or MAY be attached to these NLRIs. 
+
+for preference in the following text: 
+>    *  Preference, leaf-list, remote-end point and pti-list, P2MP-tree-
+>       instance are defined in this document.
+{.is-info}
+
+Why are you redefining preference?  Prefence is defined in RFC9830. 
+
+for the text  
+>    *  Additional sub-TLVs may be defined in the future.
+> 
+{.is-info}
+Please remove.  It is always true that new sub-TLVs can be defined in the future given another specification. 
+
+Missing: What TLVs from [RFC9012] do you support?  If it is the same list of sub-TLVs from [RFC9830], please specify this carefully.  
+
+#### Technical 6 - (TBD)
+
+This review is still in progress. 
+
 
 ## -00 Review  
  
