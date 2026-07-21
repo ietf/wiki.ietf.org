@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-07-21T02:22:19.435Z
+date: 2026-07-21T02:47:49.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -18,7 +18,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [RFC9015](https://www.rfc-editor.org/rfc/rfc9015)
 
 ### RFC Editor 
-- [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) - awaiting editor 
+- [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) - RFC editor's queue
 
 ## Pending Resubmission to IESG 
 - [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - [10](/group/idr/Shepherd-FSv2/draft-ietf-idr-ts-flowspec-srv6-policy) **Needs -11** 
