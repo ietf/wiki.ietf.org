@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-seglist-id
 description: Shepherd  draft-ietf-idr-sr-policy-seglist-id
 published: true
-date: 2026-05-10T19:23:53.880Z
+date: 2026-07-21T03:33:42.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:55:41.779Z
@@ -14,13 +14,20 @@ dateCreated: 2025-02-25T01:55:41.779Z
 **draft:**  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-seglist-id) 
 **Type:** Proposed Standard
 **Spring:** Segment list [RFC9256](https://datatracker.ietf.org/doc/rfc9256/) 
-**current revision:** -08
-**status:** WG LC pending, Going to do 3 Week continue of call 
+**current revision:** -11
+**status:** WG LC (5/10/2026 to 5/31/2026)
 **adopted:** 11/6/2024 
-**current version:** -09 (published 4/27/2026]
+**current version:** -11 (published 6/8/2026) 
 **Early Allocation**: yes, -06 revision (11/2 to 11/17/2025)    
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** [RFc9857](https://datatracker.ietf.org/doc/rfc9857/) - queries for segment list identifier as part of section 4.7.4 
+
+## Revision -11
+**status**: Added changes to address SECDIR review. 
+Awaiting AD review 
+
+## Revision -10
+**status**: Added Cross-WG section. ready for WG LC (5/10/2026 to 5/31/2026) 
 
 ## Revision -08 and -09 
 **status**: WG LC IPR Call done (1/5 to 1/12), Spring check below, 
