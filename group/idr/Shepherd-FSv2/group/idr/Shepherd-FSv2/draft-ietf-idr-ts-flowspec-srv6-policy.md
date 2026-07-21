@@ -2,7 +2,7 @@
 title: Shepherds report for draft-ietf-idr-ts-flowspec-srv6-policy
 description: Shepherd draft-ietf-idr-ts-flowspec-srv6-policy
 published: true
-date: 2026-07-21T02:12:10.742Z
+date: 2026-07-21T02:16:39.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T01:58:32.825Z
@@ -12,6 +12,7 @@ dateCreated: 2026-07-21T01:58:32.825Z
 
 
 ### Status and next steps
+**draft:** [draft-ietf-idr-ts-flowspec-srv6-policy/](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
 **Status:** Revision need for resubmission to IESG
 **version:** 10
 **requester:** Ketan's [email](https://mailarchive.ietf.org/arch/msg/idr/OKpUBXf2htMobr-IUv96SkoFHjE/)
