@@ -2,7 +2,7 @@
 title: RPKI-To-Router version 2
 description: Implementation reports for rfc8210bis-25
 published: true
-date: 2026-07-19T12:31:17.768Z
+date: 2026-07-21T11:45:58.565Z
 tags: implementation report for sidrops rfc
 editor: markdown
 dateCreated: 2026-03-04T16:38:49.181Z
@@ -33,6 +33,8 @@ Current version of the draft: -26
 
 See https://github.com/APNIC-net/rpki-rtr-demo/tree/main/interop.
 
+##### Servers
+
 |  | openrtrd (main) | rtrtr (0.3.3) | rpki-rtr-demo (main) |
 | - | - | - | - |
 | v0_connect | success | success | success |
@@ -62,3 +64,28 @@ See https://github.com/APNIC-net/rpki-rtr-demo/tree/main/interop.
 | tcp-md5 | failure | failure | success |
 | tcp-ao | failure | failure | failure |
 
+##### Clients
+
+|  | rtrlib (master) | rtrtr (main) | rpki-rtr-demo (main) |
+| - | - | - | - |
+| v0_connect | failure | failure | success |
+| v1_connect | success | failure | success |
+| v2_connect | failure | success | success |
+| sends_reset_query | success | success | success |
+| accepts_cache_response | success | success | success |
+| accepts_end_of_data | success | success | success |
+| accepts_serial_notify | success | success | success |
+| handles_cache_response_no_op | success | success | success |
+| handles_reset_on_session_mismatch | failure | failure | success |
+| handles_reset_on_absence_of_history | success | failure | success |
+| no_data_returned_correctly | success | success | success |
+| handles_ipv4 | success | success | success |
+| handles_ipv6 | success | success | success |
+| handles_aspa | success | success | success |
+| handles_router_key | success | success | success |
+| handles_cache_restart | failure | failure | success |
+| handles_cache_shutdown | failure | failure | success |
+| ssh | success | failure | success |
+| tls | failure | failure | success |
+| tcp-md5 | failure | failure | success |
+| tcp-ao | failure | failure | failure |
