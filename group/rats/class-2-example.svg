@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="480" width="264" viewBox="0 0 264 480" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px">
+<path d="M 8,16 L 8,48" fill="none" stroke="black"/>
+<path d="M 8,96 L 8,160" fill="none" stroke="black"/>
+<path d="M 24,48 L 24,88" fill="none" stroke="black"/>
+<path d="M 40,304 L 40,336" fill="none" stroke="black"/>
+<path d="M 56,160 L 56,304" fill="none" stroke="black"/>
+<path d="M 72,368 L 72,432" fill="none" stroke="black"/>
+<path d="M 88,56 L 88,96" fill="none" stroke="black"/>
+<path d="M 96,336 L 96,368" fill="none" stroke="black"/>
+<path d="M 96,432 L 96,464" fill="none" stroke="black"/>
+<path d="M 104,16 L 104,48" fill="none" stroke="black"/>
+<path d="M 104,96 L 104,160" fill="none" stroke="black"/>
+<path d="M 152,80 L 152,144" fill="none" stroke="black"/>
+<path d="M 152,208 L 152,304" fill="none" stroke="black"/>
+<path d="M 160,368 L 160,432" fill="none" stroke="black"/>
+<path d="M 168,304 L 168,336" fill="none" stroke="black"/>
+<path d="M 200,64 L 200,96" fill="none" stroke="black"/>
+<path d="M 200,128 L 200,160" fill="none" stroke="black"/>
+<path d="M 8,16 L 104,16" fill="none" stroke="black"/>
+<path d="M 8,48 L 104,48" fill="none" stroke="black"/>
+<path d="M 152,80 L 224,80" fill="none" stroke="black"/>
+<path d="M 8,96 L 104,96" fill="none" stroke="black"/>
+<path d="M 104,112 L 152,112" fill="none" stroke="black"/>
+<path d="M 8,128 L 104,128" fill="none" stroke="black"/>
+<path d="M 152,144 L 224,144" fill="none" stroke="black"/>
+<path d="M 8,160 L 104,160" fill="none" stroke="black"/>
+<path d="M 48,240 L 64,240" fill="none" stroke="black"/>
+<path d="M 144,240 L 160,240" fill="none" stroke="black"/>
+<path d="M 40,304 L 168,304" fill="none" stroke="black"/>
+<path d="M 40,336 L 168,336" fill="none" stroke="black"/>
+<path d="M 72,368 L 160,368" fill="none" stroke="black"/>
+<path d="M 72,400 L 160,400" fill="none" stroke="black"/>
+<path d="M 72,432 L 160,432" fill="none" stroke="black"/>
+<path d="M 88,464 L 104,464" fill="none" stroke="black"/>
+<path d="M 240,64 C 231.16936,64 224,71.16936 224,80" fill="none" stroke="black"/>
+<path d="M 240,64 C 248.83064,64 256,71.16936 256,80" fill="none" stroke="black"/>
+<path d="M 240,96 C 231.16936,96 224,88.83064 224,80" fill="none" stroke="black"/>
+<path d="M 240,96 C 248.83064,96 256,88.83064 256,80" fill="none" stroke="black"/>
+<path d="M 240,128 C 231.16936,128 224,135.16936 224,144" fill="none" stroke="black"/>
+<path d="M 240,128 C 248.83064,128 256,135.16936 256,144" fill="none" stroke="black"/>
+<path d="M 240,160 C 231.16936,160 224,152.83064 224,144" fill="none" stroke="black"/>
+<path d="M 240,160 C 248.83064,160 256,152.83064 256,144" fill="none" stroke="black"/>
+<path d="M 152,176 C 143.16936,176 136,183.16936 136,192" fill="none" stroke="black"/>
+<path d="M 152,176 C 160.83064,176 168,183.16936 168,192" fill="none" stroke="black"/>
+<path d="M 152,208 C 143.16936,208 136,200.83064 136,192" fill="none" stroke="black"/>
+<path d="M 152,208 C 160.83064,208 168,200.83064 168,192" fill="none" stroke="black"/>
+<polygon class="arrowhead" points="200,144 188,138.4 188,149.6 " fill="black" transform="rotate(0,192,144)"/>
+<polygon class="arrowhead" points="200,80 188,74.4 188,85.6 " fill="black" transform="rotate(0,192,80)"/>
+<polygon class="arrowhead" points="160,264 148,258.4 148,269.6 " fill="black" transform="rotate(270,152,264)"/>
+<polygon class="arrowhead" points="96,56 84,50.4 84,61.6 " fill="black" transform="rotate(270,88,56)"/>
+<polygon class="arrowhead" points="64,264 52,258.4 52,269.6 " fill="black" transform="rotate(270,56,264)"/>
+<polygon class="arrowhead" points="32,88 20,82.4 20,93.6 " fill="black" transform="rotate(90,24,88)"/>
+<g class="text">
+<text x="52" y="36">Verifier</text>
+<text x="240" y="84">B</text>
+<text x="52" y="116">RP</text>
+<text x="52" y="148">Conveyer</text>
+<text x="240" y="148">C</text>
+<text x="152" y="196">A</text>
+<text x="88" y="324">Binding=?</text>
+<text x="108" y="388">TE: &lt;&gt;</text>
+<text x="112" y="420">AK: LAK</text>
+</g>
+</svg>

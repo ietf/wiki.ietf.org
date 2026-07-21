@@ -19,6 +19,7 @@ This is part of the [RATS Atomic Composite](atomic-composites) visual language.
  | AK: LAK |
  '---------'
 ~~~
+![Example Class 0A - Attester](class-0-exampleA.svg "Class 0A Example")
 
 Or
 
@@ -36,3 +37,4 @@ Or
                  | AK: <>  | | AK: <>   |
                  '---------' '----------'
 ~~~
+![Example Class 0B - Attester](class-0-exampleB.svg "Class 0B Example")
