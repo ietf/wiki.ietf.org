@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-21T07:20:03.829Z
+date: 2026-07-21T07:26:35.872Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -44,7 +44,11 @@ For food & beverage service requests, please include:
 
 - 07:30-09:00: IAB Business Meeting
 
-- 12:30-13:45: random-access authenticated encryption (Nick)
+- 12:30-13:45: Un-official discussion random-access authenticated encryption (Nick)
+Background reading:
+https://www.ietf.org/archive/id/draft-sullivan-cfrg-raae-02.html
+
+Remote access: TBD (no meetecho for unofficial)
 
 
 ## Friday 
