@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-07-21T03:08:40.923Z
+date: 2026-07-21T03:19:42.796Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -29,14 +29,14 @@ To ease tracking of the high rate of churn of the status of working group docume
 The longer term intent is that the IETF wiki continues to be the primary location to track non-status work.
 
 ## Draft Status
-- [idr-draft-status](https://github.com/ietf-wg-idr/idr-chairs/blob/main/status.md) 
-- [idr-draft-status](idr-draft-status) - Stale. See the github link.
-- [Early Allocation Status](/group/idr/Early-Allocation-Status)
-- [Shepherd Reviews on SR and BGP-LS drafts](/group/idr/Shepherd-SR-BGP-LS)
-- [Flowspec drafts - shepherd,Code points and Extend Communities](/group/idr/Shepherd-FSv2)
-- [Features for BGP Yang Models](/group/idr/BGP-Model-Features)
-- [Deprecating Drafts](/group/idr/draft-deprecation)
-- [Experimental RFCs and Drafts](/group/idr/Experimental-RFC-WGdoc)
+[idr-draft-status](https://github.com/ietf-wg-idr/idr-chairs/blob/main/status.md) 
+[idr-draft-status](idr-draft-status) - Stale. See the github link.
+[Early Allocation Status](/group/idr/Early-Allocation-Status)
+[Shepherd Reviews on SR and BGP-LS drafts](/group/idr/Shepherd-SR-BGP-LS)
+[Flowspec drafts - shepherd,Code points and Extend Communities](/group/idr/Shepherd-FSv2)
+[Features for BGP Yang Models](/group/idr/BGP-Model-Features)
+[Deprecating Drafts](/group/idr/draft-deprecation)
+[Experimental RFCs and Drafts](/group/idr/Experimental-RFC-WGdoc)
 
 ## Draft Implementation status
 
