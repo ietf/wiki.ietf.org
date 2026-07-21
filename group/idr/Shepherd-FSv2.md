@@ -2,13 +2,14 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-07-21T02:54:17.988Z
+date: 2026-07-21T02:58:16.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
 ---
 
 
+# FS code points 
 ## FSv2 Code Points for draft-ietf-idr-fsv2-ip-basic
 - [Filter Family Types](/group/idr/FSv2-Alloc)
 - [component Types](/group/idr/FSv2-Alloc)
@@ -27,20 +28,16 @@ dateCreated: 2025-03-16T04:26:26.597Z
 ## Pending Resubmission to IESG 
 - [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - [10](/group/idr/Shepherd-FSv2/draft-ietf-idr-ts-flowspec-srv6-policy) **Needs -11** 
  
-## Action WG drafts for FSv1/FSv2 actions 
+## FS actions WG drafts (deployed) - Need FSv2 section 
 - [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-06)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) 
 - [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-path-redirect/) 
 
-## FSV2 Code Points for draft-ietf-idr-fsv2-ip-basic
-- [Filter Family Types](/group/idr/FSv2-Alloc)
-- [component Types](/group/idr/FSv2-Alloc)
-- [FSV2 All actions](/group/idr/FSv2-Alloc/actions)
-- [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions/FSv2-extcom)
-- [FSV2 Community Container Actions](/group/idr/FSv2-Alloc/actions/FSv2-widecom)
 
 ## FSv2 WG drafts Reviews   
 - [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-srv6/)
-- [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) [-27](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-l2vpn/)
+
+### older FS drafts which must be written in FSv2 
+- [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) [-27](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-l2vpn/) -   
 - [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-nvo3/) 
 - [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) -[05](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-network-slice-ts/) 
 - [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-bgp-flowspec-label/) 
