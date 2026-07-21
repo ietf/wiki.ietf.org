@@ -24,12 +24,13 @@ This is part of the [RATS Atomic Composite](atomic-composites) visual language.
                  | AK: BK  | | AK: CK   |
                  '---------' '----------'
 ~~~
+![Example Class 1 - Attester](class-1-example.svg "Class 1 Example")
 
 Notes:
 
 1. A seems to have both lead and "normal" attester functionality
 2. Binding between collection entries is unspecified
-3. is CMW signed or not?
+3. Is it CMW signed or not?
 
 Questions:
 
