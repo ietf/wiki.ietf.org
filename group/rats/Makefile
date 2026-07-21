@@ -6,6 +6,7 @@ ALL+=class-0-exampleB.svg
 ALL+=atom-conveyer.svg
 ALL+=atom-attester.svg
 ALL+=atom-connector.svg
+ALL+=atom-dependson.svg
 
 all: ${ALL}
 

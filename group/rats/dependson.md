@@ -25,4 +25,4 @@ It is represented by an arrow connector pointing from the dependent node to the 
      | A |
      '---'
 ~~~
-
+![Atom - Depends-On](atom-dependson.svg "Atom: Depends On")
