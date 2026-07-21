@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-21T07:10:41.582Z
+date: 2026-07-21T07:19:04.154Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -120,15 +120,6 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 >
 > 1. ISOC topics (with Sally) - 60 mins
 > 2. Appeals Handling "Meta" Discussion
-
-### 12:30-13:45 raAE Side Meeting (Room: Park Suite 9)
-
-> Remote participation: TBD (based on availability)
-
-> Agenda:
->
-> 1. raAE + SEAL - Overview (Nick) 20 mins
-> 2. Discussion
 
 ### 16:00-16:30: New Work Help Desk
 
