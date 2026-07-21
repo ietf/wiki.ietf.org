@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-21T10:11:01.938Z
+date: 2026-07-21T12:04:53.678Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -22,7 +22,7 @@ Thursday, July 23, 2026, 9:30-11:00 (local Vienna time) ([information about room
 Meeting notes / recording not yet are available.
 
 ## Agenda
-- 5' Note Well / Agenda Bashing
+- 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/chair-slides.pdf))
 - 10'+q Paul Hoffman: TCP testbed
 - 10'+q Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode
 - 10'+q Mike Almeloo: Evaluating parameters for MTL Mode in real-world circumstances
