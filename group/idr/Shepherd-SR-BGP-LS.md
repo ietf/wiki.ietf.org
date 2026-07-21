@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-07-21T03:34:35.478Z
+date: 2026-07-21T03:37:07.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -26,7 +26,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### SR WG drafts (alphabetical) 
 
-- [draft-ietf-idr-bgp-sr-mpls-elp-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/) - [(-01) to (-04), renamed (-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - allocation
+- [draft-ietf-idr-bgp-sr-mpls-elp-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/) - [(-01) to (-04), renamed (-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - Awaiting 
 
 - [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-p2mp-policy) - **Requested status update on 1/5/2025**, If no response draft will be put on inactive list by 3/31/2025.  
 
