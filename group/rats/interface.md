@@ -18,6 +18,7 @@ It is represented by a T-shaped connector.
 -+-
  |
 ~~~
+![Atom - Connector](atom-connector.svg "Atom: Connector")
 
 An Interface has a name and some input and output parameters.
 
