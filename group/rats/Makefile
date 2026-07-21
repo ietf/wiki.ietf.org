@@ -7,6 +7,7 @@ ALL+=atom-conveyer.svg
 ALL+=atom-attester.svg
 ALL+=atom-connector.svg
 ALL+=atom-dependson.svg
+ALL+=atom-collection.svg
 
 all: ${ALL}
 

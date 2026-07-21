@@ -25,6 +25,7 @@ A Collection connector describes the collection of Conceptual Messages.
   | A |    | B |
   '---'    '---'
 ~~~
+![Atom - Collection](atom-collection.svg "Atom: Collection")
 
 A lead Attester is responsible for the binding function.
 
