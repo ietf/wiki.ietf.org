@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-07-21T03:26:06.235Z
+date: 2026-07-21T03:43:28.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -15,7 +15,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [component Types](/group/idr/FSv2-Alloc)
 - [FSV2 All actions](/group/idr/FSv2-Alloc/actions) : [FSV2 Extended Community actions](/group/idr/FSv2-Alloc/actions/FSv2-extcom) or  - [FSV2 Community Container Actions](/group/idr/FSv2-Alloc/actions/FSv2-widecom)
 
-### FS RFCS 
+### FS RFCS (for reference) 
 - [RFC8955](https://www.rfc-editor.org/rfc/rfc8955)
 - [RFC8956](https://www.rfc-editor.org/rfc/rfc8956)
 - [RFC9017](https://www.rfc-editor.org/rfc/rfc9017)
@@ -28,7 +28,7 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - [10](/group/idr/Shepherd-FSv2/draft-ietf-idr-ts-flowspec-srv6-policy) **Needs -11** 
  
 ## FS actions WG drafts (deployed) - Need FSv2 section 
-- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-06)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) 
+- [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-06)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) - Needs 2 implementations 
 - [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-path-redirect/) 
 
 
