@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-bgp-sr-mpls-elp (draft-ietf-idr-bgp-srmpls-elp)
 description: Shepherd draft-ietf-idr-bgp-sr-mpls-elp
 published: true
-date: 2026-05-11T02:54:02.803Z
+date: 2026-07-21T04:08:32.218Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T02:37:13.865Z
@@ -72,6 +72,11 @@ I am asking Spring to check on that this information is sufficient to do a WG LC
 
 Does the PCE function set ENLP policy or ENLP in the segment list? 
 If so, would you send me the reference to the document that specify it. 
+
+#### Issue 5: MPLS and SR MPLS check 
+
+Is there any SR MPLS technology this draft's technology interacts with? 
+For example, how does this CP entropy label interact with an MPLS entropy label? 
 
 
 ## Review of -04 
