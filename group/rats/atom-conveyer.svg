@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="80" width="48" viewBox="0 0 48 80" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px">
+<path d="M 8,16 L 8,48" fill="none" stroke="black"/>
+<path d="M 40,16 L 40,48" fill="none" stroke="black"/>
+<path d="M 8,16 L 40,16" fill="none" stroke="black"/>
+<path d="M 8,48 L 40,48" fill="none" stroke="black"/>
+<g class="text">
+</g>
+</svg>

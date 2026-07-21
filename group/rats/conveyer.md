@@ -17,6 +17,7 @@ A Conveyer is a system component that produces or relays Conceptual Messages.
   |   |
   '---'
 ~~~
+![Atom - Conveyer](atom-conveyer.svg "Atom: Conveyer")
 
 It is represented by a rectangular shape with rounded corners.
 

@@ -19,6 +19,7 @@ An Attester is a special kind of Conveyer which produces Evidence.
   |  AK  |
   '------'
 ~~~
+![Atom - Attester](atom-attester.svg "Atom: Attester")
 
 Internally, it is composed of an Attesting Environment, identified by the attestation key (AK), and a Target Environment (TE), i.e., the Trusted Computing Base (TCB) measured by the Attester.
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="112" width="72" viewBox="0 0 72 112" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px">
+<path d="M 8,16 L 8,80" fill="none" stroke="black"/>
+<path d="M 64,16 L 64,80" fill="none" stroke="black"/>
+<path d="M 8,16 L 64,16" fill="none" stroke="black"/>
+<path d="M 8,48 L 64,48" fill="none" stroke="black"/>
+<path d="M 8,80 L 64,80" fill="none" stroke="black"/>
+<g class="text">
+<text x="36" y="36">TE</text>
+<text x="36" y="68">AK</text>
+</g>
+</svg>
