@@ -24,4 +24,7 @@ The following diagrams (in ascii-art, and aasvg generated SVG) are to be used to
 
 # Examples
 
-* [Example CCA Delegation](example-ccc-delegation.md)
+* [Example CCA Delegation](example-cca-delegation.md)
+* [Example class 0 Attester](example-class-0.md)
+* [Example class 1 Attester](example-class-1.md)
+* [Example class 2 Attester](example-class-2.md)
