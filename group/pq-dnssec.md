@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-08T07:39:13.903Z
+date: 2026-07-21T10:11:01.938Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -24,20 +24,16 @@ Meeting notes / recording not yet are available.
 ## Agenda
 - 5' Note Well / Agenda Bashing
 - 10'+q Paul Hoffman: TCP testbed
-- 10'+q Peter Thomassen: The State of the Nation
 - 10'+q Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode
 - 10'+q Mike Almeloo: Evaluating parameters for MTL Mode in real-world circumstances
 - 10'+q Folmer Heikamp: Analyzing Hybrid-Signatures in DNSSEC with UDP-Fragmentation
 - 10'+q Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC"
 - 10'+q Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry
+- 10'+q Peter Thomassen: Where are we Headed?
 - (If time permits) 5'+q Andrew Kaizer: PQC DNSSEC MTL Updates
 - AOB
 
 ### Paul Hoffman: TCP testbed
-
-*No abstract yet.*
-
-### Peter Thomassen: The State of the Nation
 
 *No abstract yet.*
 
@@ -60,6 +56,10 @@ We’ve done several different experiments with the objective of finding a solut
 ### Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry
 
 *No abstract yet.*
+
+### Peter Thomassen: Where are we Headed?
+
+This is the 6th incarnation of the PQ DNSSEC Side Meetings. A lot of work has been presented, but we're far away from having a "solution". Yet, as we move towards Q-Day, its estimates also come closer than ever before. What is our plan?
 
 ### Andrew Kaizer: PQC DNSSEC MTL Updates
 
