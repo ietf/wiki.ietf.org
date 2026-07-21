@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-21T07:37:43.703Z
+date: 2026-07-21T07:45:17.734Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -55,7 +55,7 @@ Working draft: https://grittygrease.github.io/draft-sullivan-cfrg-raae/draft-sul
 Background reading:
 https://www.ietf.org/archive/id/draft-sullivan-cfrg-raae-02.html
 
-Remote access: TBD (no meetecho for unofficial)
+Remote access: TBD (no meetecho for unofficial meetings)
 
 
 ## Friday 
