@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-22T13:18:29.896Z
+date: 2026-07-22T17:30:27.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -29,7 +29,7 @@ Meeting notes / recording not yet are available.
 - 10'+q Folmer Heikamp: Analyzing Hybrid-Signatures in DNSSEC with UDP-Fragmentation ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Heikamp_Analyzing_Hybrid-Signatures_in_DNSSEC_with_UDP-Fragmentation.pdf))
 - 10'+q Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC"
 - 10'+q Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Hoffman_Informal_DNSSEC_Algorithm_Testing_Registry.pdf))
-- 10'+q Peter Thomassen: Where are we Headed?
+- 10'+q Peter Thomassen: Where are we Headed? ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Thomassen_Where-are-we-Headed.pdf))
 - (If time permits) 5'+q Andrew Kaizer: PQC DNSSEC MTL Updates
 - AOB
 
