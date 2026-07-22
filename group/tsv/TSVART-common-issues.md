@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2026-07-22T10:20:56.914Z
+date: 2026-07-22T10:22:55.130Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -24,9 +24,11 @@ The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) in
 
 ### Application Identification
 
-
+Applications needs to conisder how to identify applicaitons, this can include both registered port numbers as well as TLS ALPNs. 
 
 ### 0-RTT
+
+QUIC enables 0-RTT data as noted by TLS usage of this data requires considerations as this data can't be replay protected. 
 
 ### Reliable Streams
 
