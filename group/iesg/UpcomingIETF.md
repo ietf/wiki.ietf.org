@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-22T11:29:29.327Z
+date: 2026-07-22T14:33:20.293Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -212,7 +212,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * TIME - TIME -- Thing (Person responsible)
 * 07:30 - 08:30 -- TDD Chairs Meeting - Andy
-* 08:30 - 09:00 -- Ketan
+* 08:30 - 09:00 -- Ketan (FANN WG topics)
 * 10:30 - 11:00 -- Med
 * 11:00 - 11:45 -- Roman
 * 16:00 - 16:30 -- DIEM - Charles
@@ -224,6 +224,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 07:30 - 09:00 -- Benno is borrowing the room for the 2025 NomCom to meet (Benno/secretariat)
 * 11:00 - 12:00 -- INT AD Office Hour (Éric/Tommy)
 * 15:30 -16:00  -- IPPM/BMWG Joint Charter (Med) 
+* 16:30 - 17:00 -- Ketan (FANN & LSVR WG topics)
 * 1800 - 1820 -- Pre-Plenary relaxation time (Éric V)
 
 
