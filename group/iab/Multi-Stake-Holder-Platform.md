@@ -80,12 +80,6 @@ The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/ht
 - Specifications for new message body formats, or conventions for their use in HTTP APIs (e.g., patterns of JSON objects)
 - Best practices and other documentation for HTTP API designers, consumers, implementers, operators, etc.
 
-<!-- The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases.
-The WIMSE working group will closely collaborate with:
-- Other IETF working groups that address topics related to identity, authentication, and authorization, including, but not limited to, OAuth, SCIM, SCITT, and RATS.
-- The Cloud Native Computing Foundation (CNCF), particularly with regard to the SPIFFE/SPIRE project.
-- The OpenID Foundation. -->
-
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-301-data-economy
 
 ### 3.0.2 Cybersecurity / network and information security
@@ -176,9 +170,7 @@ Action 10: SDOs to analyse the need and eventually work on promoting the develop
 
 The IETF has multiple groups working on standards for virtualization techniques, including techniques used in cloud computing and datacenters.
 
-The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases such as those identified in the [Workload Identity Use Cases Internet Draft](https://datatracker.ietf.org/doc/draft-gilman-wimse-use-cases/).
-
-The goal of the WIMSE working group is to identify, articulate, and bridge the gaps and ambiguities in workload identity problems and define solutions across a diverse set of platforms and deployments, building on various protocols used in workload environments. The WG will standardize solutions (as proposed standard) and document existing or best practices (as informational or BCP) per the Program of Work.
+The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases.
 
 The [Network Virtualization Overlays (nvo3)](https://datatracker.ietf.org/wg/nvo3/about/) Working Group develops a set of protocols and extensions that enable network virtualization within a datacenter environment that assumes an IP-based underlay. An NVO3 solution provides layer 2 and/or layer 3 services for virtual networks enabling multi-tenancy and workload mobility, addressing management and security issues.
 
@@ -302,7 +294,6 @@ The IETF has a number of Working Groups chartered to develop standards to suppor
 
 Security aspects of the IoT are being addressed in the following Working Groups:
 - The [Secure Evidence and Attestation Transport (seat)](https://datatracker.ietf.org/wg/seat/about/) Working Group is standardising a protocol that enables peer or mutual attestation for (D)TLS using the extension and/or exporter features of D(TLS). Mutual attestation will be supported with and without client TLS authentication to faciliate anonymous client attestation.
-- The [Trusted Execution Environment Provisioning (teep)](https://datatracker.ietf.org/wg/teep/about/) Working Group is working on standardising protocols for provisioning applications into secure areas of computer processors.
 - The [Software Updates for Internet of Things (suit)](https://datatracker.ietf.org/wg/suit/about/) Working Group is working on mechanisms for securely updating the firmware in IoT devices.
 - The [Authentication and Authorisation for Constrained Environments (ace)](https://datatracker.ietf.org/wg/ace/about/) Working Group is working on a standardised solution for authentication and authorisation to enable authorised access to resources on a device in constrained environments. In such environments, typical for the IoT, the network nodes are limited in CPU, memory and power. This work was supported by the COSE WG that built simplified CBOR analogs for the JSON object signing and encryption methods that were developed in the JOSE WG.
 - The [DTLS In Constrained Environments (dice)](https://datatracker.ietf.org/wg/dice/about/) Working Group focused on supporting the use of DTLS Transport-Layer Security in these environments. Such constrained environments, including constrained devices (e.g. memory, algorithm choices) and constrained networks (e.g. PDU sizes, packet loss), are typical for the IoT, Smart grids, etc.
@@ -317,29 +308,37 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-314-internet-of
 
 ### 3.1.5 Electronic identification and trust services including e-signatures
 **RP:** 
-Action 1. SDOs to take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Also, the standards being developed by ISO/IEC JTC1 SC17 including on mobile driving licenses and identity management via mobile devices are particularly relevant to electronic identification. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, ESOs should keep European and international standards aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported. 
+Action 1. SDOs to take ongoing EU policy activities into account in standardisation, e.g. in ISO/IEC JTC 1/SC 27/WG 5 (identity management and privacy technologies) and other working groups of ISO/IEC JTC 1/SC 27. Also, the standards being developed by ISO/IEC JTC1 SC17 including on mobile driving licenses and identity management via mobile devices are particularly relevant to electronic identification. Furthermore, in order to promote the strengths of the European approach to electronic identification and trust services at global level and to foster mutual recognition of electronic identification and trust services with non-EU countries, ESOs should keep European and international standards aligned wherever possible. The promotion and maintenance of related European approaches, which especially take into account data protection considerations, in international standards should be supported.
 
 Action 2: As required by the revised eIDAS Regulation prepare standards for: 
 - a) Interfaces between the European Digital Identity Wallet and trust services as well as services for signing by means of electronic signatures and seals.
 - b) Interfaces between the European Digital Identity Wallet and relying parties and issuers of electronic attestations of attributes.
-- c) Issuance and revocation of wallets.
-- d) Policy and security requirements on providers of electronic attestation of attribute services including issuance and revocation of electronic attestation of attribute.
-- e) Security evaluation and certification of the European Digital Identity Wallet.
-- f) Policy and security requirements on providers of trust services for electronic ledger.
-- g) Policy and security requirements on providers of trust services for electronic archiving.
-- h) Update to trusted lists to support new trust services.
-- i) Management of trust relating to the EU Digital Identity Wallet.
-- j) Supporting additional requirements for identity proofing and validation of attributes.
-- k) Adapting existing standards to take into account new provisions and requirements in the revised Regulation including accessibility for persons with disabilities and special needs, alignment with NIS2.
-- l) Ensuring that the requirements of privacy by design are met so that compliance with GDPR can be demonstrated.
-- m) Next generation of registered electronic mail and electronic delivery to take account of new services and components available under the revised regulation including EU digital identity wallets and electronic ledgers.
-- n) Use of electronic identities and electronic signatures with other trust services including electronic ledgers in support of smart contracts.
-- o) Support implementation and use of the Trusted Lists, including support for new trust services and other potential used of trust lists for managing the trust infrastructure of the EU Digital Identity Wallet.
-- p) Maintain and update the set of standards supporting creation and validation of electronic signatures, seals, certificates, attestations and timestamps and their preservation.
+- c) Interfaces related to Authentic Sources of attributes.
+- d) Issuance and revocation of wallets.
+- e) Policy and security requirements on providers of electronic attestation of attribute services including issuance and revocation of electronic attestation of attribute.
+- f) Policy and security requirements on providers of trust services operating a remote signing device.
+- g) Policy and security requirements on providers of services issuing certificates for relying party access certificates to the European Digital Identity Wallet.
+- h) Policy and security requirements on providers of services issuing certificates for relying party registration for use of the European Digital Identity Wallet.
+- i) Policy and security requirements on providers of services supporting certificate transparency.
+- j) Extended validation for electronic attestation of attributes.
+- k)Security evaluation and certification of the European Digital Identity Wallet.
+- l) Security assessment and certification of services supporting the European Digital Identity Wallet.
+- m) Tests for conformance of European Digital Identity Wallets.
+- n) Policy and security requirements on providers of trust services for electronic ledger.
+- o) Policy and security requirements on providers of trust services for electronic archiving.
+- p) Update to trusted lists to support new trust services.
+- q) Management of trust relating to the EU Digital Identity Wallet.
+- r) Supporting additional requirements for identity proofing and validation of attributes.
+- s) Adapting existing standards to take into account new provisions and requirements in the revised Regulation including accessibility for persons with disabilities and special needs, alignment with NIS2.
+- t) Ensuring that the requirements of privacy by design are met so that compliance with GDPR can be demonstrated.
+- u) Next generation of registered electronic mail and electronic delivery to take account of new services and components available under the revised regulation including EU digital identity wallets and electronic ledgers.
+- v) Use of electronic identities and electronic signatures with other trust services including electronic ledgers in support of smart contracts.
+- w) Support implementation and use of the Trusted Lists, including support for new trust services and other potential used of trust lists for managing the trust infrastructure of the EU Digital Identity Wallet.
+- x) Maintain and update the set of standards supporting creation and validation of electronic signatures, seals, certificates, attestations and timestamps and their preservation.
 
 Action 3: SDOs to cooperate and work in the areas of identifiers, vocabularies, semantics, taxonomies, ontologies for electronic attestations, considering work from stakeholders that are already involved in these activities in their respective sectors.
 
-Action 4: The impact of quantum computing technologies on the cryptographic algorithms, in particular public key cryptography, used for electronic identification and trust services including e-signatures needs to be analysed, and the potential impact on the relevant standards identified.  This should lead to guidance on the migration to Quantum Safe Cryptography.
+Action 4: The impact of quantum computing technologies on the cryptographic algorithms, in particular public key cryptography, used for electronic identification and trust services including electronic signatures needs to be analysed, and the potential impact on the relevant standards identified.  This should lead to guidance on the migration to Quantum Safe Cryptography.
 
 Action 5: SDOs to engage in a collaborative process to address the gaps between existing standards/technical specifications and the requirements of the EUDI Wallet ecosystem. This involves reviewing the initial gap analysis and participating in discussions to agree on the necessary steps for addressing these gaps. Additionally, SDOs are to contribute to identifying key functionalities that need new or updated standards/technical specifications and be involved in their development to support the successful implementation of the EUDI Wallet as outlined in the eIDAS 2 regulations.
 
@@ -353,9 +352,14 @@ The [Secure Patterns for Internet Credentials (spice)](https://datatracker.ietf.
 
 The SPICE WG will develop digital credential profiles that support various use cases. The profiles developed by the SPICE WG will enable digital credentials to leverage existing IETF technologies. Privacy by design, confidentiality, and consent will be considered, and implementation guidance will be given for each proposed standard in the program of work.
 
-The [Web Authorization Protocol (oauth)](https://datatracker.ietf.org/wg/oauth/about/) Working Group developed a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
+The [Web Authorization Protocol (oauth)](https://datatracker.ietf.org/wg/oauth/about/) Working Group is developing a protocol suite that allows a user to grant a third-party Web site or application access to the user's protected resources, without necessarily revealing their long-term credentials, or even their identity. It also developed security schemes for presenting authorisation tokens to access a protected resource.
 
-The ongoing standardisation effort within the OAUTH working group is focusing on enhancing interoperability of OAUTH deployments.
+The ongoing standardisation effort within the OAUTH working group is focusing on these topics:
+- Consolidation: Finalizing OAuth 2.1 to consolidate the core framework and incorporate established security best practices into a single baseline.
+- Digital Credentials: Completing Selective Disclosure for JSON Web Tokens (SD-JWT), SD-JWT-based Verifiable Credentials (SD-JWT VC), and Token Status List (TSL) to support privacy-preserving attribute disclosure.
+- Complex Delegation: Developing new mechanisms or/and extensions for authorization of automated agents working on behalf of users, including addressing scenarios where automated agents act across multiple administrative domains.
+- First-Party Integration: Standardizing patterns for first-party applications to provide a secure, interoperable alternative to proprietary extensions.
+- Security Maintenance: Maintaining and updating Best Current Practices (BCPs) for browser-based and native applications to address evolving web security models.
 
 The [Public Notary Transparency (trans)](https://datatracker.ietf.org/wg/trans/about/) Working Group developed a standards-track specification of the Certificate Transparency protocol (RFC6962) that allows detection of the mis-issuance of certificates issued by CAs or via ad-hoc mapping by maintaining cryptographically verifiable audit logs.
 
@@ -368,30 +372,22 @@ The [Digital Emblems (diem)](https://datatracker.ietf.org/wg/diem/about/) Workin
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-315-electronic-identification-and-trust-services-including-e-signatures
 
 ### 3.1.6 e-Infrastructures for data and computing intensive science and the European Open Science Cloud
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.1.7 Broadband infrastructure mapping
-**RP:** 
-Action 1 SDOs to  further develop a standardised methodology and guidelines to assess and map availability and quality of fixed and wireless/mobile broadband services (including coverage, QoS and QoE, key quality indicators - KQI) also in view of the development of VHC (very high-capacity) and 5G services for a range of public and private users including the large industries such as vertical industrial sectors.
-
-#### IETF/IAB input to Rolling Plan
-
-The [Large-Scale Measurement of Broadband Performance (LMAP) Working Group](https://datatracker.ietf.org/wg/lmap/about/) standardised the LMAP measurement system for performance measurements of broadband access devices such as home and enterprise edge routers, personal computers, mobile devices, and set top boxes, whether wired or wireless.
-
-Measuring portions of the Internet on a large scale is essential for accurate characterisations of performance over time and geography, for network diagnostic investigations by providers and their users, and for collecting information to support public policy development. The goal is to have the measurements (made using the same metrics and mechanisms) for a large number of points on the Internet, and to have the results collected and stored in the same form.
-
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-317-broadband-infrastructure-mapping
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.1.8 Accessibility of ICT products and services
 **RP:** 
 Action 1:  SDOs to work on the development and revisions of the harmonised standards and technical reports, as requested by standardisation request Mandate 587.
 
-Action 2: SDOs to produce a technical report describing requirements for ICT products and services to be designed to meet the needs of persons with cognitive and learning disabilities; the report should propose enhancements to relevant existing standards and identify needs for further standardisation such as the development of measurable requirements to address cognitive accessibility to be included in the standards implementing relevant legislation. The report should take into account the latest research in the field of cognitive disabilities and give guidance on which aspects of cognitive disabilities are sufficiently well understood so that support for people with such disabilities can be standardised (and tested) in a technically meaningful way.
+Action 2: SDOs to produce a report describing requirements for ICT products and services to be designed to meet the needs of persons with cognitive and learning disabilities; the report should propose enhancements to relevant existing standards and identify needs for further standardisation such as the development of measurable requirements to address cognitive accessibility to be included in the standards implementing relevant legislation. The report should take into account the latest research in the field of cognitive and learning disabilities and give guidance on which aspects of cognitive and learning disabilities are sufficiently well understood so that support for people with such disabilities can be standardised (and tested) in a technically meaningful way.
 
-Action 3:  SDOs to produce a technical report on the possible accessibility requirements and standardisation needs of ICT products and services that are based on emerging technologies, such as natural language processing, wearables, virtual and augmented reality, AI, as well as biometrics and enhanced ICT security. These technologies must be designed to meet the needs of persons with disabilities, which includes cognitive and learning disabilities. 
+Action 3:  SDOs to produce a report on the possible accessibility requirements and standardisation needs of ICT products and services that are based on emerging technologies, such as natural language processing, wearables, virtual and augmented reality, AI, as well as biometrics and enhanced ICT security. These technologies must be designed to meet the needs of persons with disabilities, which includes cognitive and learning disabilities. 
 
-Action 4:  SDOs to continue work on the implementation of the methodology developed under M/473, providing that new standardisation deliverables including the European standards comply with the methodology for mainstream accessibility in standardisation processes and the revision of existing standards in line with what it was agreed in the Mandate deliverable 3.1
+Action 4:  SDOs to continue work on the implementation of the methodology developed under M/473, providing that new standardisation deliverables including the European standards comply with the methodology for mainstream accessibility in standardisation processes and the revision of existing standards in line with what it was agreed in the Standardisation Request, deliverable 3.1.
 
+Action 5: SDOs to develop design principles for better supporting the use of accessibility features by end users of ICT devices and services. The whole range of options for supporting users shall be considered, from traditional solutions like user guides to innovative options like pro-active, AI supported on-device assistants. 
 
 #### IETF/IAB input to Rolling Plan
 
@@ -403,69 +399,73 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-318-acccessibil
 
 ### 3.1.9 Artificial Intelligence
 **RP:** 
-Action 1: SDOs should establish coordinated linkages with, and adequately consider European requirements or expectations from initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the contents of the AI Act, the standardisation request on AI issued by the European Commission in 2023, its amendment, as well as the orientations set in the 2021 review of the Coordinated Plan.
+Action 1: SDOs should establish coordinated linkages with, and adequately consider European requirements or expectations from initiatives, including policy initiatives, and organisations contributing to the discourse on AI standardisation. This in particular includes the contents of the AI Act, the standardisation request on AI issued by the European Commission, as well as the orientations set in the 2021 review of the Coordinated Plan.
 
-Action 2: SDOs should further increase their coordination efforts around AI standardisation both in Europe and internationally in order to avoid overlap or unnecessary duplication of efforts and aim to the highest quality to avoid  the creation and use of discriminating algorithms and to ensure a trustworthy and safe deployment of this technology.
+Action 2: SDOs should further increase their coordination efforts around AI standardisation both in Europe and internationally in order to avoid overlap or unnecessary duplication of efforts. A particular attention should be given to potential overlap with standardisation initiatives that aim to support European legislation.
 
-Action 3: ESOs should coordinate with the Commission and appropriately direct their activities to ensure that the objectives set in the standardisation request on AI issued in 2023 (and its amendment) are adequately and timely fulfilled. This includes ensuring active participation of representatives from SMEs and civil society organisations in their activities. 
+Action 3: ESOs should coordinate with the Commission and appropriately direct their activities to ensure that the objectives set in the standardisation request on AI are adequately and timely fulfilled. This includes ensuring active participation of representatives from SMEs and civil society organisations in their activities, as well as cooperation with international SDOs. 
 
-Action 4: SDOs to take into account the cross-sectorial aspects of the AI Act and the interactions between the AI Act and existing or future sectorial safety legislation.
+Action 4: SDOs should timely define and manage the cross-sectorial aspects of the AI Act, interactions between the AI Act and existing or future sectorial safety legislation, and cross-cutting aspects of the standards being developed under the amended M/613.
 
 Action 5: EC and ESOs should coordinate to promote mobilisation of stakeholders around AI standardisation activities.
 
-Action 6: Taking into account the gap analysis by EC/JRC, EC/JRC to coordinate with SDOs and other initiatives on a follow-up and ways to address the identified gaps. 
-
+Action 6: SDOs are invited to participate to the task force that will be set up under the Code of Practice on Transparency of AI-Generated Content to advance the state of the art in marking techniques and detection mechanisms for AI-generated and manipulated content.
 
 #### IETF/IAB input to Rolling Plan
 
-The IETF [Autonomic Networking Integrated Model and Approach Working Group](https://datatracker.ietf.org/wg/anima/about/) will develop a system of autonomic functions that carry out the intentions of the network operator without the need for detailed low- level management of individual devices. This will be done by providing a secure closed-loop interaction mechanism whereby network elements cooperate directly to satisfy management intent. The working group will develop a control paradigm where network processes coordinate their decisions and automatically translate them into local actions, based on various sources of information including operator-supplied configuration information or from the existing protocols, such as routing protocol, etc.
-
-Autonomic networking refers to the self-managing characteristics (configuration, protection, healing, and optimization) of distributed network elements, adapting to unpredictable changes while hiding intrinsic complexity from operators and users. Autonomic Networking, which often involves closed-loop control, is applicable to the complete network (functions) lifecycle (e.g. installation, commissioning, operating, etc). An autonomic function that works in a distributed way across various network elements is a candidate for protocol design. Such functions should allow central guidance and reporting, and co-existence with non-autonomic methods of management. The general objective of this working group is to enable the progressive introduction of autonomic functions into operational networks, as well as reusable autonomic network infrastructure, in order to reduce operating expenses.
-
 The [AI Preferences (aipref)](https://datatracker.ietf.org/wg/aipref/about/) Working Group will standardize building blocks that allow for the expression of preferences about how content is collected and processed for Artificial Intelligence (AI) model development, deployment, and use. There are many ways that preferences regarding content might be expressed. The Working Group will focus on attaching preferences to content either by including preferences in content metadata or by signaling preferences using the protocol that delivers content.
+
+The [Web Bot Auth (webbotauth)](https://datatracker.ietf.org/wg/webbotauth/about/) Working Group is developing methods for cryptographically authenticating automated clients and providing additional information about their operators to Web sites.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-intelligence
 
 ### 3.1.10 European Global Navigation Satellite System (EGNSS)
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.1.11 Quantum Technologies
 **RP:** 
-Action 1:  CEN & CENELEC to continue their standardisation work on the most recent topics for quantum technology that were suggested by the Focus Group on Quantum Technologies and their published standardisation roadmap. 
+Action 1:  CEN & CENELEC JTC22 to continue their standardisation work on the most recent topics for quantum technology that were suggested by the Focus Group on Quantum Technologies and their published standardisation roadmap. 
 
 Action 2: SDOs should develop standards for supply chains for modular quantum computers and communication architectures, and their enabling technologies. Initially the focus should be on QT research infrastructure, evolving towards QT commercial infrastructure
 
-Action 3: The creation of an intelligent Dashboard to support SMEs, in which the existing standards as well the work relating to quantum technologies of the main standardisation bodies are presented. The dashboard will facilitate SMEs to identify relevant open-source projects in the field of Quantum Computing and Communications, e.g. providing tools for testing, benchmarking etc.
+Action 3: In the MSP, initiate the creation of an intelligent Dashboard to support SMEs, in which the existing standards as well the work relating to quantum technologies of the main standardisation bodies are presented. The dashboard will facilitate SMEs to identify relevant open-source projects in the field of Quantum Computing and Communications, e.g. providing tools for testing, benchmarking etc.
 
 Action 4: SDOs to set up processes for eliciting industry standardisation needs, and industry alliances to coordinate their experts' efforts to contribute to standardisation.
 
-Action 5:  SDOs should further increase their coordination efforts in Europe and internationally around Quantum Technologies standardisation in order to to avoid overlap or unnecessary duplication of efforts.
+Action 5:  SDOs should further increase their coordination efforts in Europe and internationally around Quantum Technologies standardisation in order to avoid overlap or unnecessary duplication of efforts, and to strengthen the visibility and influence of EU priorities in global standardisation fora.
 
-Action 6: SDOs should appropriately consider the effect of quantum computing and Quantum communication technologies on cybersecurity and provide an overview and analyse whether new standards or updates of existing standards on safety, privacy and cybersecurity are required.
+Action 6: SDOs should appropriately consider the effect of quantum computing and Quantum communication technologies on cybersecurity and provide an overview and analyse whether new standards or updates of existing standards on security and privacy are required. Beyond the migration to PQC (TR 103 619), work should encompass benchmarking activities, as well as work on QKD for long-term confidentiality for those use cases requiring such capability, acknowledging that QKD remains a longer-term solution with significant deployment and infrastructure challenges.
 
 Action 7: SDOs should devote specific attention to the standardisation processes (public documents) and existing or future sectorial export control legislation.
 
-Action 8: SDOs should cooperate with the EuroQCI and start forming the technical committees to create the necessary pre-standards/standards for the commercial quantum communication technology in synergy with the specific requirements that are being explored for a certification of the technology.
+Action 8: The EuroQCI should cooperate with SDOs to create the necessary pre-standards/standards for the commercial quantum communication technology in synergy with the specific requirements that are being explored for a certification of the technology.
 
-Action 9: SDOs should cooperate with the EuroHPC Joint Undertaking and start forming the technical committees to create the necessary pre-standards/standards  for quantum computing technology in synergy with the specific requirements that are being explored for a certification of the technology.
+Action 9: The EuroHPC Joint Undertaking should cooperate with SDOs to create the necessary pre-standards/standards  for quantum computing technology in synergy with the specific requirements that are being explored for a certification of the technology.
 
+Action 10: The Chips Joint Undertaking should cooperate with SDOs to create the necessary pre-standards/standards for quantum chips, ensuring alignment with emerging hardware architectures, control systems, and error correction requirements, in synergy with the specific requirements that are being explored for a certification of the technology.
+
+Action 11: CEN-CENELEC JTC22 continue its work to establish benchmarking frameworks for evaluating the performance and quality of algorithmic outputs from quantum computers, ensuring these benchmarks evolve with advancements in hardware and software and align with ongoing standardization efforts in testing, validation, and certification.
+
+Action 12: SDOs should work towards developing standardized quantum computing programming frameworks. These standards should foster interoperability, reducing fragmentation across different platforms.
+
+Action 13: ESOs should closely coordinate to assure proper complementarity, to prevent duplication of European work, and to limit dilution of the currently scarce European pool of quantum standardisation experts.
+
+Action 14: EC DG CNECT should assure that funding of higher-TRL quantum-technology development includes the requirement to projects of developing and executing a standardisation strategy as part of their supply-chains and market development.
+
+Action 15: EuroQCI, and quantum projects under EuroHPC and the Chips JU should include the requirement to grantees of developing and executing a standardisation strategy as part of their supply-chains and market development.
+
+Action 16: EuroQCI, and quantum projects under the EuroHPC and Chips JU should enable and stimulate active contribution of results into European standardisation.
 
 #### IETF/IAB input to Rolling Plan
 
-Some IETF protocols rely upon cryptographic mechanisms that are considered secure given today’s “classical computers” but would be vulnerable to attacks by a Cryptographically Relevant Quantum Computer (CRQC). These mechanisms rely upon algorithms based on integer factorization or the discrete logarithm problem. Active work is underway to develop and validate Post-Quantum Cryptography (PQC) mechanisms that are expected to be resilient to the cryptanalysis capabilities of future CRQCs (e.g., CFRG, US NIST). Select IETF WGs (e.g., LAMPS, TLS, IPSECME, COSE) have already begun standardizing revised protocol behaviors. The focus of the [Post-Quantum Use In Protocols Working Group](https://datatracker.ietf.org/wg/pquip/about/) is to support this growing body of work in the IETF to facilitate the evolution of IETF protocols and document associated operational guidance with respect to PQC.
+With specific reference to Commission Recommendation (EU) C(2024) 2393 of 11 April 2024 on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography (PQC), the IETF has established the [Post-Quantum Use In Protocols (pquip)](https://datatracker.ietf.org/wg/pquip/about/) Working Group which provides a standing venue to discuss PQC (operational and engineering) transition issues and experiences to date relevant to work in the IETF. The WG will document operational and design guidance which supports PQC transition.
 
-The WG will provide a standing venue to discuss PQC (operational and engineering) transition issues and experiences to date relevant to work in the IETF. The WG will also provide a venue of last resort to discuss PQC-related issues in IETF protocols that have no associated maintenance WGs. This WG will not update existing protocols, specify new protocols, define new cryptographic mechanisms, or assess whether a given cryptographic mechanism is quantum-resistant.
+The [PKI, Logs and Tree Signatures (plants)](https://datatracker.ietf.org/wg/plants/about/) Working Group is working to reduce the costs of large post-quantum signatures on PKIs with Certificate Transparency.
 
-The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings. The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet. The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). Currently, the research group is working on two documents:
+The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings. The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet. The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). The research group has produced two documents:
 
 - [Architectural Principles for a Quantum Internet](https://www.rfc-editor.org/rfc/rfc9340.html) - now published as [RFC9340](https://www.rfc-editor.org/rfc/rfc9340.html).
-- [Application Scenarios for the Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-quantum-internet-use-cases/).
-
-Since quantum networks are so different when compared to classical networking, the QIRG is also focused on educating the classical networking community on this new subject. In addition to discussions on the mailing list, the QIRG also hosts seminars with speakers from both industry and academia. So far three such seminars have taken place:
-
-- “[Practical Quantum Networking at Room Temperature”](https://www.youtube.com/watch?v=2ELYL71tlD8) by Mehdi Namazi (Qunnect Inc.),
-- “[Genuine and Optimized Entanglement-Based Quantum Networks”](https://www.youtube.com/watch?v=j-Ri-RRfUXY) by Wolfgang Dür (University of Innsbruck),
-- “[Building Quantum Networks at the Local-Area Scale”](https://www.youtube.com/watch?v=D_Nb43-uicY) by Marc Kaplan (VeriQloud?)
+- [Application Scenarios for the Quantum Internet](https://www.rfc-editor.org/rfc/rfc9340.html) - now published as [RFC9583](https://www.rfc-editor.org/rfc/rfc9583.html).
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
@@ -480,9 +480,6 @@ Action 3: Develop technical specifications for Anti-counterfeit (premetive contr
 Action 4: Develop technical specification for design & verify traceability
 
 #### IETF/IAB input to Rolling Plan
-The Trusted Execution Environment (TEE) is a secure area of a processor. The TEE provides security features such as isolated execution and integrity of Trusted Applications, along with provisions for maintaining the confidentiality of their assets. In general terms, the TEE offers an execution space that provides a higher level of security than a "rich" operating system and more functionality than a secure element. For example, implementations of the TEE concept have been developed by ARM and Intel, using the TrustZone and the SGX technology, respectively.
-
-To programmatically install, update, and delete applications in a TEE, he [Trusted Execution Environment Provisioning (teep)](https://datatracker.ietf.org/wg/teep/about/) Working Group is developing the Trusted Execution Environment Provisioning protocol to run between a service within the TEE on a given device, a relay application or service access point on the device's network stack and a server-side infrastructure that interacts with and optionally maintains the applications. Some tasks are security sensitive and the server side requires information about the device characteristics in the form of attestation and the device-side may require information about the server.
 
 The [Supply Chain Integrity, Tranparency, and Trust (scitt)](https://datatracker.ietf.org/wg/scitt/about/) Working Group works to define a set of interoperable building blocks that will allow implementers to build integrity and accountability into software supply chain systems to help assure trustworthy operation. For example, a public computer interface system could report its software composition that can then be compared against known software compositions or certifications for such a device thereby giving confidence that the system is running the software expected and has not been modified, either by attack or accident, in the supply chain.
 
@@ -490,55 +487,72 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3112-trusted-an
 
 ### 3.1.13 Internet
 **RP:**
-Action 1: SDOs, industry, operators, academia, and civil society are encouraged to contribute to the multistakeholder forum for Internet standards deployment referenced in the NIS2 Implementing Regulation, by identifying best available standards, sharing deployment experience, and supporting the timely implementation of secure, interoperable network infrastructures aligned with the Regulation’s legal requirements and broader EU policy goals.
+Action 1: SDOs, industry, operators, technical communities, academia, and civil society are encouraged to contribute to the multistakeholder forum for Internet standards deployment referenced in the NIS2 Implementing Regulation, by identifying best available standards, sharing deployment experience, and supporting the timely implementation of secure, interoperable network infrastructures aligned with the Regulation’s legal requirements and broader EU policy goals.
 
 Action 2: SDOs should share insights, roadmaps, technical gaps and interdependencies that can support the EU’s mapping of Future Internet standardisation priorities, particularly for networking protocols and architectural needs for Web 4.0 shaped by AI, extended reality (XR), blockchain, and quantum technologies.
 
 Action 3: SDOs are invited to contribute to the Open Internet Stack by identifying and maintaining open standards for open-source, interoperable digital infrastructure layers as an alternative to proprietary solutions, updating existing protocols to reflect emerging societal and technological needs, and embedding EU policy principles such as privacy, data protection, and transparency. Their engagement is essential in ensuring the interoperability, global usability, and trustworthiness of the Open Internet Stack. and to contribute to the EU’s competitiveness and startup strategies by lowering entry barriers, enabling open and royalty-free innovation, and supporting the development of interoperable digital services that help European innovators scale and compete globally—while fostering greater inclusion of open, values-driven innovation communities in standardisation processes. 
 
-Action 4: SDOs should consider the conclusions of the 2025 Global Multistakeholder High-Level Conference on the Governance of Web 4.0 and Virtual Worlds — as reflected in its outcome document — when developing and prioritising new Internet standards. The conclusions advance shared goals of an open, interoperable, inclusive and resilient future Internet. SDOs are invited to take into account the policy and technical principles and the recommendations outlined in the outcome document, including the creation of multistakeholder governance sandboxes. These elements align with the EU’s broader strategic Internet governance view which highlights the risks of fragmentation, closed ecosystems and conflicting standards frameworks.   
+Action 4: SDOs should consider the conclusions of the 2025 Global Multistakeholder High-Level Conference on the Governance of Web 4.0 and Virtual Worlds — as reflected in its outcome document — when developing and prioritising new Internet standards. The conclusions advance shared goals of an open, interoperable, inclusive and resilient future Internet. SDOs are invited to take into account the policy and technical principles and the recommendations outlined in the outcome document, including the creation of multistakeholder governance sandboxes. These elements align with the EU’s broader strategic Internet governance view which highlights the risks of fragmentation, closed ecosystems and conflicting standards frameworks.
 
 #### IETF/IAB input to Rolling Plan
 
-
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3113-internet
+
+### 3.1.14 Open Source and Standardisation
+**RP:**
+Action 1:  ESOs and SDOs, in the framework of the EU Multi-Stakeholder Platform for ICT standardisation, to exchange best practices on cooperation models and participation mechanisms and to describe their engagement practices with Open Source communities, adaptations of processes and policies that were made, and the experience and possible areas of work for further facilitating the interaction between standardisation and Open Source.
+
+Action 2: Open Source organisations, in the framework of the EU Multi-Stakeholder Platform for ICT standardisation, to share information about their experience in interacting with standardisation organisations.
+
+Action 3: In line with the open source strategy that calls for structural engagement of Open Source communities to help deliver high quality standards required by EU law, as is the case with the CRA and the AI Act, ESOs and relevant SDOs are invited to engage with open source communities in developing those standards, to propose and shape their content, contributing efficiently to their development.
+
+Action 4: Reflecting the Open Source Strategy’s commitments to fund open source and to better integrate it into standard setting, the ESOs and Open Source organisations are invited to hold a joint working session, for instance, at one of the meetings of the Multi-Stakeholder Platform for ICT standardisation. Such a session could address issues like compatibility between standardisation IPR and licensing policies and open source licensing, including royalty-free implementability, and structural and financial support for the participation by communities, foundations and maintainers on which open source depends.
+
+Action 5: ESOs to collaboratively explore and establish structured ways and cooperation models with Open Source communities. This includes the development of Open Source (Reference) Implementations accompanying European standards. These should support implementation guidance, interoperability testing, conformity assessment and faster market adoption, particularly in support of EU legislation and policies. it should also consider moving towards digital annexes and machine-readable standardisation assets and how to adopt specifications for use in the EU.
+
+Action 6: ESOs, SDOs, and Open Source organisations, to collaborate on developing common guidance on licensing, intellectual property and copyright aspects that facilitates the development of Open Source implementations of European standards while respecting the intellectual property frameworks of standardisation organisations.
+
+Action 7: Encourage European and national funding programmes to explicitly support projects that promote integration of open source processes and communities into standardisation, combine standardisation activities with Open Source development, including open source implementations of key standards in support of EU policy priorities (e.g. DPP, CRA, other) to enable ease of implementation of standards-compliant solutions by EU SMEs and Startups. Also support the long-term maintenance of reference implementations and implementation support for European standards.
+
+#### IETF/IAB input to Rolling Plan
+The IETF has created a non-working group mailing list for [Open Source at IETF Team (opensource)](https://datatracker.ietf.org/group/opensource/about/)
+There is also a [routing open source mailing list](https://mailarchive.ietf.org/arch/browse/rtg-open-source/) to facilitate the discussion among those working or using Open Source and participating or interested in participating in the IETF Routing Area. The intention is to share experiences, what works, where interactions could be better, and - of course - share pointers to each others work to improve collaboration. 
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3114-open-source-and-standardisation
 
 ## 3.2 Societal challenges
 ### 3.2.1 Digital Health, healthy living and ageing
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.2 Digital skills
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.3 Digital learning
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.4 eGovernment
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.5 eCall
 **RP:** 
-Action 1: SDOs to develop technical specification and standards for the implementation of eCall in vehicles of categories other than M1 and N1 and for other user types, taking into account requirements included within type-approval regulation and ongoing activities in this area (pilots, the Connecting Europe Facility (CEF), etc).
+Action 1: SDOs to develop technical specification and standards for the implementation of eCall in vehicles of categories other than M1 and N1, taking into account requirements included within type-approval regulation.
 
 Action 2: SDOs to lay down physical and operating requirements for aftermarket in-vehicle devices.
 
 Action 3: SDOs to draft guidelines on certification of eCall Systems including aftermarket in-vehicle devices.
 
-Action 4: SDOs to provide conformance and performance tests to the recently developed standards for packet-switched networks (HLAP E-UTRAN — LTE/4G and migration to further generations by use of an IMS sublayer)
+Action 4: SDOs to develop conformance and performance tests for recently developed technical specifications / standards for the provision of the eCall service eCall via shared vehicle platforms (C-ITS).
 
-Action 5: SDOs to develop conformance and performance tests for recently developed technical specifications / standards for the provision of the eCall service eCall via shared vehicle platforms (C-ITS).
+Action 5: SDOs to produce detailed conformity test specifications in support of certification schemes and periodic testing on IVS equipment.
 
-Action 6: SDOs to produce detailed conformity test specifications in support of certification schemes and periodic testing on IVS equipment.
+Action 6: SDOs to carry out plugtest interoperability events, taking into account the technological evolution of the system.
 
-Action 7: SDOs to carry out plugtest interoperability events, taking into account the technological evolution of the system [1].
+Action 7: SDOs to collect feedback about the early versions of the standards and their implementation with technical representatives from vendors and implementers, in particular taking into account the evolution of the networks.
 
-Action 8: SDOs to collect feedback about the early versions of the standards and their implementation with technical representatives from vendors and implementers.
+Action 8: SDOs to collect feedback from the relevant stakeholders on the real operation of the eCall service and when needed improve the standards, including through the European eCall Implementation Platform.
 
-Action 9: SDOs to collect feedback from the relevant stakeholders on the real operation of the eCall service and when needed improve the standards, including through the European eCall Implementation Platform.
-
-Action 10: SDOs to consider any changes to eCall that may be relevant in a 5G paradigm.
-
-Action 11: In view of technology and networks evolution , SDOs to consider the development of conformance and interoperability test specifications for eCall provided over 4G (using VoLTE) and 5G (and VoNR) networks. When developing these specifications, considered the work done in CEN TS 17240
+Action 9: SDOs to consider any changes to eCall that may be relevant in a 5G paradigm.
 
 #### IETF/IAB input to Rolling Plan
 
@@ -551,10 +565,10 @@ The application-specific working groups in the IETF (for example, the [Session I
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-325-ecall
 
 ### 3.2.6 Pandemic preparedness
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.7 Safety, transparency and due process online
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.8 Emergency communications and public warning systems
 **RP:** 
@@ -576,7 +590,6 @@ Action 8: SDOs to define dictionaries for public warning messages for emergency 
 
 Action 9: SDOs to identify standardisation needs for the establishment of a Union wide public warning system in line with recital 294 of Directive (EU) 2018/1972.
 
-
 #### IETF/IAB input to Rolling Plan
 
 The [Emergency Context Resolution with Internet Technologies (ECRIT) Working Group](https://datatracker.ietf.org/wg/ecrit/about/) has developed a general architecture for enabling IP applications to discover and connect to emergency services.
@@ -589,45 +602,44 @@ The [Secure Telephone Identity Revisited (STIR) WG](https://datatracker.ietf.org
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-328-emergency-communications-and-public-warning-systems
 
+### 3.2.9 Trust in Media
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
+
 ## 3.3 Innovation for the Digital Single Market
 ### 3.3.1 e-Procurement – Pre and Post award
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.3.2 e-Invoicing
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.3.3 Retail Payments
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
-### 3.3.4 Preservation of digital cinema
-Editor's note: No specific work identified in the IETF or IRTF
+### 3.3.4 FinTech and RegTech standardisation
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
-### 3.3.5 FinTech and RegTech standardisation
-Editor's note: No specific work identified in the IETF or IRTF
-
-### 3.3.6 Blockchain and Distributed Digital Ledger Technologies
+### 3.3.5 Blockchain and Distributed Digital Ledger Technologies
 **RP:** 
 Action 1: The standardisation community should continue analysing possible standardisation gaps and identify solutions to fill them, taking into account also other chapters in the Rolling Plan including actions and references to Blockchain and DLT and their applications. Activities may focus on governance and interoperability, electronic ledgers, organisational frameworks and methodologies, processes and products evaluation schemes, Blockchain and distributed ledger guidelines, smart technologies, objects, distributed computing devices and data services.
 
-Action 2: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, ePrivacy, eIDAS, AMLD, TOOP, etc..) and submit them to relevant standardisation bodies, including CEN & CENELEC and ETSI, and also ISO, ITU
+Action 2: Continue identifying use cases which are relevant for EU (including EU regulatory requirements like from GDPR, AI Act, Data Act, ePrivacy, eIDAS, AMLD, TOOP, CSRD, etc.) also leveraging on the yearly event “Joining Forces for Blockchain Standardisation” co-organised by the European Commission and INATBA (see section C.2) with special focus on Smart Contracts, Digital Identity, Governance, Interoperability, CBDC/Crypto Assets; submit them to standardisation bodies, including CEN & CENELEC and ETSI, and also ISO, ITU.
 
-Action 3: Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation.
+Action 3: Continue identification of actual blockchain/DLT implementations in the EU and assess the need for standardisation, harmonisation and workforce training or adaptation, including interoperability with solutions based on other technologies.
 
-Action 4: Standardisation of the operation and reference implementation of permissioned distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
+Action 4: Standardisation of the operation and reference implementation of permissioned and permissionless distributed ledgers and distributed applications, with the purpose of creating an open ecosystem of industrial interoperable solutions.
 
 Action 5: Standards Development Organisations active in blockchain/DLT standardisation to liaise and coordinate to take advantage of synergies and maximise resources, including with relevant public and private partnerships
 
 Action 6: ESOs to develop standards in line with the Data Act Regulation, in particular regarding essential requirements for smart-contracts. In addition, it would be recommended to explore a general framework for Governance of the European networks based on DLT to allow the flow of smart contracts between different networks.
 
-Action 7: ESOs when relevant to develop the standards needed for the introduction of Digital Euro (CBDC),  if the European Central Bank (ECB) decides to its issuance, and for digital assets (MiCA Regulation), in particular to ensure interoperability with smart-contracts, legacy systems, etc, linked with either CBDCs or private money. As per Art. 24 of the draft digital euro Regulation proposed by the Commission in June 2023, to ensure conditional payments on digital euro, the ECB may adopt detailed measures, rules and standards that PSPs can use to ensure interoperable conditional digital euro payment transactions. ESOs to liaise with ECB and in particular with the Digital euro scheme rulebook development group to ensure coordination between the standards for conditional payments involving digital euro and other existing or future standards.
+Action 7: ESOs when relevant to develop the standards needed for the introduction of Digital Euro (CBDC), if the European Central Bank (ECB) decides to its issuance, and for digital assets (MiCA Regulation), in particular to ensure interoperability with smart-contracts, legacy systems, etc, linked with either CBDCs or private money. As per Art. 24 of the draft digital euro Regulation proposed by the Commission in June 2023, to ensure conditional payments on digital euro, the ECB may adopt detailed measures, rules and standards that PSPs can use to ensure interoperable conditional digital euro payment transactions. ESOs to liaise with ECB and in particular with the Digital euro scheme rulebook development group to ensure coordination between the standards for conditional payments involving digital euro and other existing or future standards.
 
-Action 8: In the context of the standardisation described in Action 7, ESO to develop standards towards assessing CO2 footprint of different blockchains/DLTs, MiCA, EU Sustainable Finance taxonomy.
+Action 8: SDOs to develop standards and technical guidance, methods and tools for environmental and innovation management of DLTs to support the industry competitiveness and sustainable growth and ensure sustainability and safety for consumers. In particular In the context of the standardisation described in Action 7, SDOs to develop standards towards assessing environmental and sustainability impact including, in particular, CO2 footprint and energy consumption of different blockchains/DLTs, MiCA, EU Sustainable Finance taxonomy. 
 
 Action 9: Standardisation efforts to analyze and if needed, enhance the interoperability and international compatibility of the current and pending EBSI topics and capabilities previously mentioned.
 
-Action 10: ESOs to develop standards in line with the eIDAS2 regulation, in particular regarding essential requirements for electronic ledgers. 
-
-
+Action 10: ESOs to develop standards in line with the EUDI Framework regulation, in particular regarding essential requirements for electronic ledgers.
+ 
 #### IETF/IAB input to Rolling Plan
 
 The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/rg/dinrg/about/) investigates open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
@@ -635,17 +647,17 @@ The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datat
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-336-blockchain-and-distributed-digital-ledger-technologies
 
 ### 3.3.7 Web 4.0 and virtual worlds
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.3.8 Media
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## 3.4 Sustainable growth
 ### 3.4.1 Smart grids and Smart Metering
 **RP:** 
-Action 1: Active involvement and participation of CEN & CENELEC CG-SG experts in the ongoing work of the Smart Grids Task Force, including regarding the activity on interoperability for access to data in a smart grid environment currently performed under the Joint Working Group of ENTSO-E/EU DSO entity, building upon available standards.  This is to prepare the ground for implementing acts on interoperability requirements and transparent and non-discriminatory procedures for access and exchange of data. The respective reports from this latest strand of work, as well as earlier deliverables from other activities of the Task Force are available on the smart grids task force dedicated webpage (CIRCA BC), which is a collaborative platform that gives access to all task-force documents, via the platform library”.
+Action 1: Active involvement and participation of CEN & CENELEC CG-SG experts in the ongoing work of the Smart Energy Expert Group, including regarding the activity on interoperability for access to data in a smart grid environment currently performed under the Joint Working Group of ENTSO-E/EU DSO entity, building upon available standards.  This is to prepare the ground for implementing acts on interoperability requirements and transparent and non-discriminatory procedures for access and exchange of data. 
 
-Action 2:  ETSI, CEN & CENELEC and the other relevant SDOs and related organisations (such as DLMS, KNX and others) should combine their efforts to further enrich and extend the SAREF4ENER extension as well as the main SAREF ontology (including interoperability profiles and associated justifications (interoperability cases) from large-scale projects or initiatives like the EU code of conduct on energy management related interoperability of Energy Smart Appliances). The ETSI SAREF portal and the ETSI labs, which was launched recently, could be the tools to be leveraged for this purpose. Security aspects should be investigated. All new additions to the SAREF specifications should be transposed into the OneM2M specifications. A number of European projects could contribute to a larger scale deployment of SAREF-based solutions such as the Operational Digital Platforms under CEF Digital and the deployment of a common European data space in the DIGITAL programme, which is being prepared in Horizon Europe. An EN describing the principles of SAREF, thus avoiding annual updates, which is in under approval by the EU members tates, should be completed. The updates needed to make SAREF fit for digital twins, edge-cloud IoT continuum, AI as well as other recent technological developments should be investigated and developed.
+Action 2:  ETSI, CEN & CENELEC and the other relevant SDOs and related organisations (such as DLMS, KNX and others) should combine their efforts to further enrich and extend the SAREF4ENER extension as well as the main SAREF ontology (including interoperability profiles and associated justifications (interoperability cases) from large-scale projects or initiatives like the EU code of conduct on energy management related interoperability of Energy Smart Appliances). The ETSI SAREF portal and the ETSI labs, which was launched recently, could be the tools to be leveraged for this purpose. Security aspects should be investigated. All new additions to the SAREF specifications should be transposed into the OneM2M specifications. A number of European projects could contribute to a larger scale deployment of SAREF-based solutions such as the Operational Digital Platforms under CEF Digital and the deployment of a common European data space in the DIGITAL programme, which is being prepared in Horizon Europe. 
 
 Action 3: CEN & CENELEC, IEEE and OASIS to foster their cooperation to ensure complementary parallel standardisation efforts, to avoid serious conflicts between their respective standardisation deliverables. This action should notably be undertaken in the context of H2-type standards (the interface used for smart grid communication), distributed energy resources and the smart grids architecture model as developed under M/490.
 
@@ -661,35 +673,18 @@ Action 8: SDOs should collaborate with the project(s) ODEON and HEDGE-IoT result
 
 Action 9: SDOs should collaborate with the European Commission and its initiatives to develop and standardise a (Generative)-AI-based “digital spine” of the European Energy System, which is incorporating all functionalities of the digital layer of the energy system, enables multiple innovative energy services, has the needed distributed cloud-edge architecture to support the evolving energy system and which is highly resilient, flexible and automated.
 
-
 #### IETF/IAB input to Rolling Plan
 
 [RFC6272](http://www.rfc-editor.org/rfc/rfc6272.txt) identifies the key infrastructure protocols of the Internet Protocol Suite for use in the Smart Grid. The target audience is those people seeking guidance on how to construct an appropriate Internet Protocol Suite profile for the Smart Grid. In practice, such a profile would consist of selecting what is needed for Smart Grid deployment from the picture presented here.
 
-The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See   http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
+The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See [this page](http://datatracker.ietf.org/wg/eman/documents/) for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
 
 Many of the IETF Working Groups listed under section 3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to Smart grids.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-341-smart-grids-and-smart-metering
 
 ### 3.4.2 Smart and sustainable cities and communities
-**RP:** 
-Action 1: A Toolbox for Local Digital Twins is being developed with a set of advanced AI-based tools for urban Digital Twin. Concerning Local Digital Twins, the following should be undertaken:
--	ESOs to develop an European standard for a Local Digital Twin reference architecture depicting components and specifications, based on on-going works supported by the EC and EDIC on CitiVerse.
-
-Action 2: Recommendation for the standardisation of the MIMs framework (y.MIMs) is being discussed at ITU-T Study Group 20 dealing with Internet of Things, smart cities and communities, to position MIMs as a global standard that every community can benefit from. There is a need to have a EU standard for the individual technical MIMs:
--	ESOs to develop European standards of MIM key specifications (MIMs 1, 2, and 7) based on on-going works in Living-in.EU technical subgroup and standardisation efforts of the MIM framework at ITU-T (Y.MIM).
-
-
-#### IETF/IAB input to Rolling Plan
-
-The [Energy Management (EMAN) WG](https://datatracker.ietf.org/wg/eman/about/) has produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
-
-A recently published standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
-
-Many of the IETF Working Groups listed under section 3.1.4 Internet of Things above are developing standards for embedded devices that may also be applicable to this section.
-
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-342-smart-and-sustainable-cities-and-communities
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.3. ICT Environmental Impact
 **RP:** 
@@ -707,6 +702,7 @@ Action 6: SDOs to identify needs and develop standards to support UN SDGs, in pa
 
 Action 7: ETSI, in collaboration with the EGDC, to consider possible paths for ITU L.1480 and L.1333 to be made available for European standardisation to meet EU policy objectives.
 
+Action 8: SDOs to intensify the work on standardisation of resource efficiency aspects of ICT products (including durability, reliability, repairability, reusability, recyclability and recycled content), by product groups and then by products.
 
 #### IETF/IAB input to Rolling Plan
 
@@ -729,52 +725,34 @@ The [Internet Architecture Board](https://www.iab.org/) has recently established
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
 ### 3.4.4. European Electronic Toll Service (EETS)
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.5. Intelligent Transport Systems (ITS) - Cooperative, Connected and Automated Mobility (ITS-CCAM) and Electromobility
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.6 Digitisation of European Industry
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
-### 3.4.7. Robotics and autonomous systems
-Editor's note: No specific work identified in the IETF or IRTF
+### 3.4.7 Robotics and autonomous systems
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.8 Construction - Building Information Modelling
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.9 Water Management Digitalisation
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.10 Single European Sky
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.11 U-Space
-**RP**:
-Action 1: Based on the U-space regulatory framework, and in coordination with the European UAS Standardisation Coordination Group (EUSCG), standardise semantic and technical interoperability specifications to exchange U-space information and operational data:
--	between air navigation service providers, common information service providers and U-space service providers; and
--	between U-space service providers and UAS operators.
-
-Action 2: The following complementary actions could be developed in addition to the standardisation action:
--	Development of a reference implementation of U-space software components to facilitate the adoption of U-space.
--	Development of a testing platform to assess whether the U-space interfaces developed by service providers comply with the standardised specifications.
-
-
-#### IETF/IAB input to Rolling Plan
-
-The [Drone Remote ID Protocol (drip) WG](https://datatracker.ietf.org/wg/drip/about/) has recently formed in the IETF. Civil Aviation Authorities (CAAs) worldwide have initiated rule making for Unmanned Aircraft Systems (UAS) Remote Identification (RID). CAAs currently promulgate performance-based regulations that do not mandate specific techniques, but rather cite industry-consensus technical standards as acceptable means of compliance. One key standard is ASTM International (formerly the American Society for Testing and Materials) WK65041. This technical specification defines UAS RID message formats, and transmission methods. Network RID defines a set of information for UAS to be made available globally via the Internet. Broadcast RID defines a set of messages for UAS to send locally one-way over Bluetooth or Wi-Fi. WK65041 does not address how to populate/query registries, how to ensure trustworthiness of information, nor how to make the information useful.
-
-DRIP’s goal is to specify how RID can be made trustworthy and available in both Internet and local-only connected scenarios, especially in emergency situations. Some UAS operate in environments where the network or the devices or both are severely constrained in terms of processing, bandwidth (e.g., Bluetooth 4 beacon payload is 25 bytes long), or battery life, and DRIP aims to function in these environments. The specifications produced by the WG will need to balance public safety authorities’ need to know trustworthy information with UAS operators’ and other involved parties’ privacy.
-
-The working group will primarily leverage Internet standards (including HIP, EPP, RDAP, and DNS) and infrastructure as well as domain name registration business models. The WG will track and align with the requirements being developed by regulatory authorities, e.g., the International Civil Aviation Organization the European Union Aviation Safety Agency (EASA) delegated and implementing regulations, and the US Federal Aviation Administration (US FAA).
-
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3411-u-space
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.4.12 Circular economy and sustainability
-Editor's note: No specific work identified in the IETF or IRTF
+Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## Document Editing History
-2026-07-21: Updated to reflect RP2027 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 jsonschema, §3.0.2 plants, seat, §3.1.2 ocm, §3.1.3 jsonschema, §3.1.4 seat,
+2026-07-21: Updated to reflect RP2027 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 jsonschema, §3.0.2 plants, seat, §3.1.2 ocm, §3.1.3 jsonschema, §3.1.4 seat, §3.1.9 webbotauth, §3.1.11 plants
 
 2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem, §3.1.9 aipref, §3.4.3 green
 
