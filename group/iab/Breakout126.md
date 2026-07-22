@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-21T07:45:17.734Z
+date: 2026-07-22T09:37:26.351Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -39,6 +39,7 @@ For food & beverage service requests, please include:
 
 - 11:00-11:30: Liaison Coordinator office hours
 
+- 11:30-12:20: Oauth policy
 
 ## Thursday 
 
