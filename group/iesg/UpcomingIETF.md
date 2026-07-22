@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-22T07:16:14.372Z
+date: 2026-07-22T07:16:24.298Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -233,6 +233,6 @@ If you would like your meeting to be added to the main meeting agenda, please em
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
 * TIME - TIME -- Thing (Person responsible)
-* 07:30-08:50 -- Executive Session: Confirmation of LLC Board Candidate
+* 07:30-08:50 -- Executive Session: Confirmation of LLC Board Candidate (Mike)
 * 11:10-12:30 -- Netconf Transport - Gorry
 
