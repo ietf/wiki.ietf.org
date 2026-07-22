@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="224" width="328" viewBox="0 0 328 224" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px">
+<path d="M 8,48 L 8,112" fill="none" stroke="black"/>
+<path d="M 40,16 L 40,48" fill="none" stroke="black"/>
+<path d="M 88,48 L 88,112" fill="none" stroke="black"/>
+<path d="M 136,128 L 136,192" fill="none" stroke="black"/>
+<path d="M 144,64 L 144,96" fill="none" stroke="black"/>
+<path d="M 160,96 L 160,128" fill="none" stroke="black"/>
+<path d="M 216,128 L 216,192" fill="none" stroke="black"/>
+<path d="M 232,128 L 232,192" fill="none" stroke="black"/>
+<path d="M 256,96 L 256,128" fill="none" stroke="black"/>
+<path d="M 272,64 L 272,96" fill="none" stroke="black"/>
+<path d="M 320,128 L 320,192" fill="none" stroke="black"/>
+<path d="M 32,16 L 48,16" fill="none" stroke="black"/>
+<path d="M 8,48 L 88,48" fill="none" stroke="black"/>
+<path d="M 144,64 L 272,64" fill="none" stroke="black"/>
+<path d="M 8,80 L 136,80" fill="none" stroke="black"/>
+<path d="M 144,96 L 272,96" fill="none" stroke="black"/>
+<path d="M 8,112 L 88,112" fill="none" stroke="black"/>
+<path d="M 136,128 L 216,128" fill="none" stroke="black"/>
+<path d="M 232,128 L 320,128" fill="none" stroke="black"/>
+<path d="M 136,160 L 216,160" fill="none" stroke="black"/>
+<path d="M 232,160 L 320,160" fill="none" stroke="black"/>
+<path d="M 136,192 L 216,192" fill="none" stroke="black"/>
+<path d="M 232,192 L 320,192" fill="none" stroke="black"/>
+<polygon class="arrowhead" points="144,80 132,74.4 132,85.6 " fill="black" transform="rotate(0,136,80)"/>
+<g class="text">
+<text x="72" y="20">API</text>
+<text x="40" y="68">TE: A</text>
+<text x="192" y="84">Binding=?</text>
+<text x="48" y="100">AK: LAK</text>
+<text x="168" y="148">TE: B</text>
+<text x="264" y="148">TE: C</text>
+<text x="172" y="180">AK: BK</text>
+<text x="268" y="180">AK: CK</text>
+</g>
+</svg>

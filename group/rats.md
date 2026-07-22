@@ -1,9 +1,9 @@
 ---
 title: RATS WG - Remote ATtestation proceedureS
-description: 
+description:
 published: true
-date: 2025-08-04T18:31:15.607Z
-tags: 
+date: 2026-07-19T19:00:00.607Z
+tags:
 editor: markdown
 dateCreated: 2024-11-08T19:26:25.665Z
 ---
@@ -21,4 +21,7 @@ Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/rats/doc
 * [Attestation Results Carrying Protocols/APIs](/group/rats/attestationresults)
 * [Protocols/APIs for conveying Reference Values](/group/rats/referencevalues)
 * [Protocols/APIs for conveying Appraisal Policies](/group/rats/appraisalpolicies)
+
+RATS Attesters can be complex, and there are many ways of forming composites.
+To explain the composite diagrams, a [visual language of composite building blocks](/group/rats/atomic-composites) has been created.
 

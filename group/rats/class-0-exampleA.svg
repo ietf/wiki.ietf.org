@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="144" width="96" viewBox="0 0 96 144" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px">
+<path d="M 8,48 L 8,112" fill="none" stroke="black"/>
+<path d="M 40,16 L 40,48" fill="none" stroke="black"/>
+<path d="M 88,48 L 88,112" fill="none" stroke="black"/>
+<path d="M 32,16 L 48,16" fill="none" stroke="black"/>
+<path d="M 8,48 L 88,48" fill="none" stroke="black"/>
+<path d="M 8,80 L 88,80" fill="none" stroke="black"/>
+<path d="M 8,112 L 88,112" fill="none" stroke="black"/>
+<g class="text">
+<text x="72" y="20">API</text>
+<text x="44" y="68">TE: TE</text>
+<text x="48" y="100">AK: LAK</text>
+</g>
+</svg>
