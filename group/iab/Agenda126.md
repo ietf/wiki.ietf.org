@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 126
 description: 
 published: true
-date: 2026-07-21T07:19:04.154Z
+date: 2026-07-22T12:52:20.263Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:24:47.550Z
@@ -119,7 +119,8 @@ Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1003
 > Agenda:
 >
 > 1. ISOC topics (with Sally) - 60 mins
-> 2. Appeals Handling "Meta" Discussion
+> 2. [IAB statement on Age-Based Restrictions](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing)
+> 3. Appeals Handling "Meta" Discussion
 
 ### 16:00-16:30: New Work Help Desk
 
