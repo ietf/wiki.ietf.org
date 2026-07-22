@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2024-02-16T15:39:46.052Z
+date: 2026-07-22T10:20:56.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -13,6 +13,28 @@ dateCreated: 2022-12-22T23:20:38.347Z
 The [TSV Area Review Team](/group/tsv/TSVART) reviews selected documents within the transport area and selected documents from other areas. This page describes some common issues that might come up in TSVART reviews.. We should publish guidelines that identify transport-related issues and point to the documents that contain further discussion.
 
 We plan to have TSVART assist in developing such guidelines, and to turn them into a checklist for TSVART reviews. The checklist and guidelines can be advertised to authors so their documents address the issues properly before we do TSVART reviews, and during TSVART reviews, we can check the checklist to make sure they considered the relevant issues.
+
+## Use of QUIC
+
+Defining application usage of QUIC are potentially challening and this section captures some resources, recommendations and examples. We expect this to change and be evolved. 
+
+### Resources
+
+The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) includes some guidance on aspects of QUIC to consider. 
+
+### Application Identification
+
+
+
+### 0-RTT
+
+### Reliable Streams
+
+QUIC provides multiple streams with in-order reliable delivery. They can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using reset which does not provide delivery guarantees. Reset-at extension provides mor control. Applications will also need to consider error codes to indicate reasons for closing streams. 
+
+### Unreliable Datagrams
+
+QUIC's [Datagram Extension] (https://datatracker.ietf.org/doc/rfc9221/) provides unrelilable datagrams, where the datagram payload must fit within the MTU available to the QUIC session. As there are no reliability or in-order guarantees applications may need to build on top or require additional information from the QUIC implementation.  
 
 ## Use of UDP
 See these guidelines: https://datatracker.ietf.org/doc/rfc8085/
