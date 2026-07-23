@@ -2,15 +2,15 @@
 title: AI in OPS
 description: Management AD guidance on what AI-driven network operations work is ready for IETF standardization, and what isn't.
 published: true
-date: 2026-07-23T13:03:09.188Z
+date: 2026-07-23T13:36:52.192Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T00:28:18.971Z
 ---
 
-# AI-Driven Network Operations: Evaluation Guidelines
+# AI-Driven Network Operations (Focus on Network Management): Evaluation Guidelines
 
-*Guidance from the Management Area Director on evaluating AI/ML network operations submissions*
+*Guidance from the Management Area Director on evaluating AI/ML network management submissions*
 *v1.3 · Last updated: 15 July 2026*
 
 > **Side Meeting — IETF 126, Vienna**
