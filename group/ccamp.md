@@ -2,7 +2,7 @@
 title: CCAMP WG - Common Control and Measurement Plane
 description: 
 published: true
-date: 2026-07-20T16:03:22.793Z
+date: 2026-07-23T22:56:17.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:44:49.242Z
@@ -30,40 +30,25 @@ Please contact the CCAMP chairs or secretary if you would like to see any WG rel
 **- draft-ietf-ccamp-actn-optical-transport-mgmt**
 Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks
 
-> Updates as per IETF 125 (14/03/2026):
-> Revision: -04
-> Last update: 30th November 2025
+> Updates as per IETF 126:
+> Revision: -05
+> Last update: 18/04/2026
 >Status:
-> -	I-D is on hold waiting for stability of referenced YANG models
-> -	All references are Informative, but stability is key
-> -	Most WG YANG models are well advanced, but not at WGLC
-> -	Some YANG models are still individual I-Ds
-> -	Authors are aware of two Editor Notes that need text
-> -	There was one issue about the “overuse” of the term “FCAPS”. Authors will polish the text
+> No substantive text changes, mainly editorial, cleanup and NIT squashing:
+>- The abstract and introduction better describe the work;
+>- Expanded explanation of FCAPS and NMS, plus a clearer discussion of transport network management approaches;
+>- Clarify the text is updated to frame extensions more explicitly in ACTN RDNM context, especially at the MPI;
+>- Compatibility/migration section has been removed. 
 
+**-draft-ietf-ccamp-actn-wdm-pluggable-modelling-00**
+> Document expired (July 2026)
 
-
-**- draft-ietf-ccamp-bwa-topo-yang-00**
-*A YANG Data Model for Bandwidth Availability Topology*
->Discussion ongoing to move to TEAS or Netmod
-
-**- draft-ietf-ccamp-client-signal-yang-16**
+**- draft-ietf-ccamp-client-signal-yang-17**
 A YANG Data Model for Transport Network Client Signals
 
-> Update as per IETF 125 (14/03/2026):
+> Update as per IETF 126 :
+> Refreshing update of the document to avoid expiration (February 2026))
 
-> No updates on this I-D since IETF 124:
-> - Refreshed on February 4, 2026 just to avoid expiration
-> -	The model for transparent clients is stable and ready to proceed WG LC, while the model for ETH clients still have some issues and may need more time
- 
->Next steps:
-> -	Evaluate the interests to split and proceed separately
-
-
-
-**- draft-ietf-ccamp-dwdm-if-lmp-07**
-Extension to the Link Management Protocol (LMP/DWDM -rfc4209) for Dense Wavelength Division Multiplexing (DWDM) Optical Line Systems to manage the application code of optical interface parameters in DWDM application
->Check status with authors
 
 **- draft-ietf-ccamp-dwdm-if-param-yang-09**
 A YANG model to manage the optical interface parameters for an external transponder in a WDM network
@@ -72,9 +57,9 @@ A YANG model to manage the optical interface parameters for an external transpon
 
 **- draft-ietf-ccamp-eth-client-te-topo-yang**
 A YANG Data Model for Ethernet TE Topology
+> Draft refreshed (13/04/2026) to avoid expiration
 > Update as per IETF 125 (14/03/2026): 
 > No updates on this I-D since IETF 124:
- 
 >Next steps:
 > -	Align with Packet TE Topology, together with updates to the client-signal model
 > -	Align with the other topology models to support multi-layer single-instance topo
@@ -85,22 +70,14 @@ A YANG Data Model for Ethernet TE Topology
 
 **- draft-ietf-ccamp-flexe-yang-cm-06**
 YANG Data Model for FlexE Management
-> Updates as per IETF 125 (14/03/2026):
-> Current Version: 07
-> Content Stability: The technical content has been stable since Version 03.
-> Version 03 Major Updates:
-> - Update the YANG tree diagram based on the feedback from RTGDIR and YANGDOCTORS
-> - Update leaf “total-bandwidth” and “sync-phy-number” of flexe-group to be optional 
-> - Update leaf “free-timeslot-list” and “used-timeslot-list” of flexe-phy to be optional
-> - Rename container “flexe-client” to “flexe-clients” so that all clients configured in the same FlexE Group can be supported.
-> - Subsequent versions (V04, V05, V06 and V07) only include version updates.
-
-> Authors believe it is ready for WGLC
-
+> Updates as per IETF 126:
+> Current Version: 09
+> WGLC finished in May 2026. Comments received during WGLC.
+> Pending to confirm if all the comments on top of v -07 have been covered in v -09.
 
 **-draft-ietf-ccamp-wdm-tunnel-yang**
 *A YANG Data Model for WDM Tunnels*
-
+> Draft refreshed (22/04/2026)
 
 **- draft-ietf-ccamp-flexigrid-yang**
 *A YANG Data Model for Flexi-Grid Optical Networks*
@@ -117,17 +94,10 @@ A YANG Data Model for L1 Connectivity Service Model (L1CSM)
 > Publication requested
 > MISSREF - Depending ....
 
-**- draft-ietf-ccamp-layer1-types-15**
+**- draft-ietf-ccamp-layer1-types-19**
 *A YANG Data Model for Layer 1 Types*
-> Publication requested
+> Draft refreshed (16/06/2026)
 
-**- draft-ietf-ccamp-mw-topo-yang-05**
-A YANG Data Model for Microwave Topology
-> WG last call passed. Waiting for authors to address LS comments, than Daniele Sheperd.
-
-**- draft-ietf-ccamp-network-inventory-yang-01**
-A YANG Data Model for Network Hardware Inventory
-> Consider relationship with IVY WG
 
 **- draft-ietf-ccamp-optical-impairment-topology-yang-12**
 A YANG Data Model for Optical Impairment-aware Topology
@@ -184,14 +154,14 @@ Conveying Transceiver-Related Information within RSVP-TE Signaling
 
 **- draft-ietf-ccamp-yang-otn-slicing-09**
 Framework and Data Model for OTN Network Slicing
-> Update as per IETF 124 (24/10/2025)
+> Update as per IETF 126 (16/07/2026)
 > Recent Updates:
-> - None. Authors are conducting a review and validation of the model against the use cases to ensure the completeness.
-> - Review of the draft was partially complete with comments raised.
+> - None. 
 >
 > Next steps:
-> - Address the review comments and complete the review.
-> - The authors believe that this draft will be ready for WG LC once the review is completed.
+> - Authors are conducting a review and validation of the model against the
+use cases to ensure the completeness before the next meeting.
+>  - The authors believe that this draft will be ready for WG LC once the review is completed.
 
 
 
@@ -231,13 +201,18 @@ Prio 3
 **- draft-ietf-ccamp-tsvmode-signaling-02**
 Conveying Transceiver-Related Information within RSVP-TE Signaling
 (RTG-DIR review-update needed - expected in September after optical impairment topology and if param yang get published)
+(Update as for IETF 126) The I-D isn't ready for publication yet according to RTGDIR review. Many comments are related to encoding misalignment with the dependencies. Authors are waiting for the publication of optical-impairment-topology-yang and dwdm-if-param-yang as RFCs to bring back consistency and polish the document. Expectation of having new version ready before the I-D expires (i.e. early September). 
 
 Prio 4 (cluster)
 **- draft-ietf-ccamp-otn-tunnel-model**
 **-draft-ietf-ccamp-otn-path-computation-yang-08**
 > Dependency on draft-ietf-teas-yang-te resolved
 RTGDIR review requested and completed - jointly for both
-YANG DOTTOR review request for OTN path computation, already done for OTN tunnel model
+YANG DOCTOR review request for OTN path computation, already done for OTN tunnel model
+(Update for IETF 126): Submitted an updated version of the I-D, aligning the YANG data model with the latest guidelines in RFC9907and with latest versions of the TE types, TE tunnel and OTN tunnel YANG data models
+The document has normative dependency on three I-Ds (draft-ietf-ccamp-layer1-types, draft-ietf-teas-yang-path-computation and draft-ietf-teas-yang-te). Two of these I-Ds (draft-ietf-ccamp-layer1-types and draft-ietf-teas-yang-te) are now in the RFC Editor Queue and one (draft-ietf-teas-yang-path-computation) has passed WG LC in TEAS WG.
+RTGDIR review sent (July 2026) with "Has nits".
+YANG Doctors review sent as Ready (June 2026).
 
 
 Prio 5
