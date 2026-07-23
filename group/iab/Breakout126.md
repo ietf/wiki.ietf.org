@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-22T09:37:26.351Z
+date: 2026-07-23T09:55:38.593Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -48,15 +48,12 @@ For food & beverage service requests, please include:
 - 12:30-13:45: Un-official discussion random-access authenticated encryption (Nick)
 Agenda:
 12:30 raAE and SEAL at a glance (Nick)
-Working draft: https://grittygrease.github.io/draft-sullivan-cfrg-raae/draft-sullivan-cfrg-raae.html
-12:45 use cases and SEAL cipher suites (Nick)
-Working draft: https://grittygrease.github.io/draft-sullivan-cfrg-raae/draft-sullivan-seal-concrete.html
-13:00 open discussion
 
-Background reading:
-https://www.ietf.org/archive/id/draft-sullivan-cfrg-raae-02.html
+Current drafts:
+raAE and SEAL: https://datatracker.ietf.org/doc/draft-sullivan-cfrg-raae
+SEAL suiteds: https://datatracker.ietf.org/doc/draft-sullivan-seal-concrete
 
-Remote access: TBD (no meetecho for unofficial meetings)
+Remote access: https://meet.google.com/mhc-ynuw-umv
 
 
 ## Friday 
