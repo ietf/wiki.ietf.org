@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-06-02T12:55:50.653Z
+date: 2026-07-23T09:46:11.168Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -42,12 +42,14 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 | Yaroslav | None                     | 2026-09-29   | 2026-10-09  | TBD                        |
 | Chris I  | None                    | TBD             |    TBD         |   TBD (likely Westin nearby)                         |
 | Yingzhen | None                         |      TBD        |     TBD        |    TBD                        |
-| Jason | None | 2026-09-29 | 2026-10-02 | Shibuya Stream Hotel |
-|          |                          |              |             |                            |
+| Matthew  | None                         |     TBD         |     TBD        |    TBD                        |
+| Suresh  | Vegetarian                 |     2026-09-29     |  2026-10-02  |    TBD                        |
+| Alvaro | None | 2026-09-28 | 2026-10-02 | Shibuya Stream |
 
 ### Remote
 
 ### Regrets
+- Jason Livingood
 
 ## Agenda - TBD
 
@@ -58,8 +60,9 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting)
 - Why IAB does RG review and How we can improve on it?
 - What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB?
+- What are our long term objectives for our external engagements?
 - Outreach Related Topics
-	- IGF 2026 Planning
+	- IGF 2026 
 - ISOC Related Topics
 	- ITU-T PP
 - Workshop Related Topics
@@ -68,6 +71,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Improving collabration with ICANN and coordination among ICANN appointees 
 - Introspection: Role of IAB in this "AI Moment"
 	- agentic AI architecture?
+- Relationship with Linux Foundation - should we do something? 
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
