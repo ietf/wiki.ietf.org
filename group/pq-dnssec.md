@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-23T07:14:30.223Z
+date: 2026-07-23T07:46:22.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -27,7 +27,7 @@ Meeting notes / recording not yet are available.
 - 10'+q Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Tran_One-query_resolution_semantics_of_PQ-DNSSEC_under_MTL-mode.pdf))
 - 10'+q Mike Almeloo: Evaluating parameters for MTL Mode in real-world circumstances ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Almeloo_Evaluating_parameters_for_MTL_Mode_in_real-world_circumstances.pdf))
 - 10'+q Folmer Heikamp: Analyzing Hybrid-Signatures in DNSSEC with UDP-Fragmentation ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Heikamp_Analyzing_Hybrid-Signatures_in_DNSSEC_with_UDP-Fragmentation.pdf))
-- 10'+q Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC"
+- 10'+q Johan Stenstam: 3 ideas on potential alternatives for how to "do DNSSEC" ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Stenstam_pq-experiments.pdf))
 - 10'+q Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Hoffman_Informal_DNSSEC_Algorithm_Testing_Registry.pdf))
 - 10'+q Peter Thomassen: Where are we Headed? ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Thomassen_Where-are-we-Headed.pdf))
 - (If time permits) 5'+q Andrew Kaizer: PQC DNSSEC MTL Updates ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/Kaizer_PQC_DNSSEC_MTL_Updates.pdf))
