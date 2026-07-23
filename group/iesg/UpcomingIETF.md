@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-22T15:02:38.268Z
+date: 2026-07-23T15:18:37.743Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -234,6 +234,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 * 07:30 - 08:30 -- DISPATCH Chairs Meeting - Andy
 * 11:00 - 11:30 - Ask Me Anything about AD Job - Éric
 * 12:30 - 13:30 - TDD Chairs Meeting - Andy/Med
+* 1800-1830 - Sec AD - Deb/Chris
 
 ## Friday, July 24, 2026
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
