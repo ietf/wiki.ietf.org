@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-23T07:46:22.322Z
+date: 2026-07-23T15:25:37.765Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -19,7 +19,7 @@ Documents:
 # IETF 126 Side Meeting
 Thursday, July 23, 2026, 9:30-11:00 (local Vienna time) ([information about room and online participation](https://sidemeetings.ietf.org/)) ([IETF Webex](https://ietf.webex.com/meet/sidemeetings2))
 
-Meeting notes / recording not yet are available.
+Meeting notes are available [here](https://wiki.ietf.org/en/group/pq-dnssec/ietf-126-meeting-notes). | The recording is available [here](https://ietf.webex.com/recordingservice/sites/ietf/recording/playback/7fe8d22813ca4a219616d964f6c93a08).
 
 ## Agenda
 - 5' Note Well / Agenda Bashing ([Slides](https://github.com/IQTF/pq-dnssec-materials/raw/refs/heads/main/IETF126/chair-slides.pdf))
@@ -35,7 +35,7 @@ Meeting notes / recording not yet are available.
 
 ### Paul Hoffman: TCP testbed
 
-*No abstract yet.*
+*No abstract.*
 
 ### Minh Hoang Tran: One-query resolution semantics of PQ-DNSSEC under MTL-mode
 
@@ -55,7 +55,7 @@ We’ve done several different experiments with the objective of finding a solut
 
 ### Paul Hoffman, Duane Wessels: Informal DNSSEC Algorithm Testing Registry
 
-*No abstract yet.*
+*No abstract.*
 
 ### Peter Thomassen: Where are we Headed?
 
@@ -111,7 +111,7 @@ This project analyzes the impact of using MTL mode signatures in DNSSEC, by meas
 
 ### Joe Harvey: A post-quantum cryptography strategy for DNSSEC
 
-*No abstract yet.*
+*No abstract.*
 
 # IETF 122 Side Meeting
 Tuesday, March 18, 2025, 09:30-10:30 (local Bangkok time) ([information about room and online participation](https://trello.com/c/xXjSjBuK/61-0930-1030-pq-dnssec-research))
