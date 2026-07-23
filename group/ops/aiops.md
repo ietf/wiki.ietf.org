@@ -2,7 +2,7 @@
 title: AI in OPS
 description: Management AD guidance on what AI-driven network operations work is ready for IETF standardization, and what isn't.
 published: true
-date: 2026-07-21T08:03:17.753Z
+date: 2026-07-23T13:03:09.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-10T00:28:18.971Z
@@ -15,6 +15,8 @@ dateCreated: 2026-07-10T00:28:18.971Z
 
 > **Side Meeting — IETF 126, Vienna**
 > There will be a side meeting on this topic on **Friday, July 24 at 8:00 a.m.** in **Park Suite 4**. Room capacity is limited; attendees are encouraged to join remotely via WebEx: <https://ietf.webex.com/meet/sidemeetings1>
+Agenda/Logistics/Notes: <https://notes.ietf.org/notes-ietf-126-sidemeeting-aiops>
+
 
 **By audience:** [WG Chairs](#for-wg-chairs) &middot; [Draft Authors](#for-draft-authors) &middot; [BoF Organizers](#for-bof-organizers) &middot; [Side Meeting Participants](#for-side-meeting-participants)
 
