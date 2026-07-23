@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-23T09:55:38.593Z
+date: 2026-07-23T09:58:36.679Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -47,7 +47,7 @@ For food & beverage service requests, please include:
 
 - 12:30-13:45: Un-official discussion random-access authenticated encryption (Nick)
 Agenda:
-12:30 raAE and SEAL at a glance (Nick)
+raAE and SEAL at a glance (Nick)
 
 Current drafts:
 raAE and SEAL: https://datatracker.ietf.org/doc/draft-sullivan-cfrg-raae
