@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-07-24T10:04:01.625Z
+date: 2026-07-24T10:31:59.840Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -173,6 +173,8 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 > 1. Welcome
 > 2. Post-meeting review (randomized)
     Random order: IAB, SEC, INT, ART, OPS, IRTF, RTG, GEN, WIT
+    * Everything but BoFs
+    * BoFs
 > 3. General discussion of productivity and how the meeting went (standing item)
     * Use of 20u/40u/Offices going forwards (Jay/Paige)
 
