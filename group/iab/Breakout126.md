@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 126
 description: 
 published: true
-date: 2026-07-23T09:58:36.679Z
+date: 2026-07-24T07:11:11.587Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T18:05:42.282Z
@@ -59,4 +59,4 @@ Remote access: https://meet.google.com/mhc-ynuw-umv
 ## Friday 
 
 
-* Not available after 1200
+**NOT AVAILABLE** - used for luggage storage! Thank you! <3
