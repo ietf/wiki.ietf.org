@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2026-07-21T13:18:54.019Z
+date: 2026-07-24T10:02:42.285Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -41,6 +41,7 @@ Wikis are used by participants to share information about and coordinate around 
 
 | Meeting  | Location         | Date                | Links                                           |
 |----------|------------------|---------------------|-------------------------------------------------|
+| **IETF 126** | :at: Vienna, AT | July 18-24, 2026 | [Meeting Wiki](meeting/126) - [Side Meetings](https://sidemeetings.ietf.org) - [Hackathon](/meeting/126/hackathon) |
 | **IETF 125** | :cn: Shenzhen, CN | March 14-20, 2026 | [Meeting Wiki](/meeting/125) - [Side Meetings](https://sidemeetings.ietf.org) - [Hackathon](/meeting/125/hackathon) |
 | **IETF 124** | :canada: Montréal, CA | November 01-07, 2025 | [Meeting Wiki](/meeting/124) - [Side Meetings](https://trello.com/b/s1hNprRf/ietf-124-side-meeting-scheduling) - [Hackathon](/meeting/124/hackathon) |
 | **IETF 123** | :es: Madrid, ES | July 19-25, 2025 | [Meeting Wiki](/meeting/123) - [Side Meetings](https://trello.com/b/6kmZPwOx) - [Hackathon](/meeting/123/hackathon) |
