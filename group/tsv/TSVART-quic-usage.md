@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-24T14:19:19.762Z
+date: 2026-07-24T14:25:14.747Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -10,17 +10,15 @@ dateCreated: 2026-07-24T07:58:48.215Z
 
 # Considerations for Using QUIC
 
-This page is provided to assist in the review and development of Internet Drafts seeking to use QUIC as a transport service to support upper layer protocols and applications that do not use HTTP. Defining application usage of QUIC is potentially challening and this section captures some resources, recommendations and examples. We expect this to change and evolve. 
+This page is provided to assist in the review and development of Internet Drafts seeking to use QUIC as a transport service for upper layer protocols and applications that do not use HTTP. 
+
+Defining application usage of QUIC is potentially challenging and this section captures some resources, recommendations and examples. We expect this to change and evolve. 
 
 ### Resources
 
 The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) includes some guidance on aspects of QUIC to consider. 
 
-## Connections
-
-### Connections are Long-Lived
-
-Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limiations of QUIC. QUIC only do ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC] (https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
+## QUIC Connections
 
 ### Application Identification
 
@@ -30,10 +28,13 @@ Applications needs to consider how to identify applications, this can include bo
 
 As QUIC uses TLS for the security handshake any method that is available in TLS for authentication of the peer, either server only or mutual authentication (mTLS) can be used on transport connection level. 
 
-
 ### 0-RTT
 
-QUIC enables 0-RTT data as noted by TLS usage of this data requires considerations as this data can't be replay protected. 
+QUIC enables 0-RTT data as noted by TLS usage of this data requires considerations as this data cannot be replay protected. 
+
+### Long-Lived Connections
+
+Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC] (https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
 ## QUIC Streams
 
@@ -57,6 +58,7 @@ Datagrams are congestion-controlled, but not subject to flow control.Because the
 
 ## Designing for new QUIC versions/evolution
 
+<...>
 
 # To-do (Possible topics to also consider)
 
