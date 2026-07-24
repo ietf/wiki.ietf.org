@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-03-20T02:50:32.056Z
+date: 2026-07-24T08:53:31.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,18 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+### July 2026 (Vienna) [YouTube](https://youtu.be/Rm4XAVJ4Pxs?t=12s) [intro slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-intro-mirjadave)
+- Heads-up talk: Towards a Common Measurement Framework for Large-Scale libp2p Deployments using CBOR-based Verifiable Telemetry [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=5m25s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-maprg-towards-a-common-measurement-framework-for-large-scale-libp2p-deployments-using-cbor-based-verifiable-telemetry--johanna-m), Johanna Moran, July 2026
+- Heads-up talk: Measuring OAuth in MCP: Migration from DCR to CIMD [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=10m20s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-measuring-oauth-in-mcp-migration-from-dcr-to-cimd), Paul Carleton, July 2026
+- Feeding the Crawlers: An Experiment in Deliberate Bot Attraction [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=13m31s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-feeding-the-crawlers-an-experiment-in-deliberate-bot-attraction), Dan Silvers, July 2026
+- A Browser's Perspective: Surprises and Insights from Firefox Networking Telemetry [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=26m34s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-updated-a-browsers-perspective-surprises-and-insights-from-firefox-networking-telemetry), Max Inden & Oskar Mansfeld, July 2026
+- TTL Jumps: Unexpected TTL Rewrites Impacting Inferences from Traceroutes [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=39m) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-ttl-jumps-zirngibl), Johannes Zirngibl, July 2026
+- Measuring Deployment Characteristics of Post-Quantum TLS Authentication Mechanisms [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=53m) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-measuring-deployment-characteristics-of-post-quantum-tls-authentication-mechanisms), Nalini Elkins, July 2026
+- Understanding DNS Dynamics over the Starlink Network [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=58m32s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-understanding-dns-performance-over-the-starlink-network), Robert Richter, July 2026
+- The Future of DNS Privacy: A Comparison of DNS over QUIC and DNS over HTTP/3 [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h12m9s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-the-future-of-dns-privacy-a-comparison-of-dns-over-quic-and-dns-over-http3), Newton Masinde, July 2026
+- Detecting and Characterizing Exposed BGP Routers [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h29m12s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-detecting-and-characterizing-exposed-bgp-routers), Shyam Krishna Khadka, July 2026
+- Noisy Routers: Investigating the Make-Up of Route Collector Data [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h43m26s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-noisy-routers-investigating-the-make-up-of-route-collector-data), Ebrima Jaw, July 2026
 
 ### March 2026 (Shenzhen) [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=10s) [intro slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-intro-mirjadave)
 - Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=4m53s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
