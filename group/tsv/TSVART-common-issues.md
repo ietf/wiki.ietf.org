@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2026-07-22T14:11:14.768Z
+date: 2026-07-24T07:55:27.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -15,6 +15,9 @@ The [TSV Area Review Team](/group/tsv/TSVART) reviews selected documents within 
 We plan to have TSVART assist in developing such guidelines, and to turn them into a checklist for TSVART reviews. The checklist and guidelines can be advertised to authors so their documents address the issues properly before we do TSVART reviews, and during TSVART reviews, we can check the checklist to make sure they considered the relevant issues.
 
 ## Use of QUIC
+
+Protocols usage of QUIC requires a number of considerations, enough that we gathered them on a seperate [page](quic-usage).
+
 
 Defining application usage of QUIC are potentially challening and this section captures some resources, recommendations and examples. We expect this to change and be evolved. 
 
