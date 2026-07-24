@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-07-24T11:30:40.875Z
+date: 2026-07-24T11:34:06.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -29,7 +29,7 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 - The Future of DNS Privacy: A Comparison of DNS over QUIC and DNS over HTTP/3 [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h12m9s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-the-future-of-dns-privacy-a-comparison-of-dns-over-quic-and-dns-over-http3), Newton Masinde, July 2026
 - Detecting and Characterizing Exposed BGP Routers [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h29m12s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-detecting-and-characterizing-exposed-bgp-routers), Shyam Krishna Khadka, July 2026
 - Noisy Routers: Investigating the Make-Up of Route Collector Data [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h43m26s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-noisy-routers-investigating-the-make-up-of-route-collector-data), Ebrima Jaw, July 2026
-- IPv6 Adoption: the Top 1M Web Hosts, from Five Vantage Points [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h57m26s), Thom Vaughn, July 2026
+- IPv6 Adoption: the Top 1M Web Hosts, from Five Vantage Points [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=1h57m26s), Thom Vaughan, July 2026
 
 ### March 2026 (Shenzhen) [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=10s) [intro slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-intro-mirjadave)
 - Measurement of Systemic DNS Resolver Vulnerabilities [YouTube](https://www.youtube.com/watch?v=32RqJVymVk8&t=4m53s) [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-maprg-heads-up-talk-measurement-of-systemic-dns-resolver-vulnerabilities-informing-six-dnsop-i-ds), Yuqi Qiu, March 2026
