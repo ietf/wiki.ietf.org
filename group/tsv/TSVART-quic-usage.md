@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-24T11:38:22.804Z
+date: 2026-07-24T11:41:18.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -10,7 +10,7 @@ dateCreated: 2026-07-24T07:58:48.215Z
 
 # Considerations for Using QUIC
 
-Defining application usage of QUIC are potentially challening and this section captures some resources, recommendations and examples. We expect this to change and be evolved. 
+This page is provided to assist in the review and development of Internet Drafts seeking to use QUIC as a transport service to support upper layer protocols and applications that do not use HTTP. Defining application usage of QUIC is potentially challening and this section captures some resources, recommendations and examples. We expect this to change and evolve. 
 
 ### Resources
 
@@ -40,13 +40,13 @@ QUIC's [Datagram Extension] (https://datatracker.ietf.org/doc/rfc9221/) provides
 
 Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limiations of QUIC. QUIC only do ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC] (https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
-# To-do (possible other topics)
-## Flow control and design of application interaction.
+# To-do (Possible other topics)
+## Flow control and design of application interaction
 ## Client or Server functions.
 ## Do QUIC application need a unique UDP Port? 
 ## Stream resets can happen asynchronously...
 ## When to consider using a service over HTTP instead?
-## Considerations about QUIC versions/evolution.
+## Considerations about QUIC versions/evolution
 ## Not all paths (currently) support QUIC (how to fall-back)
 ## Useful to describe the logical byte stream model (bidirectional vs. unidirectional streams, datagram, etc)
 
