@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2026-07-24T07:55:27.484Z
+date: 2026-07-24T07:56:28.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -16,7 +16,7 @@ We plan to have TSVART assist in developing such guidelines, and to turn them in
 
 ## Use of QUIC
 
-Protocols usage of QUIC requires a number of considerations, enough that we gathered them on a seperate [page](quic-usage).
+Protocols usage of QUIC requires a number of considerations, enough that we gathered them on a seperate [page](/group/tsv/TSVART-quic-usage).
 
 
 Defining application usage of QUIC are potentially challening and this section captures some resources, recommendations and examples. We expect this to change and be evolved. 
