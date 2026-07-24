@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-24T14:25:14.747Z
+date: 2026-07-24T14:28:45.969Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -58,17 +58,20 @@ Datagrams are congestion-controlled, but not subject to flow control.Because the
 
 ## Designing for new QUIC versions/evolution
 
-<...>
+QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide. 
 
 # To-do (Possible topics to also consider)
 
-### What is the logical byte stream model (bidirectional vs. unidirectional streams, datagram, etc)
+### What is the logical byte stream model? (bidirectional vs. unidirectional streams, datagram, etc)
 
-### Not all paths (currently) support QUIC (how does the application fall-back to a differnt transport service)
+### Not all paths (currently) support QUIC (How does the application fall-back to a differnt transport service?)
 
-### How is Flow control used? and what is the design of application interaction with streams?
+### How is flow control used? and what is the design of application interaction with streams?
+
 ### Does a new QUIC application need a unique UDP Port? 
+
 ### Consider using a service over HTTP or TCP instead?
+
 ### Are there deployment incentives / implementation experience - especially when there are alternate mechanisms to achieve similar objectives?
 
 
