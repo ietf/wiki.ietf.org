@@ -38,7 +38,7 @@ The Network Configuration Access Control Model (NACM) [RFC8341] provides the mea
 There are a number of data nodes defined in this YANG module that are writable/creatable/deletable (i.e., "config true", which is the default).  All writable data nodes are likely to be reasonably sensitive or vulnerable in some network environments.  Write operations (e.g., edit-config) and delete operations to these data nodes without proper protection or authentication can have a negative effect on network operations.  The following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
 > If the data model contains any particularly sensitive data nodes, e.g., ones that are protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement, then those subtrees and data nodes must be listed, with an explanation of the associated security risks with a focus on how they can be disruptive if abused. Otherwise, replace "The following subtrees and data nodes have particular sensitivities/vulnerabilities:" with:
-> "There are no particularly sensitive writable data nodes."
+> "There are no particularly sensitive writable data nodes, e.g., ones that are protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 ### Readable nodes section:
@@ -47,8 +47,8 @@ There are a number of data nodes defined in this YANG module that are writable/c
 
 Some of the readable data nodes in this YANG module may be considered sensitive or vulnerable in some network environments.  It is thus important to control read access (e.g., via get, get-config, or notification) to these data nodes. Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
-> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes because they can also be read via operations like get or get-config) that are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that are protected by a "nacm:default-deny-read" or a "nacm:default-deny-all" extensions statement. Otherwise, replace "Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:" with: 
-> "There are no particularly sensitive readable data nodes."
+> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes because they can also be read via operations like get or get-config) that are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that are protected by a "nacm:default-deny-all" extensions statement.  Otherwise, replace "Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:" with: 
+> "There are no particularly sensitive readable data nodes, e.g., ones that are protected by a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 
@@ -59,7 +59,7 @@ Some of the readable data nodes in this YANG module may be considered sensitive 
 Some of the RPC or action operations in this YANG module may be considered sensitive or vulnerable in some network environments. It is thus important to control access to these operations. Specifically, the following operations have particular sensitivities/ vulnerabilities:
 
 > If the data model contains any particularly sensitive RPC or action operations, then those operations must be listed here, along with an explanation of the associated specific sensitivity or vulnerability concerns. Otherwise, replace "Specifically, the following operations have particular sensitivities/ vulnerabilities:": 
->"There are no particularly sensitive RPC or action operations."
+>"There are no particularly sensitive RPC or action operations, e.g., ones that are protected by a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 
