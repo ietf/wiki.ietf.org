@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-07-14T07:14:29.114Z
+date: 2026-07-28T15:41:31.713Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -52,7 +52,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 19 | [draft-ietf-teas-te-topology-profiles](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topology-profiles/)                      | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/vpPUEQHfj9YeV4ic5Zj2GwODDWY/) | 2026-07-06
 | 20 | [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/) ^Exp,^ ^YDR^                   | WGLC Done - Issues raised           | 2025-01-13
 | 21 | [draft-ietf-teas-yang-rsvp](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp/) ^YDR^                               | Ready for WGLC (as per Authors)     | 2025-01-13
-| 22 | [draft-ietf-teas-yang-rsvp-te](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp-te/) ^YDR^                         | Open issues exist                   | 2025-01-13
+| 22 | [draft-ietf-teas-yang-rsvp-te](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp-te/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2026-07-28
 | 23 | [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/) ^Exp,^ ^YDR^                   | No open issues; Editorial cleanup pending; <br> Ver 20 will be ready for WGLC (as per authors)| 2025-01-13 
 | 24 | [draft-ietf-teas-yang-te-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2025-01-13
 | 25 | [draft-ietf-teas-yang-te-mpls-topology](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-te-mpls-topology/)                             | Open issues exist                   | 2025-01-13
