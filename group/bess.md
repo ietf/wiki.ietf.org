@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-07-25T00:24:56.852Z
+date: 2026-07-28T02:22:43.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -155,11 +155,10 @@ Shepherd's name indicated within parenthesis.
 
 ## Documents requested for Working Group adoption (Non Expired drafts only)
 
-* draft-rbickhart-evpn-ip-mac-proxy-adv (Jeffrey)
-  - adotion called
 * draft-rabadan-bess-evpn-inter-domain-opt-b
 * draft-rabnic-bess-evpn-mcast-eeg
 * draft-rabnag-bess-evpn-anycast-aliasing
+* draft-kriswamy-bess-evpn-perflow-df
 
 
 ## Documents that failed WG adoption
