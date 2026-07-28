@@ -2,7 +2,7 @@
 title: OAuth Spec Clusters
 description: 
 published: true
-date: 2026-07-28T09:43:07.801Z
+date: 2026-07-28T11:37:36.711Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-28T09:32:30.263Z
@@ -54,6 +54,7 @@ Covers how OAuth clients prove their identity to authorization servers, ranging 
 
 ### Active Drafts
 
+* draft-ietf-oauth-client-id-metadata-document — OAuth Client ID Metadata Document
 * draft-ietf-oauth-rfc7523bis — Assertion-Based Authorization Grants
 * draft-ietf-oauth-spiffe-client-auth — OAuth SPIFFE Client Authentication
 * draft-ietf-oauth-attestation-based-client-auth — OAuth 2.0 Attestation-Based Client Authentication
