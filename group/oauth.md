@@ -2,7 +2,7 @@
 title: OAUTH WG - Web Authorization Protocol
 description: 
 published: true
-date: 2026-07-28T09:31:34.424Z
+date: 2026-07-28T09:32:50.553Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-19T20:41:37.425Z
@@ -14,7 +14,6 @@ dateCreated: 2022-12-19T20:41:37.425Z
 This wiki is for use by the IETF's OAuth WG. 
 
 * [OAuth Spec Clusters](/group/oauth/OAuthSpecClusters)
-
 
 
 ## Archive
