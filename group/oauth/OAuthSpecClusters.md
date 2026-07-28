@@ -2,11 +2,14 @@
 title: OAuth Spec Clusters
 description: 
 published: true
-date: 2026-07-28T09:32:30.263Z
+date: 2026-07-28T09:33:21.249Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-28T09:32:30.263Z
 ---
+
+> This page is related to an active IETF Working Group.
+{.is-success}
 
 # OAuth Spec Clusters
 
