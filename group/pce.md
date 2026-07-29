@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-07-19T08:25:00.995Z
+date: 2026-07-29T14:28:54.009Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -28,11 +28,14 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-| draft-lee-pce-pcep-ls-optical | Psalms 13:1 |
 |draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
 | draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
 | draft-many-pce-stateful-amendment | Formal email to be sent to list by authors |
+| draft-contreras-pce-pam | last presented at IETF 126 |
+| draft-sidor-pce-binding-label-sid-extensions | last presented at IETF 126 |
+
+
 
 
 ## WG Adoption Call Queue
@@ -41,6 +44,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
+| draft-gandhi-pce-pm | Pending | Polled during IETF 126 | Julien |
+| draft-lee-pce-pcep-ls-optical | Pending | - | - |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
 
