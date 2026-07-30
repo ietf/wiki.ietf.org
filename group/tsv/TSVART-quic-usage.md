@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-30T09:26:06.822Z
+date: 2026-07-30T09:28:18.767Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -73,6 +73,10 @@ QUIC may be expected to continue to evolve as new versions and options emerge. T
 ### Consider using a service over HTTP or TCP instead?
 
 ### Are there deployment incentives / implementation experience - especially when there are alternate mechanisms to achieve similar objectives?
+
+### NAT and Firewall Traversal
+
+### Peer to Peer
 
 
 
