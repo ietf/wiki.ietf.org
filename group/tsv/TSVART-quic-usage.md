@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-24T14:28:45.969Z
+date: 2026-07-30T09:26:06.822Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -34,7 +34,7 @@ QUIC enables 0-RTT data as noted by TLS usage of this data requires consideratio
 
 ### Long-Lived Connections
 
-Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC] (https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
+Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
 ## QUIC Streams
 
