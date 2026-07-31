@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-31T10:42:33.067Z
+date: 2026-07-31T21:24:21.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -41,8 +41,6 @@ Context: [Document](https://docs.google.com/document/d/1eR72hBv1TZTAJONVVfmmRxQ9
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-### 2026-07-18 - 2026-07-24: [IETF 126 Vienna](https://wiki.ietf.org/en/group/iab/Agenda126)
-
 - 2026-08-05 Informal 0600-0700 UTC
 - 2026-08-12 Informal 1400-1500 UTC
 - 2026-08-19 Informal 2300-0000 UTC
@@ -89,7 +87,7 @@ See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
 
 ## Past Teleconferences 
 
-* [Past IAB Teleconferences - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
+* [Past Formal IAB Business Meetings - Datatracker](https://datatracker.ietf.org/group/iab/meetings/)
 
 
 <!--
