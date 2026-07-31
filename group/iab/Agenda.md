@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-07-23T13:22:11.133Z
+date: 2026-07-31T10:42:33.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,6 +31,7 @@ Context: [Document](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3
 ### 2. ISE Survey
 
 Context: [Document](https://docs.google.com/document/d/1eR72hBv1TZTAJONVVfmmRxQ9zRsMIG01JLlCtZrGG9Y/edit?tab=t.0)
+
 
 ## Regrets
 
