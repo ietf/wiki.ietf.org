@@ -2,7 +2,7 @@
 title: IRSG Dinners
 description: 
 published: true
-date: 2026-03-26T21:18:32.342Z
+date: 2026-08-04T16:38:31.310Z
 tags: irtf
 editor: markdown
 dateCreated: 2023-02-27T16:52:39.142Z
@@ -13,9 +13,9 @@ dateCreated: 2023-02-27T16:52:39.142Z
 The IRSG meets for a working dinner at each IETF meeting, typically on the Wednesday evening after the plenary.
 
 * IETF 126 Vienna
-	* Google poll for attendance: 	TBD
-  * Wednesday, 22 July, after the plenary
-  * Venue: TBD
+	* Google poll for attendance: https://forms.gle/xJEnswC7czedp1co6	
+  * Thursday, 23 July, at 19:00
+  * Venue: Restaurant Ofenloch
 
 * IETF 125 Shenzhen
 	* Google poll for attendance: 	https://docs.google.com/forms/d/e/1FAIpQLSe9QIUMtvYohUByPZ4NUzpAycmqMqWix_NQubx09t4uhzNChQ/viewform
