@@ -2,7 +2,7 @@
 title: PQ DNSSEC Research
 description: Wiki page for the pq-dnssec@ietf.org non-wg mailing list
 published: true
-date: 2026-07-23T15:25:37.765Z
+date: 2026-08-04T16:57:24.489Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-15T13:50:25.960Z
@@ -12,6 +12,8 @@ dateCreated: 2024-10-15T13:50:25.960Z
 {.is-warning}
 
 This wiki page is designated to collecting information relevant to the non-wg mailing list pq-dnssec@ietf.org ([mailman](https://mailman3.ietf.org/mailman3/lists/pq-dnssec.ietf.org/)) on post-quantum DNSSEC research.
+
+Chairs: Caspar Schutijser, Peter Thomassen
 
 Documents:
 - [Research Agenda for a Post-Quantum DNSSEC](https://datatracker.ietf.org/doc/draft-fregly-research-agenda-for-pqc-dnssec/)
