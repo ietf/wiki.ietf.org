@@ -2,26 +2,27 @@
 title: IRTF Education
 description: Education Resources for Internet Research
 published: true
-date: 2026-08-05T14:10:30.464Z
+date: 2026-08-05T14:19:37.165Z
 tags: irtf, edu
 editor: markdown
 dateCreated: 2026-08-05T13:53:17.339Z
 ---
 
-
 # Internet Research Education
+
+*A community activity of the Internet Research Task Force (IRTF).*
 
 ## Overview
 
-The Internet Research Task Force (IRTF) Education Activity aims to improve access to high-quality educational resources for Internet research and advanced networking technologies.
+The Internet Research Task Force (IRTF) Education Activity aims to improve access to high-quality educational resources for Internet research and advanced Internet technologies.
 
 Excellent teaching materials already exist across universities, research groups, standards organizations, conferences, and open-source communities. However, these resources are often difficult to discover, scattered across many websites and repositories, and maintained independently.
 
-The goal of this activity is **not** to replace existing educational efforts or create new textbooks from scratch. Instead, it seeks to identify, curate, organize, and promote reusable educational resources covering Internet research topics, making them easier for educators, students, researchers, and practitioners to find and reuse.
+The goal of this activity is **not** to replace existing educational efforts or create new textbooks from scratch. Instead, it seeks to identify, curate, organize, and promote reusable educational resources covering Internet research topics, making them easier for educators, students, researchers, and practitioners to discover and reuse.
 
-This catalogue is intentionally organized around **Internet research topics** rather than individual resources. It is **not intended to be exhaustive**. Instead, it aims to identify a curated collection of high-quality educational resources that are useful for teaching, self-study, and research.
+The catalogue is intentionally organized around **Internet research topics** rather than individual resources. It is **not intended to be exhaustive**. Instead, it aims to identify a curated collection of high-quality educational resources that support teaching, self-study, and research.
 
-The activity welcomes contributions from the broader Internet research community.
+Contributions from the Internet research community are warmly encouraged.
 
 ---
 
@@ -32,36 +33,48 @@ The Education Activity aims to:
 - Curate educational resources relevant to Internet research.
 - Encourage reuse of teaching material across institutions.
 - Promote reproducible laboratory exercises and research artifacts.
-- Improve the visibility of modern Internet research topics in education.
+- Improve the visibility of emerging Internet research topics in education.
 - Facilitate collaboration among educators, researchers, and practitioners.
 - Identify gaps where new community-developed educational material would be beneficial.
 
 ---
 
-# Scope
+# Internet Research Topics
 
-Resources may include:
+Each topic should gradually evolve into a curated portal including learning material, standards, software, laboratory environments, and research references.
 
-- Open textbooks
-- Complete university courses
-- Lecture modules
-- Tutorials
-- Laboratory exercises
-- Research software
-- Simulators
-- Reproducible research artifacts
-- Datasets
-- Videos and recorded lectures
-- Summer school material
-- AI-assisted educational methodologies
+The suggested structure for each topic is:
+
+- Overview
+- Learning Resources
+- Primary Sources (RFCs, Internet-Drafts, Standards, Seminal Papers)
+- Software & Implementations
+- Hands-on Labs
+- Videos & Tutorials
+- Related Topics
 
 ---
 
-# Browse by Internet Research Topic
-
 ## Internet Architecture
 
-*(Resources to be added.)*
+- Internet Architecture
+- Internet Measurement
+
+---
+
+## Naming
+
+### DNS
+
+**Learning Resources**
+
+- Mini Internet Project
+  https://github.com/nsg-ethz/mini_internet_project
+
+**Primary Sources**
+
+- RFC 1034 — Domain Names: Concepts and Facilities
+- RFC 1035 — Domain Names: Implementation and Specification
 
 ---
 
@@ -69,21 +82,21 @@ Resources may include:
 
 ### QUIC
 
-QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growing ecosystem of Internet protocols, including Media over QUIC (MoQ) and WebTransport.
+**Learning Resources**
 
-#### Educational Resources
+- Computer Networking: Principles, Protocols and Practice
+  https://4ed.computer-networking.info/syllabus/default/hosts/quic.html
 
-| Resource | Type | Level | Notes |
-|----------|------|-------|------|
-| Computer Networking: Principles, Protocols and Practice – QUIC Chapter | Open textbook | Undergraduate / Graduate | Modern introduction to QUIC with protocol details. https://4ed.computer-networking.info/syllabus/default/hosts/quic.html |
-| Computer Networks: A Systems Approach | Open textbook | Undergraduate / Graduate | Background on transport protocols and Internet architecture. https://systemsapproach.org/books/computer-networks/ |
+- Computer Networks: A Systems Approach
+  https://systemsapproach.org/books/computer-networks/
 
-#### Related Topics
+**Primary Sources**
 
-- HTTP/3
-- Congestion Control
-- Media over QUIC
-- WebTransport
+- RFC 9000 — QUIC: A UDP-Based Multiplexed and Secure Transport
+- RFC 9001 — Using TLS to Secure QUIC
+- RFC 9002 — QUIC Loss Detection and Congestion Control
+- RFC 9114 — HTTP/3
+- RFC 9221 — QUIC DATAGRAM
 
 ---
 
@@ -107,19 +120,29 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ## Routing
 
+### Internet Routing
+
+**Learning Resources**
+
+- Mini Internet Project
+  https://github.com/nsg-ethz/mini_internet_project
+
+---
+
 ### BGP
 
-*(Resources to be added.)*
+**Learning Resources**
+
+- Mini Internet Project
+  https://github.com/nsg-ethz/mini_internet_project
+
+**Primary Sources**
+
+- RFC 4271 — A Border Gateway Protocol 4 (BGP-4)
 
 ---
 
 ### Path-Aware Networking
-
-*(Resources to be added.)*
-
----
-
-### Segment Routing
 
 *(Resources to be added.)*
 
@@ -143,11 +166,10 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ### Distributed Systems
 
-#### Educational Resources
+**Learning Resources**
 
-| Resource | Type | Level | Notes |
-|----------|------|-------|------|
-| Distributed Systems: A Systems Approach | Open textbook | Undergraduate / Graduate | Modern distributed systems textbook. https://systemsapproach.org/books/distributed-systems/ |
+- Distributed Systems: A Systems Approach
+  https://systemsapproach.org/books/distributed-systems/
 
 ---
 
@@ -163,7 +185,7 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ---
 
-## AI and Networking
+## Networked Systems for AI
 
 ### AI Networking
 
@@ -177,7 +199,31 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ---
 
+### AI Inference Systems
+
+*(Resources to be added.)*
+
+---
+
+### GPU Networking
+
+*(Resources to be added.)*
+
+---
+
+### Collective Communication
+
+*(Resources to be added.)*
+
+---
+
 ### AI Agents
+
+*(Resources to be added.)*
+
+---
+
+### Agent Communication Protocols
 
 *(Resources to be added.)*
 
@@ -197,11 +243,23 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ---
 
+### Programmable Networks
+
+*(Resources to be added.)*
+
+---
+
 ## Decentralization
 
 ### Information-Centric Networking
 
-*(Resources to be added.)*
+**Learning Resources**
+
+- Mini-NDN
+  https://github.com/named-data/mini-ndn
+
+- ndnSIM
+  https://ndnsim.net/
 
 ---
 
@@ -212,6 +270,106 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 ---
 
 ### Secure Web Objects
+
+*(Resources to be added.)*
+
+---
+
+## Internet Standards
+
+### IETF
+
+*(Resources to be added.)*
+
+---
+
+### Internet-Drafts
+
+*(Resources to be added.)*
+
+---
+
+### RFCs
+
+*(Resources to be added.)*
+
+---
+
+### Open Source and Running Code
+
+*(Resources to be added.)*
+
+---
+
+### Interoperability
+
+*(Resources to be added.)*
+
+---
+
+### Hackathons
+
+*(Resources to be added.)*
+
+---
+
+## Internet Research Methods
+
+### Experimental Methodology
+
+*(Resources to be added.)*
+
+---
+
+### Reproducible Research
+
+*(Resources to be added.)*
+
+---
+
+### Network Simulation
+
+**Learning Resources**
+
+- ns-3
+  https://www.nsnam.org/
+
+---
+
+### Network Emulation
+
+**Learning Resources**
+
+- Mininet
+  https://mininet.org/
+
+- Mini Internet Project
+  https://github.com/nsg-ethz/mini_internet_project
+
+- Mini-NDN
+  https://github.com/named-data/mini-ndn
+
+---
+
+### Internet Measurement
+
+*(Resources to be added.)*
+
+---
+
+### Benchmarking
+
+*(Resources to be added.)*
+
+---
+
+### Research Software
+
+*(Resources to be added.)*
+
+---
+
+### Research Artifacts
 
 *(Resources to be added.)*
 
@@ -231,30 +389,32 @@ QUIC is the transport protocol underlying HTTP/3 and forms the basis for a growi
 
 ---
 
-# Featured Resources
+### RPKI
 
-The following resources cover multiple Internet research topics and provide an excellent starting point for educators, students, and researchers.
+*(Resources to be added.)*
+
+---
+
+# Featured Resources
 
 ## Open Textbooks
 
 ### Computer Networking: Principles, Protocols and Practice
 
-- Website: https://4ed.computer-networking.info/
-- Source: https://github.com/cnp3/ebook
+https://4ed.computer-networking.info/
 
-A comprehensive open textbook covering modern networking concepts together with source material and teaching resources.
+Source:
+https://github.com/cnp3/ebook
 
 ---
 
-### Systems Approach Book Series
+### Systems Approach Series
 
 https://systemsapproach.org/books-html/
 
-A collection of freely accessible online textbooks, including:
-
-- Computer Networks: A Systems Approach
-- Distributed Systems: A Systems Approach
-- Software-Defined Networks: A Systems Approach
+- Computer Networks
+- Distributed Systems
+- Software-Defined Networks
 
 ---
 
@@ -264,77 +424,36 @@ A collection of freely accessible online textbooks, including:
 
 https://education.sigcomm.org/
 
-A community-maintained collection of networking education resources contributed by the ACM SIGCOMM community.
-
 ---
 
 ## Laboratory Platforms
 
-### Mini Internet Project
-
-https://github.com/nsg-ethz/mini_internet_project
-
-A realistic Internet-scale laboratory environment based on Mininet for teaching Internet architecture, routing, DNS, BGP, and related technologies.
-
----
-
-### Mini-NDN
-
-https://github.com/named-data/mini-ndn
-
-A Mininet-based emulator for Named Data Networking (NDN), supporting reproducible experiments and educational laboratories.
-
----
-
-### ns-3
-
-https://www.nsnam.org/
-
-A widely used discrete-event network simulator for networking research and education.
-
----
-
-### ndnSIM
-
-https://ndnsim.net/
-
-An NDN simulator built on ns-3 for Information-Centric Networking research and education.
-
-# Suggested Metadata
-
-Contributors are encouraged to include the following information whenever possible.
-
-| Field | Description |
-|--------|-------------|
-| Title | Name of the resource |
-| Topic | Primary technical area |
-| Type | Textbook, Course, Lab, Tutorial, Video, Software, Dataset, etc. |
-| Level | Undergraduate, Graduate, Professional |
-| Technologies | QUIC, Mininet, ns-3, Docker, ICN, etc. |
-| License | CC-BY, MIT, BSD, GPL, etc. |
-| Maintainer | Person or organization |
-| URL | Primary project page |
-| Last Updated | If known |
+- Mini Internet Project
+- Mini-NDN
+- ns-3
+- Mininet
+- ndnSIM
 
 ---
 
 # Contributing
 
-This page is community-maintained.
+Contributions are welcome.
 
-Contributions are welcome, including:
+Useful additions include:
 
 - Educational resources
-- Corrections and updates
-- Experience reports from teaching
+- RFCs and Internet-Drafts
+- Seminal research papers
 - Laboratory exercises
+- Software
 - Tutorials
-- Reproducible research artifacts
 - Videos
-- Suggestions for new topics
-- AI-assisted educational methodologies
+- Summer schools
+- Research artifacts
+- Corrections and updates
 
-Please keep descriptions concise, objective, and up to date.
+Please keep descriptions concise and objective.
 
 ---
 
@@ -344,11 +463,9 @@ Possible future activities include:
 
 - Community-maintained educational resource collections
 - Modular lecture units
-- Reusable laboratory environments
 - Community tutorials
 - Summer schools
+- Reproducible laboratory environments
 - Educational best practices
 - AI-assisted Internet research education
-- Guidance for transforming research artifacts into educational resources
-
-The long-term vision is to build an open, community-maintained catalogue that helps educators, students, researchers, and practitioners discover high-quality educational resources across the broad spectrum of Internet research.
+- Guidance for transforming research artifacts into reusable educational material
