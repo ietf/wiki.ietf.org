@@ -2,7 +2,7 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-03-26T21:07:43.315Z
+date: 2026-08-05T13:51:41.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
@@ -41,6 +41,10 @@ The IRTF follows the IETF [Intellectual Property Rights (IPR)](http://irtf.org/p
 
 <!-- ## Pages for IRTF Non-RG-Intending Activities 
  * [AI and ML Discussions]() -->
+
+## IRTF Activities
+
+[Education](/actitivies/edu)
 
 ## Status of IRTF Documents 
 
