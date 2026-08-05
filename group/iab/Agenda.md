@@ -2,22 +2,22 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-05T05:53:45.051Z
+date: 2026-08-05T06:48:50.306Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-08-05, 06:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-08-12, 14:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-08-05
+## There WILL be a meeting on 2026-08-12
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m46aa6544da712caf5f976f5c47ae393f
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1462ee51b58235f48f3c18833c20dbe7
 
 
 
@@ -33,18 +33,21 @@ Context: [Document](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3
 Context: [Document](https://docs.google.com/document/d/1eR72hBv1TZTAJONVVfmmRxQ9zRsMIG01JLlCtZrGG9Y/edit?tab=t.0)
 
 
+### 3. PQC Workshop Proposal (Nick)
+
+Context: [Workshop Proposal](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing)
+
+### 4. Response to ITU-T SG17 Liaison
+
+Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
 ## Regrets
 
-- Roman
-- Yaroslav
-- Nick
-- Alvaro
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-08-05 Informal 0600-0700 UTC
 - 2026-08-12 Informal 1400-1500 UTC
 - 2026-08-19 Informal 2300-0000 UTC
 - **2026-08-26 Formal 1300-1500 UTC**
