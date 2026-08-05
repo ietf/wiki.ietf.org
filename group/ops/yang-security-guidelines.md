@@ -23,12 +23,12 @@ Further, if new RPC operations have been defined, then the security consideratio
 
 This section is modeled after the template described in Section 3.7.1 of [RFC9907].
 
-The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC8446], and QUIC [RFC9000]) and (2) have to use mutual authentication.
+The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) MUST use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC9846], and QUIC [RFC9000]) and (2) have to use mutual authentication.
 
 The Network Configuration Access Control Model (NACM) [RFC8341] provides the means to restrict access for particular NETCONF or RESTCONF users to a preconfigured subset of all available NETCONF or RESTCONF protocol operations and content.
 
 > Note: [RFC8341] (or a future RFC that replaces it) MUST be listed as a normative reference.
-> By default, [RFC4252], [RFC6241], [RFC8040], [RFC8446], [RFC9000], and [RFC9907] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
+> By default, [RFC4252], [RFC6241], [RFC8040], [RFC9846], [RFC9000], and [RFC9907] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
 
 ### Writable nodes section:
 
@@ -38,7 +38,7 @@ The Network Configuration Access Control Model (NACM) [RFC8341] provides the mea
 There are a number of data nodes defined in this YANG module that are writable/creatable/deletable (i.e., "config true", which is the default).  All writable data nodes are likely to be reasonably sensitive or vulnerable in some network environments.  Write operations (e.g., edit-config) and delete operations to these data nodes without proper protection or authentication can have a negative effect on network operations.  The following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
 > If the data model contains any particularly sensitive data nodes, e.g., ones that are protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement, then those subtrees and data nodes must be listed, with an explanation of the associated security risks with a focus on how they can be disruptive if abused. Otherwise, replace "The following subtrees and data nodes have particular sensitivities/vulnerabilities:" with:
-> "There are no particularly sensitive writable data nodes."
+> "There are no particularly sensitive writable data nodes, e.g., ones that are protected by a "nacm:default-deny-write" or a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 ### Readable nodes section:
@@ -47,8 +47,8 @@ There are a number of data nodes defined in this YANG module that are writable/c
 
 Some of the readable data nodes in this YANG module may be considered sensitive or vulnerable in some network environments.  It is thus important to control read access (e.g., via get, get-config, or notification) to these data nodes. Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:
 
-> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes because they can also be read via operations like get or get-config) that are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that are protected by a "nacm:default-deny-read" or a "nacm:default-deny-all" extensions statement. Otherwise, replace "Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:" with: 
-> "There are no particularly sensitive readable data nodes."
+> You must evaluate whether the data model contains any readable data nodes (those are all the "config false" nodes, but also all other nodes because they can also be read via operations like get or get-config) that are particularly sensitive or vulnerable (e.g., if they might reveal customer information or violate personal privacy laws). Typically, particularly sensitive readable data nodes are ones that are protected by a "nacm:default-deny-all" extensions statement.  Otherwise, replace "Specifically, the following subtrees and data nodes have particular sensitivities/vulnerabilities:" with: 
+> "There are no particularly sensitive readable data nodes, e.g., ones that are protected by a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 
@@ -59,7 +59,7 @@ Some of the readable data nodes in this YANG module may be considered sensitive 
 Some of the RPC or action operations in this YANG module may be considered sensitive or vulnerable in some network environments. It is thus important to control access to these operations. Specifically, the following operations have particular sensitivities/ vulnerabilities:
 
 > If the data model contains any particularly sensitive RPC or action operations, then those operations must be listed here, along with an explanation of the associated specific sensitivity or vulnerability concerns. Otherwise, replace "Specifically, the following operations have particular sensitivities/ vulnerabilities:": 
->"There are no particularly sensitive RPC or action operations."
+>"There are no particularly sensitive RPC or action operations, e.g., ones that are protected by a "nacm:default-deny-all" extensions statement."
 <!-- {blockquote:.is-info} -->
 
 
