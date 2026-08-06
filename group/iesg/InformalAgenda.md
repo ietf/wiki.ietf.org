@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-07-24T12:10:55.964Z
+date: 2026-08-06T22:29:48.757Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - August 13, 2026
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -48,6 +48,14 @@ Note that this page is public.
 
 1. 20u/40u/Side meetings rooms - Andy
 
+2. Update to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
+
+3. Guiance to directorate reviewers about using tools for reviews (Deb, Tommy)
+
+4. Outstanding requests on enhancing Datatracker participant profiles (Med, Mike)
+
+5. Community Consultation on Remote Rooms - Laura
+
 ### WG News 
 
 
@@ -56,6 +64,11 @@ Note that this page is public.
 
 ### Executive Sessions
 
+1. Ombudsteam Requests Update to IESG Statement on Harassment
+
+2. Use of AI in the IETF 
+
+    Context: "Dealing with LLMs in IETF discussions draft" thread on ietf@
 
 ### AOB
 
