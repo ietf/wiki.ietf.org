@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:12:51.839Z
+date: 2026-08-06T20:15:57.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -13,7 +13,9 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
 
-## RFC approved, but not published. 
+## RFC approved, but not published
+ - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](/group/idr/implementations/draft-idr-sr-epe-over-l2bundle)
+ 
 
 ## Implementation reports for Drafts at IESG
  - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
