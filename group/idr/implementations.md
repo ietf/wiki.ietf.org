@@ -2,16 +2,13 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:34:19.385Z
+date: 2026-08-06T20:47:54.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
 ---
 
-# Implementation Reports
-
-## old implementation pages 
-- [Old-summary-page](/group/idr/BGP-Implementation-report/)
+# Implementation Report
 
 ## RFC approved, but not published
  - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](/group/idr/implementations/draft-idr-sr-epe-over-l2bundle)
@@ -30,7 +27,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation report for Post-WG LC drafts  
 
-- [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model)
+- [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model) 
 
  ## Implementation reports for drafts at WG LC  
  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
@@ -49,27 +46,38 @@ dateCreated: 2023-03-13T05:29:13.348Z
 #### Core - needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
-  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
- 
- ### BGP-LS 
-### BGP-LS - Needs 2 implementatioms 
- - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
- - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
- - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
- 
+ - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
+ - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
+  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
 
-### Flow Spec - Actions 
+#### Core Allocation 
+ - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
+ 
+### BGP-LS 
+### BGP-LS - Needs 2 implementatioms 
+ - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
+
+
+### SR and SR TE 
+#### SR - needs two implementations 
+  - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
+
+
+### Flow Spec
+#### FS Actions in Extended Community - 2 iplementations 
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
  - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
+ 
+ #### FSv1 specifications  needing rewrite 
   - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
 
-## Implementations at Code Allocation
- - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
+## Core Allocatio m
+
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
 
 ## Implementation Report for drafts at WG
- - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
+### Core 
  - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
  - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
