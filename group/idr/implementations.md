@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-06-03T20:59:35.109Z
+date: 2026-08-06T20:09:25.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -20,6 +20,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
 - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
  - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
+ - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
   
 ## Implementation report for Post-WG LC drafts  
  - [draft-ietf-idr-sdwan-edge-discovery-20](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
@@ -95,7 +96,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
  - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
  - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended) 
- - [draft-ietf-rfc5575bis implementations](/group/idr/implementations/draft-ietf-rfc5575bis)
+ - [draft-ietf-idr-rfc5575bis implementations](/group/idr/implementations/draft-ietf-idr-rfc5575bis)
  - [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
  - [draft-ietf-idr-ts-flowspec-srv6-policy implementations](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
  - [draft-ietf-idr-tunnel-encaps implementations](/group/idr/implementations/draft-ietf-idr-tunnel-encaps)
@@ -109,6 +110,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgp-ls-sbfd-extensions implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-sbfd-extensions)
  - [draft-ietf-idr-bgp-open-policy](/group/idr/implementations/draft-ietf-idr-bgp-open-policy)
  - [draft-ietf-idr-bgp-ls-flex-algo implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-implement)
+  - [draft-ietf-idr-bgp-ls-flex-algo ext-implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgp-ls-flex-algo-ext-implement)
  - [draft-ietf-idr-bgpls-srv6-ext implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-bgpls-srv6-ext-implement)
  - [draft-ietf-idr-RFC7752bis implementations](/group/idr/BGP-Implementation-report/draft-ietf-idr-RFC7752bis-implement)
   - [draft-ietf-idr-bfd-subcode implementations](/group/idr/implementations/draft-ietf-idr-bfd-subcode) (RFC 9384)
