@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:29:45.268Z
+date: 2026-08-06T20:30:57.948Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -36,21 +36,22 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
  
  ## implementations at Pre-WG LC  (2  implementations) 
- ### Core - 2 implementatioms exist 
+ ### Core 
+ #### Core - 2 implementatioms exist 
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 - [draft-ietf-idr-bgp-sr-mpls-elp](/group/idr/implementations/draft-ietf-idr-bgp-sr-mpls-elp)
   
  - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
-### Core - needs 2 implementatioms 
+#### Core - needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
-
-### BGP-LS 
+ 
+ ### BGP-LS 
+### BGP-LS - Needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit)
  - [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](/group/idr/implementations/draft-ietf-idr-bgp-ls-node-admin-tag-extension)
- - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  
