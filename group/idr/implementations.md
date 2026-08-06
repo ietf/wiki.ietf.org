@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:49:53.231Z
+date: 2026-08-06T20:50:40.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -44,6 +44,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
  - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
+
  
 #### Core - needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
@@ -51,7 +52,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
-  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
+ - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
+ - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
 
 #### Core Allocation 
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
@@ -78,7 +80,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementation Report for drafts at WG
 ### Core 
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
--  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
     
 &nbsp;
