@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:33:26.696Z
+date: 2026-08-06T20:34:19.385Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -91,7 +91,10 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [RFC9774](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) 
  - [RFC9687](/group/idr/implementations/draft-ietf-idr-sendholdtimer) - RFC9687
 
-## implementation repots (old) 
+## old implementation pages 
+- [Old-summary-page](/group/idr/BGP-Implementation-report/)
+
+## implementation reports (old) 
  
  - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
  - [draft-ietf-idr-as-migration implementations](/group/idr/implementations/draft-ietf-idr-as-migration)
