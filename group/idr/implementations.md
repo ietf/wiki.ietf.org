@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:51:05.646Z
+date: 2026-08-06T20:51:57.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -86,16 +86,13 @@ dateCreated: 2023-03-13T05:29:13.348Z
 &nbsp;
 
 ---
-## Implementation Reports for IDR RFC
- 
+## Implementation Reports for IDR RFC 
 - [RFC9830](/group/idr/implementations/draft-ietf-idr-sr-policy-safi)
- 
 - [RFC983](/group/idr/implementations/draft-ietf-idr-bgp-sr-segtypes-ext)
-
- - [RFC9832](/group/idr/implementations/draft-ietf-idr-bgp-ct)
- - [RFC9871](/group/idr/implementations/draft-ietf-idr-bgp-car)
- - [RFC9774](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) 
- - [RFC9687](/group/idr/implementations/draft-ietf-idr-sendholdtimer) - RFC9687
+- [RFC9832](/group/idr/implementations/draft-ietf-idr-bgp-ct)
+- [RFC9871](/group/idr/implementations/draft-ietf-idr-bgp-car)
+- [RFC9774](/group/idr/implementations/draft-ietf-idr-deprecate-as-set-confed-set) 
+- [RFC9687](/group/idr/implementations/draft-ietf-idr-sendholdtimer)
 
 ## old implementation pages 
 - [Old-summary-page](/group/idr/BGP-Implementation-report/)
