@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:49:03.310Z
+date: 2026-08-06T20:49:53.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -64,7 +64,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ### SR and SR TE 
 #### SR - needs two implementations 
   - [draft-ietf-idr-sr-policy-path-mtu](/group/idr/implementations/draft-ietf-idr-sr-policy-path-mtu)
-
+ - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
+ -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 
 ### Flow Spec
 #### FS Actions in Extended Community - 2 iplementations 
@@ -76,8 +77,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
 ## Implementation Report for drafts at WG
 ### Core 
- - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
- - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
  - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
