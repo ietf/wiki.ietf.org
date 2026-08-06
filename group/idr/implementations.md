@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:30:57.948Z
+date: 2026-08-06T20:33:26.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -34,6 +34,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
  ## Implementation reports for drafts at WG LC  
  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
+  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
+  
  
  ## implementations at Pre-WG LC  (2  implementations) 
  ### Core 
@@ -47,6 +49,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 #### Core - needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
+  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  
  ### BGP-LS 
 ### BGP-LS - Needs 2 implementatioms 
@@ -56,7 +59,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  
 
-## Implementations FSv1 Extended Community 
+### Flow Spec - Actions 
  - [draft-ietf-idr-flowspec-interface-set](/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
  - [draft-ietf-idr-flowspec-path-redirect](/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
   - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn)
@@ -68,8 +71,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## Implementation Report for drafts at WG
  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-te-lsp-distribution](/group/idr/implementations/draft-ietf-idr-te-lsp-distribution)
- - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external)
- - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
+ - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 -  [draft-ietf-idr-bgp-ls-isis-flood-reflection](/group/idr/implementations/draft-ietf-idr-bgp-ls-isis-flood-reflection)
 - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
     
