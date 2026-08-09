@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-05T06:48:50.306Z
+date: 2026-08-09T17:50:53.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,6 +40,9 @@ Context: [Workshop Proposal](https://docs.google.com/document/d/1e5BEPIgFAVudBiE
 ### 4. Response to ITU-T SG17 Liaison
 
 Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
+[GitHub](https://github.com/intarchboard/responsibilities/issues/101)
+[Proposed response](https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing)
+
 ## Regrets
 
 
