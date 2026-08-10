@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-06T22:29:48.757Z
+date: 2026-08-10T18:37:31.581Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -46,7 +46,7 @@ Note that this page is public.
 
 ### Management Issues
 
-1. 20u/40u/Side meetings rooms - Andy
+1. [Side meetings](https://docs.google.com/presentation/d/1XMHMsuGQHj0MyYLMdfVcfuvZS5k8dnKtVM7pE7e2Q3M/edit?usp=sharing) - Andy
 
 2. Update to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
 
