@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-10T18:37:31.581Z
+date: 2026-08-10T22:52:52.500Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,7 +54,7 @@ Note that this page is public.
 
 4. Outstanding requests on enhancing Datatracker participant profiles (Med, Mike)
 
-5. Community Consultation on Remote Rooms - Laura
+
 
 ### WG News 
 
