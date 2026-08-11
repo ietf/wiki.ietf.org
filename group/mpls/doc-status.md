@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-06-02T14:10:19.749Z
+date: 2026-08-11T10:49:30.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-
+| 2026-08-11 | draft-beeram-spring-rsvp-sr-mpls | Negotiating with SPRING chairs | Tarek |
 ## Queued for WG Adoption Poll
 
 Documents in this state are waiting for the chairs to issue an adoption poll. Adoption polls and working group last calls will be paced by the chairs so that the working group participants are not swamped with review activity.
@@ -30,7 +30,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
-| --- | --- | --- | --- |
+| draft-deshmukh-mpls-frr-ext | 2026-08-17 | IPR poll done | Tony |
 
 
 ## Adoption Poll Complete But Pending Author Action
@@ -50,6 +50,8 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
+| 2026-08-11 | draft-ietf-mpls-mna-ioam | Pending update after external reviews | Adrian |
+| 2026-08-11 | draft-ietf-mpls-on-path-telemetry-flag | Pending RTG Dir review | Tony |
 
 ## Queued for WG Last Call
 
@@ -72,7 +74,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
-| 2026-05-28 | draft-ietf-mpls-stamp-pw | Resolve comments, pending Shepherd write-up | Tony | 
 
 ## Post Working Group Last Call
 
