@@ -2,7 +2,7 @@
 title: spring WGLC History
 description: 
 published: true
-date: 2026-01-19T21:02:21.165Z
+date: 2026-08-11T21:16:48.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:52:25.846Z
@@ -54,3 +54,17 @@ dateCreated: 2023-08-14T18:52:25.846Z
   * 2025-09-25 Started [WGLC](https://mailarchive.ietf.org/arch/msg/spring/eapWIz3JcpzVLm7xPfSe30jaQUg/).
   * 2025-10-14: The outcome of the WGLC is tied to the NRP-related Interim from Oct/14.  Will require a new WGLC after Operational Considerations are included.
   * 2026-01-19 [Publication Requested](https://mailarchive.ietf.org/arch/msg/spring/NEOlFyUqPytunpO3020mUyZ_pAE/)
+ * draft-watal-spring-srv6-sfc-sr-aware-functions
+   * [Responsible Chair: Joel]
+   * 2025-11-04 (IETF 124) Authors sent request
+   * 2026-01-13 waiting for WG engagment
+   * 2026-06-16 Authors notified that the draft would be removed from the pending adoption list due to lack of engagement
+   * 2026-06-18 Authors confirmed their understanding, and indicated they will work on the draft and hope to come back when they have more engagement.
+* draft-ietf-spring-srv6-security
+  * [Responsible Chair: Alvaro]
+  * Shepherd: Zafar Ali
+  * [IETF 124] Waiting for Shepherd review and go-ahead.
+  * 2026-02-02 [WGLC](https://mailarchive.ietf.org/arch/msg/spring/b4TnXSUFni8dI3aJq1c9MhTunoA/)
+  * 2026-03-03 Not enough support, will issue a second WGLC after the directorate reviews are addressed.
+  * 2026-05-18 [Second WGLC](https://mailarchive.ietf.org/arch/msg/spring/Ke_gjjcIY3X37y9xmywEO3TYsAk/)
+  * 2026-08-11 [Publication Requested](https://mailarchive.ietf.org/arch/msg/spring/sGrw0Zhat0xpN6xlJkrGFf8UDk8/)
