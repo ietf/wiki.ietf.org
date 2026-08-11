@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-07-07T14:27:12.653Z
+date: 2026-08-11T21:16:59.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -40,13 +40,6 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
   * [Responsible Chair: Alvaro]
   * 2025-10-03 Authors sent request
   * This document depends on draft-ietf-spring-srv6-path-segment, so we will wait until that one passes WGLC.
-* draft-ietf-spring-srv6-security
-  * [Responsible Chair: Alvaro]
-  * Shepherd: Zafar Ali
-  * [IETF 124] Waiting for Shepherd review and go-ahead.
-  * 2026-02-02 [WGLC](https://mailarchive.ietf.org/arch/msg/spring/b4TnXSUFni8dI3aJq1c9MhTunoA/)
-  * 2026-03-03 Not enough support, will issue a second WGLC after the directorate reviews are addressed.
-  * 2026-05-18 [Second WGLC](https://mailarchive.ietf.org/arch/msg/spring/Ke_gjjcIY3X37y9xmywEO3TYsAk/)
 * draft-ietf-spring-sr-redundancy-protection
   * [Responsible Chair: Joel]
   * 2026-03-20 @ IETF 125: Authors asked for WGLC.
