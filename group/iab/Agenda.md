@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-09T17:50:53.601Z
+date: 2026-08-11T11:46:11.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -42,6 +42,10 @@ Context: [Workshop Proposal](https://docs.google.com/document/d/1e5BEPIgFAVudBiE
 Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
 [GitHub](https://github.com/intarchboard/responsibilities/issues/101)
 [Proposed response](https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing)
+
+### 5. Outreach topics for H2 2026
+
+We have few potential operator events upcoming in H2 2026 including RIPE and NANOG meetings. Should we propose any deepdive technology topics to present or discuss?
 
 ## Regrets
 
