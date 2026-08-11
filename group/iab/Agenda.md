@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-11T11:46:11.877Z
+date: 2026-08-11T19:06:41.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -49,7 +49,8 @@ We have few potential operator events upcoming in H2 2026 including RIPE and NAN
 
 ## Regrets
 
-
+- Matthew Bocci
+- Yingzhen Qu
 
 ## Upcoming IAB Meetings
 
