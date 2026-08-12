@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-12T15:17:25.399Z
+date: 2026-08-12T15:26:11.470Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -24,32 +24,21 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Agenda
 
-### 1. IAB statement on Age-Based Restrictions (Mark)
+### 1. Outreach topics for H2 2026 (Yaroslav)
 
-Context: [Document](https://docs.google.com/document/d/1RL3C24TRsocxDaG6uNKeT2F3V6L6FC5i6vuIMLkxwlE/edit?usp=sharing) 
+We have few potential operator events upcoming in H2 2026 including RIPE and NANOG meetings. Should we propose any deepdive technology topics to present or discuss?
 
-### 2. ISE Survey
-
-Context: [Document](https://docs.google.com/document/d/1eR72hBv1TZTAJONVVfmmRxQ9zRsMIG01JLlCtZrGG9Y/edit?tab=t.0)
-
-
-### 3. PQC Workshop Proposal (Nick)
-
-Context: [Workshop Proposal](https://docs.google.com/document/d/1e5BEPIgFAVudBiEq451FbOH6h8vOdYm-cNd6tOgQSuc/edit?usp=sharing)
-
-### 4. Response to ITU-T SG17 Liaison
+### 2. Response to ITU-T SG17 Liaison (Dhruv)
 
 Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
 [GitHub](https://github.com/intarchboard/responsibilities/issues/101)
 [Proposed response](https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing)
 
-### 5. Outreach topics for H2 2026
 
-We have few potential operator events upcoming in H2 2026 including RIPE and NANOG meetings. Should we propose any deepdive technology topics to present or discuss?
 
 ## Regrets
 
-
+- Cindy
 
 ## Upcoming IAB Meetings
 
