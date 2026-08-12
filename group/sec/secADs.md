@@ -2,13 +2,13 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2025-11-12T14:09:52.370Z
+date: 2026-08-12T22:28:09.192Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
 ---
 
-The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/Paul%20Wouters] Paul Wouters and [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley.
+The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/stndrds-inacio@andrew.cmu.edu] Christopher Inacio and [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley.
 
 ## Past Area Directors
 
