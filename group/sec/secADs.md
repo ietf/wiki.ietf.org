@@ -2,19 +2,20 @@
 title: Security Area Directors
 description: 
 published: true
-date: 2026-08-12T22:28:09.192Z
+date: 2026-08-12T22:48:33.262Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T20:49:24.532Z
 ---
 
-The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/stndrds-inacio@andrew.cmu.edu] Christopher Inacio and [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley.
+The [Security Area](/group/sec) is currently overseen by [https://datatracker.ietf.org/person/Christopher%20Inacio] Christopher Inacio and [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley.
 
 ## Past Area Directors
 
 Security area leadership (past and present):
+ * [https://datatracker.ietf.org/person/Christopher%20Inacio] - Christopher Inacio - Serving from ? to Present.
  * [https://datatracker.ietf.org/person/Deb%20Cooley] - Deb Cooley - Serving from March 2024 to Present.
- * [https://datatracker.ietf.org/person/Paul%20Wouters] Paul Wouters - Serving from March 2022 to Present.
+ * [https://datatracker.ietf.org/person/Paul%20Wouters] Paul Wouters - Serving from March 2022 to ?.
  * [https://datatracker.ietf.org/person/Roman%20Danyliw] Roman Danyliw - Serving from March 2019 to March 2024.
  * [https://datatracker.ietf.org/person/Benjamin%20Kaduk] Benjamin Kaduk - Serving from March 2018 to March 2022.
  * [https://datatracker.ietf.org/person/Eric%20Rescorla] Eric Rescorla - Serving from March 2017 to March 2019.
