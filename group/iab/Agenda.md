@@ -2,22 +2,22 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-11T19:06:41.408Z
+date: 2026-08-12T15:17:25.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-08-12, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-08-19, 23:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-08-12
+## There WILL be a meeting on 2026-08-19
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1462ee51b58235f48f3c18833c20dbe7
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
 
 
 
@@ -49,14 +49,12 @@ We have few potential operator events upcoming in H2 2026 including RIPE and NAN
 
 ## Regrets
 
-- Matthew Bocci
-- Yingzhen Qu
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-08-12 Informal 1400-1500 UTC
 - 2026-08-19 Informal 2300-0000 UTC
 - **2026-08-26 Formal 1300-1500 UTC**
 - 2026-09-02 Informal 0600-0700 UTC
