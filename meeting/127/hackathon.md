@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-08-12T15:30:54.739Z
+date: 2026-08-12T15:38:25.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -178,7 +178,12 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
 - **Project Info**
   - https://ilnp.cs.st-andrews.ac.uk
   - RFCs 6740(E) - 6748(E)
-  - The basic approach is to deprecate the concept of an IP Address and replace it with addressing using separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Our ongoing research work is based on an implementation of ILNP on IPv6 on FreeBSD.
+  - draft-bhatti-ilnp-tcp-udp-checksums
+  - draft-bhatti-ilnp-textual-representations
+  - draft-bhatti-ilnp-preference
+  - draft-bhatti-ilnp-ip6-apps
+  - draft-bhatti-ilnp-nonce
+  - The basic approach is to deprecate the concept of an IP Address and replace it with addressing using separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Our ongoing research is based on an implementation of ILNP on IPv6 using FreeBSD.
 
 ### Second Project Here (replace me)
 - **Champions**
