@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-12T09:02:45.565Z
+date: 2026-08-12T09:20:13.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -61,7 +61,7 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
 | 2026-08-11 | draft-ietf-mpls-on-path-telemetry-flag | Started 2026-08-11 | Pending RTG Dir review by Gyan Mishra |  | Tony |
-| 2026-08-12 | draft-ietf-mpls-mna-ioam | Pending | Update after Matthew Bocci review | OPS Dir review pending | Adrian |
+| 2026-08-12 | draft-ietf-mpls-mna-ioam | Started 2026-08-12 | Update after Matthew Bocci review | OPS Dir review pending | Adrian |
 
 
 ## In Working Group Last Call
