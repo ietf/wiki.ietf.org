@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-11T13:14:32.102Z
+date: 2026-08-12T16:55:11.237Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -69,6 +69,8 @@ Note that this page is public.
 2. Use of AI in the IETF 
 
     Context: "Dealing with LLMs in IETF discussions draft" thread on ietf@
+    
+3. Appeal processing (Roman)
 
 ### AOB
 
