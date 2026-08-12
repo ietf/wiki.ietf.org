@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-12T16:55:11.237Z
+date: 2026-08-12T16:59:38.433Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -48,7 +48,7 @@ Note that this page is public.
 
 1. [Private Side meetings](https://docs.google.com/presentation/d/1XMHMsuGQHj0MyYLMdfVcfuvZS5k8dnKtVM7pE7e2Q3M/edit?usp=sharing) - Andy
 
-2. Update to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
+2. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
 
 3. Guiance to directorate reviewers about using tools for reviews (Deb, Tommy)
 
