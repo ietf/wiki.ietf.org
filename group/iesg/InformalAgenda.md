@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-12T21:07:50.148Z
+date: 2026-08-12T22:01:38.077Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -68,8 +68,8 @@ Note that this page is public.
 1. Ombudsteam Requests Update to IESG Statement on Harassment
 
 2. Use of AI in the IETF 
-
-    Context: "Dealing with LLMs in IETF discussions draft" thread on ietf@
+    - Context: "Dealing with LLMs in IETF discussions draft" thread on ietf@
+    - [Plenary follow-up](https://docs.google.com/presentation/d/1vSGzGY9L3xotCsvmslk9LzK50b-NZ2Dzks3SrxsGB24/) (Roman)
     
 3. Appeal processing (Roman)
 
