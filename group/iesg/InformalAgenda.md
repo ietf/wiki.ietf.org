@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-13T09:19:26.628Z
+date: 2026-08-13T10:04:21.784Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -74,7 +74,7 @@ Note that this page is public.
 3. Appeal processing (Roman)
 
 ### AOB
-1. Liason statements to IAB and ESG (Dhruv)
+1. Liason statements to IAB and IESG (Dhruv)
 
 
 ### Parking Lot
