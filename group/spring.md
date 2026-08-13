@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-08-13T09:35:17.041Z
+date: 2026-08-13T17:15:50.381Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -67,9 +67,11 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
 * draft-yang-spring-srv6-verification
   * 2026-03-20 (IETF 125) Authors asked for adoption.
 * draft-yang-spring-sid-as-source-address
+  * [Responsible Chair: Bruno]
   * 2026-03-20 (IETF 125) Authors asked for adoption.
   * 2026-06-17 Clarification request: is the draft specific to VPN or general? General, authors will update the draft.
   * 2026-06-18 draft -11 published, clarifying that this is a general topic, not VPN specific
+  * 2026-07-10 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/lPZ4XrZTnmy1CJMix_Q8ppLkRnw/)
   
   > History of WG Adoption
 https://wiki.ietf.org/en/group/spring/adoption_history
