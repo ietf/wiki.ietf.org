@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-13T10:44:23.301Z
+date: 2026-08-13T13:31:22.465Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -54,7 +54,7 @@ Note that this page is public.
 
 3. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
 
-4. Outstanding requests on enhancing Datatracker participant profiles (Med, Mike)
+4. [Outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med, Mike)
 
 5. [RFC 3967 and Normative References to Unpublished Internet-Drafts](https://docs.google.com/presentation/d/1CQPl-jOAmN3O-RFs7rCI_J40buDO9rSq/edit?usp=sharing&ouid=102028873119142323400&rtpof=true&sd=true) (Mahesh)
 
