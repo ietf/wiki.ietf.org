@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-13T13:31:22.465Z
+date: 2026-08-13T19:58:34.971Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 13, 2026
+# Informal Telechat - August 27, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,8 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-- Cindy
-- Gorry (travelling) will try to make first hour.
+
 
 ## Agenda
 
@@ -48,15 +47,10 @@ Note that this page is public.
 
 ### Management Issues
 
-1. [Private Side meetings](https://docs.google.com/presentation/d/1XMHMsuGQHj0MyYLMdfVcfuvZS5k8dnKtVM7pE7e2Q3M/edit?usp=sharing) - Andy
 
-2. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
+1. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
 
-3. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
-
-4. [Outstanding requests on enhancing Datatracker participant profiles](https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/) (Med, Mike)
-
-5. [RFC 3967 and Normative References to Unpublished Internet-Drafts](https://docs.google.com/presentation/d/1CQPl-jOAmN3O-RFs7rCI_J40buDO9rSq/edit?usp=sharing&ouid=102028873119142323400&rtpof=true&sd=true) (Mahesh)
+2. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
 
 ### WG News 
 
@@ -66,21 +60,18 @@ Note that this page is public.
 
 ### Executive Sessions
 
-1. Ombudsteam Requests Update to IESG Statement on Harassment
 
-2. Use of AI in the IETF 
-    - Context: "Dealing with LLMs in IETF discussions draft" thread on ietf@
-    - [Plenary follow-up](https://docs.google.com/presentation/d/1vSGzGY9L3xotCsvmslk9LzK50b-NZ2Dzks3SrxsGB24/) (Roman)
     
-3. Appeal processing (Roman)
+1. Appeal processing (Roman)
 
 ### AOB
-1. Liason statements to IAB and IESG (Dhruv)
+1. Liaison statements to IAB and IESG (Dhruv)
 
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
+*  Ombudsteam Requests Update to IESG Statement on Harassment (invite ombudsteam to join)
 
 
 ### Topics Deferred Till Next Informal 
