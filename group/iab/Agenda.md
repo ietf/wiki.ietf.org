@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-13T09:14:37.568Z
+date: 2026-08-14T22:21:04.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,6 +40,7 @@ Goal: Assign owners in [wiki](https://wiki.ietf.org/group/iab/2026_Retreat)
 ## Regrets
 
 - Cindy
+- Dirk
 
 ## Upcoming IAB Meetings
 
