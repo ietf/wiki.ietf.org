@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-17T16:06:40.929Z
+date: 2026-08-17T16:25:59.585Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -49,7 +49,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 | Ali | No pork (and love sushi) | 2026-09-26 | 2026-10-03 | Sheraton Miyako |
 | Roman | N/A | TBD | TBD | TBD |
 | Nick | None | 2026-09-29 | 2026-10-02 | Hyatt House |
-
+| Liz | None | 2026-09-28 | 2026-10-03 | Shibuya Excel |
+| Cindy | None | 2026-09-28 | 2026-10-03 | Shibuya Excel |
 
 
 ### Remote
