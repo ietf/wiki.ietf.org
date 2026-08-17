@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-17T15:47:00.042Z
+date: 2026-08-17T19:09:57.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -33,6 +33,8 @@ We have few potential operator events upcoming in H2 2026 including RIPE and NAN
 Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
 [GitHub](https://github.com/intarchboard/responsibilities/issues/101)
 [Proposed response](https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing)
+
+There are also some other [LS from SG17](https://datatracker.ietf.org/liaison/posted/?text=&source=&destination=iab&start_date=&end_date=). 
 
 ### 3. IAB Strategy Meeting Planning
 Goal: Assign owners in [wiki](https://wiki.ietf.org/group/iab/2026_Retreat)
