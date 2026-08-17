@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-16T10:49:10.463Z
+date: 2026-08-17T14:50:52.016Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -50,6 +50,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 
 ### Remote
+- Ryan Polk
 
 ### Regrets
 - Jason Livingood
