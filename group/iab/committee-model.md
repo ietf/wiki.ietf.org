@@ -2,7 +2,7 @@
 title: IAB Committee Model for Meetings
 description: 
 published: true
-date: 2026-08-17T11:57:01.999Z
+date: 2026-08-17T12:01:26.867Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T11:00:46.378Z
@@ -69,55 +69,31 @@ Invited technical talks may be included in the agenda of formal or informal boar
 
 ## Delegated Responsibilities
 
-Delegated responsibilities are the ways that individual IAB members work in subgroups or with
-other bodies between full board meetings. These responsibilities are where IAB members are
-expected to make most of their contributions; full board meetings reflect decision-making
-and record-keeping based on the output of these responsibilities. 
+Delegated responsibilities are the ways that individual IAB members work in subgroups or with other bodies between full board meetings. These responsibilities are where IAB members are expected to make most of their contributions; full board meetings reflect decision-making and record-keeping based on the output of these responsibilities. 
 
-Some of these activities take place in groups that involve external community participation;
-some are purely internal to the IAB.
+Some of these activities take place in groups that involve external community participation; some are purely internal to the IAB.
 
-Meetings for an area of responsibility should be scheduled to accommodate that particular
-group, but also be placed on the shared IAB calendar and be open to participation of other
-IAB members. IAB members can request secretariat participation to aid in scheduling, taking
-minutes, and general assistance. 
+Meetings for an area of responsibility should be scheduled to accommodate that particular group, but also be placed on the shared IAB calendar and be open to participation of other IAB members. IAB members can request secretariat participation to aid in scheduling, taking minutes, and general assistance. 
 
-Each area of responsibility is expected to provide written minutes or reports back to the
-whole IAB over email, at least one week before the full board meeting. These reports should
-contain a list of IAB members who contributed to the activity (such meeting attendance or
-providing technical contributions).
+Each area of responsibility is expected to provide written minutes or reports back to the whole IAB over email, at least one week before the full board meeting. These reports should contain a list of IAB members who contributed to the activity (such meeting attendance or providing technical contributions).
 
-Each area of responsibility is encouraged to have a dedicated Slack channel or email group
-for discussion.
+Each area of responsibility is encouraged to have a dedicated Slack channel or email group for discussion.
 
-Between meetings, each IAB member should be assigned to at least one delegated responsibility.
-There is no strict limit to the number of responsibilities an IAB member can take on, but
-distributing the responsibilities is encouraged. The list below is not exhaustive, but represents
-the most common activities. Not all of the responsibilities below are expected to be covered in
-every cycle.
+Between meetings, each IAB member should be assigned to at least one delegated responsibility. There is no strict limit to the number of responsibilities an IAB member can take on, but distributing the responsibilities is encouraged. The list below is not exhaustive, but represents the most common activities. Not all of the responsibilities below are expected to be covered in every cycle.
 
 ### Technical Responsibilities
 
 **Technical Program Lead / Participant**
-Leading or participating in an IAB Technical Program. Technical programs need not meet during
-every cycle; not every program needs to be on the list of responsibilities between every meeting.
-However, when a technical program is chosen as a responsibility, it should have at least one
-active meeting and make some progress that can be reported back to the IAB. 
+Leading or participating in an IAB Technical Program. Technical programs need not meet during every cycle; not every program needs to be on the list of responsibilities between every meeting. However, when a technical program is chosen as a responsibility, it should have at least one active meeting and make some progress that can be reported back to the IAB. 
 
 **Workshop Planning and Program Committee**
-Planning, organizing, and running an IAB workshop. This also includes working on workshop reports
-after a workshop is held.
+Planning, organizing, and running an IAB workshop. This also includes working on workshop reports after a workshop is held.
 
 **IAB Stream Document Authoring**
-Authoring an IAB stream document, either technical or administrative. If chosen as a responsibility,
-the IAB member(s) should make meaningful updates to documents, either before adoption by the IAB,
-or as part of preparing a document for publishing as an RFC. 
+Authoring an IAB stream document, either technical or administrative. If chosen as a responsibility, the IAB member(s) should make meaningful updates to documents, either before adoption by the IAB, or as part of preparing a document for publishing as an RFC. 
 
 **Technical Focus Area**
-For technical topics that are not yet programs or workshops or documents, IAB members can work on
-focus areas to determine if there is technical work for the IAB to do on a topic. This can involve
-researching, working with other IAB members, interviewing external experts, and inviting discussions
-from the community or external sources.
+For technical topics that are not yet programs or workshops or documents, IAB members can work on focus areas to determine if there is technical work for the IAB to do on a topic. This can involve researching, working with other IAB members, interviewing external experts, and inviting discussions from the community or external sources.
 
 **BoF Shepherding**
 Guiding and advising new work in the IETF, particularly proposed Birds of Feather meetings. 
@@ -125,38 +101,28 @@ Guiding and advising new work in the IETF, particularly proposed Birds of Feathe
 ### Administrative Responsibilities
 
 **Executive Committee / Meeting Planning**
-Planning the agenda for upcoming IETF meetings and retreats, including IABOPEN sessions. At a minimum,
-the IAB chair and whoever is the current IABOPEN co-chair are expected to participate. This committee
-also includes any early discussion of procedural proposals, which are later taken to the full IAB.
-Part of the responsibilities here are ensuring that emails and communications to the IAB as a whole
-are appropriately handled or dispatched.
+Planning the agenda for upcoming IETF meetings and retreats, including IABOPEN sessions. At a minimum, the IAB chair and whoever is the current IABOPEN co-chair are expected to participate. This committee also includes any early discussion of procedural proposals, which are later taken to the full IAB.
+
+Part of the responsibilities here are ensuring that emails and communications to the IAB as a whole are appropriately handled or dispatched.
 
 **Administrative Support Group Lead / Participant**
-Leading or participating in an Administrative Support Group, such as the IAB-ISOC group. In that case,
-involves meeting with ISOC members on current topics in Internet governance, policies, etc.
+Leading or participating in an Administrative Support Group, such as the IAB-ISOC group. In that case, involves meeting with ISOC members on current topics in Internet governance, policies, etc.
+
 Administrative support groups generally should meet at least once or twice between full board meetings.
+
 Each active administrative support group should have activity between each full board meeting. 
 
 **Liaison Coordination**
-Acting as a Liaison Coordinator and working with the Liaison Managers who handle the relationships with
-other SDOs. While the Liaison Coordinator positions will always be filled, the level of expected
-activity will vary from cycle to cycle. Part of the responsibilities here are ensuring that responses
-to liaison statements are handled appropriately. 
+Acting as a Liaison Coordinator and working with the Liaison Managers who handle the relationships with other SDOs. While the Liaison Coordinator positions will always be filled, the level of expected activity will vary from cycle to cycle. Part of the responsibilities here are ensuring that responses to liaison statements are handled appropriately. 
 
 **IESG Liaison**
-Acting as the IAB’s liaison to the IESG; attending IESG meetings and providing reports and summaries
-to the full IAB.
+Acting as the IAB’s liaison to the IESG; attending IESG meetings and providing reports and summaries to the full IAB.
 
 **NomCom Liaison**
-Acting as the IAB’s liaison to the IETF Nominating Committee. When the NomCom is active, this is
-expected to be a very active and involved role. Reporting back to the full IAB will be constrained
-by confidentiality requirements. 
+Acting as the IAB’s liaison to the IETF Nominating Committee. When the NomCom is active, this is expected to be a very active and involved role. Reporting back to the full IAB will be constrained by confidentiality requirements. 
 
 **Appointment Committees**
-Interviewing candidates for appointments, recruiting candidates for appointments, reviewing community
-feedback, and providing recommendations for the full IAB. These responsibilities will be active based
-on the schedule of appointments the IAB is required to make.
+Interviewing candidates for appointments, recruiting candidates for appointments, reviewing community feedback, and providing recommendations for the full IAB. These responsibilities will be active based on the schedule of appointments the IAB is required to make.
 
 **Outreach and Events Coordination and Participation**
-Coordinating IAB engagement in outreach beyond the IETF community, particularly planning and
-participating in external events such as IGF meetings.
+Coordinating IAB engagement in outreach beyond the IETF community, particularly planning and participating in external events such as IGF meetings.
