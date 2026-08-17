@@ -2,7 +2,7 @@
 title: IAB Committee Model for Meetings
 description: 
 published: true
-date: 2025-03-22T11:00:46.378Z
+date: 2026-08-17T11:57:01.999Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-22T11:00:46.378Z
@@ -10,96 +10,62 @@ dateCreated: 2025-03-22T11:00:46.378Z
 
 # The Committee Model of IAB Operation
 
-When operating in the “committee model”, the full IAB meets only 6-8 times per year,
-with technical and administrative efforts actively being driven by sub-groups of IAB
-members between full board meetings. This operation model is in contrast to the
-practice of scheduling full board meetings every week.
+When operating in the “committee model”, the full IAB meets only once a month, with technical and administrative efforts actively being driven by sub-groups of IAB members between formal board meetings. This operational model is in contrast to the practice of scheduling full board meetings every week.
 
-The committee model is intended to reduce the shared overhead of weekly meetings and
-focus the IAB’s time on making progress on technical and administrative efforts.
+The committee model is intended to reduce the shared overhead of weekly meetings and focus the IAB’s time on making progress on technical and administrative efforts.
 
-All IAB members are expected to attend full board meetings and also take on delegated
-responsibilities that they engage in between meetings.
+All IAB members are expected to attend formal board meetings and also continue to work on their delegated responsibilities in between meetings.
 
-This model is a matter of how the IAB meets and operates and does not change or update
-any part of its function or charter (RFC 2850). 
+This model is a matter of how the IAB meets and operates and does not change or update any part of its function or charter (RFC 2850).
+
 
 ### Expectations of time commitment
 
-All IAB members are still expected to spend, on average, at least an hour per week in
-engaging with IAB work.
+All IAB members are still expected to spend, on average, at least an hour per week engaging with IAB work.
 
-All IAB members are expected to be present at full board meetings. Between full board
-meetings, each IAB member is expected to take on at least one delegated responsibility.
+All IAB members are expected to be present at formal board meetings. Between formal board meetings, each IAB member is expected to take on at least one delegated responsibility.
 
-## Full Board Meetings
 
-Full board meetings include all board members, the secretariat, liaisons, and observers.
-They are minuted and can contain both public portions and executive sessions. 
+## Formal Board Meetings
 
-In general, votes are held during full board meetings. When e-votes occur outside full
-board meetings, their results are minuted at full board meetings.
+Formal board meetings include all board members, the secretariat, liaisons, and observers. They are minuted and can contain both public portions and executive sessions.
 
-Reports from liaisons are received and minuted at full board meetings.
+In general, votes are held during formal board meetings. When e-votes occur outside formal board meetings, their results are minuted at full board meetings.
 
-IAB members provide reports based on their delegated responsibilities ahead of full
-board meetings.
+Reports from liaisons are received and minuted at formal board meetings.
 
-Agenda items for discussion or decision at full board meetings should have pre-read materials
-(e.g., background material, rationale, supporting information, alternatives considered)
-available at least a week in advance, and preferably longer.
+IAB members provide reports based on their delegated responsibilities ahead of formal board meetings.
 
-During the full board meeting, the delegated responsibilities of board members in
-the upcoming cycle are confirmed.
+Agenda items for discussion or decision at formal board meetings should have pre-read materials (e.g., background material, rationale, supporting information, alternatives considered) available at least a week in advance, and preferably longer.
+
+During the formal board meeting, the delegated responsibilities of board members in the upcoming cycle are confirmed.
+
 
 ### Scheduling
 
-Full board meetings should be scheduled in advance, at the start of a yearly cycle for
-the IAB (such as at or before the March IETF meeting).
+Formal board meetings should be scheduled in advance, at the start of a yearly cycle for the IAB (such as at or before the March IETF meeting); however, the schedule may be adjusted as needed.
 
-There should be at least 6 full board meetings per year, with no more than 2 months between
-each meeting. The exact timing should be chosen to best suit the needs of any appointments
-that the IAB must vote on. 
+In-person meetings during IETF weeks and retreats count as formal board meetings.
 
-In-person meetings during IETF weeks and retreats count as full board meetings.
+Virtual formal board meetings should be scheduled to be 2 hours in order to ensure that all topics or decision-making can be completed.
 
-Virtual full board meetings should be scheduled to be 2 hours in order to ensure that
-all topics or decision-making can be completed.
-
-An example schedule would be:
-
-* March IETF meeting (in-person)
-* April interim (virtual)
-* May reserved interim (virtual)
-* June retreat (in-person)
-* July IETF meeting (in-person)
-* August reserved interim (virtual)
-* September interim (virtual)
-* October reserved interim (virtual)
-* November IETF meeting (in-person)
-* December interim (virtual)
-* January reserved interim (virtual)
-* February interim (virtual)
 
 ### Extraordinary Meetings
 
-Virtual full board meetings may be convened outside of the regular schedule if the IAB chair
-determines they are necessary. These should only be convened for extraordinary cases in
-response to time-sensitive deadlines, such as voting on how to respond to an appeal or a sudden
-vacancy, etc. In such cases, the meetings must be scheduled at least a week in advance (longer
-is preferable), there must be a clear agenda, and some of the IAB members should
-have prepared written proposals or reports to the IAB beforehand. In general, responding to
-time-sensitive issues should be primarily handled over email or messaging.
+Virtual formal board meetings may be convened outside of the regular schedule if the IAB chair determines they are necessary. These should only be convened for extraordinary cases in response to time-sensitive deadlines, such as voting on how to respond to an appeal or a sudden vacancy, etc. In such cases, the meetings must be scheduled at least a week in advance (longer is preferable), there must be a clear agenda, and some of the IAB members should have prepared written proposals or reports to the IAB beforehand. In general, responding to time-sensitive issues should be primarily handled over email or messaging.
+
+### Informal Meetings
+Informal meetings are scheduled for the weeks when there is not a formal meeting. They are used for ad hoc discussions and to progress work in between formal meetings.
+
+It is not expected that every IAB Member will attend every informal meeting. Informal meetings rotate between different times to accommodate the geographical spread of IAB Members, with the goal that every IAB member will have 2/3 of the informal meetings at time when it is feasible for them to attend.
+
+If there is nothing on the agenda for an informal meeting by the Friday before it is scheduled, that meeting will be cancelled.
+
+Informal meetings are not open to observers.
 
 ### Invited Technical Talks
 
-Invited technical talks may be included in the agenda of full board meetings, but can also
-occur outside the context of full board meetings. For example, a technical program or focus
-area can schedule a technical presentation from a particular set of speakers. That presentation
-should be scheduled to accommodate the speaker, and does not necessarily require mandatory
-participation of all IAB members (although all IAB members would be welcomed and encouraged to
-join). Invited technical talks are also appropriate for IAB Open meetings during IETF meeting
-weeks. IRTF research group reviews should usually occur during IETF meeting weeks. 
+Invited technical talks may be included in the agenda of formal or informal board meetings, but can also occur independently. For example, a technical program or focus area can schedule a technical presentation from a particular set of speakers. That presentation should be scheduled to accommodate the speaker, and does not necessarily require mandatory participation of all IAB members (although all IAB members would be welcomed and encouraged to join). Invited technical talks are also appropriate for IAB Open meetings during IETF meeting weeks. IRTF research group reviews should usually occur during IETF meeting weeks.
 
 ## Delegated Responsibilities
 
