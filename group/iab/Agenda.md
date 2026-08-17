@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-14T22:21:04.634Z
+date: 2026-08-17T15:47:00.042Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -36,6 +36,9 @@ Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary 
 
 ### 3. IAB Strategy Meeting Planning
 Goal: Assign owners in [wiki](https://wiki.ietf.org/group/iab/2026_Retreat)
+
+### 4. ISE Survey
+Goal: Finalize and start e-vote on the [Survey](https://docs.google.com/document/d/1xTLuxLwl_vcrS8633iqi_4hepcsk44BIyPZtlpGOW_0/edit?usp=sharing)
 
 ## Regrets
 
