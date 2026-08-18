@@ -417,6 +417,12 @@ The [AI Preferences (aipref)](https://datatracker.ietf.org/wg/aipref/about/) Wor
 
 The [Web Bot Auth (webbotauth)](https://datatracker.ietf.org/wg/webbotauth/about/) Working Group is developing methods for cryptographically authenticating automated clients and providing additional information about their operators to Web sites.
 
+The [Workload Identity in Multi System Environments (wimse)](https://datatracker.ietf.org/wg/wimse/about/) Working Group is chartered to address the challenges associated with implementing fine-grained, least privilege access control for workloads deployed across multiple service platforms, spanning both public and private clouds. AI agents can be viewed as workloads in this context. The work will build on existing standards, open source projects, and community practices, focusing on combining them in a coherent manner to address multi-service workload identity use cases.
+
+AI/ML training/inference and cloud services, require networks with various combinations of high bandwidth, low loss, low delay, and low jitter. To maintain service continuity and experience, these networks must rapidly adapt to adverse conditions like link faults, degradation, and congestion. However, existing routing technologies often face limitations in reacting in a timely manner to such network conditions, especially in large-scale, high-bandwidth data center (DC) and data center interconnect (DCI) networks. The [Fast Network Notifications (fann)](https://datatracker.ietf.org/wg/fann/about/) Working Group is chartered to investigate the need and develop a comprehensive solution to convey locally detected adverse conditions (and their recovery) to remote nodes that can then react to them for enabling efficient and timely handling of traffic flows.
+
+The [Internet Research Task Force](https://irtf.org/) [Network Management Research Group (nmrg)](https://www.irtf.org/nmrg.html) includes discussion of using AI for network management.
+
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-intelligence
 
 ### 3.1.10 European Global Navigation Satellite System (EGNSS)
@@ -517,7 +523,9 @@ Action 7: Encourage European and national funding programmes to explicitly suppo
 
 #### IETF/IAB input to Rolling Plan
 The IETF has created a non-working group mailing list for [Open Source at IETF Team (opensource)](https://datatracker.ietf.org/group/opensource/about/)
-There is also a [routing open source mailing list](https://mailarchive.ietf.org/arch/browse/rtg-open-source/) to facilitate the discussion among those working or using Open Source and participating or interested in participating in the IETF Routing Area. The intention is to share experiences, what works, where interactions could be better, and - of course - share pointers to each others work to improve collaboration. 
+There is also a [routing open source mailing list](https://mailarchive.ietf.org/arch/browse/rtg-open-source/) to facilitate the discussion among those working or using Open Source and participating or interested in participating in the IETF Routing Area. The intention is to share experiences, what works, where interactions could be better, and - of course - share pointers to each others work to improve collaboration.
+
+[IETF Hackathons](https://www.ietf.org/meeting/hackathons/) are held in conjunction with IETF meetings three times per year. IETF Hackathons encourage developers and subject matter experts to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards. The IETF Hackathons aim to advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF; and, bring developers and young people into the IETF community. IETF Hackathons are free to attend and open to everyone. They are collaborative events, not competitions. 
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3114-open-source-and-standardisation
 
@@ -720,7 +728,7 @@ It is necessary to support heterogeneous deployment where energy-related statist
 
 The GREEN Working Group is chartered to explore use cases, derive requirements, and provide solutions for identifying and characterizing energy efficiency metrics, methods related to energy consumption of network devices, and optimizing energy efficiency across the network.
 
-The [Internet Architecture Board](https://www.iab.org/) has recently established the [Environmental Impacts of Internet Technology (E-Impact)](https://datatracker.ietf.org/group/eimpact/about/) program as a venue for discussing environmental impacts and sustainability of Internet technology. Within this scope, the program looks at trends, issues, improvement opportunities, ideas, best practices, and subsequent direction of work related to Internet technology, architecture, and operations, including visibility and efficiency on energy and other environmentally-impacting attributes. In particular, the group focuses on Internet architecture's role in these topics.
+The [Internet Research Task Force](https://irtf.org/) have established the [Sustainability and the Internet Research Group (SUSTAIN)](https://www.irtf.org/sustain.html) to contribute to the advancement of the Internet as a fundamental part of sustainable and resilient societies and the planet, through conceptual and evidence-based multi-disciplinary research collaboration. Membership in the SUSTAIN Research Group is open to all interested parties.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
@@ -752,6 +760,8 @@ Editor's note: No relevant ongoing work identified in the IETF or IRTF
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## Document Editing History
+2026-08-18: Incorporating feedback from IAB to include reference to relevant IETF and IRTF work including §3.4.3 remove reference to e-Impact IAB program, add reference to SUSTAIN research group, §3.1.14 add reference to IETF Hackathons, §3.1.9 add references to wimse, fann and nmrg
+
 2026-07-21: Updated to reflect RP2027 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 jsonschema, §3.0.2 plants, seat, §3.1.2 ocm, §3.1.3 jsonschema, §3.1.4 seat, §3.1.9 webbotauth, §3.1.11 plants
 
 2025-08-19: Updated to reflect RP2026 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 wimse, §3.1.5 diem, §3.1.9 aipref, §3.4.3 green
