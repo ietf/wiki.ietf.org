@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-12T09:20:13.664Z
+date: 2026-08-18T16:31:35.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -31,15 +31,15 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-deshmukh-mpls-frr-ext | 2026-08-17 | IPR poll done | Tony |
 
 
 ## Adoption Poll Complete But Pending Author Action
 
 Adoption polls may succeed or fail. In the case of failure, the document moves back to being just another individual I-D. In case of success, the chairs may instruct the authors to re-post the draft as a working group document before addressing the comments received from the working group, but sometimes adoption will be dependent on the authors making specific changes to the document. This state captures such documents.
 
-| Date | Draft | Action Needed | Responsible Chair | Notes |
+| Draft | Date | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
+| draft-deshmukh-mpls-frr-ext | 2026-08-17 | Adopted, needs republishing | Tony |
 
 ## MPLS WG Documents
 
