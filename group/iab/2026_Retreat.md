@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-18T05:00:57.009Z
+date: 2026-08-19T05:44:27.665Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -69,9 +69,10 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Why IAB does RG review and How we can improve on it? (Dirk)
 - What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB? 
 - Update to Appeal Handling Procedures (if any)
-- What are our long term objectives for our external engagements? How do they align with events? Should we right it down.
+- What are our long term objectives for Internet Governance? How do they align with events? Should we right it down.
 - Outreach Related Topics (Yaroslav)
 	- IGF 2026 
+  - Planning for 2027
 - ISOC Related Topics (Ryan)
 	- ITU-T PP
 - Workshop Related Topics
