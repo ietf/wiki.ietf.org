@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T13:39:22.708Z
+date: 2026-08-19T13:45:30.233Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -65,7 +65,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 - Evaluation of Formal and Informal Meeting Structure of the IAB, what can be done async, what is appropriate for Informal v/s Formal? (Cindy)
 	- Evaluation of Meeting time rotations v/s Fixed time?
-- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting)
+- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
 - Why IAB does RG review and How we can improve on it? (Dirk)
 - What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB? 
 - Update to Appeal Handling Procedures (if any)
