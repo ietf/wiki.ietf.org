@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T14:04:50.876Z
+date: 2026-08-19T14:06:26.154Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -80,6 +80,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Workshop Related Topics
 	- PQ Workshop Recap and Next Steps (Nick)
   - Ideas for future workshop?
+- ISE Survey Results
 - Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv)
 - Improving collabration with ICANN and coordination among ICANN appointees 
 - Introspection: Role of IAB in this "AI Moment"
