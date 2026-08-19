@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-17T19:10:37.798Z
+date: 2026-08-19T17:01:12.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -23,6 +23,8 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 ## Agenda
+
+### 0. Reminder for e-vote
 
 ### 1. Outreach topics for H2 2026 (Yaroslav)
 
