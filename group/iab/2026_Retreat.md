@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T23:58:06.549Z
+date: 2026-08-19T23:59:08.479Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -70,7 +70,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB? 
 - Update to Appeal Handling Procedures (if any)
 - What are our long term objectives for Internet Governance? How do they align with events? Should we right it down.
-- Outreach Related Topics (Yaroslav)
+- Outreach Related Topics (Yaroslav & Warren)
 	- IGF 2026 
   - Planning for 2027 
   	- [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
