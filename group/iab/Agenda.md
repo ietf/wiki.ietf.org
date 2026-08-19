@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-19T17:01:12.679Z
+date: 2026-08-19T20:59:46.337Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -48,6 +48,11 @@ Goal: Finalize and start e-vote on the [Survey](https://docs.google.com/document
 
 - Cindy
 - Dirk
+- Jason
+- Ali
+- Ryan
+- Matthew
+- Chris
 
 ## Upcoming IAB Meetings
 
