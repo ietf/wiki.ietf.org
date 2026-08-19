@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T13:45:30.233Z
+date: 2026-08-19T14:04:50.876Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -72,7 +72,9 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - What are our long term objectives for Internet Governance? How do they align with events? Should we right it down.
 - Outreach Related Topics (Yaroslav)
 	- IGF 2026 
-  - Planning for 2027
+  - Planning for 2027 
+  	- [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
+    - Any progress on Local NOG?
 - ISOC Related Topics (Ryan)
 	- ITU-T PP
 - Workshop Related Topics
