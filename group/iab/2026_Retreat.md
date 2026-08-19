@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T05:44:27.665Z
+date: 2026-08-19T13:39:22.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -77,6 +77,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- ITU-T PP
 - Workshop Related Topics
 	- PQ Workshop Recap and Next Steps (Nick)
+  - Ideas for future workshop?
 - Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv)
 - Improving collabration with ICANN and coordination among ICANN appointees 
 - Introspection: Role of IAB in this "AI Moment"
@@ -86,6 +87,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
+- [GitHub Responsability Tracker](https://github.com/intarchboard/responsibilities/issues)
 - Invited Talk: Lorenzo (TBC)
 
 ## Topics for Future IAB+IESG
