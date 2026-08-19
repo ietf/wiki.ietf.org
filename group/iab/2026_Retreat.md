@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T23:48:36.998Z
+date: 2026-08-19T23:58:06.549Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -81,12 +81,12 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- PQ Workshop Recap and Next Steps (Nick)
   - Ideas for future workshop?
 - ISE Survey Results
-- Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv)
-- Improving collabration with ICANN and coordination among ICANN appointees 
+- Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
+- Improving collabration with ICANN and coordination among ICANN appointees (Warren, Suresh)
 - Introspection: Role of IAB in this "AI Moment"
 	- agentic AI architecture for instance
 - Possible document: architectural principles (Mark)
-- Relationship with Linux Foundation - should we do something? (Dhruv) 
+- Relationship with Linux Foundation - should we do something? (Dhruv, Suresh) 
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
