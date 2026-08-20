@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-19T23:59:08.479Z
+date: 2026-08-20T02:37:37.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -66,10 +66,10 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Evaluation of Formal and Informal Meeting Structure of the IAB, what can be done async, what is appropriate for Informal v/s Formal? (Cindy)
 	- Evaluation of Meeting time rotations v/s Fixed time?
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
-- Why IAB does RG review and How we can improve on it? (Dirk)
+- Why IAB does RG review and How we can improve on it? (Roman/Dirk)
 - What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB? 
-- Update to Appeal Handling Procedures (if any)
-- What are our long term objectives for Internet Governance? How do they align with events? Should we right it down.
+- Update to Appeal Handling Procedures (if any) (Mark)
+- What are our long term objectives for Internet Governance? How do they align with events? Should we write it down. (Mark)
 - Outreach Related Topics (Yaroslav & Warren)
 	- IGF 2026 
   - Planning for 2027 
@@ -80,7 +80,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Workshop Related Topics
 	- PQ Workshop Recap and Next Steps (Nick)
   - Ideas for future workshop?
-- ISE Survey Results
+- ISE Survey Results (Dhruv)
 - Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
 - Improving collabration with ICANN and coordination among ICANN appointees (Warren, Suresh)
 - Introspection: Role of IAB in this "AI Moment"
@@ -90,7 +90,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Brainstorming: Emerging Trends and Where the IAB Can Contribute?
 - Brainstorming: Should the IAB do more architectural work? If so, how?
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
-- Brainstorming: Should the IAB better support BoFs? Should we develop IAB BoF shepherd role?
+- Brainstorming: Should the IAB better support BoFs? Should we develop IAB BoF shepherd role? (Yaroslav)
 - [GitHub Responsability Tracker](https://github.com/intarchboard/responsibilities/issues)
 - Invited Talk: Lorenzo (TBC)
 
