@@ -2,7 +2,7 @@
 title: 6MAN WG - IPv6 Maintenance
 description: 
 published: true
-date: 2026-08-20T20:42:06.099Z
+date: 2026-08-20T20:42:24.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:36:36.339Z
@@ -20,7 +20,7 @@ There has been active discussions on the mailing list since the last IETF, with 
 The main topics for the London meeting, was the "Why /64" document, that is a document that explains why the /64 boundary was chosen, and also explores the consequences of changing that boundary, if we ever wanted to do that. There was strong support in the room for adopting this document as a working group document. We also had a 45 minute session to talk about efficient ND. Both with regards to battery efficiency, and how ND behaves on link-layers that do not handle multicast well. The chairs have decided to form a design team to work on this problem, anyone interested in participating should contact the chairs. The design team is expected to report back to the working group at the Toronto IETF meeting.
 
 There was also consensus in the the room to adopt the following drafts:
-
+- 
 * draft-gont-6man-lla-opt-validation
 
 This consensus is being verified on the mailing list.
