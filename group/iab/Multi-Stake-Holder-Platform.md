@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-20T10:14:29.399Z
+date: 2026-08-20T10:14:48.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -650,10 +650,10 @@ The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datat
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-335-blockchain-and-distributed-digital-ledger-technologies
 
-### 3.3.7 Web 4.0 and virtual worlds
+### 3.3.6 Web 4.0 and virtual worlds
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
-### 3.3.8 Media
+### 3.3.7 Media
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## 3.4 Sustainable growth
