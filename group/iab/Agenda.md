@@ -2,16 +2,16 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-19T20:59:46.337Z
+date: 2026-08-20T02:06:55.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-08-19, 23:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2026-08-26, 13:00 UTC (2 hours)
 
 
-## There WILL be a meeting on 2026-08-19
+## There WILL be a meeting on 2026-08-26
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
@@ -24,13 +24,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Agenda
 
-### 0. Reminder for e-vote
 
-### 1. Outreach topics for H2 2026 (Yaroslav)
 
-We have few potential operator events upcoming in H2 2026 including RIPE and NANOG meetings. Should we propose any deepdive technology topics to present or discuss?
-
-### 2. Response to ITU-T SG17 Liaison (Dhruv)
+### 1. Response to ITU-T SG17 Liaison (Dhruv)
 
 Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary meeting](https://datatracker.ietf.org/liaison/2202/)
 [GitHub](https://github.com/intarchboard/responsibilities/issues/101)
@@ -38,27 +34,16 @@ Context: [LS update of SG17 on Agentic AI, prior and after the SG17 5th plenary 
 
 There are also some other [LS from SG17](https://datatracker.ietf.org/liaison/posted/?text=&source=&destination=iab&start_date=&end_date=). 
 
-### 3. IAB Strategy Meeting Planning
-Goal: Assign owners in [wiki](https://wiki.ietf.org/group/iab/2026_Retreat)
 
-### 4. ISE Survey
-Goal: Finalize and start e-vote on the [Survey](https://docs.google.com/document/d/1xTLuxLwl_vcrS8633iqi_4hepcsk44BIyPZtlpGOW_0/edit?usp=sharing)
 
 ## Regrets
 
-- Cindy
-- Dirk
-- Jason
-- Ali
-- Ryan
-- Matthew
-- Chris
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-08-19 Informal 2300-0000 UTC
 - **2026-08-26 Formal 1300-1500 UTC**
 - 2026-09-02 Informal 0600-0700 UTC
 - 2026-09-09 Informal 1400-1500 UTC
