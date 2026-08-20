@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-20T09:42:46.692Z
+date: 2026-08-20T10:11:31.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -710,19 +710,9 @@ Action 8: SDOs to intensify the work on standardisation of resource efficiency a
 
 #### IETF/IAB input to Rolling Plan
 
-The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like).
+The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/eman/about/) produced several specifications for an energy management framework, for power/energy monitoring and configuration. See http://datatracker.ietf.org/wg/eman/documents/ for the details. The framework focuses on energy management for IP-based network equipment (routers, switches, PCs, IP cameras, phones and the like). A standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures. The EMAN Working Group previously worked on a closely related technology area, but the standards didn’t achieve wide industry adoption, and as illustrated in RFC 9547, the absence of standardized interfaces for measuring, reporting, and managing energy consumption across diverse network setups remains a significant challenge.
 
-A standards track specification ([RFC7603](https://tools.ietf.org/html/rfc7603)) presents the applicability of the EMAN information model in a variety of scenarios with cases and target devices. These use cases are useful for identifying requirements for the framework and MIBs. Further, it describes the relationship of the EMAN framework to other relevant energy monitoring standards and architectures.
-
-The EMAN Working Group previously worked on a closely related technology area, but the standards didn’t achieve wide industry adoption, and as illustrated in RFC 9547, the absence of standardized interfaces for measuring, reporting, and managing energy consumption across diverse network setups remains a significant challenge.
-
-The [Getting Ready for Energy Efficient Networking (green)](https://datatracker.ietf.org/wg/green/about/) Working Group will examine the EMAN work to re-use where applicable but also consider updated operator input and requirements over those previously documented in RFC 6988. Similarly, it will examine the framework previously described in RFC 7326.
-
-It will develop new data models, specified in YANG rather than as MIBs.
-
-It is necessary to support heterogeneous deployment where energy-related statistics and management may be provided via other models and mechanisms. Guidance will be provided to operators in these heterogeneous environments to cover the incremental deployment of energy-efficient features in both network devices and the management of energy-efficient networks.
-
-The GREEN Working Group is chartered to explore use cases, derive requirements, and provide solutions for identifying and characterizing energy efficiency metrics, methods related to energy consumption of network devices, and optimizing energy efficiency across the network.
+The [Getting Ready for Energy Efficient Networking (green)](https://datatracker.ietf.org/wg/green/about/) Working Group will examine the EMAN work to re-use where applicable but also consider updated operator input and requirements over those previously documented in RFC 6988. Similarly, it will examine the framework previously described in RFC 7326. It will develop new data models, specified in YANG rather than as MIBs. It is necessary to support heterogeneous deployment where energy-related statistics and management may be provided via other models and mechanisms. Guidance will be provided to operators in these heterogeneous environments to cover the incremental deployment of energy-efficient features in both network devices and the management of energy-efficient networks. The GREEN Working Group is chartered to explore use cases, derive requirements, and provide solutions for identifying and characterizing energy efficiency metrics, methods related to energy consumption of network devices, and optimizing energy efficiency across the network.
 
 The [Internet Research Task Force](https://irtf.org/) have established the [Sustainability and the Internet Research Group (SUSTAIN)](https://www.irtf.org/sustain.html) to contribute to the advancement of the Internet as a fundamental part of sustainable and resilient societies and the planet, through conceptual and evidence-based multi-disciplinary research collaboration. Membership in the SUSTAIN Research Group is open to all interested parties.
 
