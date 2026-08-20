@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-07-30T09:28:18.767Z
+date: 2026-08-20T20:49:31.084Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -22,43 +22,43 @@ The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) in
 
 ### Application Identification
 
-Applications needs to consider how to identify applications, this can include both registered port numbers as well as TLS ALPNs. 
+Applications needs to consider how to identify themselves; this can include both registered port numbers as well as TLS ALPNs. 
 
 ### Authentication
 
-As QUIC uses TLS for the security handshake any method that is available in TLS for authentication of the peer, either server only or mutual authentication (mTLS) can be used on transport connection level. 
+As QUIC uses TLS for the security handshake, any method that is available in TLS for authentication of the peer (either server-only or mutual authentication, e.g. mTLS) can be used on the transport connection level. 
 
 ### 0-RTT
 
-QUIC enables 0-RTT data as noted by TLS usage of this data requires considerations as this data cannot be replay protected. 
+QUIC enables 0-RTT data; as noted by TLS, usage of this data requires considerations as this data cannot be replay protected. 
 
 ### Long-Lived Connections
 
-Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative if the application is capable of supporting this is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
+Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative, if the application is capable of supporting this, is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
 ## QUIC Streams
 
-QUIC supports multiple streams (multistreaming) within a connection. Each stream is independent data flow. This avoids head-of-line-blocking between streams. There is no ordering or priority guarantees between data sent using different streams, this is application-specific.
+QUIC supports multiple streams (multistreaming) within a connection. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
 
 ### Reliable Streams
 
-QUIC provides in-order reliable delivery using a Stream. This can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. Reset-at extension provides more control. 
+QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. Reset-at extension provides more control over data delivery for reset streams. 
 
 Applications need also to consider defining error codes to indicate reasons for closing streams. 
 
 ### Unreliable Datagrams
 
-The QUIC DATAGRAM frame is a widely-implemented QUIC extension [Datagram Extension] (https://datatracker.ietf.org/doc/rfc9221/). This provides unrelilable datagrams, where the datagram payload must fit within the MTU available to the QUIC session. 
+The [QUIC DATAGRAM frame](https://datatracker.ietf.org/doc/rfc9221/) is a widely-implemented QUIC extension. This provides unreliable datagrams, where the datagram payload must fit within the MTU available to the QUIC session. 
 
-Datagrams are congestion-controlled, but not subject to flow control.Because there are no reliability or in-order guarantees applications may need to build on top or require additional information from the QUIC implementation.  
+Datagrams are congestion-controlled, but not subject to flow control. Because there are no reliability or order guarantees, applications may need to build these on top if they are required.
 
 ### Stream resets can occur asynchronously
 
-<...>
+A QUIC stream can be reset by the sender, but a reset can be requested by the receiver. To the application, such a request looks like the stream being reset by the receiver.
 
 ## Designing for new QUIC versions/evolution
 
-QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide. 
+QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide.
 
 # To-do (Possible topics to also consider)
 
