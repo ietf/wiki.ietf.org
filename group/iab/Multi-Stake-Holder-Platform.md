@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-20T10:11:31.482Z
+date: 2026-08-20T10:14:29.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -648,7 +648,7 @@ Action 10: ESOs to develop standards in line with the EUDI Framework regulation,
 
 The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datatracker.ietf.org/rg/dinrg/about/) investigates open research issues in decentralizing infrastructure services such as trust management, identity management, name resolution, resource/asset ownership management, and resource discovery. The focus of DINRG is on infrastructure services that can benefit from decentralization or that are difficult to realize in local, potentially connectivity-constrained networks. Other topics of interest are the investigation of economic drivers and incentives and the development and operation of experimental platforms. DINRG will operate in a technology- and solution-neutral manner, i.e., while the RG has an interest in distributed ledger technologies, it is not limited to specific technologies or implementation aspects.
 
-https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-336-blockchain-and-distributed-digital-ledger-technologies
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-335-blockchain-and-distributed-digital-ledger-technologies
 
 ### 3.3.7 Web 4.0 and virtual worlds
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
