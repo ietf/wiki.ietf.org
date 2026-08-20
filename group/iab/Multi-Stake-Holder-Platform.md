@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-20T09:42:22.460Z
+date: 2026-08-20T09:42:46.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -756,6 +756,8 @@ Editor's note: No relevant ongoing work identified in the IETF or IRTF
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## Document Editing History
+2026-08-20: Editorial fixes
+
 2026-08-18: Incorporating feedback from IAB to include reference to relevant IETF and IRTF work including §3.4.3 remove reference to e-Impact IAB program, add reference to SUSTAIN research group, §3.1.14 add reference to IETF Hackathons, §3.1.9 add references to wimse, fann and nmrg
 
 2026-07-21: Updated to reflect RP2027 changes from MSP, added updated text on RP Actions, updated references to relevant IETF work including §3.0.1 jsonschema, §3.0.2 plants, seat, §3.1.2 ocm, §3.1.3 jsonschema, §3.1.4 seat, §3.1.9 webbotauth, §3.1.11 plants
