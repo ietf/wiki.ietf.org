@@ -2,7 +2,7 @@
 title: 6MAN WG - IPv6 Maintenance
 description: 
 published: true
-date: 2026-07-26T03:20:30.721Z
+date: 2026-08-20T20:42:06.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T20:36:36.339Z
