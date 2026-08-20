@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-03-25T10:38:46.769Z
+date: 2026-08-20T09:42:22.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -70,9 +70,7 @@ Action 5: SDOs to establish an exchange with relevant open source developing fou
 
 The following IETF Working Groups are active in this area:
 
-The [JSON Schema (jsonschema)](https://datatracker.ietf.org/wg/jsonschema/about/) Working Group will produce a stable, reference specification of JSON Schema as a
-Proposed Standard. JSON Schema is a JSON language for describing the data structures of other JSON documents. JSON Schema is widely referenced within the IETF and by other organizations such as 3GPP, W3C, HR Open Standards, OpenBanking UK, OpenAPI Initiative, ETSI, C2PA, and more. JSON Schema is widely used in many open source projects
-and commercial offerings. The working group will liaise with other organizations, including but not limited to, ETSI, 3GPP, and OpenAPI Initiative regarding known uses of JSON Schema mechanisms.
+The [JSON Schema (jsonschema)](https://datatracker.ietf.org/wg/jsonschema/about/) Working Group will produce a stable, reference specification of JSON Schema as a Proposed Standard. JSON Schema is a JSON language for describing the data structures of other JSON documents. JSON Schema is widely referenced within the IETF and by other organizations such as 3GPP, W3C, HR Open Standards, OpenBanking UK, OpenAPI Initiative, ETSI, C2PA, and more. JSON Schema is widely used in many open source projects and commercial offerings. The working group will liaise with other organizations, including but not limited to, ETSI, 3GPP, and OpenAPI Initiative regarding known uses of JSON Schema mechanisms.
 
 The [Building Blocks for HTTP APIs (httpapi)](https://datatracker.ietf.org/wg/httpapi/about/) Working Group will standardise HTTP protocol extensions for use when HTTP is used for machine-to-machine communication, facilitated by HTTP APIs. Output can include the following:
 
@@ -219,9 +217,7 @@ The following IETF Working Group is active in this area:
 
 The [A Semantic Definition Format for Data and Interactions of Things (asdf) Working Group](https://datatracker.ietf.org/wg/asdf/about/) is tasked with developing [Semantic Definition Format (SDF)](https://datatracker.ietf.org/doc/draft-onedm-t2trg-sdf/) into a standards-track specification for thing interaction and data modelling. In the process of developing this specification, further functional requirements that emerge in the usage of SDF for model harmonization will be addressed.
 
-The [JSON Schema (jsonschema)](https://datatracker.ietf.org/wg/jsonschema/about/) Working Group will produce a stable, reference specification of JSON Schema as a
-Proposed Standard. JSON Schema is a JSON language for describing the data structures of other JSON documents. JSON Schema is widely referenced within the IETF and by other organizations such as 3GPP, W3C, HR Open Standards, OpenBanking UK, OpenAPI Initiative, ETSI, C2PA, and more. JSON Schema is widely used in many open source projects
-and commercial offerings. The working group will liaise with other organizations, including but not limited to, ETSI, 3GPP, and OpenAPI Initiative regarding known uses of JSON Schema mechanisms.
+The [JSON Schema (jsonschema)](https://datatracker.ietf.org/wg/jsonschema/about/) Working Group will produce a stable, reference specification of JSON Schema as a Proposed Standard. JSON Schema is a JSON language for describing the data structures of other JSON documents. JSON Schema is widely referenced within the IETF and by other organizations such as 3GPP, W3C, HR Open Standards, OpenBanking UK, OpenAPI Initiative, ETSI, C2PA, and more. JSON Schema is widely used in many open source projects and commercial offerings. The working group will liaise with other organizations, including but not limited to, ETSI, 3GPP, and OpenAPI Initiative regarding known uses of JSON Schema mechanisms.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-313-data-interoperability
 
@@ -471,7 +467,7 @@ The [PKI, Logs and Tree Signatures (plants)](https://datatracker.ietf.org/wg/pla
 The Internet Research Task Force (IRTF) has hosted the [Quantum Internet Research Group (QIRG)](https://irtf.org/qirg) since the IETF 101 meeting in March 2018. The QIRG has no official membership and participation is open to everybody. The Research Group communicates primarily through its [mailing list](https://www.irtf.org/mailman/listinfo/qirg) which can be freely subscribed and posted to. The entire mailing list archive is [publicly available online](https://mailarchive.ietf.org/arch/browse/qirg/). The QIRG also holds two or three meetings per year, virtually or in-person, usually at the IETF meetings. The scope of the QIRG’s work is defined in its [charter](https://irtf.org/qirg). A key goal of the QIRG is the development of an architectural framework delineating network node roles and definitions that will serve as the first step toward a quantum network architecture. However, it is important to note that the QIRG focuses on fully entanglement-based quantum networks. QKD and trusted repeater networks are also often discussed, but usually in the context of being a stepping stone towards such a full quantum internet. The QIRG, just like all the other IRTF Research Groups, does not work on standards. It is instead focused on developing research collaborations and teamwork in exploring research issues related to the Internet. Nevertheless, the Research Group does also work on producing [technical documents on quantum networks](https://datatracker.ietf.org/rg/qirg/documents/). The research group has produced two documents:
 
 - [Architectural Principles for a Quantum Internet](https://www.rfc-editor.org/rfc/rfc9340.html) - now published as [RFC9340](https://www.rfc-editor.org/rfc/rfc9340.html).
-- [Application Scenarios for the Quantum Internet](https://www.rfc-editor.org/rfc/rfc9340.html) - now published as [RFC9583](https://www.rfc-editor.org/rfc/rfc9583.html).
+- [Application Scenarios for the Quantum Internet](https://www.rfc-editor.org/rfc/rfc9583.html) - now published as [RFC9583](https://www.rfc-editor.org/rfc/rfc9583.html).
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3111-quantum-technologies
 
