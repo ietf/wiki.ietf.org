@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-21T20:45:45.128Z
+date: 2026-08-21T20:54:50.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,49 +25,49 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Agenda
 
 
-1. Administrivia (Cindy)
+### 1. Administrivia (Cindy)
 
-1.1. Attendance
+#### 1.1. Attendance
 
-1.2. Agenda bash and announcements
+####   1.2. Agenda bash and announcements
 
-1.3. Meeting Minutes
+####   1.3. Meeting Minutes
 
 For approval
 
-  • 2026-07-08 business meeting - (submitted 2026-07-08)
+- 2026-07-08 business meeting - (submitted 2026-07-08)
     OK from: Dhruv
 
-  • 2026-07-19 business meeting - (submitted 2026-07-23)
+ - 2026-07-19 business meeting - (submitted 2026-07-23)
     OK from: Dhruv
 
-  • 2026-07-21 business meeting - (submitted 2026-07-24)
+ - 2026-07-21 business meeting - (submitted 2026-07-24)
     OK from: Dhruv
 
-  • 2026-07-23 business meeting - (submitted 2026-07-23)
+ - 2026-07-23 business meeting - (submitted 2026-07-23)
     OK from: Dhruv
 
+### 2. Monthly Reports (Liaisons, etc.)
 
-2. Monthly Reports (Liaisons, etc.)
-
-  • IRTF Chair
-  • IESG Liaison
-  • ICANN Board Liaison
-  • IANA Liaison
-  • IAB Outreach Coordinator
-  • Internet Society Liaison
-  • Liaison Coordinators
+  - IRTF Chair
+  -  IESG Liaison
+  -  ICANN Board Liaison
+  -  IANA Liaison
+  - IAB Outreach Coordinator
+  -  Internet Society Liaison
+  -  Liaison Coordinators
 
 
-3. Community Coordination Group Appointment
+### 3. Community Coordination Group Appointment
 
   Goal: Record results of e-vote
+
 
   Via e-vote, the IAB agreed to reappoint Tim Wicinski to the Community
   Coordination Group for the 2026-2028 term.
 
 
-4. Post-Quantum Cryptography Workshop 
+### 4. Post-Quantum Cryptography Workshop 
 
   Goal: Record results of e-vote
 
@@ -75,14 +75,14 @@ For approval
   Deployment of Post-Quantum Authentication.
 
 
-5. ISE Survey (Dhruv)
+### 5. ISE Survey (Dhruv)
 
   Goal: Next steps, vote
 
   GitHub: https://github.com/intarchboard/responsibilities/issues/82
 
 
-6. IAB Statement on Age-Based Restrictions 
+### 6. IAB Statement on Age-Based Restrictions 
 
   Goal: Record results of e-vote
  
@@ -90,7 +90,7 @@ For approval
   Restrictions.
 
 
-7. Response to Liaison Statements from ITU-T SG17 (Dhruv)
+### 7. Response to Liaison Statements from ITU-T SG17 (Dhruv)
 
   First liaison statment: https://datatracker.ietf.org/liaison/2202/
   Proposed response: https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing
@@ -100,19 +100,19 @@ For approval
 
 
 
-8. IAB Strategy Meeting Planning
+### 8. IAB Strategy Meeting Planning
 
   Goal: Identify owners for agenda topics
 
   Wiki: https://wiki.ietf.org/en/group/iab/2026_Retreat
 
 
-9. Review of Open Issues for Responsibilities (Dhruv)
+### 9. Review of Open Issues for Responsibilities (Dhruv)
 
   GitHub: https://github.com/orgs/intarchboard/projects/7/views/1
 
 
-10. Executive Session: ICANN Board Liaison Appointment
+### 10. Executive Session: ICANN Board Liaison Appointment
 
   Note: Deadline for community feedback is 2026-08-24
 
