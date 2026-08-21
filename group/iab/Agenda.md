@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-20T02:08:08.322Z
+date: 2026-08-21T20:45:45.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -17,7 +17,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m55fa21db0c29dbe7887bf0a29467078c
 
 
 
@@ -25,7 +25,98 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Agenda
 
 
+1. Administrivia (Cindy)
 
+1.1. Attendance
+
+1.2. Agenda bash and announcements
+
+1.3. Meeting Minutes
+
+For approval
+
+  • 2026-07-08 business meeting - (submitted 2026-07-08)
+    OK from: Dhruv
+
+  • 2026-07-19 business meeting - (submitted 2026-07-23)
+    OK from: Dhruv
+
+  • 2026-07-21 business meeting - (submitted 2026-07-24)
+    OK from: Dhruv
+
+  • 2026-07-23 business meeting - (submitted 2026-07-23)
+    OK from: Dhruv
+
+
+2. Monthly Reports (Liaisons, etc.)
+
+  • IRTF Chair
+  • IESG Liaison
+  • ICANN Board Liaison
+  • IANA Liaison
+  • IAB Outreach Coordinator
+  • Internet Society Liaison
+  • Liaison Coordinators
+
+
+3. Community Coordination Group Appointment
+
+  Goal: Record results of e-vote
+
+  Via e-vote, the IAB agreed to reappoint Tim Wicinski to the Community
+  Coordination Group for the 2026-2028 term.
+
+
+4. Post-Quantum Cryptography Workshop 
+
+  Goal: Record results of e-vote
+
+  Via e-vote, the IAB agreed to hold a workshop on Accelerating the 
+  Deployment of Post-Quantum Authentication.
+
+
+5. ISE Survey (Dhruv)
+
+  Goal: Next steps, vote
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/82
+
+
+6. IAB Statement on Age-Based Restrictions 
+
+  Goal: Record results of e-vote
+ 
+  Via e-vote, the IAB agreed to publish an IAB Statement on Age-Based 
+  Restrictions.
+
+
+7. Response to Liaison Statements from ITU-T SG17 (Dhruv)
+
+  First liaison statment: https://datatracker.ietf.org/liaison/2202/
+  Proposed response: https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing
+
+  Second liaison statement: https://datatracker.ietf.org/liaison/2278/
+  Proposed response: https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing
+
+
+
+8. IAB Strategy Meeting Planning
+
+  Goal: Identify owners for agenda topics
+
+  Wiki: https://wiki.ietf.org/en/group/iab/2026_Retreat
+
+
+9. Review of Open Issues for Responsibilities (Dhruv)
+
+  GitHub: https://github.com/orgs/intarchboard/projects/7/views/1
+
+
+10. Executive Session: ICANN Board Liaison Appointment
+
+  Note: Deadline for community feedback is 2026-08-24
+
+  Goal: Discussion, begin vote
 
 
 ## Regrets
