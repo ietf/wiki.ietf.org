@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-21T13:17:59.944Z
+date: 2026-08-21T13:32:02.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -499,7 +499,7 @@ Action 4: SDOs should consider the conclusions of the 2025 Global Multistakehold
 
 #### IETF/IAB input to Rolling Plan
 
-The IRTF conducts longer-term research on the evolution of Internet architecture, protocols, and technologies. Relevant activities include path-aware networking (PANRG), information-centric networking (ICNRG), Internet decentralization (DINRG), global Internet access (GAIA), empirical Internet measurement (MAPRG), human-rights considerations in Internet protocols (HRPC), and sustainability and resilience (SUSTAIN). The Research and Analysis of Standard-Setting Processes Research Group (RASPRG) complements this technical research with empirical and interdisciplinary research on Internet standard-setting processes, including participation and diversity, decision-making, and interactions between research and standards communities. Together, these activities can provide research evidence, identify architectural and technical gaps, and inform future Internet standardisation priorities.
+The [Internet Research Task Force](https://irtf.org/) conducts longer-term research on the evolution of Internet architecture, protocols, and technologies. Relevant activities include path-aware networking (PANRG), information-centric networking (ICNRG), Internet decentralization (DINRG), global Internet access (GAIA), empirical Internet measurement (MAPRG), human-rights considerations in Internet protocols (HRPC), and sustainability and resilience (SUSTAIN). The Research and Analysis of Standard-Setting Processes Research Group (RASPRG) complements this technical research with empirical and interdisciplinary research on Internet standard-setting processes, including participation and diversity, decision-making, and interactions between research and standards communities. Together, these activities can provide research evidence, identify architectural and technical gaps, and inform future Internet standardisation priorities.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3113-internet
 
@@ -576,6 +576,8 @@ Editor's note: No relevant ongoing work identified in the IETF or IRTF
 ### 3.2.7 Safety, transparency and due process online
 
 Relevant [Internet Research Task Force (IRTF)](https://irtf.org/) efforts include the [Human Rights Protocol Considerations Research Group (HRPC)](https://www.irtf.org/hrpc.html) studies the relationship between Internet protocols, architecture, and human rights, including freedom of expression, freedom of association, and privacy. The [Privacy Enhancements and Assessments Research Group (PEARG)](https://www.irtf.org/pearg.html) investigates privacy risks and privacy-enhancing technologies for Internet protocols and systems. This research can inform consideration of the technical implications of measures addressing online safety, transparency, and accountability.
+
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-327-safety-transparency-and-due-process-online
 
 ### 3.2.8 Emergency communications and public warning systems
 **RP:** 
@@ -654,11 +656,10 @@ The [Decentralized Internet Infrastructure Research Group (DINRG)](https://datat
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-335-blockchain-and-distributed-digital-ledger-technologies
 
 ### 3.3.6 Web 4.0 and virtual worlds
-Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
-RTF: Research on information-centric networking (ICNRG) and Internet decentralization (DINRG) explores alternative approaches to naming, data access, trust, and decentralized Internet architectures that may be relevant to the evolution of future Web and distributed application environments.
+In the [Internet Research Task Force](https://irtf.org/) research on information-centric networking (ICNRG) and Internet decentralization (DINRG) explores alternative approaches to naming, data access, trust, and decentralized Internet architectures that may be relevant to the evolution of future Web and distributed application environments.
 
-
+https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-336-web-40-and-virtual-worlds
 
 ### 3.3.7 Media
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
