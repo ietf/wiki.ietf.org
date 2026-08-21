@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-20T10:14:48.236Z
+date: 2026-08-21T13:16:43.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -116,6 +116,8 @@ Newly chartered Security Area working groups since the last edition of the Rolli
 extension and/or exporter features of D(TLS). Mutual attestation will be supported with and without client TLS authentication to faciliate anonymous client attestation.
 
 The full list of IETF Working Groups in the Security Area is [available here](https://datatracker.ietf.org/wg#SEC).
+
+Relevant [Internet Research Task Force (IRTF)](https://irtf.org/) efforts include the [Crypto Forum Research Group (CFRG)](https://www.irtf.org/cfrg.html) that develops and reviews cryptographic techniques for use in Internet protocols, providing research input that has informed IETF security protocols. The [Privacy Enhancements and Assessments Research Group (PEARG)](https://www.irtf.org/pearg.html) studies privacy-enhancing technologies and privacy considerations for Internet protocols and systems. The [Usable Formal Methods Research Group (UFMRG)](https://www.irtf.org/ufmrg.html) works to make formal methods and verification techniques more accessible and applicable to Internet protocol design and implementation.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-302-cybersecurity-network-and-information-security
 
@@ -295,10 +297,9 @@ Security aspects of the IoT are being addressed in the following Working Groups:
 - The [DTLS In Constrained Environments (dice)](https://datatracker.ietf.org/wg/dice/about/) Working Group focused on supporting the use of DTLS Transport-Layer Security in these environments. Such constrained environments, including constrained devices (e.g. memory, algorithm choices) and constrained networks (e.g. PDU sizes, packet loss), are typical for the IoT, Smart grids, etc.
 - The [Lightweight Authenticated Key Exchange (lake)](https://datatracker.ietf.org/wg/lake/about/) Working Group is developing a ‘lightweight’ authenticated key exchange (LAKE) that enables forward security. 'Lightweight' refers to:
 	- resource consumption, measured by number of round-trips to complete, bytes on the wire, wall-clock time to complete, or power consumption
-	- the amount of new code required on end systems which already have an OSCORE stack
-but the LAKE must still provide the security properties expected of IETF protocols, e.g., providing confidentiality protection, integrity protection, and authentication with strong work factor.
+	- the amount of new code required on end systems which already have an OSCORE stack but the LAKE must still provide the security properties expected of IETF protocols, e.g., providing confidentiality protection, integrity protection, and authentication with strong work factor.
 
-While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [Thing-to-Thing Research Group (t2trg)](https://irtf.org/t2trg) was chartered in 2015 to investigate open research issues in IoT, focusing on issues that exhibit standardisation potential at the IETF.
+While the IoT-oriented IETF working groups have already produced the first wave of mature standards for IoT, new research questions are emerging based on the use of those standards. The IRTF [Thing-to-Thing Research Group (t2trg)](https://irtf.org/t2trg) was chartered in 2015 and investigates open research issues in the Internet of Things, including IoT architecture, interoperability, security, constrained environments, and interactions between IoT, edge, and cloud systems. Its work provides research input on architectural and protocol issues that may inform future Internet and IoT standardisation.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-314-internet-of-things
 
@@ -417,7 +418,7 @@ The [Workload Identity in Multi System Environments (wimse)](https://datatracker
 
 AI/ML training/inference and cloud services, require networks with various combinations of high bandwidth, low loss, low delay, and low jitter. To maintain service continuity and experience, these networks must rapidly adapt to adverse conditions like link faults, degradation, and congestion. However, existing routing technologies often face limitations in reacting in a timely manner to such network conditions, especially in large-scale, high-bandwidth data center (DC) and data center interconnect (DCI) networks. The [Fast Network Notifications (fann)](https://datatracker.ietf.org/wg/fann/about/) Working Group is chartered to investigate the need and develop a comprehensive solution to convey locally detected adverse conditions (and their recovery) to remote nodes that can then react to them for enabling efficient and timely handling of traffic flows.
 
-The [Internet Research Task Force](https://irtf.org/) [Network Management Research Group (nmrg)](https://www.irtf.org/nmrg.html) includes discussion of using AI for network management.
+The [Internet Research Task Force](https://irtf.org/) [Network Management Research Group (nmrg)](https://www.irtf.org/nmrg.html) investigates the application of AI and machine learning to network management and automation, including intent-based networking and autonomous networking. More broadly, the IRTF provides a venue for research into emerging interactions between AI systems and Internet architecture and protocols, including distributed AI systems and communication involving AI agents.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-319-artificial-intelligence
 
@@ -499,6 +500,8 @@ Action 4: SDOs should consider the conclusions of the 2025 Global Multistakehold
 
 #### IETF/IAB input to Rolling Plan
 
+The IRTF conducts longer-term research on the evolution of Internet architecture, protocols, and technologies. Relevant activities include path-aware networking (PANRG), information-centric networking (ICNRG), Internet decentralization (DINRG), global Internet access (GAIA), empirical Internet measurement (MAPRG), human-rights considerations in Internet protocols (HRPC), and sustainability and resilience (SUSTAIN). The Research and Analysis of Standard-Setting Processes Research Group (RASPRG) complements this technical research with empirical and interdisciplinary research on Internet standard-setting processes, including participation and diversity, decision-making, and interactions between research and standards communities. Together, these activities can provide research evidence, identify architectural and technical gaps, and inform future Internet standardisation priorities.
+
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-3113-internet
 
 ### 3.1.14 Open Source and Standardisation
@@ -572,7 +575,8 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-325-ecall
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ### 3.2.7 Safety, transparency and due process online
-Editor's note: No relevant ongoing work identified in the IETF or IRTF
+
+Relevant [Internet Research Task Force (IRTF)](https://irtf.org/) efforts include the [Human Rights Protocol Considerations Research Group (HRPC)](https://www.irtf.org/hrpc.html) studies the relationship between Internet protocols, architecture, and human rights, including freedom of expression, freedom of association, and privacy. The [Privacy Enhancements and Assessments Research Group (PEARG)](https://www.irtf.org/pearg.html) investigates privacy risks and privacy-enhancing technologies for Internet protocols and systems. This research can inform consideration of the technical implications of measures addressing online safety, transparency, and accountability.
 
 ### 3.2.8 Emergency communications and public warning systems
 **RP:** 
@@ -653,6 +657,10 @@ https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-335-blockchain-
 ### 3.3.6 Web 4.0 and virtual worlds
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
+RTF: Research on information-centric networking (ICNRG) and Internet decentralization (DINRG) explores alternative approaches to naming, data access, trust, and decentralized Internet architectures that may be relevant to the evolution of future Web and distributed application environments.
+
+
+
 ### 3.3.7 Media
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
@@ -714,7 +722,7 @@ The [Energy Management (EMAN) Working Group](https://datatracker.ietf.org/wg/ema
 
 The [Getting Ready for Energy Efficient Networking (green)](https://datatracker.ietf.org/wg/green/about/) Working Group will examine the EMAN work to re-use where applicable but also consider updated operator input and requirements over those previously documented in RFC 6988. Similarly, it will examine the framework previously described in RFC 7326. It will develop new data models, specified in YANG rather than as MIBs. It is necessary to support heterogeneous deployment where energy-related statistics and management may be provided via other models and mechanisms. Guidance will be provided to operators in these heterogeneous environments to cover the incremental deployment of energy-efficient features in both network devices and the management of energy-efficient networks. The GREEN Working Group is chartered to explore use cases, derive requirements, and provide solutions for identifying and characterizing energy efficiency metrics, methods related to energy consumption of network devices, and optimizing energy efficiency across the network.
 
-The [Internet Research Task Force](https://irtf.org/) have established the [Sustainability and the Internet Research Group (SUSTAIN)](https://www.irtf.org/sustain.html) to contribute to the advancement of the Internet as a fundamental part of sustainable and resilient societies and the planet, through conceptual and evidence-based multi-disciplinary research collaboration. Membership in the SUSTAIN Research Group is open to all interested parties.
+The [Internet Research Task Force](https://irtf.org/) have established the [Sustainability and the Internet Research Group (SUSTAIN)](https://www.irtf.org/sustain.html) that investigates how Internet technologies and systems can contribute to environmentally sustainable and resilient societies. Its multidisciplinary research considers sustainability and resilience across Internet architecture, protocols, infrastructure, and operation, providing evidence and research perspectives that can inform future standards development.
 
 https://wiki.ietf.org/en/group/iab/Multi-Stake-Holder-Platform#h-343-ict-environmental-impact
 
@@ -746,6 +754,8 @@ Editor's note: No relevant ongoing work identified in the IETF or IRTF
 Editor's note: No relevant ongoing work identified in the IETF or IRTF
 
 ## Document Editing History
+2026-08-21: Incorporating feedback from IRTF chair to add references to IRTF work where appropriate.
+
 2026-08-20: Editorial fixes
 
 2026-08-18: Incorporating feedback from IAB to include reference to relevant IETF and IRTF work including §3.4.3 remove reference to e-Impact IAB program, add reference to SUSTAIN research group, §3.1.14 add reference to IETF Hackathons, §3.1.9 add references to wimse, fann and nmrg
