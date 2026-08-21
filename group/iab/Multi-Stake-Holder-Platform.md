@@ -2,7 +2,7 @@
 title: Multi Stake Holder Platform Wiki
 description: 
 published: true
-date: 2026-08-21T13:16:43.946Z
+date: 2026-08-21T13:17:59.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-26T04:05:43.693Z
@@ -112,8 +112,7 @@ The Security Area intersects with all other IETF Areas, and the participants are
 
 With specific reference to Commission Recommendation (EU) C(2024) 2393 of 11 April 2024 on a Coordinated Implementation Roadmap for the transition to Post-Quantum Cryptography (PQC), the IETF has established the [Post-Quantum Use In Protocols (pquip)](https://datatracker.ietf.org/wg/pquip/about/) Working Group which provides a standing venue to discuss PQC (operational and engineering) transition issues and experiences to date relevant to work in the IETF. The WG will document operational and design guidance which supports PQC transition.
 
-Newly chartered Security Area working groups since the last edition of the Rolling Plan are the [PKI, Logs and Tree Signatures (plants)](https://datatracker.ietf.org/wg/plants/about/) Working Group which is working to reduce the costs of large post-quantum signatures on PKIs with Certificate Transparency, and the [Secure Evidence and Attestation Transport (seat)](https://datatracker.ietf.org/wg/seat/about/) Working Group, which is standardising a protocol that enables peer or mutual attestation for (D)TLS using the
-extension and/or exporter features of D(TLS). Mutual attestation will be supported with and without client TLS authentication to faciliate anonymous client attestation.
+Newly chartered Security Area working groups since the last edition of the Rolling Plan are the [PKI, Logs and Tree Signatures (plants)](https://datatracker.ietf.org/wg/plants/about/) Working Group which is working to reduce the costs of large post-quantum signatures on PKIs with Certificate Transparency, and the [Secure Evidence and Attestation Transport (seat)](https://datatracker.ietf.org/wg/seat/about/) Working Group, which is standardising a protocol that enables peer or mutual attestation for (D)TLS using the extension and/or exporter features of D(TLS). Mutual attestation will be supported with and without client TLS authentication to faciliate anonymous client attestation.
 
 The full list of IETF Working Groups in the Security Area is [available here](https://datatracker.ietf.org/wg#SEC).
 
