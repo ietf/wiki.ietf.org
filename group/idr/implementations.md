@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T20:28:38.054Z
+date: 2026-08-22T20:29:27.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -118,8 +118,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-te-pm-bgp implementations](/group/idr/implementations/draft-ietf-idr-te-pm-bgp)
  - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
  - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
- - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended) 
- - [draft-ietf-idr-RFC5575bis](/group/idr/implementations/draft-ietf-idr-rfc5575bis) 
+ - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended)
+- [draft-ietf-idr-RFC5575bis](/group/idr/implementations/draft-ietf-idr-rfc5575bis) 
  - [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
  - [draft-ietf-idr-ts-flowspec-srv6-policy implementations](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
  - [draft-ietf-idr-tunnel-encaps implementations](/group/idr/implementations/draft-ietf-idr-tunnel-encaps)
