@@ -2,7 +2,7 @@
 title: draft-ietf-idr-bgp-bestpath-selection-criteria
 description: 
 published: true
-date: 2023-03-13T07:04:58.439Z
+date: 2026-08-22T19:13:24.597Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T07:04:53.019Z
@@ -19,7 +19,8 @@ dateCreated: 2023-03-13T07:04:53.019Z
 |  Cisco NX-OS     |           |   Rajiv Asati   |
 |  Juniper         |   16.1R1  |   Jeff Haas     |
 |  Juniper         |   16.1R1  |   Jeff Hass     |
-
+{.dense}
+**Note:** Nokia, FRR, and ExoBGP - provide tool kits to plug in data plane (MPLS) checks. 
 **Features**
 
 | feature        |  section-paragraph                |                                                 Description                                                  |
