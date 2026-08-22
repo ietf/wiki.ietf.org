@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T19:10:18.317Z
+date: 2026-08-22T19:16:49.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -24,7 +24,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
   - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
-## Implementation report for Post-WG LC drafts  
+## Implementation report for Documents sent back to WG 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
  ## Implementation reports for drafts at WG LC  
@@ -35,18 +35,20 @@ dateCreated: 2023-03-13T05:29:13.348Z
  
  ## implementations at Pre-WG LC  (2  implementations) 
  ### Core 
+ #### Core Documents sent back to WG - 2 implementatinos 
+ - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
+  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
+ 
  #### Core - 2 implementatioms exist 
 - [draft-ietf-idr-node-target-ext-comm](/group/idr/implementations/draft-ietf-idr-node-target-ext-comm)  (started in March 2026) 
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) - 
-
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
-- [draft-ietf-idr-bgp-sr-mpls-elp](/group/idr/implementations/draft-ietf-idr-bgp-sr-mpls-elp)
-- [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
- - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement)
-- [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
--
+
+#### Core holding on revision 
+- [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
+- [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 
  
 #### Core - needs 2 implementatioms 
