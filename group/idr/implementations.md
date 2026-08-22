@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T19:18:07.526Z
+date: 2026-08-22T19:20:06.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -35,22 +35,18 @@ dateCreated: 2023-03-13T05:29:13.348Z
  
  ## implementations at Pre-WG LC  (2  implementations) 
  ### Core 
- #### Core Documents sent back to WG - 2 implementatinos 
- - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
-
- #### Core holding on revision to wide communities 
-  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
-- [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
- 
- #### Core - 2 implementatioms exist 
+ #### Core - 2 implementations exist 
 - [draft-ietf-idr-node-target-ext-comm](/group/idr/implementations/draft-ietf-idr-node-target-ext-comm)  (started in March 2026) 
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) - 
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
+ 
+ #### Core Documents sent back to WG - 2 implementatinos 
+ - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
-#### Core holding on revision to wide communities 
-  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
+ #### Core holding on revision to wide communities 
+ - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
 - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
  
 #### Core - needs 2 implementatioms 
@@ -58,7 +54,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
- - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
 
