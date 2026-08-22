@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T16:44:03.137Z
+date: 2026-08-22T16:44:54.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -55,7 +55,6 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
-   - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
 
 #### Core Allocation 
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
