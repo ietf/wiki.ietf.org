@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T16:41:40.073Z
+date: 2026-08-22T16:42:23.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -32,8 +32,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
  ## Implementation reports for drafts at WG LC  
  
 - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model) 
- - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
-  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
+- [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
+
   
  
  ## implementations at Pre-WG LC  (2  implementations) 
