@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-06T20:55:03.242Z
+date: 2026-08-22T16:41:40.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -30,6 +30,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model) 
 
  ## Implementation reports for drafts at WG LC  
+ 
+- [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model) 
  - [draft-ietf-idr-linklocal-capability](/group/idr/implementations/draft-ietf-idr-linklocal-capability)
   - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
   
@@ -55,7 +57,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
  - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
-  
+   - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
 
 #### Core Allocation 
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
