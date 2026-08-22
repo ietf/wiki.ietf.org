@@ -2,7 +2,7 @@
 title: Implementatino Reprot for draft-ietf-idr-sr-policy-nrp
 description: Implementations draft-ietf-idr-sr-policy-nrp
 published: true
-date: 2026-03-14T01:09:46.715Z
+date: 2026-08-22T19:13:38.207Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-22T13:30:13.907Z
@@ -18,7 +18,6 @@ WG LC: needs 2 implementations and joint WG LC with draft-ietf-idr-sr-policy-nrp
 ### Implementations: 
 1) Huawei,  VRP-8 or later 
 3) H3C, Comware V9R1B60D001 or later
-
 
 
 ### Functionality 
