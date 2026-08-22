@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T19:17:06.326Z
+date: 2026-08-22T19:18:07.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -37,7 +37,10 @@ dateCreated: 2023-03-13T05:29:13.348Z
  ### Core 
  #### Core Documents sent back to WG - 2 implementatinos 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
+
+ #### Core holding on revision to wide communities 
   - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
+- [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
  
  #### Core - 2 implementatioms exist 
 - [draft-ietf-idr-node-target-ext-comm](/group/idr/implementations/draft-ietf-idr-node-target-ext-comm)  (started in March 2026) 
@@ -47,9 +50,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 
 #### Core holding on revision to wide communities 
+  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement) - waiting for Wide communities revision 
 - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
-- [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
-
  
 #### Core - needs 2 implementatioms 
  - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
