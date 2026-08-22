@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T16:42:23.730Z
+date: 2026-08-22T16:43:20.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 ## RFC approved, but not published
  - [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](/group/idr/implementations/draft-idr-sr-epe-over-l2bundle)
  - [draft-ietf-idr-nhc](/group/idr/implementations/draft-ietf-idr-nhc)
-  - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
+- [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
   
 - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
 
@@ -26,8 +26,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
   - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
 ## Implementation report for Post-WG LC drafts  
-
-- [draft-ietf-idr-bgp-model](/group/idr/implementations/draft-ietf-idr-bgp-model) 
+ - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
 
  ## Implementation reports for drafts at WG LC  
  
