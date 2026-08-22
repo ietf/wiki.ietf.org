@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T19:59:24.284Z
+date: 2026-08-22T20:24:27.414Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -42,6 +42,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
 - [draft-ietf-idr-next-next-hop-nodes/](/group/idr/implementations/draft-ietf-idr-necxt-next-hop-nodes)
+ - [draft-ietf-idr-add-paths implementations](/group/idr/implementations/draft-ietf-idr-add-paths)
 
  #### Core Documents sent back to WG - 2 implementatinos 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
