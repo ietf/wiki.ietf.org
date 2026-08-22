@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T19:58:43.072Z
+date: 2026-08-22T19:59:24.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -41,7 +41,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
-- [draft-draft-ietf-idr-next-next-hop-nodes/]/(/group/idr/implementations/draft-ietf-idr-sla-exchange)
+- [draft-ietf-idr-next-next-hop-nodes/](/group/idr/implementations/draft-ietf-idr-necxt-next-hop-nodes)
 
  #### Core Documents sent back to WG - 2 implementatinos 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
