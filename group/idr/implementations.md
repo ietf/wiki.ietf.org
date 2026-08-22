@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T16:43:20.840Z
+date: 2026-08-22T16:44:03.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -40,8 +40,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  #### Core - 2 implementatioms exist 
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 - [draft-ietf-idr-bgp-sr-mpls-elp](/group/idr/implementations/draft-ietf-idr-bgp-sr-mpls-elp)
-  
- - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
+- [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
  - [draft-ietf-idr-rpd](/group/idr/implementations/draft-ietf-idr-rpd-implement)
 - [draft-ietf-idr-bgp-bestpath-selection-criteria](/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria)
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
