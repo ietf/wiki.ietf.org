@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-19T19:26:11.001Z
+date: 2026-08-23T23:09:06.686Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -39,7 +39,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Draft | Date | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-| draft-deshmukh-mpls-frr-ext | 2026-08-17 | Adopted, needs republishing | Tony |
+
 
 ## MPLS WG Documents
 
