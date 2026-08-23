@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-20T20:49:31.084Z
+date: 2026-08-23T20:49:14.671Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -30,7 +30,7 @@ As QUIC uses TLS for the security handshake, any method that is available in TLS
 
 ### 0-RTT
 
-QUIC enables 0-RTT data; as noted by TLS, usage of this data requires considerations as this data cannot be replay protected. 
+QUIC enables 0-RTT data; as noted by TLS, usage of this data requires considerations as this data cannot be replay protected. Section 9.2 of RFC 9001 creates several requirements for the use of 0-RTT in an application.
 
 ### Long-Lived Connections
 
