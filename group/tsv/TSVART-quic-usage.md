@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-23T20:49:14.671Z
+date: 2026-08-23T20:57:35.899Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -34,7 +34,7 @@ QUIC enables 0-RTT data; as noted by TLS, usage of this data requires considerat
 
 ### Long-Lived Connections
 
-Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for application that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative, if the application is capable of supporting this, is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
+Applications that require long-lived QUIC connections will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. This may be unsuitable for applications that exchange larger amounts of data or maintain connections longer than an hour. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/). The other alternative, if the application is capable of supporting this, is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
 ## QUIC Streams
 
@@ -56,6 +56,8 @@ Datagrams are congestion-controlled, but not subject to flow control. Because th
 
 A QUIC stream can be reset by the sender, but a reset can be requested by the receiver. To the application, such a request looks like the stream being reset by the receiver.
 
+[It's probably worth explaining that RFC 9000 allows a bidi stream to be reset in one direction but operate normally in the other, but also assess if real implementations actually allow this.]
+
 ## Designing for new QUIC versions/evolution
 
 QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide.
@@ -64,7 +66,7 @@ QUIC may be expected to continue to evolve as new versions and options emerge. T
 
 ### What is the logical byte stream model? (bidirectional vs. unidirectional streams, datagram, etc)
 
-### Not all paths (currently) support QUIC (How does the application fall-back to a differnt transport service?)
+### Not all paths (currently) support QUIC (How does the application fall-back to a different transport service?)
 
 ### How is flow control used? and what is the design of application interaction with streams?
 
