@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-08-24T17:38:40.193Z
+date: 2026-08-24T17:43:25.572Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -18,8 +18,8 @@ dateCreated: 2022-07-23T19:21:39.664Z
   Booking the IESG breakout room, showing arrival times, and agenda topics for the next face-to-face meeting
 - [IESG Strategy Meeting Info](/group/iesg/RetreatInfo)
   Information about the upcoming IESG Strategy Meeting
-- [Secretariat tools](https://www.ietf.org/links/)
-  See also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket.
+- [IESG Private Wiki Site](https://iesg.privatewikis.ietf.org/en/home)
+- [IETF Link Page](https://www.ietf.org/links/)
 
 ## IESG roles: 2026-2027
 
@@ -37,9 +37,6 @@ dateCreated: 2022-07-23T19:21:39.664Z
 | IESG Mailing Lists Admins | Gunter, Mahesh, Ketan, Secretariat |
 
 {.dense}
-
-## Rules
-- Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
 
 ## Policies, Procedures and Practices
 
@@ -61,6 +58,8 @@ dateCreated: 2022-07-23T19:21:39.664Z
 * For Appointments
   * [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
 * [IETF Chair Fee Waiver](/group/iesg/ietf-chair-fee-waiver)
+* [Secretariat Issue Tracking](/group/iesg/issuetracking)
+
 
 
 ## Getting Started as an AD
@@ -85,13 +84,13 @@ There is a lot of useful information on how to utilize the tools. As a new AD yo
 
 	
 ## Miscellaneous
-The IESG has a [private Wiki Site](https://iesg.privatewikis.ietf.org/en/home).
-
 The IETF Chair has a demanding [Chair Timeline](/group/iesg/chairtimeline) to plan IETF meetings.
 
 Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges), [Legacy Errata Handling](/group/iesg/legacyerrata), [Speaking for IETF](/group/iesg/speakingforietf), [Dealing with Private Feedback in IETF Process](/group/iesg/privatefeedback), [Ensuring Appropriate Discussion on IETFatIETF List](/group/iesg/ensuringappropriatediscussion).
 
 Dealing with some complicate IANA Registries: [Media Types](/group/iesg/mediatypes) (a.k.a. MIME Types)
+
+Process BCPs [Formally Accepted](group/iesg/formallyacceptedbyisoc) by the ISOC Board.
 
 ## Some abandoned or obsolete stuff
 Which is nonetheless useful to save
