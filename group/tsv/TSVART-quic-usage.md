@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:15:28.794Z
+date: 2026-08-24T12:17:13.789Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -77,11 +77,16 @@ How does the application fall-back to a different transport service (such as TCP
 ### Consider using a service over HTTP or TCP instead?
 A QUIC service may anyway need to fall-back to this service for a real-world deployment.
 
-### How is flow control used? and what is the design of application interaction with streams?
+### What are the deployment incentives / implementation experience?
+
+Please consider if there are alternate mechanisms to achieve similar objective that would not require QUIC.
+
+### How is flow control used? 
+
+The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams?
 
 ### Does a new QUIC application need a unique UDP Port? 
 
-### Are there deployment incentives / implementation experience - especially when there are alternate mechanisms to achieve similar objectives?
 
 ### NAT and Firewall Traversal
 
