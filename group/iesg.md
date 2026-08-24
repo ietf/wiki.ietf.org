@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-08-24T17:43:25.572Z
+date: 2026-08-24T17:44:28.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -90,7 +90,7 @@ Wiki page for [Handling Changes When ID is in Queue](/group/iesg/handlingchanges
 
 Dealing with some complicate IANA Registries: [Media Types](/group/iesg/mediatypes) (a.k.a. MIME Types)
 
-Process BCPs [Formally Accepted](group/iesg/formallyacceptedbyisoc) by the ISOC Board.
+Process BCPs [Formally Accepted](/group/iesg/formallyacceptedbyisoc) by the ISOC Board.
 
 ## Some abandoned or obsolete stuff
 Which is nonetheless useful to save
