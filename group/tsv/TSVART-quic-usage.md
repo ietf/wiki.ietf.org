@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:27:05.269Z
+date: 2026-08-24T12:31:46.601Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
