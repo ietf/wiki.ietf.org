@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-08-24T17:32:55.863Z
+date: 2026-08-24T17:38:40.193Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -31,9 +31,9 @@ dateCreated: 2022-07-23T19:21:39.664Z
 | [Education and Outreach Directorate](https://datatracker.ietf.org/group/eodir/about/) | Deb, Ketan, Mahesh  |
 | [Technology Deep Dive](https://datatracker.ietf.org/group/tdd/about/)  |  Med, Andy |
 | [RFC Series Approval Board](https://datatracker.ietf.org/group/rsab/about/) | Roman |
-| LLC Board | Roman |
-| IETF-IANA ASG (IAB Program) | Roman, Andy, Éric, Mahesh |
-| IAB-ISOC Policy Coordination Group | Roman, Tommy |
+| [IETF Admin LLC Board](https://datatracker.ietf.org/adm/llc-board/about/) | Roman |
+| [IETF-IANA Admin Support Group](https://datatracker.ietf.org/group/ietfiana/about/) | Roman, Andy, Éric, Mahesh |
+| [IAB-ISOC Policy Coordination Group](https://datatracker.ietf.org/group/iabisoc/about/) | Roman, Tommy |
 | IESG Mailing Lists Admins | Gunter, Mahesh, Ketan, Secretariat |
 
 {.dense}
