@@ -2,7 +2,7 @@
 title: IESG Wiki
 description: IESG Quick Links and Semi-Complete Guide
 published: true
-date: 2026-08-18T17:52:19.405Z
+date: 2026-08-24T17:32:55.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T19:21:39.664Z
@@ -21,44 +21,30 @@ dateCreated: 2022-07-23T19:21:39.664Z
 - [Secretariat tools](https://www.ietf.org/links/)
   See also [Issue Tracking](/group/iesg/issuetracking) and how to send a ticket.
 
----
-- [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
-- [DownRef Registry](https://datatracker.ietf.org/doc/downref) in the datatracker
-- [IESG Only Etiquette](/group/iesg/IESG-Only)
-  When to use and not to use iesg-only mailing list
-
 ## IESG roles: 2026-2027
-| IESG Liaisons | Group  |
+
+| Group/Activity | IESG Liaisons  |
 |---|---|
-| Chris | IAB  |
-| Gunter | NomCom |
-| Mahesh |  Tools Team|
-| Deb, Ketan, Mahesh | EODIR  |
-| Med, Andy |  TDD |
-| Roman | RSAB |
-| Roman | LLC Board |
-| Roman, Andy, Éric, Mahesh | IETF-IANA ASG (IAB Program) |
-| Roman, Tommy | IAB-ISOC Policy Coordination Group |
+| [IAB](https://datatracker.ietf.org/group/iab/about/) | Chris |
+| [NomCom](https://datatracker.ietf.org/nomcom/2026/) | Gunter |
+| [Tools](https://datatracker.ietf.org/group/tools/about/) | Mahesh |
+| [Education and Outreach Directorate](https://datatracker.ietf.org/group/eodir/about/) | Deb, Ketan, Mahesh  |
+| [Technology Deep Dive](https://datatracker.ietf.org/group/tdd/about/)  |  Med, Andy |
+| [RFC Series Approval Board](https://datatracker.ietf.org/group/rsab/about/) | Roman |
+| LLC Board | Roman |
+| IETF-IANA ASG (IAB Program) | Roman, Andy, Éric, Mahesh |
+| IAB-ISOC Policy Coordination Group | Roman, Tommy |
+| IESG Mailing Lists Admins | Gunter, Mahesh, Ketan, Secretariat |
 
 {.dense}
-
-
-## IESG mailing List 
-|Admins|
-|---|
-| Gunter Van de Velde |
-| Mahesh Jethanandani |
-| Ketan Talaulikar
-| The Secretariat  |
-{.dense}
-
 
 ## Rules
 - Process BCPs [Formally Accepted](formallyacceptedbyisoc) by the ISOC Board.
-- [IESG Statements](https://datatracker.ietf.org/group/iesg/statements/)
 
 ## Policies, Procedures and Practices
 
+* [IESG Charter / RFC3710](https://www.rfc-editor.org/info/rfc3710/)
+* [IESG Statements](https://datatracker.ietf.org/group/iesg/statements/)
 * For Meetings
   * [Standing Meetings](/group/iesg/StandingMeetings) (i.e., formal and informal telechat; and during the plenary meeting)
   * [BOF Coordination Meetings](/group/iesg/bof-coordination-meetings)
@@ -69,11 +55,15 @@ dateCreated: 2022-07-23T19:21:39.664Z
 * For Document Processing
   * [Sending a document back to the WG](/group/iesg/sending-a-document-back-to-the-wg)
   * [Expedited Processing by the RFC Editor](/group/iesg/handlingchanges)
+  * [DownRef Registry](https://datatracker.ietf.org/doc/downref)
+* For Mailing Lists
+  * [IESG Only Etiquette](/group/iesg/IESG-Only)
+* For Appointments
+  * [IESG Appointment to the IETF Trust](/group/iesg/ietftrustappointment)
 * [IETF Chair Fee Waiver](/group/iesg/ietf-chair-fee-waiver)
 
 
 ## Getting Started as an AD
-- An IESG Charter, RFC 3710 (2004)
 
 There is a lot of useful information on how to utilize the tools. As a new AD you will work with the Secretariat for access.
 
