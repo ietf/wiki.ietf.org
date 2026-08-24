@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:18:33.879Z
+date: 2026-08-24T12:19:09.618Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -64,7 +64,7 @@ A QUIC stream can be reset by the sender, but a reset can be requested by the re
 
 QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide.
 
-# To-do (Possible topics to also consider)
+# Topics to consider
 
 ### What is the logical byte stream model used by the application? 
 
