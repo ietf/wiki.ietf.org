@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:19:09.618Z
+date: 2026-08-24T12:25:01.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -75,7 +75,7 @@ Is the communication Client to Server or Peer to Peer?
 
 How does the application fall-back to a different transport service (such as TCP) if the path doesn't allow setup of a QUIC connection?
 
-#### What is the need for NAT and Firewall Traversal?
+What is the need for NAT and Firewall Traversal?
 
 ### Consider using a service over HTTP or TCP instead?
 A QUIC service may anyway need to fall-back to this service for a real-world deployment.
@@ -90,6 +90,7 @@ The way flows are used, priorities and managed depends on the application: what 
 
 ### Does a new QUIC application need a unique UDP Port? 
 
+RFC 7605 provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, (RFC 7301) can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
 
 
 
