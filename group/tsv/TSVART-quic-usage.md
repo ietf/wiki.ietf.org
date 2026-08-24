@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T08:15:40.465Z
+date: 2026-08-24T08:18:36.941Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -44,13 +44,13 @@ QUIC supports multiple streams (multistreaming) within a connection. Each stream
 
 ### Reliable Streams
 
-QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. Reset-at extension provides more control over data delivery for reset streams. 
+QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams. 
 
 Applications need also to consider defining error codes to indicate reasons for closing streams. 
 
 ### Unreliable Datagrams
 
-The [QUIC DATAGRAM frame](https://datatracker.ietf.org/doc/rfc9221/) is a widely-implemented QUIC extension. This provides unreliable datagrams, where the datagram payload must fit within the MTU available to the QUIC session. 
+The [QUIC DATAGRAM frame](https://datatracker.ietf.org/doc/rfc9221/) is a widely-implemented QUIC extension. This provides unreliable datagrams, where the datagram payload must fit within the MTU available to the QUIC connection. 
 
 Datagrams are congestion-controlled, but not subject to flow control. Because there are no reliability or order guarantees, applications may need to build these on top if they are required.
 
