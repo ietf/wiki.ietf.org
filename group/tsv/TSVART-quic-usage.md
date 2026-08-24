@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:26:42.505Z
+date: 2026-08-24T12:27:05.269Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -83,7 +83,7 @@ Please consider if there are alternate mechanisms to achieve similar objective t
 
 ### How is flow control used? 
 
-The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
+The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? Please explain the usage. QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
 
 ### Does a new QUIC application need a unique UDP Port? 
 
