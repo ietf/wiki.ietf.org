@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T08:09:35.633Z
+date: 2026-08-24T08:15:40.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -34,7 +34,7 @@ QUIC enables 0-RTT data; as noted by TLS, usage of this data requires considerat
 
 ### Long-Lived Connections
 
-Applications that require long-lived QUIC connections, with that we mean connections that last several hours or that transfer large quantities of data (more than 100 GB). Governmental recommendations for rekeying and re-authentication using perfect forward secrecy exists that stipulate from every hour or couple of hours for IPsec, for example [ANSSI](https://messervices.cyber.gouv.fr/documents-guides/NT_IPsec_EN.pdf) recommends that one rekey and re-authenticate every hour and every 100 Gbytes. Applications should consider what requirements apply to their protocol using QUIC. 
+Applications that require long-lived QUIC connections, with that we mean connections that last several hours or that transfer large quantities of data (more than 100 GB) should consider forward secrecy and periodic rekeying with re-authentication to mitigate impact of any key leakage. Governmental recommendations for rekeying and re-authentication using forward secrecy exists that stipulate from every hour or couple of hours for IPsec, for example [ANSSI](https://messervices.cyber.gouv.fr/documents-guides/NT_IPsec_EN.pdf) recommends that one rekey and re-authenticate every hour and every 100 Gbytes. Applications should consider what requirements apply to their protocol using QUIC. 
 
 If one have requirements on periodic rekeying and re-authentication one will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/) for re-authentication. The other alternative, if the application is capable of supporting this, is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
