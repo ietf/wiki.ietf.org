@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:31:46.601Z
+date: 2026-08-24T12:33:30.383Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -22,7 +22,7 @@ The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) in
 
 ### Application Identification
 
-Applications needs to consider how to identify themselves; this can include both registered port numbers as well as TLS ALPNs. 
+Applications needs to consider how to identify themselves; this can include both registered port numbers as well as a TLS Application-Layer Protocol Negotiation (ALPN) identifier.
 
 ### Authentication
 
