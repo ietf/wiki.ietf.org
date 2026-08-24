@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:25:01.842Z
+date: 2026-08-24T12:25:21.858Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -68,14 +68,11 @@ QUIC may be expected to continue to evolve as new versions and options emerge. T
 
 ### What is the logical byte stream model used by the application? 
 
-This could be a bi-directional or uni-directional stream. It could be datagram, etc.
-Is the communication Client to Server or Peer to Peer?
+This could be a bi-directional or uni-directional stream. It could be datagram, etc. Is the communication Client to Server or Peer to Peer?
 
 ### Not all paths (currently) support QUIC 
 
-How does the application fall-back to a different transport service (such as TCP) if the path doesn't allow setup of a QUIC connection?
-
-What is the need for NAT and Firewall Traversal?
+How does the application fall-back to a different transport service (such as TCP) if the path doesn't allow setup of a QUIC connection? What is the need for NAT and Firewall Traversal?
 
 ### Consider using a service over HTTP or TCP instead?
 A QUIC service may anyway need to fall-back to this service for a real-world deployment.
