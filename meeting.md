@@ -2,7 +2,7 @@
 title: IETF Meetings
 description: The home for IETF meeting wikis.
 published: true
-date: 2026-08-24T22:06:03.917Z
+date: 2026-08-24T22:07:56.956Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-03T23:54:36.026Z
@@ -20,21 +20,21 @@ Wikis are used by participants to share information about and coordinate around 
 #### IETF 127 San Francisco
 **November 14-20, 2026** - :us: San Francisco, USA
 - [IETF 127 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/127)
-- [IETF 127 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/)
+- [IETF 127 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/127)
 - [IETF 127 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/127/hackathon)
 {.links-list}
 
 #### IETF 128 Kuala Lumpur
 **March 6-12, 2027** - :malaysia: Kuala Lumpur, Malaysia
 - [IETF 128 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/128)
-- [IETF 128 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/)
+- [IETF 128 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/128)
 - [IETF 128 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/128/hackathon)
 {.links-list}
 
 #### IETF 129 Berlin
 **July 17-23, 2027** - :de: Berlin, Germany
 - [IETF 129 Meeting Wiki *Venue info, hotels, transportation, points of interest, tips and more.*](/meeting/129)
-- [IETF 129 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/)
+- [IETF 129 Side Meetings *Public side meetings held during the IETF meeting that are not part of the official agenda.*](https://sidemeetings.ietf.org/129)
 - [IETF 129 Hackathon *A collaborative event for discussing and developing practical implementations of IETF standards.*](/meeting/129/hackathon)
 {.links-list}
 
