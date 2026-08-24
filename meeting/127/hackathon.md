@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-08-12T15:38:25.161Z
+date: 2026-08-24T09:03:32.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -174,6 +174,7 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
   - Saleem Bhatti saleem@st-andrews.ac.uk
   - Rodney Grimes rgrimes@freebsd.org
   - Alistair Woodman awoodman@netdef.org
+  - Ryo Yanagida ry6@st-andrews.ac.uk (remote)
 
 - **Project Info**
   - https://ilnp.cs.st-andrews.ac.uk
