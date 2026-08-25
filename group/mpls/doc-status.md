@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-23T23:09:06.686Z
+date: 2026-08-25T14:50:14.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,8 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2026-08-11 | draft-beeram-spring-rsvp-sr-mpls | Negotiating with SPRING chairs | Tarek |
+| 2026-08-25 | draft-beeram-spring-rsvp-sr-mpls | IPR poll started | Tarek |
+
 ## Queued for WG Adoption Poll
 
 Documents in this state are waiting for the chairs to issue an adoption poll. Adoption polls and working group last calls will be paced by the chairs so that the working group participants are not swamped with review activity.
@@ -41,6 +42,7 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 | --- | --- | --- | --- | -- |
 
 
+
 ## MPLS WG Documents
 
 Refer to https://datatracker.ietf.org/wg/mpls/documents/ for all MPLS working group documents.
@@ -51,6 +53,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
+|  2026-08-23 | draft-deshmukh-mpls-frr-ext | Adopted | Tony |
 
 ## Queued for WG Last Call
 
