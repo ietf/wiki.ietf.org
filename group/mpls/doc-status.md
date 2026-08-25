@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-25T14:50:14.303Z
+date: 2026-08-25T16:42:18.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -53,7 +53,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
-|  2026-08-23 | draft-deshmukh-mpls-frr-ext | Adopted | Tony |
+
 
 ## Queued for WG Last Call
 
