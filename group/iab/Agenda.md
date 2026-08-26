@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-26T12:36:09.310Z
+date: 2026-08-26T12:53:05.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -123,6 +123,11 @@ For approval
 ## Regrets
 
 - Warren Kumari
+- Ali C Begen
+- Suresh
+- Mark
+- Roman
+
 
 ## Upcoming IAB Meetings
 
