@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-25T15:50:41.616Z
+date: 2026-08-26T12:36:09.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -80,6 +80,7 @@ For approval
   Goal: Next steps, vote
 
   GitHub: https://github.com/intarchboard/responsibilities/issues/82
+  Survey: https://docs.google.com/document/d/1xTLuxLwl_vcrS8633iqi_4hepcsk44BIyPZtlpGOW_0/edit?usp=sharing
 
 
 ### 6. IAB Statement on Age-Based Restrictions 
@@ -96,7 +97,7 @@ For approval
   Proposed response: https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing
 
   Second liaison statement: https://datatracker.ietf.org/liaison/2278/
-  Proposed response: https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?usp=sharing
+  Proposed response: https://docs.google.com/document/d/16a60PxNQekd9Q421ayYnAxI3SRoQRtrcLWuPCzAnC6k/edit?usp=sharing
 
 
 
