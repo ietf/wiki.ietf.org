@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-26T19:37:56.004Z
+date: 2026-08-26T20:45:42.229Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,7 +47,7 @@ Note that this page is public.
 
 ### Management Issues
 
-0. (Notional) (scheduled first to allow the team to join and drop) Ombudsteam Requests Update to IESG Statement on Harassment
+== @ the start of the second hour == Ombudsteam Requests Update to IESG Statement on Harassment
 
 1. Liaison statements on SG17 on Agentic AI
   * [Proposed joint IAB+IESG Response]( https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?tab=t.0#heading=h.nmdbccmcutq)
@@ -68,8 +68,7 @@ Note that this page is public.
 
 ### Executive Sessions
     
-1. Appeal processing (Roman)
-2. PRA (Deb)
+1. PRA (Deb)
 
 ### AOB
 
