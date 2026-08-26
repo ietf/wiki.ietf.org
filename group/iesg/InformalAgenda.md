@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-25T08:39:16.346Z
+date: 2026-08-26T19:37:56.004Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -69,6 +69,7 @@ Note that this page is public.
 ### Executive Sessions
     
 1. Appeal processing (Roman)
+2. PRA (Deb)
 
 ### AOB
 
