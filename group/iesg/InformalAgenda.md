@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-27T13:56:56.446Z
+date: 2026-08-27T14:44:11.557Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -62,9 +62,7 @@ Note that this page is public.
 
 3. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
 
-4. [PR](https://github.com/ietf-tools/datatracker/pull/11344) of Last Call Blob [Update](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/) (Med)
 
-5. [IESG Statement on References: An Update](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/) (Med)
 
 ### WG News 
 
