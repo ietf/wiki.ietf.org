@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-26T20:46:14.768Z
+date: 2026-08-27T13:56:56.446Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,6 +40,10 @@ Note that this page is public.
 
 
 ### Administrivia
+
+* Reminder: BOF deadlines coming up!
+  * 19 Sept, 2 October are the two deadlines
+  * BOF coordination call finalizing soon
 
 ### Document Discussions
 
