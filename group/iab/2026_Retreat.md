@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-26T14:38:17.467Z
+date: 2026-08-28T13:42:11.040Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -88,7 +88,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Relationship with Linux Foundation - should we do something? (Dhruv, Suresh) 
 - Brainstorming: Should the IAB do more architectural work? Emerging Trends (including AI) and Where the IAB Can Contribute? (Alvaro)
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
-- Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? (Yaroslav)
+- Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? (Yaroslav, Matthew)
 - [GitHub Responsability Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
 - Invited Talk: Lorenzo (TBC)
 
