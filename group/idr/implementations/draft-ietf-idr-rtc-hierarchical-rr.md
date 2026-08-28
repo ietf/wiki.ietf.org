@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T15:26:32.563Z
+date: 2026-08-28T15:27:01.698Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -31,10 +31,6 @@ Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
 
 ##### configuration 
 https://www.juniper.net/documentation/us/en/software/junos/cli-reference/topics/ref/statement/add-path-edit-protocols-bgp.html
-
-#### Huawei 
-(need to check with Huawei)
-##### config Code 
 
 
 #### FRR 
