@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-08-28T12:38:01.434Z
+date: 2026-08-28T12:42:05.066Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -117,9 +117,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Authors made an update on 2026-07-05 | Julien | Ketan|
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | In Last Call (ends 2026-09-01)| - | Julien | Ketan|
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | AD Evaluation::Revised I-D Needed | AD replied June 25, 2026. Way forward TBD (Experimental suggested by Dhruv, Pending on Authors since) | Andrew | Ketan |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| AD Evaluation| Sent to AD on 2026-06-23 | Yisong | Ketan |
+|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| AD Evaluation::Revised I-D Needed| Pending on authors to update since 2026-07-16 | Yisong | Ketan |
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
