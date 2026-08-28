@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T15:28:33.947Z
+date: 2026-08-28T15:30:02.430Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -52,5 +52,8 @@ bgp addpath-tx-bestpath-per-AS commands under the RTC address family daemon conf
 Supports this feature.  
 
 ##### configuration 
+peer allow-cluster-loop
 
+
+ 
 
