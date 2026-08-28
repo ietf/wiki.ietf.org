@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T15:27:01.698Z
+date: 2026-08-28T15:27:34.586Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -19,7 +19,7 @@ dateCreated: 2026-08-28T13:30:51.594Z
 - FRR 
 
 ## Details 
-### Add path solution 3.0 
+### Add path solution (3.1)  
 #### Nokia 
 Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
 ##### Code 
@@ -31,7 +31,6 @@ Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
 
 ##### configuration 
 https://www.juniper.net/documentation/us/en/software/junos/cli-reference/topics/ref/statement/add-path-edit-protocols-bgp.html
-
 
 #### FRR 
 RR handles the RTC address family (address-family ipv4 rtc), but it strictly enforces standard BGP loop prevention by default.
