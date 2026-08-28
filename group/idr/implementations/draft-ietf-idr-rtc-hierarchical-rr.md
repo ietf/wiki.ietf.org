@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T15:27:34.586Z
+date: 2026-08-28T15:28:33.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -10,8 +10,6 @@ dateCreated: 2026-08-28T13:30:51.594Z
 
 # draft-ietf-idr-rtc-hierarchical-rr
 # Implementation report 
-
-
 ## Implementations 
 - NOkia 
 - Juniper/HPE 
