@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T13:39:15.558Z
+date: 2026-08-28T15:26:32.563Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -19,16 +19,18 @@ dateCreated: 2026-08-28T13:30:51.594Z
 - FRR 
 
 ## Details 
-### Add path solution 
+### Add path solution 3.0 
 #### Nokia 
-Nokia SR OS supports BGP Optimal Route Reflection (ORR) for Hierarchical Networks and natively supports BGP Add-Path for the route-target (RTC) address family.
+Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
 ##### Code 
-Within the config>router>bgp context, you can enable add-paths for the route-target address family on inter-RR sessions to satisfy the draft's Add-Path requirement.
+ config>router>bgp context, 
+ enable add-paths for the route-target address family on inter-RR sessions to satisfy the draft's Add-Path requirement.
 
-#### Juniper/HPE (Aruba)
-Junos OS bypasses this issue predominantly via two mechanisms: Add-Path configuration and explicit knob relaxation.
-##### Config Code 
-Juniper allows you to configure add-path under the family route-target configuration. Additionally, for complex multi-cluster topologies where loop-detection dropping is a problem, Junos supports the relaxation of loop verification on infrastructure-only control targets or the use of independent cluster IDs.
+#### Juniper/HPE  
+ Add-Path supported 
+
+##### configuration 
+https://www.juniper.net/documentation/us/en/software/junos/cli-reference/topics/ref/statement/add-path-edit-protocols-bgp.html
 
 #### Huawei 
 (need to check with Huawei)
@@ -38,4 +40,24 @@ Juniper allows you to configure add-path under the family route-target configura
 #### FRR 
 RR handles the RTC address family (address-family ipv4 rtc), but it strictly enforces standard BGP loop prevention by default.
 ##### config Code 
-To align FRR with this draft in a hierarchical setup, you must manually enable Add-Path behavior for the RTC table using the bgp addpath-tx-all-paths or bgp addpath-tx-bestpath-per-AS commands under the RTC address family daemon configuration.
+manually enable Add-Path behavior for the RTC table for bgp addpath-tx-all-paths 
+or 
+bgp addpath-tx-bestpath-per-AS commands under the RTC address family daemon configuration.
+
+
+### Allowing Duplicated CLUSTER_ID (section 3.2) 
+>    As the RT-Constrain route may be ignored due to 
+>    duplicated CLUSTER_ID in the CLUSTER_LIST
+>    of the received BGP Update, one knob can be introduced to control
+>    whether CLUSTER_ID duplication is allowed or not, and the times of
+>    duplication of any CLUSTER_ID allowed in the received CLUSTER_LIST
+>    can be configurable.
+{.is-info}
+
+   
+#### Huawei 
+Supports this feature.  
+
+##### configuration 
+
+
