@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-08-28T16:46:23.330Z
+date: 2026-08-31T19:51:23.171Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -44,7 +44,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-lee-pce-pcep-ls-optical | WG Adoption | Ends 2026-09-14 | Dhruv |
+| draft-lee-pce-pcep-ls-optical | WG Adoption (IPR: 0/5 authors, 0/4 contributors. 1-contributor email bounced back) | Ends 2026-09-14 | Dhruv |
 | draft-gandhi-pce-pm | Pending | Polled during IETF 126 | Julien |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
