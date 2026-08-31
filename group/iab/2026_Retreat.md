@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-31T15:33:12.579Z
+date: 2026-08-31T15:35:11.768Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -81,7 +81,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Workshop Related Topics
 	- PQ Workshop Prep (Nick)
   - Ideas for future workshop? (all)
-  - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
+  	- Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
 - ISE Survey Results (Dhruv)
 - Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
 - Improving collabration with ICANN and coordination among ICANN appointees (Warren, Suresh)
