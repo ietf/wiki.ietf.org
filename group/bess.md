@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-09-01T08:54:20.509Z
+date: 2026-09-01T14:21:18.470Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -94,8 +94,8 @@ Shepherd's name indicated within parenthesis.
 	- expired. 
   - Moved to experimental now , Matthew to write up and move to next step (09/06)
 -  (Matthew):
-- draft-ietf-bess-bgp-multicast-10 (Stephane)
-- draft-ietf-bess-evpn-dpath-04 (Jeffery)
+
+
 - draft-ietf-bess-evpn-per-mcast-flow-df-election (Jeffery)
 - draft-ietf-bess-rfc7432bis-14 (Jeffery)
 
@@ -111,8 +111,6 @@ Shepherd's name indicated within parenthesis.
 
 
 ## Documents candidates for Working Group Last Call
-
-
 * draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
   - Outstanding questions/comments from Jeffrey
   
@@ -133,12 +131,13 @@ Shepherd's name indicated within parenthesis.
   - Requested Susan for IDR review for both bgp-multicast drafts.
   - Susan comment has been addressed, waiting for her comment. 
 
-* draft-ietf-bess-bgp-multicast
+* draft-ietf-bess-bgp-multicast (Stephane)
   - GenArt and RtgDir early review passed ( revision -07)
   - Susan comment has been addressed, waiting for her comment. 
   - Expired 
 
-  
+* draft-ietf-bess-evpn-dpath-04 (Jeffery) 
+
 ## Recently adopted documents
 * draft-ietf-bess-rfc6514bis-00
 * draft-ietf-bess-evpn-ip-mac-proxy-adv-00
