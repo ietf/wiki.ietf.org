@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-09-01T14:21:18.470Z
+date: 2026-09-01T14:43:20.715Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -125,7 +125,7 @@ Shepherd's name indicated within parenthesis.
   - Jeffrey to check updates against his review
   
 
-* draft-ietf-bess-bgp-multicast-controller
+* draft-ietf-bess-bgp-multicast-controller (Stephane)
   - GenArt early review passed
   - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement from reviewer yet.
   - Requested Susan for IDR review for both bgp-multicast drafts.
@@ -144,10 +144,10 @@ Shepherd's name indicated within parenthesis.
 
 ## Documents requested for Working Group adoption (Non Expired drafts only)
 
-* draft-rabadan-bess-evpn-inter-domain-opt-b
-* draft-rabnic-bess-evpn-mcast-eeg
-* draft-rabnag-bess-evpn-anycast-aliasing
-* draft-kriswamy-bess-evpn-perflow-df
+* draft-rabadan-bess-evpn-inter-domain-opt-b (Matthew)
+* draft-rabnic-bess-evpn-mcast-eeg (Stephane)
+* draft-rabnag-bess-evpn-anycast-aliasing (Matthew)
+* draft-kriswamy-bess-evpn-perflow-df (Jeffery)
 
 
 ## Documents that failed WG adoption
