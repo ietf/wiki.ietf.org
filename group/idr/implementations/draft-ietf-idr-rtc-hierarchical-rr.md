@@ -2,7 +2,7 @@
 title: Implmentation report for draft-ietf-idr-rtc-hierarchical-rr
 description: draft-ietf-idr-rtc-hierarchical-rr implementations
 published: true
-date: 2026-08-28T15:30:02.430Z
+date: 2026-09-02T02:11:53.526Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-28T13:30:51.594Z
@@ -17,7 +17,7 @@ dateCreated: 2026-08-28T13:30:51.594Z
 - FRR 
 
 ## Details 
-### Add path solution (3.1)  
+### Add-path based solution (3.1)  
 #### Nokia 
 Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
 ##### Code 
@@ -25,7 +25,7 @@ Nokia SR OS supports BGP Add-Path for the route-target (RTC) address family.
  enable add-paths for the route-target address family on inter-RR sessions to satisfy the draft's Add-Path requirement.
 
 #### Juniper/HPE  
- Add-Path supported 
+ Add-Path supported for the route-target (RTC) address family. 
 
 ##### configuration 
 https://www.juniper.net/documentation/us/en/software/junos/cli-reference/topics/ref/statement/add-path-edit-protocols-bgp.html
@@ -49,10 +49,10 @@ bgp addpath-tx-bestpath-per-AS commands under the RTC address family daemon conf
 
    
 #### Huawei 
-Supports this feature.  
+Supports to allow the local cluster ID to exist in the CLUSTER_LIST of received route-target (RTC) route.
 
 ##### configuration 
-peer allow-cluster-loop
+peer xxxx allow-cluster-loop 
 
 
  
