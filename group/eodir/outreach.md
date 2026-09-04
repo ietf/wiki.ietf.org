@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-09-04T01:42:38.277Z
+date: 2026-09-04T02:15:46.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -44,7 +44,15 @@ Some examples of outreach activities are listed in the table below
 |Open Source Community|Implementers|full participation|-|IETF Hackathon outreach by Charles|
 |Civil Society|NGO, Professional associations|supporter|-|-|
 
+## Planned Outreach activities
 
+This table collects future events where the IETF outreach activities are planned or desirable. Feel free to add more events or add your name to an existing event if you are planning to attend (even if someone has volunteered already!).
+
+|When|Event|Target Audience|Participation|Volunteers|Remarks|
+|---|---|---|---|---|---|
+Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants|Jen Linkova|Probably WG-specific updates (IPv6: by Jen), as general overview of the IETF has been presented resently.|
+March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Participants|Dhruv, Jen||
+May2027|[RIPE94](https://www.ripe.net/meetings/calendar/ripe-94/)|Operators|Participants|Jen|
 
 ## Outreach activities, done in the past
 
