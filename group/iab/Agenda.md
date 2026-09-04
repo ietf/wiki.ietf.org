@@ -2,22 +2,22 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-08-28T22:19:07.325Z
+date: 2026-09-04T22:22:23.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-09-09, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-09-16, 23:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-09-09
+## There WILL NOT be a meeting on 2026-09-16
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1462ee51b58235f48f3c18833c20dbe7
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
 
 
 
@@ -40,7 +40,6 @@ Goal:
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-09-09 Informal 1400-1500 UTC
 - 2026-09-16 Informal 2300-0000 UTC
 - **2026-09-23 Formal 1300-1500 UTC**
 - 2026-09-30 Informal 0600-0700 UTC
