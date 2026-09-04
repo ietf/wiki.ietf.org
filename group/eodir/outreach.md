@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-07-20T08:14:43.960Z
+date: 2026-09-04T01:42:38.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -132,10 +132,11 @@ This table list IETFers that can potentially help for specific events and commun
 |---|---|---|
 |Operators|APRICOT/APNIC|Dhruv Dhody|
 |Operators|NANOG|Yingzhen Qu, Zhaohui (Jeffrey) Zhang|
-|Operators|RIPE|Mirjam Kühne|
+|Operators|RIPE|Mirjam Kühne, Jen Linkova|
 |Operators|LACNIC|Alvaro Retana|
 |Operators|MANRS|Nick Hilliard, Melchior Aelmans|
 |Operators|AutoCon|Mahesh Jethanandani|
+|Operators|AusNOG|Jen Linkova|
 |Operators|NOGs|Reaching out to local IETFers, ISOC local chapters|
 |DNS|ICANN|David Lawrence, Wes Hardaker, Warren Kumari, Daniel Migault|
 |DNS|DNS-OARC|Shumon Huque, Wes Hardaker, Warren Kumari|
