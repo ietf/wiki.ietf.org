@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-09-04T02:15:46.928Z
+date: 2026-09-04T03:05:42.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,8 +50,8 @@ This table collects future events where the IETF outreach activities are planned
 
 |When|Event|Target Audience|Participation|Volunteers|Remarks|
 |---|---|---|---|---|---|
-Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants|Jen Linkova|Probably WG-specific updates (IPv6: by Jen), as general overview of the IETF has been presented resently.|
-March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Participants|Dhruv, Jen||
+Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|knowledge sharing |Jen Linkova|Probably WG-specific updates (IPv6: by Jen), as general overview of the IETF has been presented resently.|
+March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Pknowledge sharing |Dhruv, Jen||
 May2027|[RIPE94](https://www.ripe.net/meetings/calendar/ripe-94/)|Operators|Participants|Jen|
 
 ## Outreach activities, done in the past
