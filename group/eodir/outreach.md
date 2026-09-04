@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-09-04T05:07:15.623Z
+date: 2026-09-04T05:10:00.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -60,6 +60,8 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Sept 2026|[APNIC62](https://conference.apnic.net/62/program/program/index.html#/day/1/)|Operators|Participants|Suresh, Dhruv|-|
+|Sept 2026|[RFCsWeLove](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|Regional|Participants|Suresh, Dhruv|-|
 |July 2026|[Connections2026](https://connections.iiesoc.in/)|Regional|Participants|Dhruv, Mohit|[Slides](https://docs.google.com/presentation/d/1ebC6PvqeUCza_jRh9pFu6oZe5fH1uTUC22S0JSgggxA/edit)|
 |June 2026|[Nanog97](https://nanog.org/events/nanog-97/)|Operators|Participants|Yingzhen, Yaroslav|[slides](https://nanog.org/events/nanog-97/content/5762/)|
 |May 2026|[LACNIC45](https://lacnic45.lacnic.net)|Operators|Participants|Alvaro|[slides](https://apievt.lacnic.net/wp-content/uploads/2026/05/lacnic45-open-standards-keynote-alvaro-retana.pdf)<br>[IAB Workshop Report](https://lacnic45.lacnic.net/en/programme/agenda/ip-geolocation-update)|
