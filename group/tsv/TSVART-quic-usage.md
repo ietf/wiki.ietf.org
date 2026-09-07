@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-09-07T10:58:17.933Z
+date: 2026-09-07T11:21:38.096Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -18,7 +18,7 @@ Defining application usage of QUIC is potentially challenging and this section c
 
 The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) includes some guidance on aspects of QUIC to consider. 
 
-## QUIC Connections
+## Properties of QUIC Connections
 
 ### Application Identification
 
@@ -48,9 +48,9 @@ There are different services that can be provided using a QUIC stream:
 
 ### Reliable Streams
 
-QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams. 
+QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees.  
 
-Applications need also to consider defining error codes to indicate reasons for closing streams. 
+Applications may need to define error codes to indicate reasons for closing streams. 
 
 ### Unreliable Datagrams
 
@@ -62,28 +62,40 @@ Datagrams are congestion-controlled, but not subject to flow control. Because th
 
 A QUIC stream can be reset by the sender, but a reset can be requested by the receiver. To the application, such a request looks like the stream being reset by the receiver.
 
-[It's probably worth explaining that RFC 9000 allows a bidi stream to be reset in one direction but operate normally in the other, but also assess if real implementations actually allow this.]
+RFC 9000 defines a bidirectional stream, that can be reset in one direction, but continue to transfer data normally in the other direction. Experience is recommended to understand how this is realised in actual implementations.
+
+The [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams.
 
 ## Designing for new QUIC versions/evolution
 
-QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide.
+QUIC is expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. 
+
 
 # Topics to consider
 
-### What is the logical byte stream model used by the application? 
+This section provides some questions to help identify the suitability of a new specification for standardisation. 
 
-This could be a bi-directional or uni-directional stream. It could be datagram, etc. Is the communication Client to Server or Peer to Peer?
+### Why does this application need QUIC?
+
+Please consider if there are alternate mechanisms to achieve similar objective that would not require.
+
+What feature(s) that are offered by QUIC does the application need?
+
+### Has there been consideration of using a service over HTTP or TCP instead?
+
+QUIC is not supported on all paths. A QUIC service may anyway need to fall-back to another transport service for a real-world deployment. How will fall-back be realised for this application?
 
 ### Not all paths (currently) support QUIC! 
 
-How does the application fall-back to a different transport service (such as TCP) if the path doesn't allow setup of a QUIC connection? What is the need for NAT and Firewall Traversal?
+How does the application fall-back to a different transport service (such as TCP) if the path does not allow setup of a QUIC connection? 
 
-### Consider using a service over HTTP or TCP instead?
-A QUIC service may anyway need to fall-back to this service for a real-world deployment.
+Paths with middleboxes might not pass QUIC packets. Is there a need to use the application over a path deploying NAT or a Firewall?
 
-### What are the deployment incentives / implementation experience?
+### What is the logical byte stream model used by the application? 
 
-Please consider if there are alternate mechanisms to achieve similar objective that would not require QUIC.
+The byte stream model could be a bi-directional or uni-directional stream. It could be datagram, etc. What model(s) is required to support the application? 
+
+Is the communication Client to Server or Peer to Peer?
 
 ### How is flow control used? 
 
@@ -92,6 +104,16 @@ The way flows are used, priorities and managed depends on the application: what 
 ### Does a new QUIC application need a unique UDP Port? 
 
 RFC 7605 provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, (RFC 7301) can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
+
+### What is the implementation experience and expectd deployment incentives?
+
+Implementation experience has been important in the development of QUIC standards and tests of interoperability have proved important. Not all stacks are equal in what they offer, nor in the APIs that they currently provide. Some QUIC features are defined as extensions or are supported by options for a version of QUIC.
+
+Is there implementation experience and has any proposed used been tested with specific clients and servers?
+
+What are the incentives for deploying the method using QUIC transport?
+
+
 
 
 
