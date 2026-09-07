@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T15:45:23.937Z
+date: 2026-09-07T10:58:17.933Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -43,6 +43,8 @@ Independent of the need for forward secrecy rekeying, QUIC supports the key upda
 ## QUIC Streams
 
 QUIC supports multiple streams (multistreaming) within a connection. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+
+There are different services that can be provided using a QUIC stream:
 
 ### Reliable Streams
 
