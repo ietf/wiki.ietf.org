@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-09-03T20:24:37.013Z
+date: 2026-09-08T17:56:51.783Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 27, 2026
+# Informal Telechat - September 10, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-Deb Cooley (10 Sep)
+Deb Cooley 
 
 ## Agenda
 
@@ -43,7 +43,7 @@ Note that this page is public.
 
 * Reminder: BOF deadlines coming up!
   * 19 Sept, 2 October are the two deadlines
-  * BOF coordination call finalizing soon
+  * BOF coordination call on Friday 25 Sept
 
 ### Document Discussions
 
@@ -51,16 +51,11 @@ Note that this page is public.
 
 ### Management Issues
 
-== @ the start of the second hour == Ombudsteam Requests Update to IESG Statement on Harassment
 
-1. Liaison statements on SG17 on Agentic AI
-  * [Proposed joint IAB+IESG Response]( https://docs.google.com/document/d/16DSitKceuGknd4TxuetbyagANWR2So_pBeZOltAwjYo/edit?tab=t.0#heading=h.nmdbccmcutq)
-  * [Summary of Current AI Work](https://docs.google.com/document/d/1i_TREmr7zrcAdk_GW2RUvDNsHxREDRle93QWSWzaU8s/edit?tab=t.0)
-  * [Summary of Pre-Standardization AI Activities](https://docs.google.com/document/d/1Ie53nGlV60DV_NiQNUNRk6dgSYaRgUY9BXKytXlkjE4/edit?tab=t.0)
 
-2. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
+1. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
 
-3. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
+2. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
 
 
 
