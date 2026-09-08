@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-08T16:49:50.037Z
+date: 2026-09-08T17:41:10.071Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -172,8 +172,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Jana Iyengar
 
 ## Guidance
-- Please add slides (if any) to the agenda in the wiki
-- Please provide an oppurtunity for others to review in advance
+- Please add slides (if any) to the agenda in the wiki to provide an oppurtunity for others to review in advance
 
 
 ## Proposed Topics (not already on agenda)
