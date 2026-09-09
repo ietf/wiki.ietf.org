@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-06T12:50:56.703Z
+date: 2026-09-09T04:07:38.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -43,6 +43,13 @@ Goal: Discuss draft agenda
 Context: https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing
 
 Goal: Feedback on the updated proposal
+
+### 4. Topic: GDC
+
+Context: https://globaldigitalcollaboration.org/
+
+Goal: Share the impressions from the event
+
 
 ## Regrets
 
