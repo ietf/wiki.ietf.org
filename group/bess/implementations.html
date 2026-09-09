@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-09-09T03:17:05.464Z
+date: 2026-09-09T07:43:18.197Z
 tags: bgp, w-ecmp
 editor: ckeditor
 dateCreated: 2026-09-09T03:17:05.464Z
@@ -35,7 +35,7 @@ dateCreated: 2026-09-09T03:17:05.464Z
         <th>Arista EOS</th>
         <th>4.36.2F</th>
         <th>Documented</th>
-        <th><code>send-community link-bandwidth aggregate</code> advertises the sum of the Link Bandwidth values associated with the routes contributing to the multipath set. The <code>divide</code> alternative partitions cumulative bandwidth among advertisements.</th>
+        <th><code>send-community link-bandwidth aggregate</code> advertises the sum of the Link Bandwidth values associated with the routes contributing to the multipath set. It advertises <code>MIN(SUM(received link-bandwidth values), bandwidth toward the advertising peer).</code>The <code>divide</code> alternative partitions cumulative bandwidth among advertisements.&nbsp;</th>
         <th><a href="https://www.arista.com/en/um-eos/eos-border-gateway-protocol-bgp?tmpl=component">EOS BGP manual</a>, <a href="https://www.arista.com/en/support/toi/tag/link-bandwidth">Link Bandwidth feature documentation</a></th>
       </tr>
       <tr>
