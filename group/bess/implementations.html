@@ -1,0 +1,148 @@
+<!--
+title: Protocol Implementation Reports
+description: 
+published: true
+date: 2026-09-09T03:17:05.464Z
+tags: bgp, w-ecmp
+editor: ckeditor
+dateCreated: 2026-09-09T03:17:05.464Z
+-->
+
+<h1>Implementations of draft-ietf-bess-ebgp-dmz</h1>
+<p>Last verified: 2026-09-07</p>
+<h2>Scope</h2>
+<p>This report covers implementations that cumulatively regenerate the BGP Link Bandwidth Extended Community when advertising a route with a changed next hop.</p>
+<p>The relevant layer is the Link Bandwidth Extended Community carried in the BGP Extended Communities path attribute. The cumulative calculation is performed by the advertising BGP speaker before the route is placed in Adj-RIB-Out. The receiver continues to interpret the resulting scalar as bandwidth available through the advertised next hop.</p>
+<h2>Independently implemented BGP stacks</h2>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <th>Implementation</th>
+        <th>Verified version</th>
+        <th>Status</th>
+        <th>Documented behavior</th>
+        <th>References</th>
+      </tr>
+      <tr>
+        <th>FRRouting (FRR)</th>
+        <th>10.6</th>
+        <th>Documented</th>
+        <th>Sums the Link Bandwidth values of installed multipaths when regenerating the community for a next-hop-changing advertisement. The current source does not show automatic discovery of local interface bandwidth or the optional per-path <code>MIN(local-link-bandwidth, received-bandwidth)</code> calculation.</th>
+        <th><a href="https://docs.frrouting.org/en/stable-10.6/bgp.html#weighted-ecmp-using-bgp-link-bandwidth">FRR documentation</a>, <a href="https://github.com/FRRouting/frr/blob/c8efb33af96f9f1220d0fdda6ac049f9126edd6f/bgpd/bgp_mpath.c#L440-L569">multipath aggregation source</a>, <a href="https://github.com/FRRouting/frr/blob/c8efb33af96f9f1220d0fdda6ac049f9126edd6f/bgpd/bgp_route.c#L3093-L3122">next-hop-change processing</a></th>
+      </tr>
+      <tr>
+        <th>Arista EOS</th>
+        <th>4.36.2F</th>
+        <th>Documented</th>
+        <th><code>send-community link-bandwidth aggregate</code> advertises the sum of the Link Bandwidth values associated with the routes contributing to the multipath set. The <code>divide</code> alternative partitions cumulative bandwidth among advertisements.</th>
+        <th><a href="https://www.arista.com/en/um-eos/eos-border-gateway-protocol-bgp?tmpl=component">EOS BGP manual</a>, <a href="https://www.arista.com/en/support/toi/tag/link-bandwidth">Link Bandwidth feature documentation</a></th>
+      </tr>
+      <tr>
+        <th>Cisco IOS XR</th>
+        <th>6.0 and later; verified in 7.9.x and 25.x documentation</th>
+        <th>Documented</th>
+        <th><code>ebgp-send-extcommunity-dmz cumulative</code> advertises the sum of the Link Bandwidth values of the egress multipaths. Current releases also document automatic aggregation under specified next-hop-self and policy conditions.</th>
+        <th><a href="https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/bgp/79x/b-bgp-cg-ncs5500-79x/implementing-bgp.html">IOS XR 7.9 documentation</a>, <a href="https://www.cisco.com/c/en/us/td/docs/routers/asr9000/software/25xx/routing/configuration/guide/b-routing-cg-asr9000-25xx/implementing-bgp.html">ASR 9000 25.x documentation</a>, <a href="https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5000/bgp/b-ncs5000-bgp-cli-reference/b-ncs5000-bgp-cli-reference_chapter_01.html">command history</a></th>
+      </tr>
+      <tr>
+        <th>Cisco NX-OS</th>
+        <th>10.5(1)F and later</th>
+        <th>Documented</th>
+        <th><code>link-bandwidth cumulative</code> advertises <code>MIN(SUM(received link-bandwidth values), bandwidth toward the advertising peer)</code>. This is cumulative aggregation with a local peer-link cap.</th>
+        <th><a href="https://www.cisco.com/c/en/us/td/docs/dcn/nx-os/nexus9000/105x/unicast-routing-configuration/cisco-nexus-9000-series-nx-os-unicast-routing-configuration-guide/m-n9k-configuring-advanced-bgp-102x.html">Nexus 9000 NX-OS BGP documentation</a></th>
+      </tr>
+      <tr>
+        <th>Juniper Junos OS and Junos OS Evolved</th>
+        <th>17.4R1 and later</th>
+        <th>Documented</th>
+        <th><code>aggregate-bandwidth</code> advertises the sum of the Link Bandwidth values associated with multipaths. <code>limit-bandwidth</code> can cap the advertised aggregate.</th>
+        <th><a href="https://www.juniper.net/documentation/us/en/software/junos/bgp/topics/topic-map/load-balancing-bgp-session.html">Junos BGP load-balancing documentation</a>, <a href="https://www.juniper.net/documentation/us/en/software/junos/release-notes/24.2/junos-release-notes-24.2r1/topics/new-features/feature-descriptions/routing-protocols-8.html">Junos 24.2 release documentation</a></th>
+      </tr>
+      <tr>
+        <th>Nokia SR OS</th>
+        <th>Verified in 24.7 documentation</th>
+        <th>Documented</th>
+        <th><code>aggregate-used-paths</code> sums the Link Bandwidth values of the multipaths actually used for forwarding when a route is re-advertised with next-hop-self.</th>
+        <th><a href="https://documentation.nokia.com/sr/24-7/7750-sr/books/unicast-routing-protocols/bgp-unicast-routing-protocols.html">SR OS BGP documentation</a>, <a href="https://documentation.nokia.com/sr/22-10/books/MD-CLI%20Command%20Reference%20Guide/router-router_0.html">command reference</a></th>
+      </tr>
+      <tr>
+        <th>Nokia SR Linux</th>
+        <th>Verified in 25.10 documentation</th>
+        <th>Documented</th>
+        <th><code>link-bandwidth aggregate-used-paths true</code> sums the Link Bandwidth values of used multipaths when advertising the route with next-hop-self.</th>
+        <th><a href="https://documentation.nokia.com/srlinux/25-10/books/routing-protocols/bgp.html">SR Linux 25.10 BGP documentation</a>, <a href="https://documentation.nokia.com/srlinux/26-3/books/routing-protocols/bgp.html">SR Linux 26.3 BGP documentation</a></th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>FRR-derived product implementations</h2>
+<p>These products expose or deploy the FRR implementation. They are useful deployment evidence but should not be counted as separate protocol-code implementations unless the vendor identifies independent cumulative-processing code.</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <th>Product</th>
+        <th>Verified version</th>
+        <th>Status</th>
+        <th>Evidence</th>
+        <th>References</th>
+      </tr>
+      <tr>
+        <th>NVIDIA Cumulus Linux</th>
+        <th>5.18; worked example in 5.2</th>
+        <th>FRR-derived</th>
+        <th>Supports <code>cumulative</code> and <code>num-multipaths</code>. The worked example shows four contributing paths with values <code>2, 2, 1, 1</code> being advertised as an aggregate value of <code>6</code>.</th>
+        <th><a href="https://docs.nvidia.com/networking-ethernet-software/cumulus-linux-518/Layer-3/Routing/BGP-Weighted-Equal-Cost-Multipath/">Cumulus Linux 5.18 documentation</a>, <a href="https://docs.nvidia.com/networking-ethernet-software/cumulus-linux-52/Layer-3/Routing/Unequal-Cost-Multipath/">Cumulus Linux 5.2 cumulative example</a>, <a href="https://docs.nvidia.com/networking-ethernet-software/nvue-reference/Set-and-Unset-Commands/Router-Policy/">NVUE route-policy reference</a></th>
+      </tr>
+      <tr>
+        <th>SONiC</th>
+        <th>Current FRR-based distribution</th>
+        <th>FRR-derived</th>
+        <th>The implementation was reported to BESS as available in SONiC/FRR. Current SONiC configuration templates expose FRR weighted-ECMP configuration.</th>
+        <th><a href="https://mailarchive.ietf.org/arch/msg/bess/BDGciUaRn6VnvBLyoNF9YP9HbM8/">IETF implementation statement</a>, <a href="https://github.com/sonic-net/sonic-buildimage/blob/master/dockers/docker-fpm-frr/frr/bgpd/wcmp/bgpd.wcmp.conf.j2">SONiC FRR configuration template</a>, <a href="https://github.com/sonic-net/sonic-buildimage/blob/master/src/sonic-yang-models/doc/Configuration.md">SONiC configuration model</a></th>
+      </tr>
+      <tr>
+        <th>VyOS</th>
+        <th>1.4</th>
+        <th>FRR-derived</th>
+        <th>Exposes <code>cumulative</code> and <code>num-multipaths</code> as Link Bandwidth Extended Community policy values. The underlying BGP implementation is FRR.</th>
+        <th><a href="https://docs.vyos.io/en/1.4/configuration/policy/route-map.html">VyOS route-map documentation</a></th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Partial or related implementations</h2>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <th>Implementation</th>
+        <th>Verified version</th>
+        <th>Status</th>
+        <th>Publicly documented behavior</th>
+        <th>References</th>
+      </tr>
+      <tr>
+        <th>Huawei CloudEngine VRP</th>
+        <th>V200R024C00</th>
+        <th>Partial</th>
+        <th><code>apply extcommunity bandwidth aggregate</code> sums upstream bandwidth and optionally limits the result. The public documentation does not establish the complete wire format, next-hop-change trigger, or interoperability behavior required to claim full eBGP-DMZ implementation.</th>
+        <th><a href="https://info.support.huawei.com/enterprise/en/doc/EDOC1100420140/26892fde/routing-policy-configuration-commands">Huawei routing-policy command reference</a></th>
+      </tr>
+      <tr>
+        <th>H3C Comware</th>
+        <th>Current public configuration guide</th>
+        <th>Partial</th>
+        <th>Supports Link Bandwidth advertisement and, in one Add-Path mode, advertises the total bandwidth of the UCMP set on the single advertised route. The documentation also says that a received Link Bandwidth community is removed when the next hop changes; therefore, this is not documented as general eBGP-DMZ cumulative regeneration.</th>
+        <th><a href="https://www.h3c.com/en/Support/Resource_Center/EN/Home/Public/00-Public/Technical_Documents/Configure___Deploy/Configuration_Guides/H3C_CG-29706/05/202511/2685280_294551_0.htm">H3C BGP configuration guide</a></th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Interpretation note</h2>
+<p>Public documentation establishes several interoperable implementations of cumulative <code>SUM</code> processing and, in some products, a cap on the resulting aggregate. Except where stated above, it does not establish implementation of the optional per-path calculation:</p>
+<p><code>contributing-bandwidth_i = MIN(local-link-bandwidth_i, received-bandwidth_i)</code></p>
+<p>followed by:</p>
+<p><code>advertised-bandwidth = SUM(contributing-bandwidth_i)</code></p>
+<p>Accordingly, the table distinguishes documented cumulative aggregation from complete implementation of every processing option described by draft-ietf-bess-ebgp-dmz.</p>
