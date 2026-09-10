@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2026-08-26T14:21:37.621Z
+date: 2026-09-10T14:23:33.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -42,6 +42,8 @@ IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. The
 
 ### 2026-2027 Assignments
 
+- BPM: Matthew Bocci (2026-09)
+- AGENTPROTO: Yingzhen Qu (2026-09)
 - DAWN: Jason Livingood (2026-08)
 - FANN: ~~Yingzhen Qu~~ Suresh Krishnan (2026-05)
 - ONSEN: Ali C. Begen (2026-05)
