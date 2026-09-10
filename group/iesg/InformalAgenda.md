@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-09-10T12:37:14.940Z
+date: 2026-09-10T17:23:05.928Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - September 10, 2026
+# Informal Telechat - October 1, 2026
 
 There **WILL** be a meeting on this date.
 
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-Deb Cooley 
+
 
 ## Agenda
 
@@ -51,17 +51,6 @@ Note that this page is public.
 
 ### Management Issues
 
-
-
-1. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
-
-2. [Guidance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
-
-3.  Last Call [Update](https://docs.google.com/document/d/1rXSPRmfTo_4A2HrnFN5-12Lp12k-WfXSUhPQb64B5FY/): Next step (Med)
-
-4. Write-up [Update](https://docs.google.com/document/d/1APCHVLQDw2GjjceWSsciiN_GqSYRni2T/) (Med)
-
-5. IESG Statement on [references](https://docs.google.com/document/d/1E_k9mLQYtL-HQ7vgGqaGXPS6eKxUWQqX/edit) (Med): quick update
 
 ### WG News 
 
