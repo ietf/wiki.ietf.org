@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-09-05T13:17:21.343Z
+date: 2026-09-10T11:48:57.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -61,8 +61,8 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|Sept 2026|[APNIC62](https://conference.apnic.net/62/program/program/index.html#/day/1/)|Operators|Participants|Suresh, Dhruv|-|
-|Sept 2026|[RFCsWeLove](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|Regional|Participants|Suresh, Dhruv|-|
+|Sept 2026|[APNIC62](https://conference.apnic.net/62/program/program/index.html#/day/1/)|Operators|Participants|Suresh, Dhruv|[Whats new at IETF](https://conference.apnic.net/62/assets/presentation-files/303b3fff-d1a8-4d23-8e3c-9cbfbbe528cd.pdf)<br>[IP geo workshop report](https://conference.apnic.net/62/assets/presentation-files/bd8185cc-7b34-4f44-86d3-bc2dd593f08e.pdf)<br>[Videos](https://conference.apnic.net/62/program/program/index.html)|
+|Sept 2026|[RFCsWeLove](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|Regional|Participants|Suresh, Dhruv|[Details](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|
 |Sept 2026|[inSIG 2026]()|Internet Governance|all levels|Dhruv|[Slide](https://docs.google.com/presentation/d/1-zIwyBSIlz6p9FbM7uDfK2Xb3D_flCXLONCePpxn0Nw/edit?usp=sharing); Inaugural Speech|
 |July 2026|[Connections2026](https://connections.iiesoc.in/)|Regional|Participants|Dhruv, Mohit|[Slides](https://docs.google.com/presentation/d/1ebC6PvqeUCza_jRh9pFu6oZe5fH1uTUC22S0JSgggxA/edit)|
 |June 2026|[Nanog97](https://nanog.org/events/nanog-97/)|Operators|Participants|Yingzhen, Yaroslav|[slides](https://nanog.org/events/nanog-97/content/5762/)|
