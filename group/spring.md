@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-08-13T17:20:15.193Z
+date: 2026-09-11T09:23:14.422Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -49,6 +49,8 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
 * draft-ietf-spring-srv6-inter-layer-programming
   * [Responsible Chair: Alvaro]
   * 2026-08-13: Authors sent request.
+* draft-ietf-spring-sr-policy-nrp
+  * 2026-07-22 (IETF 126) Authors requested WGLC
   
 > History of WGLC
 https://wiki.ietf.org/en/group/spring/WGLC_history
@@ -73,7 +75,7 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * 2026-06-18 draft -11 published, clarifying that this is a general topic, not VPN specific
   * 2026-07-10 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/lPZ4XrZTnmy1CJMix_Q8ppLkRnw/)
 * draft-stone-spring-mpte-sr
-  * 2026-10-22 (IETF 126) Authors requested adoption
+  * 2026-07-22 (IETF 126) Authors requested adoption
   * will wait for the progress of the [architecture](https://datatracker.ietf.org/doc/draft-kompella-teas-mpte/) in the TEAS WG
   
   > History of WG Adoption
