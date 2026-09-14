@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-13T13:35:46.435Z
+date: 2026-09-14T11:29:40.475Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -81,6 +81,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Appeal Handling (Mark)
 
     - Does the IAB need to update its procedures?
+    - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
 
 - IAB Responsibilities
 
