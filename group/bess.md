@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-09-01T14:43:20.715Z
+date: 2026-09-14T11:53:10.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -113,6 +113,7 @@ Shepherd's name indicated within parenthesis.
 ## Documents candidates for Working Group Last Call
 * draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
   - Outstanding questions/comments from Jeffrey
+    needs further discussions with Mankamana
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election (Jeffrey)
   - Shepherd review done; pending author responses
@@ -129,12 +130,12 @@ Shepherd's name indicated within parenthesis.
   - GenArt early review passed
   - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement from reviewer yet.
   - Requested Susan for IDR review for both bgp-multicast drafts.
-  - Susan comment has been addressed, waiting for her comment. 
+  - Susan comment has been addressed, waiting for her comment.
+  - needs follow-up with Robert Raszuk
 
 * draft-ietf-bess-bgp-multicast (Stephane)
   - GenArt and RtgDir early review passed ( revision -07)
-  - Susan comment has been addressed, waiting for her comment. 
-  - Expired 
+  - waiting to go with the controller draft together 
 
 * draft-ietf-bess-evpn-dpath-04 (Jeffery) 
 
@@ -147,7 +148,7 @@ Shepherd's name indicated within parenthesis.
 * draft-rabadan-bess-evpn-inter-domain-opt-b (Matthew)
 * draft-rabnic-bess-evpn-mcast-eeg (Stephane)
 * draft-rabnag-bess-evpn-anycast-aliasing (Matthew)
-* draft-kriswamy-bess-evpn-perflow-df (Jeffery)
+* draft-kriswamy-bess-evpn-perflow-df (Jeffery - pending author response)
 
 
 ## Documents that failed WG adoption
