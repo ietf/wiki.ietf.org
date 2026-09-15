@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-14T11:29:40.475Z
+date: 2026-09-15T10:32:51.348Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -97,6 +97,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - ITU-T Plenipotentiary Conference (Ryan - 13 hours behind Japan) 
 - IGF 2026 (Yaroslav, Dhruv)
     - How to make the most out of the event? 
+    - [Shortlist of Workshops](https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing)
     
 #### 10:30-10:45: Break
 
