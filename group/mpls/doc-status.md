@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-09-15T12:16:39.492Z
+date: 2026-09-15T12:19:12.059Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -65,7 +65,6 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
-| draft-ietf-mpls-on-path-telemetry-flag | 2026-08-27 | 2026-09-10 | Yes | Tony | |
 
 ## Working Group Last Call Completed Pending Action
 
@@ -73,6 +72,7 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
+| 2026-09-11 | draft-ietf-mpls-on-path-telemetry-flag | Pending shepherd write-up | Tony |
 
 ## Post Working Group Last Call
 
