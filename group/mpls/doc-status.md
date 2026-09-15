@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-09-07T21:34:37.202Z
+date: 2026-09-15T12:16:39.492Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -73,7 +73,6 @@ Working group last calls may succeed or fail. In the case of failure, the docume
 
 | Date | Draft | Action Needed | Shepherd |
 | --- | --- | --- | --- |
-| 2026-09-06 | draft-ietf-mpls-mna-ioam | Shepherd write-up pending | Adrian |
 
 ## Post Working Group Last Call
 
