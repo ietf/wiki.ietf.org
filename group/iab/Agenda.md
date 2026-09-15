@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-15T15:33:59.127Z
+date: 2026-09-15T18:01:24.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -58,7 +58,9 @@ Goal: Discuss workshop proposals
 
 ## Regrets
 
+- Dirk Kutscher
 - Yingzhen Qu
+- Yaroslav Rosomakho
 
 ## Upcoming IAB Meetings
 
