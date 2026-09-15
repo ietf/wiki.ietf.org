@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-09T04:07:38.870Z
+date: 2026-09-15T10:09:12.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -50,6 +50,11 @@ Context: https://globaldigitalcollaboration.org/
 
 Goal: Share the impressions from the event
 
+### 5. Topic: IGF 2026
+
+Context: https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing
+
+Goal: Discuss workshop proposals
 
 ## Regrets
 
