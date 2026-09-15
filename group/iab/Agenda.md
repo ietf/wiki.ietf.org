@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-15T10:09:12.172Z
+date: 2026-09-15T15:33:59.127Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -58,7 +58,7 @@ Goal: Discuss workshop proposals
 
 ## Regrets
 
-
+- Yingzhen Qu
 
 ## Upcoming IAB Meetings
 
