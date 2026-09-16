@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-16T15:12:44.906Z
+date: 2026-09-16T15:30:14.524Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -169,6 +169,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/125/hackathon#projects-included-in-hackathon).
 
+---
+
 ### Identifier Locator Network Protocol (ILNP)
 
   - Saleem Bhatti saleem@st-andrews.ac.uk
@@ -186,6 +188,8 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
   - draft-bhatti-ilnp-nonce
   - The basic approach is to deprecate the concept of an IP Address and replace it with addressing using separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Our ongoing research is based on an implementation of ILNP on IPv6 using FreeBSD.
 
+---
+
 ### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
 - **Champion**
 Stuart Cheshire &lt;cheshire@apple.com&gt;
@@ -196,6 +200,8 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/127/hackathon/thread-projects).
+
+---
 
 ### Third Project Here (replace me)
 - **Champions**
