@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-09-08T14:41:36.468Z
+date: 2026-09-16T13:51:29.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -43,7 +43,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 10 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | WGLC Done - Issues raised | 2026-09-08
 | 11 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Ready for WGLC (as per Authors) <br> On the agenda for IETF 126 | 2026-07-14
 | 12 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) | On the agenda for IETF 126 | 2026-07-14
-| 13 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | WG LC Preparation - IPR Poll | 2026-09-08
+| 13 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | [In WG LC (Closes on 2026-09-30)](https://mailarchive.ietf.org/arch/msg/teas/Rt6ts8yMxXJS4w33iPXeUwa4XKM/) | 2026-09-16
 | 14 | [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/) | Open issues exist | 2026-05-05
 | 15 | [draft-ietf-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-inplace-lsp-bw-update/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/Rm7M19pjev4do4CBC9rmLvylxOA/) | 2026-07-05
 | 16 | [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
@@ -62,7 +62,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
  
 |No.| Draft | Notes | Updated
 |---|-------|-------|---------
-| 1 | [draft-many-teas-power-steering](https://datatracker.ietf.org/doc/draft-many-teas-power-steering)  | WG Adoption Poll (Closes on 2026-09-10) | 2026-09-08
+| 1 | [draft-many-teas-power-steering](https://datatracker.ietf.org/doc/draft-many-teas-power-steering)  | [WG Adoption Poll (Closes on 2026-09-10)](https://mailarchive.ietf.org/arch/msg/teas/h8xRgja5vAMqJYGzniidCqIQGlM/) | 2026-09-16
 | 2 | [draft-kompella-teas-mpte](https://datatracker.ietf.org/doc/draft-kompella-teas-mpte)  |  | 2026-09-08
 
 ## Open informal meetings (driven by authors and contributors)
