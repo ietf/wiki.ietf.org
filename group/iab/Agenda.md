@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-15T18:01:24.358Z
+date: 2026-09-16T15:42:10.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -58,7 +58,10 @@ Goal: Discuss workshop proposals
 
 ## Regrets
 
+- Ali C. Begen
+- Matthew Bocci
 - Dirk Kutscher
+- Jason Livingood
 - Yingzhen Qu
 - Yaroslav Rosomakho
 
