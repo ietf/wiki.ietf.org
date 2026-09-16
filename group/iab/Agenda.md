@@ -2,22 +2,22 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-16T15:42:10.407Z
+date: 2026-09-16T23:58:03.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-09-16, 23:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2026-09-23, 13:00 UTC (2 hours)
 
 
-## There WILL be a meeting on 2026-09-16
+## There WILL be a meeting on 2026-09-23
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m55fa21db0c29dbe7887bf0a29467078c
 
 
 
@@ -25,51 +25,20 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Agenda
 
 
-### 1. Topic: IAB Workshop for PQ Authentication
+### 1. Topic: 
 
-Context: https://datatracker.ietf.org/group/pqws/about/
+Context: 
 
-Goal: Provide an update to the IAB
-
-
-### 2. Topic: IAB Strategy Meeting 
-
-Context: https://wiki.ietf.org/group/iab/2026_Retreat
-
-Goal: Discuss draft agenda
-
-### 3. Topic: IAB Liaison to TDD
-
-Context: https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing
-
-Goal: Feedback on the updated proposal
-
-### 4. Topic: GDC
-
-Context: https://globaldigitalcollaboration.org/
-
-Goal: Share the impressions from the event
-
-### 5. Topic: IGF 2026
-
-Context: https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing
-
-Goal: Discuss workshop proposals
+Goal: 
 
 ## Regrets
 
-- Ali C. Begen
-- Matthew Bocci
-- Dirk Kutscher
-- Jason Livingood
-- Yingzhen Qu
-- Yaroslav Rosomakho
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-09-16 Informal 2300-0000 UTC
 - **2026-09-23 Formal 1300-1500 UTC**
 - **2026-09-30 - 2026-10-01: IAB Strategy Meeting, Tokyo**
 - 2026-10-07 Informal 1400-1500 UTC
