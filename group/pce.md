@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-09-15T21:39:34.969Z
+date: 2026-09-18T08:33:23.668Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -96,9 +96,9 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
+|1| draft-ietf-pce-entropy-label-position |Y|Y| -05 posted on 2026-05-07 |IPR-0/4; WGLC Ends-2026-10-05| Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
-|-| draft-ietf-pce-entropy-label-position |Y|Y| -05 posted on 2026-05-07 |-| - | - |
 |-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -06 posted on 2026-03-16 | - | - | Yisong |
 
 
