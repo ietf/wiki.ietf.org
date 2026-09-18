@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-16T23:58:03.128Z
+date: 2026-09-18T18:51:53.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -21,15 +21,100 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
+### 1. Administrivia (Cindy) 
 
-## Agenda
+#### 1.1. Attendance
+
+#### 1.2. Agenda bash and announcements
+
+#### 1.3. Meeting Minutes
+
+For approval
+
+  -  2026-8-26 business meeting - (submitted 2026-08-26)
+    OK from: Dhruv
 
 
-### 1. Topic: 
+### 2. Monthly Reports (Liaisons, etc.)
 
-Context: 
+  -  IRTF Chair
+  -  IESG Liaison
+  -  ICANN Board Liaison
+  -  IANA Liaison
+  -  IAB Outreach Coordinator
+  -  Internet Society Liaison
+  -  Liaison Coordinators
+  -  NomCom Liaison
 
-Goal: 
+
+### 3. Response to Liaison Statement 2202
+> 
+>   Via e-vote, the IAB approved a response to Liaison Statement 2202, 
+>   which has been posted as "Reply to LS update of SG17 on Agentic AI, 
+>   prior and after the SG17 5th plenary meeting," 
+>   https://datatracker.ietf.org/liaison/2280/.
+
+
+### 4. Response to Liaison Statement 2278
+
+>   Via e-vote, the IAB approved a response to Liaison Statement 2278, 
+>   which has been posted as "Reply to LS on ITU-T X.PARCEP 
+>   “Interoperable PARental Control Enforcement Principles (PARCEP) for 
+>   Child Online Protection”: clarifications and question following the 
+>   IETF 126 DISPATCH session," 
+>   https://datatracker.ietf.org/liaison/2282/.
+
+
+### 5. ICANN Board Liaison Appointment
+
+>   Via e-vote, the IAB agreed to reappoint David Lawrence as the IETF 
+>   Liaison to the ICANN Board of Directors for the 2026-2028 term.
+> 
+
+### 6. ISE Survey
+
+>   Via e-vote the IAB approved the text for the ISE survey. The ISE 
+>   survey was sent out on 2026-09-10.
+> 
+
+### 7. Post-Quantum Cryptography Workshop (Nick)
+
+  Goal: Update on preparations, next steps
+
+  GitHub: https://github.com/intarchboard/responsibilities/issues/95
+
+
+### 8. IAB Strategy Meeting Planning
+
+  Goal: Review draft agenda, confirm owners for agenda topics
+
+  Wiki: https://wiki.ietf.org/en/group/iab/2026_Retreat
+
+
+### 9. IAB Liaison to TDD
+
+  Context: https://docs.google.com/document/d/1CAJ4eORjCZN6wdqwe7hlGbSxvK05CVmiBrWDlkwT4Lg/edit?usp=sharing
+
+  Goal: Feedback on the updated proposal, start vote
+
+
+### 10. IGF 2026
+
+  Context: https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing
+
+  Goal: Discuss workshop proposals, identify ones that might be open to 
+  input from the technical community
+
+
+### 11. Review of Open Issues for Responsibilities (Dhruv)
+
+  GitHub: https://github.com/orgs/intarchboard/projects/7/views/1
+
+
+
+
+
+
 
 ## Regrets
 
