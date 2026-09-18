@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-16T15:30:14.524Z
+date: 2026-09-18T18:01:56.004Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -201,8 +201,22 @@ Stuart Cheshire &lt;cheshire@apple.com&gt;
 - **Participants and Project Info**
   - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/127/hackathon/thread-projects).
 
----
 
+---
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
+- **Champions**
+Greg White (g.white@cablelabs.com)
+- **Project Info**
+L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+This Interop Event will bring together different congestion control implementations and different network implementations of L4S, TCP Accurate ECN, QUIC AckECN, WebRTC, etc. to test RFC/draft compliance, interoperability, and performance in various conditions.
+- **Related RFCs**
+RFC9330
+RFC9331
+RFC9332
+RFC9768
+RFC8888
+
+---
 ### Third Project Here (replace me)
 - **Champions**
 name and email
