@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-18T18:01:56.004Z
+date: 2026-09-20T20:24:33.715Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -217,11 +217,23 @@ RFC9768
 RFC8888
 
 ---
-### Third Project Here (replace me)
-- **Champions**
-name and email
-- **Project Info**
-project description
+### 802.11 MAC Performance as a Function of Active IP Devices
+
+* **Champion**
+  * Bob McMahon, Umber Networks, bob.mcmahon@umbernetworks.com
+
+* **Project Info**
+  * This project will measure 802.11 MAC performance as a function of the number of active IP devices and offered load.
+  * We will use a controlled 802.11 test environment in which the number of actively contending devices can be varied while independently observing both MAC behavior and application/transport performance.
+  * The experimental system includes a controlled MAC load generator with up to 45 Wi-Fi clients, a programmable 2x2 MIMO RF test rig, passive Umber Sonde monitors, a conventional Wi-Fi AP, an Umber UAX-8 system, and synchronized iperf2 measurement endpoints.
+  * Initial measurements will examine aggregation, contention, retries, useful airtime, throughput, latency, and responsiveness as the number of active devices increases.
+  * We will correlate endpoint measurements with independent observations of activity on the air and repeat experiments under controlled RF conditions.
+  * Once the MAC behavior is characterized, we will explore the effects on congestion control, ECN/L4S, and user-perceived delay.
+  * Additional experiments will compare conventional distributed Wi-Fi operation with centralized coordination using the Umber architecture under the same RF conditions, active-device population, and offered load.
+  * Participants are encouraged to suggest experiments, examine the measurements, bring congestion-control implementations, and use their own devices as measurement endpoints.
+  * MAC rig: [https://www.umbernetworks.com/mac-rig-reference.html](https://www.umbernetworks.com/mac-rig-reference.html)
+  * Fi-Wi problem statement: [https://www.umbernetworks.com/ietf-fiwi-problem-statement.html](https://www.umbernetworks.com/ietf-fiwi-problem-statement.html)
+  * iperf2 Android client: [Google Play](https://play.google.com/store/apps/details?id=com.rjmcmahon.iperf2client)
 
 ---
 
