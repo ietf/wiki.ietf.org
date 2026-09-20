@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-18T05:54:54.678Z
+date: 2026-09-20T12:37:08.752Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -167,9 +167,16 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 ### WIDE
 - Date: 2nd Oct
-- Time: Early Breakfast meeting to max noon
+- Time: 0900-1200 (room opens at 0830)
 - Venue: Keio University
-- Agenda: In discussion with Jun
+> G-Lab, 6th Floor, East Research Building
+Keio University Mita Campus
+https://www.keio.ac.jp/en/about/campus/mita/map/
+The East Research Building is Building No. 13 on the campus map.
+No registration or check-in is required. Please come directly to the meeting room.
+- Agenda: 
+	- [Watt-Bit](https://www.meti.go.jp/english/press/2025/0612_001.html) collabration between electricity and telecommunications entities
+  - Medical device standardization with the Internet from ISO/IEC point of view.
 
 
 
