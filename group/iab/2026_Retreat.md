@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-20T12:37:08.752Z
+date: 2026-09-20T13:21:17.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -133,9 +133,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - PQ Workshop Prep (Nick)
 
 - Ideas for Future Workshops (All)
-    - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
     - Year 2038 (and other years) problems (proposed by Wes)
-
+    - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
 - Review of EDM, what's next? (Warren)
 
 - Ideas for Future IAB Technical Program (All)
