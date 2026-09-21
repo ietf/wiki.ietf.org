@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-18T18:51:53.848Z
+date: 2026-09-21T16:03:00.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -111,6 +111,7 @@ For approval
   GitHub: https://github.com/orgs/intarchboard/projects/7/views/1
 
 
+### 12. Executive Session: Appeal
 
 
 
