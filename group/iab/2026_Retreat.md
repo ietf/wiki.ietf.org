@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T16:20:02.554Z
+date: 2026-09-22T16:54:05.560Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -166,7 +166,9 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 ## Side Activities 
 ### IAB Social/Dinner for Sept 30th Evening
-- Details: TBD
+- Location: Gallery 11 restaurant (Inside the [Indigo Hotel](https://maps.app.goo.gl/j6sj7Uq4kb34khyw8)), a 15 minute walk from Google
+  - 2 Chome-25-12 Dogenzaka, Shibuya, Tokyo 150-0043, Japan
+- Time: 19:00
 
 ### WIDE
 - Date: 2nd Oct
