@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T10:26:40.217Z
+date: 2026-09-22T11:07:39.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -119,6 +119,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Updates from Liaison Coordinators
 
 - Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
+	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
 
 - Improving collaboration with ICANN and coordination among ICANN appointees (Warren, Suresh)
 
