@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T16:58:59.077Z
+date: 2026-09-22T21:29:39.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -89,7 +89,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
     - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
 
-#### 17:00: Group Dinner: Gallery 11
+#### 19:00: Group Dinner: Gallery 11
 
 ### Thursday, October 1, 2026  (UTC +9)
 
