@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-21T13:11:05.688Z
+date: 2026-09-22T10:26:40.217Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -125,6 +125,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Relationship with Linux Foundation - should we do something? (Dhruv, Suresh)
 
 - Brainstorming: What else to be done to get more operator involvement at the IETF?
+	- Lessons from RIPE/NANOG/APNIC. See [this](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855)
 
 #### 15:00-15:30: Break
 
