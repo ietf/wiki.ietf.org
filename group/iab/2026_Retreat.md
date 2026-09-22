@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T16:54:05.560Z
+date: 2026-09-22T16:58:59.077Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -89,7 +89,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
     - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
 
-#### TBD: Group Dinner
+#### 17:00: Group Dinner: Gallery 11
 
 ### Thursday, October 1, 2026  (UTC +9)
 
@@ -166,9 +166,9 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 ## Side Activities 
 ### IAB Social/Dinner for Sept 30th Evening
-- Location: Gallery 11 restaurant (Inside the [Indigo Hotel](https://maps.app.goo.gl/j6sj7Uq4kb34khyw8)), a 15 minute walk from Google
-  - 2 Chome-25-12 Dogenzaka, Shibuya, Tokyo 150-0043, Japan
 - Time: 19:00
+- Location: Gallery 11 restaurant, inside the Hotel Indigo Shibuya (15 minute walk from Google)
+  - [2 Chome-25-12 Dogenzaka, Shibuya, Tokyo 150-0043, Japan](https://maps.app.goo.gl/R2bseEgeE7sKUzQm6)
 
 ### WIDE
 - Date: 2nd Oct
