@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T16:18:22.587Z
+date: 2026-09-22T16:18:33.131Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -153,7 +153,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 ## Proposed Topics (not already on agenda)
 
-- Appeal Response
+- Appeal Handling
 - ISE Survey Results (Dhruv)
     - It's not clear whether we will have the results in time for the strategy meeting
 - IABOpen @ IETF 127 Plan (Dhruv)
