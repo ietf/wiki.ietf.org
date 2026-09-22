@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T11:07:39.464Z
+date: 2026-09-22T16:17:41.382Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -114,7 +114,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 - Outreach Planning for 2027 (Yaroslav, Warren, Dhruv)
     - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
-    - Any progress on Local NOG?
+    - Any progress on [Local NOG](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097)?
 
 - Updates from Liaison Coordinators
 
