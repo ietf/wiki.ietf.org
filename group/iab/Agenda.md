@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-22T09:54:01.353Z
+date: 2026-09-22T10:00:34.706Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -77,7 +77,7 @@ For approval
 >   survey was sent out on 2026-09-10.
 > 
 
-### 7. Post-Quantum Cryptography Workshop (Nick)
+### 7. Post-Quantum Cryptography Workshop (Nick/Yaroslav)
 
   Goal: Update on preparations, next steps
 
