@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-23T04:34:08.591Z
+date: 2026-09-23T05:58:44.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -69,7 +69,10 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 #### 15:00-15:30: Break
 
-#### IAB Processes and Administrivia (15:30-17:30)
+#### ITU-PP (15:30-16:00)
+- ITU-T Plenipotentiary Conference (Tanya,ISOC) 
+
+#### IAB Processes and Administrivia (16:00-17:30)
 
 - Reviewing Formal & Informal Meeting Structure (Cindy)
 
@@ -95,7 +98,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 #### 09:00-12:00: Internet Governance
 
-- ITU-T Plenipotentiary Conference (Ryan - 13 hours behind Japan) 
+- Any other IG related topic from ISOC?
 - IGF 2026 (Yaroslav, Dhruv)
     - How to make the most out of the event? 
     - [Shortlist of Workshops](https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing)
