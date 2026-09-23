@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-23T05:58:44.728Z
+date: 2026-09-23T13:48:03.342Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -140,7 +140,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - Ideas for Future Workshops (All)
     - Year 2038 (and other years) problems (proposed by Wes)
     - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
-- Review of EDM, what's next? (Warren)
+- [Review of EDM, what's next?](https://datatracker.ietf.org/doc/draft-wkumari-opsawg-json-geofeed-format/) (Warren)
 
 - Ideas for Future IAB Technical Program (All)
 
@@ -161,7 +161,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - It's not clear whether we will have the results in time for the strategy meeting
 - IABOpen @ IETF 127 Plan (Dhruv)
 	- Invited Speaker/topic
-- Responding to the ICANN GWG (Warren)
+- [Responding to the ICANN GWG](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing) (Warren)
 - ETSI MoU Discussion, if needed (Suresh)
 
 
