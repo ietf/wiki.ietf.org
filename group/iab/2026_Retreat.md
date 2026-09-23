@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-23T01:02:13.554Z
+date: 2026-09-23T04:34:08.591Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -77,12 +77,12 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - What is appropriate for Informal versus Formal?
     - Evaluation of Meeting time rotations versus Fixed time?
 
-- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
-
 - Appeal Handling (Mark)
 
     - Does the IAB need to update its procedures?
     - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
+
+- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
 
 - IAB Responsibilities
 
