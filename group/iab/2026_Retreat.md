@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-22T22:21:06.995Z
+date: 2026-09-23T01:02:13.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -159,6 +159,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - IABOpen @ IETF 127 Plan (Dhruv)
 	- Invited Speaker/topic
 - Responding to the ICANN GWG (Warren)
+- ETSI MoU Discussion, if needed (Suresh)
 
 
 
