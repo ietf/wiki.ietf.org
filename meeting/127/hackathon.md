@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-20T20:27:46.797Z
+date: 2026-09-23T20:29:11.908Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -31,7 +31,7 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are GMT-4)*
+Hackathon *(all times are in PST/UTC-8)*
 
 ### Saturday, 14 November 
 
