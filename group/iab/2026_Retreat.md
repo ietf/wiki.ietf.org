@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-23T17:18:56.485Z
+date: 2026-09-23T21:23:08.973Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -48,10 +48,13 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 #### 10:30-10:45: Break
 
-#### 10:45-12:00: The IAB and the IRTF 
+#### 10:45-11:30: The IAB and the IRTF 
 
 - The Relationship Between the IAB and the IRTF (Dirk)
     - Why the IAB does RGs review and How we can improve on it? 
+    
+#### 11:30-12:00: IAB Open at IETF 127
+- Goal: Brainstorm topics/speakers for technical talk
 
 #### 12:00-13:00: Lunch
 
@@ -80,11 +83,6 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - What is appropriate for Informal versus Formal?
     - Evaluation of Meeting time rotations versus Fixed time?
 
-- Appeal Handling (Mark)
-
-    - Does the IAB need to update its procedures?
-    - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
-
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
 
 - IAB Responsibilities
@@ -92,11 +90,18 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
     - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
 
+- Appeal Handling (Mark)
+
+    - Does the IAB need to update its procedures?
+    - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
+
+- Executive Session: Appeal Processing
+
 #### 19:00: Group Dinner: Gallery 11
 
 ### Thursday, October 1, 2026  (UTC +9)
 
-#### 09:00-12:00: Internet Governance
+#### 09:00-10:30: Internet Governance
 
 - Any other IG related topic from ISOC?
 - IGF 2026 (Yaroslav, Dhruv)
@@ -105,21 +110,30 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     
 #### 10:30-10:45: Break
 
-#### 10:45-12:00: Long-Term Objectives for Internet Governance (Mark)
+#### 10:45-11:30: Long-Term Objectives for Internet Governance (Mark)
 
 - What are our long term objectives for Internet Governance? 
 - How do they align with events? 
 - Should we write it down?
 
+#### 11:30-12:00: IAB Input to RSS Governance
+
+Context: 
+- [IAB Responds to the ICANN Public Comment on "Functional Model for Root Server System Governance](https://www.iab.org/announcements/iab-response-to-functional-model-for-root-server-system-governance/)
+- [Root Server System GWG Review](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing)
+- [The Root Server System Governance Structure](https://www.icann.org/en/system/files/files/governance-structure-root-server-system-18feb26-en.pdf)
+
 #### 12:00-13:00: Lunch
 
 #### 13:00-15:00: Outreach & Liaison
 
+- Updates from Liaison Coordinators
+
+- Relationship with ETSI (Suresh)
+
 - Outreach Planning for 2027 (Yaroslav, Warren, Dhruv)
     - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
     - Any progress on [Local NOG](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097)?
-
-- Updates from Liaison Coordinators
 
 - Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
 	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
@@ -128,7 +142,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 - Relationship with Linux Foundation - should we do something? (Dhruv, Suresh)
 
-- Brainstorming: What else to be done to get more operator involvement at the IETF?
+- Brainstorming: What else to be done to get more operator involvement at the IETF? (Warren, Suresh)
 	- Lessons from RIPE/NANOG/APNIC. See [this](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855)
 
 #### 15:00-15:30: Break
