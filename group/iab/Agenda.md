@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-22T10:00:34.706Z
+date: 2026-09-23T11:50:51.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -113,7 +113,7 @@ For approval
 
 ### 12. Executive Session: Appeal
 
-
+GDoc: https://docs.google.com/document/d/1DWHcuSwTHWT4a69u5caOXEBzT-BYeU-NB8HeYicjXtE/edit?usp=sharing
 
 
 
