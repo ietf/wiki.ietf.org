@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-23T11:50:51.897Z
+date: 2026-09-23T13:06:57.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -106,7 +106,9 @@ For approval
   input from the technical community
 
 
-### 11. Review of Open Issues for Responsibilities (Dhruv)
+### 11. RIPE Participation
+
+### 12. Review of Open Issues for Responsibilities (Dhruv)
 
   GitHub: https://github.com/orgs/intarchboard/projects/7/views/1
 
@@ -115,7 +117,9 @@ For approval
 
 GDoc: https://docs.google.com/document/d/1DWHcuSwTHWT4a69u5caOXEBzT-BYeU-NB8HeYicjXtE/edit?usp=sharing
 
+### 13. Executive Session: GWG
 
+### 14. Executive Session: Appeal
 
 ## Regrets
 - Mark
