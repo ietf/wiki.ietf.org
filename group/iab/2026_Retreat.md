@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-24T03:36:19.608Z
+date: 2026-09-24T13:51:12.603Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -153,7 +153,7 @@ Context:
 - Ideas for Future Workshops (All)
     - Year 2038 (and other years) problems (proposed by Wes)
     - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
-- [Review of EDM, what's next?](https://datatracker.ietf.org/doc/draft-wkumari-opsawg-json-geofeed-format/) (Warren)
+- [Review of EDM, what's next?](https://docs.google.com/presentation/d/1jCXHDWmnVBqv0Z0uTEE6cYBvkZG6fvGhzjF3wSifnIQ/edit?usp=sharing) (Warren)
 
 - Ideas for Future IAB Technical Program (All)
 
