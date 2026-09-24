@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-23T21:23:08.973Z
+date: 2026-09-24T03:31:54.988Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -86,7 +86,6 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
 
 - IAB Responsibilities
-
     - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
     - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
 
@@ -95,7 +94,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - Does the IAB need to update its procedures?
     - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
 
-- Executive Session: Appeal Processing
+- Executive Session: DJB Appeal Response 
 
 #### 19:00: Group Dinner: Gallery 11
 
@@ -129,7 +128,7 @@ Context:
 
 - Updates from Liaison Coordinators
 
-- Relationship with ETSI (Suresh)
+	- Relationship with ETSI (Suresh)
 
 - Outreach Planning for 2027 (Yaroslav, Warren, Dhruv)
     - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
@@ -139,7 +138,7 @@ Context:
 	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
 
 - Improving collaboration with ICANN and coordination among ICANN appointees (Warren, Suresh)
-
+	- [Responding to the ICANN GWG](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing) (Warren)
 - Relationship with Linux Foundation - should we do something? (Dhruv, Suresh)
 
 - Brainstorming: What else to be done to get more operator involvement at the IETF? (Warren, Suresh)
@@ -149,7 +148,7 @@ Context:
 
 #### 15:00-16:30: Workshops & Programs
 
-- PQ Workshop Prep (Nick)
+- PQ Workshop Prep (Nick/Yaroslav)
 
 - Ideas for Future Workshops (All)
     - Year 2038 (and other years) problems (proposed by Wes)
@@ -170,11 +169,9 @@ Context:
 
 ## Proposed Topics (not already on agenda)
 
-- DJB Appeal Response
 - IABOpen @ IETF 127 Plan (Dhruv)
 	- Invited Speaker/topic
-- [Responding to the ICANN GWG](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing) (Warren)
-- ETSI MoU Discussion, if needed (Suresh)
+
 
 
 
