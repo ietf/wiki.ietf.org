@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-24T03:31:54.988Z
+date: 2026-09-24T03:36:19.608Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -169,8 +169,7 @@ Context:
 
 ## Proposed Topics (not already on agenda)
 
-- IABOpen @ IETF 127 Plan (Dhruv)
-	- Invited Speaker/topic
+- add items here
 
 
 
