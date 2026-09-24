@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-23T20:30:07.490Z
+date: 2026-09-24T07:08:41.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -237,13 +237,21 @@ RFC8888
 
 ---
 
-### Third Project Here (replace me)
+### Independent time anchoring
 
-* **Champion**
-  * name and email
+- **Champions**
 
-* **Project Info**
-  * project description---
+  * Jonna Fassbender, Umarise, j.fassbender@umarise.com (remote)
+
+- **Project Info**
+
+  * This project is about proving that a given digest existed no later than a given point in time, and verifying that claim offline, without contacting the party that produced it and without trusting a block explorer.
+  * Draft: [draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)
+  * What we are looking for is implementations written from the document alone. Test vectors, including negative ones, are in Appendix D. If your implementation accepts the positive vectors and rejects the negative ones, the specification did its job. If you had to guess somewhere, or two readings of a step were both defensible, that is the result we most want to hear.
+  * Note that a proof is only complete once the anchoring transaction is confirmed, so a live run spans at least one block interval. The vectors let you test verification without waiting.
+  * Any language. A Bitcoin full node is useful but not required.
+
+---
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
