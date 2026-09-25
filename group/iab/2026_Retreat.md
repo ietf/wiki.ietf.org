@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-25T07:03:42.994Z
+date: 2026-09-25T17:20:32.861Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -79,9 +79,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 - Reviewing Formal & Informal Meeting Structure (Cindy)
 
-    - What can be done async?
-    - What is appropriate for Informal versus Formal?
-    - Evaluation of Meeting time rotations versus Fixed time?
+    - [Slides: The Earth is Not Flat and Also It Revolves Around the Sun (Part 2)](https://docs.google.com/presentation/d/1_UbeqrV-wwjzlf-dky1WM_wa6wFnOmE9MJIcXT1wEKQ/edit?usp=sharing)
+
 
 - [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
 
