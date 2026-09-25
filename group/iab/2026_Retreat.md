@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-25T17:20:32.861Z
+date: 2026-09-25T18:46:46.642Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -60,9 +60,9 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 #### 13:00-14:30: Internet Architecture
 
-- Should the IAB do more architectural work? (Alvaro, Matthew)
+- Brainstorming: Should the IAB do more architectural work? (Alvaro, Matthew)
 
-    - Emerging Trends (including AI) and where the IAB can contribute
+    - [Slides](https://docs.google.com/presentation/d/1cnhvQKboqk_epz6TThtG753ziq5sLdZ2g77ZHYIUSCA/edit?usp=sharing)
 
 - Possible document on architectural principles (Mark)
 
