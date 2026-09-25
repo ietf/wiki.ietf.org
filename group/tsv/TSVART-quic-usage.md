@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-09-07T11:21:38.096Z
+date: 2026-09-25T14:30:31.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -42,13 +42,13 @@ Independent of the need for forward secrecy rekeying, QUIC supports the key upda
 
 ## QUIC Streams
 
-QUIC supports multiple streams (multistreaming) within a connection. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+QUIC supports multiple streams (multistreaming) within a connection [RFC900]. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
 
 There are different services that can be provided using a QUIC stream:
 
 ### Reliable Streams
 
-QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees.  
+QUIC provides in-order reliable delivery using a Stream [RFC9000]. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees.  
 
 Applications may need to define error codes to indicate reasons for closing streams. 
 
@@ -62,7 +62,7 @@ Datagrams are congestion-controlled, but not subject to flow control. Because th
 
 A QUIC stream can be reset by the sender, but a reset can be requested by the receiver. To the application, such a request looks like the stream being reset by the receiver.
 
-RFC 9000 defines a bidirectional stream, that can be reset in one direction, but continue to transfer data normally in the other direction. Experience is recommended to understand how this is realised in actual implementations.
+[RFC9000] defines a bidirectional stream, that can be reset in one direction, but continue to transfer data normally in the other direction. Experience is recommended to understand how this is realised in actual implementations.
 
 The [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams.
 
@@ -97,15 +97,19 @@ The byte stream model could be a bi-directional or uni-directional stream. It co
 
 Is the communication Client to Server or Peer to Peer?
 
-### How is flow control used? 
+### How is QUIC flow control used? 
 
-The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? Please explain the usage. QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
+[RFC9000] defines QUIC flow control at both the individual stream level and the overall connection level. The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? Please explain the usage. QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
 
 ### Does a new QUIC application need a unique UDP Port? 
 
-RFC 7605 provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, (RFC 7301) can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
+[RFC7605] provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, [RFC7301] can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
 
-### What is the implementation experience and expectd deployment incentives?
+### Does QUIC require a UDP Checksum? 
+
+QUIC provides robust cryptographic authentication and encryption for its headers and the UDP payload [RFC9001]. For IPv4,the UDP checksum is optional, because the IP-layer already checks the IP address [RFC8085]. The UDP checksum is mandatory for QUIC with IPv6, because the network stack uses this checksum to verify the delivery endpoint and packet integrity [RFC8200].
+
+### What is the implementation experience and the expected deployment incentives?
 
 Implementation experience has been important in the development of QUIC standards and tests of interoperability have proved important. Not all stacks are equal in what they offer, nor in the APIs that they currently provide. Some QUIC features are defined as extensions or are supported by options for a version of QUIC.
 
