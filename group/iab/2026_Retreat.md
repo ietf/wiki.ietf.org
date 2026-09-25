@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-24T23:57:02.180Z
+date: 2026-09-25T07:03:42.994Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -197,7 +197,7 @@ No registration or check-in is required. Please come directly to the meeting roo
 	- [Watt-Bit](https://www.meti.go.jp/english/press/2025/0612_001.html) collabration between electricity and telecommunications entities
   - Medical device standardization with the Internet from ISO/IEC point of view.
 
-
+> Anyone intrested in [teamLab Borderless](https://www.teamlab.art/e/tokyo/): MORI Building DIGITAL ART MUSEUM, Azabudai Hills after we are done with Keio university?
 
 
 ## Confirmed In-person
