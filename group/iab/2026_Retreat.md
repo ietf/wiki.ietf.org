@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-25T18:46:46.642Z
+date: 2026-09-26T07:03:40.598Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -203,7 +203,7 @@ No registration or check-in is required. Please come directly to the meeting roo
 
 | **Name** | **Dietary Restrictions** | **Arriving** | **Leaving** | **Hotel**                  |
 |----------|--------------------------|--------------|-------------|----------------------------|
-| Dhruv    | None                     | 2026-09-28   | 2026-10-02  |  JR-EAST HOTEL METS SHIBUYA|
+| Dhruv    | None                     | 2026-09-28<br>NRT JL0754<br>@ 1435 | 2026-10-02  |  JR-EAST HOTEL METS SHIBUYA|
 | Warren   | None                     | 2026-09-28   | 2026-10-02  | Shibuya Stream Excel Tokyu |
 | Dirk     | None, but want good sushi| 2026-09-28   | 2026-10-02  | TBD                        |
 | Yaroslav | None                     | 2026-09-29   | 2026-10-09  | TBD                        |
