@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T13:42:22.341Z
+date: 2026-09-27T13:51:38.892Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -57,7 +57,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - Related Reading: [IRTF RG review process & goals](https://wiki.ietf.org/group/irtf/iabreviewprocess)
     
 #### 11:30-12:00: IAB Open at IETF 127
-- Goal: Brainstorm topics/speakers for technical talk
+- Goal: Brainstorm topics/speakers for [technical talk](https://iab.privatewikis.ietf.org/iabopen)
 
 #### 12:00-13:00: Lunch
 
