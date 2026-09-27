@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T15:41:27.210Z
+date: 2026-09-27T15:41:55.989Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -91,7 +91,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
     - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
     - [#104](https://github.com/intarchboard/responsibilities/issues/104) - Incoming Liaison from SG17 to support Child Online Protection (COP) - *Even though it is marked for information, should we still reply?*
-		- [#90](https://github.com/intarchboard/responsibilities/issues/90) - Wider QUIC adoption - *is there any more information or we close?*
+    - [#90](https://github.com/intarchboard/responsibilities/issues/90) - Wider QUIC adoption - *is there any more information or we close?*
     - [#89](https://github.com/intarchboard/responsibilities/issues/89) - Residential Proxy - *is there any next steps or we close?*
     - [#88](https://github.com/intarchboard/responsibilities/issues/88) - How to adopt RFC 9945 for IAB Lists
     - [#66](https://github.com/intarchboard/responsibilities/issues/66) - E-Voting Tool - *lets close*
