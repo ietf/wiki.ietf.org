@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T10:42:02.460Z
+date: 2026-09-27T12:02:19.404Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -168,7 +168,7 @@ Context:
 - Please add slides (if any) to the agenda in the wiki to provide an oppurtunity for others to review in advance
 
 
-## Proposed Topics (not already on agenda)
+## Proposed Topics (not yet on the agenda) / Parking Lot
 
 - add items here
 
