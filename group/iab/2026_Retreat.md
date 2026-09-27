@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T08:10:45.125Z
+date: 2026-09-27T08:47:28.386Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -40,7 +40,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 #### 09:15-10:30: The IAB and the IETF
 
 - BOFs and New Work in the IETF (Yaroslav, Matthew)
-    - Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? (Yaroslav, Matthew)
+    - Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? 
 - How to improve [our role in revieweing proposed WG charters](https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters) (Dhruv)
 
 - The relationship between the IAB and the IETF (Roman)
