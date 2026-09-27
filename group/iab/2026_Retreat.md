@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T16:22:17.426Z
+date: 2026-09-27T16:23:25.216Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -222,7 +222,7 @@ No registration or check-in is required. Please come directly to the meeting roo
 | Chris I  | None                     | 2026-09-29            |    2026-10-02         |   Tokyo Marriott Hotel                         |
 | Yingzhen | None                     |  2026-09-28   |2026-10-03        |    Shibuya Excel                       |
 | Matthew  | None, +1 to Dirk         |  2026-09-28  |     2026-10-02        |    Doubletree Ariake                        |
-| Suresh  | Vegetarian                 |     2026-09-29     |  2026-10-02  |    TBD                        |
+| Suresh  | Vegetarian                 |     2026-09-29     |  2026-10-02  |    Westin                        |
 | Alvaro | None | 2026-09-28 | 2026-10-02 | Shibuya Stream |
 | Mark | No shellfish | 2026-09-22 | 2026-10-02 | Shibuya Stream |
 | Ali | No pork (and love sushi) | 2026-09-26 | 2026-10-03 | Sheraton Miyako |
