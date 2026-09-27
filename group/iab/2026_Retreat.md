@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T15:41:55.989Z
+date: 2026-09-27T16:22:17.426Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -139,7 +139,7 @@ Context:
 
 - Updates from Liaison Coordinators
 
-	- Relationship with ETSI (Suresh)
+	- [Relationship with ETSI](https://docs.google.com/presentation/d/1Y_bzdGOe4K4AXxZ7D-QFPAVcF4ikxWM42i0oI_bwSdo/edit?usp=sharing) (Suresh)
 
 - Outreach Planning for 2027 (Yaroslav, Warren, Dhruv)
     - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/) - updated
