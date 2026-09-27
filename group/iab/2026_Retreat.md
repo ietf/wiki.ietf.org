@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-26T09:18:43.031Z
+date: 2026-09-27T06:20:12.133Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -130,7 +130,7 @@ Context:
 	- Relationship with ETSI (Suresh)
 
 - Outreach Planning for 2027 (Yaroslav, Warren, Dhruv)
-    - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
+    - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/) - updated
     - Any progress on [Local NOG](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097)?
 
 - Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
