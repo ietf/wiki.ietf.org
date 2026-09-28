@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-28T10:50:59.979Z
+date: 2026-09-28T23:39:18.252Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -76,7 +76,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 #### 15:00-15:30: Break
 
 #### ITU-PP (15:30-16:00)
-- ITU-T Plenipotentiary Conference (Tanya,ISOC) 
+- [ITU-T Plenipotentiary Conference](https://docs.google.com/presentation/d/1AHnOBPNHNADzMP7td6pweLJHbAHYtlQO/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true) (Tanya,ISOC) 
 
 #### IAB Processes and Administrivia (16:00-17:30)
 
