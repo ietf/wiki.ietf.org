@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-27T16:23:25.216Z
+date: 2026-09-28T03:37:28.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -137,7 +137,7 @@ Context:
 
 #### 13:00-15:00: Outreach & Liaison
 
-- Updates from Liaison Coordinators
+- [Updates from Liaison Coordinators](https://docs.google.com/presentation/d/1PitP0Lot4wX7Ww-G3-GbTjlDI2uSx_3oUbyT6_Ia1Ns/edit?usp=sharing) (Suresh, Warren, Yaroslav, Yingzhen)
 
 	- [Relationship with ETSI](https://docs.google.com/presentation/d/1Y_bzdGOe4K4AXxZ7D-QFPAVcF4ikxWM42i0oI_bwSdo/edit?usp=sharing) (Suresh)
 
