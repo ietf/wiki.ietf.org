@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T03:19:32.093Z
+date: 2026-09-29T03:29:16.527Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -151,7 +151,7 @@ Context:
 
 - Improving collaboration with ICANN and coordination among ICANN appointees (Warren, Suresh)
 
-- Relationship with Linux Foundation - should we do something? (Dhruv, Suresh)
+- [Relationship with Linux Foundation](https://docs.google.com/presentation/d/1BTkAyw2-faFlAKVLFWZ8Y7d4VHA6ZaGa0zJvz7fRWt4/edit?usp=sharing) - should we do something? (Dhruv, Suresh)
 
 - Brainstorming: What else to be done to get more operator involvement at the IETF? (Warren, Suresh)
 	- Lessons from RIPE/NANOG/APNIC. See [this](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855)
