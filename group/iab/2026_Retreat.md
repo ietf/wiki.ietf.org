@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T11:45:50.630Z
+date: 2026-09-29T21:54:04.674Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -114,7 +114,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 #### 09:00-10:30: Internet Governance
 
-- Regional Trends Report (Ryan/ISOC)
+- [Regional Trends Report](https://docs.google.com/presentation/d/1antBqp3w8oIQWAi5XFHph2TWHzyEh31Q/edit?usp=drive_link&ouid=106264033400188371525&rtpof=true&sd=true) (Ryan/ISOC)
 - IGF 2026 (Yaroslav, Dhruv)
     - How to make the most out of the event? 
     - [Shortlist of Workshops](https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing)
