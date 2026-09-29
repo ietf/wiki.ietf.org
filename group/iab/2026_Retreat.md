@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T23:07:15.976Z
+date: 2026-09-29T23:43:20.610Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -34,6 +34,10 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 ## Agenda
 
 ### Wednesday, September 30, 2026 (UTC +9)
+
+To join the video meeting, click this link: https://meet.google.com/win-aofy-rmb
+Otherwise, to join by phone, dial +81 3-4545-0450 and enter this PIN: 286 361 340 7394#
+To view more phone numbers, click this link: https://tel.meet/win-aofy-rmb?hs=5
 
 #### 09:00-09:15:  Arrivals, Welcome, Goals for the Strategy Meeting (Dhruv)
 - Slides: [IAB Strategy Meeting 2026](https://docs.google.com/presentation/d/1Ul8jjCXUCXC4BGYnmpl3YfSTi0Cnl1Az/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
