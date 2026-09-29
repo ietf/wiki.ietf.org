@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T22:03:42.922Z
+date: 2026-09-29T23:07:15.976Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -107,7 +107,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - Does the IAB need to update its procedures?
     - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
 
-- Executive Session: DJB Appeal Response
+- Executive Session: Appeal Response
 
 #### 19:00: Group Dinner: Gallery 11
 
