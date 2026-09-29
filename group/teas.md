@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-09-29T16:25:50.780Z
+date: 2026-09-29T16:28:49.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -40,7 +40,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |  7 | [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
 |  8 | [draft-ietf-teas-nrp-scalability](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-scalability/) | Pre-WG last call IPR Poll (Oscar) | 2026-09-26
 |  9 | [draft-ietf-teas-nrp-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-nrp-yang/) ^YDR^ | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/1XvRXVrNIQqKfpxo-vtJpVK1Vj8/) | 2026-07-07
-| 10 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | WGLC Done - Issues raised | 2026-09-08
+| 10 | [draft-ietf-teas-ns-controller-models](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-controller-models/) | WGLC Done - Issues raised (Pavan) | 2026-09-08
 | 11 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) |  Pre-WG last call IPR Poll (Oscar)  | 2026-09-26
 | 12 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) | On the agenda for IETF 126 | 2026-07-14
 | 13 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | [In WG LC (Closes on 2026-09-30)](https://mailarchive.ietf.org/arch/msg/teas/Rt6ts8yMxXJS4w33iPXeUwa4XKM/) (Pavan) | 2026-09-16
