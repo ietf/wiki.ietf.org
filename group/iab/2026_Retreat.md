@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T04:59:22.290Z
+date: 2026-09-29T11:20:50.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -96,8 +96,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
     - [#89](https://github.com/intarchboard/responsibilities/issues/89) - Residential Proxy - *is there any next steps or we close?*
     - [#88](https://github.com/intarchboard/responsibilities/issues/88) - How to adopt RFC 9945 for IAB Lists
     - [#66](https://github.com/intarchboard/responsibilities/issues/66) - E-Voting Tool - *lets close*
-    - [#52](https://github.com/intarchboard/responsibilities/issues/52) - Is there standardization effort needed on Agent to Agent communication
-    - [#49](https://github.com/intarchboard/responsibilities/issues/49) - EDM Program: Incentive alignment and Deployability
+    - [#52](https://github.com/intarchboard/responsibilities/issues/52) - Is there standardization effort needed on Agent to Agent communication - *overtaken by events, lets close*
+    - [#49](https://github.com/intarchboard/responsibilities/issues/49) - EDM Program: Incentive alignment and Deployability - *close?*
     - [#44](https://github.com/intarchboard/responsibilities/issues/44) - Limited Domains Architectural Guidelines
 
 - Appeal Handling (Mark)
