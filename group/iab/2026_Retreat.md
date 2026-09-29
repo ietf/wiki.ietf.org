@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T11:20:50.882Z
+date: 2026-09-29T11:45:50.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -43,7 +43,8 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 - BOFs and New Work in the IETF (Yaroslav, Matthew)
     - Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? 
     - Related reading: [Role of IAB in New Work and BOF Shepherding](https://www.iab.org/role/evaluating-new-work-proposals/)	and [IAB Statement](https://datatracker.ietf.org/doc/statement-iab-member-roles-in-evaluating-new-work-proposals/)
-- How to improve [our role in revieweing proposed WG charters](https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters) (Dhruv)
+    - [Slides](https://docs.google.com/presentation/d/11sSHBY46SB1cbJqYZuaqDc4anqwNagy0EJdnTCS_CBg/edit?usp=sharing)
+   - How to improve [our role in revieweing proposed WG charters](https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters) (Dhruv)
 	- [Slide](https://docs.google.com/presentation/d/1y0-zFVCd95GpgVx56GLqfOaAxv0pktZSVsyzd_3p0mQ/edit?usp=sharing)
 
 - The relationship between the IAB and the IETF (Roman)
