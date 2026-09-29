@@ -44,7 +44,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 11 | [draft-ietf-teas-ns-ip-mpls](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-ip-mpls/) | Ready for WGLC (as per Authors) <br> On the agenda for IETF 126 | 2026-07-14
 | 12 | [draft-ietf-teas-ns-models-applicability](https://datatracker.ietf.org/doc/draft-ietf-teas-ns-models-applicability/) | On the agenda for IETF 126 | 2026-07-14
 | 13 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | [In WG LC (Closes on 2026-09-30)](https://mailarchive.ietf.org/arch/msg/teas/Rt6ts8yMxXJS4w33iPXeUwa4XKM/) | 2026-09-16
-| 14 | [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/) | Open issues exist | 2026-05-05
+| 14 | [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/) | IPR poll ongoing (Open editorial issues exist) | 2026-05-05
 | 15 | [draft-ietf-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-inplace-lsp-bw-update/) | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/Rm7M19pjev4do4CBC9rmLvylxOA/) | 2026-07-05
 | 16 | [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
 | 17 | [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^    | Gated by progress of other YANG models| 2026-07-05
