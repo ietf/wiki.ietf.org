@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-09-29T16:41:34.846Z
+date: 2026-09-29T16:50:19.867Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -62,7 +62,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
  
 |No.| Draft | Notes | Updated
 |---|-------|-------|---------
-| 1 | [draft-many-teas-power-steering](https://datatracker.ietf.org/doc/draft-many-teas-power-steering)  | [WG Adoption Poll (Closes on 2026-09-10)](https://mailarchive.ietf.org/arch/msg/teas/h8xRgja5vAMqJYGzniidCqIQGlM/) | 2026-09-16
+| 1 | [draft-many-teas-power-steering](https://datatracker.ietf.org/doc/draft-many-teas-power-steering)  | [WG Adoption Poll (Closes on 2026-09-10)](https://mailarchive.ietf.org/arch/msg/teas/h8xRgja5vAMqJYGzniidCqIQGlM/) Waiting on meeting with LSR and GREEN WG chairs | 2026-09-16
 | 2 | [draft-kompella-teas-mpte](https://datatracker.ietf.org/doc/draft-kompella-teas-mpte)  |  | 2026-09-08
 
 ## Open informal meetings (driven by authors and contributors)
