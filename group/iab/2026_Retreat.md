@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T21:54:04.674Z
+date: 2026-09-29T22:03:42.922Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -56,6 +56,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 - The Relationship Between the IAB and the IRTF (Dirk)
     - Why the IAB does RGs review and How we can improve on it? 
+    - [Slide](https://docs.google.com/presentation/d/1ikfsJV6532LfidUqDZrfcONXPxyw0HtJ/edit?usp=sharing&ouid=116915396165434556239&rtpof=true&sd=true)
     - Related Reading: [IRTF RG review process & goals](https://wiki.ietf.org/group/irtf/iabreviewprocess)
     
 #### 11:30-12:00: IAB Open at IETF 127
