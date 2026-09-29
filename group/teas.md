@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-09-29T16:32:19.612Z
+date: 2026-09-29T16:33:55.238Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -33,8 +33,8 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 |---|--------------------------------------------------|----------------------------------------------------|---------------------------------
 |  1 | [draft-ietf-teas-5g-network-slice-application](https://datatracker.ietf.org/doc/draft-ietf-teas-5g-network-slice-application/) | Address comments from 3GPP: <br> - [TEAS WG outgoing LS](https://datatracker.ietf.org/liaison/2064/) <br> - [3GPP-TSG-RAN-WG3 LS reply](https://datatracker.ietf.org/liaison/2071/) <br> - [3GPP-TSG-SA LS reply](https://datatracker.ietf.org/liaison/2096/) <br> On the agenda for IETF 126 | 2026-07-14
 |  2 | [draft-ietf-teas-actn-pm-telemetry-autonomics](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-pm-telemetry-autonomics/) ^YDR^ ^Exp^ | WGLC Done - Issues raised | 2026-09-08
-|  3 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist <br> On the agenda for IETF 126 | 2026-07-05
-|  4 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework. Authors to update with latest references| 2025-01-13
+|  3 | [draft-ietf-teas-actn-poi-assurance](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-poi-assurance) | Open issues exist  | 2026-26-09
+|  4 | [draft-ietf-teas-actn-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-actn-yang/) ^Exp^                                      | Waiting on the progress of applicable models in the ACTN Framework. Authors need to update with latest references| 2026-26-09
 |  5 | [draft-ietf-teas-composite-network-slices](https://datatracker.ietf.org/doc/draft-ietf-teas-composite-network-slices) | Issues raised during WG adoption | 2026-07-05
 |  6 | [draft-ietf-teas-ietf-network-slice-use-cases](https://datatracker.ietf.org/doc/draft-ietf-teas-ietf-network-slice-use-cases/) ^Exp^ | Open issues exist                   | 2025-01-13
 |  7 | [draft-ietf-teas-network-slice-topology-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-network-slice-topology-yang/) | Open issues exist | 2025-10-24
