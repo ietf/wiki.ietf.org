@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-28T23:39:18.252Z
+date: 2026-09-29T00:08:24.246Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -36,6 +36,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 ### Wednesday, September 30, 2026 (UTC +9)
 
 #### 09:00-09:15:  Arrivals, Welcome, Goals for the Strategy Meeting (Dhruv)
+- Slides: [IAB Strategy Meeting 2026](https://docs.google.com/presentation/d/1Ul8jjCXUCXC4BGYnmpl3YfSTi0Cnl1Az/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
 
 #### 09:15-10:30: The IAB and the IETF
 
