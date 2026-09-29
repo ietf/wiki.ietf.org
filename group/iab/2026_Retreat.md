@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-29T00:08:24.246Z
+date: 2026-09-29T03:19:32.093Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -47,7 +47,7 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 	- [Slide](https://docs.google.com/presentation/d/1y0-zFVCd95GpgVx56GLqfOaAxv0pktZSVsyzd_3p0mQ/edit?usp=sharing)
 
 - The relationship between the IAB and the IETF (Roman)
-    - [What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB?](https://docs.google.com/presentation/d/15DzbfufljYolP7bLvmD1Mghtf9bIKJJvAXWval2cR2Q/edit?slide=id.h1c1a14aef9e7bff7_0_15#slide=id.h1c1a14aef9e7bff7_0_15) 
+    - [What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB?](https://docs.google.com/presentation/d/15DzbfufljYolP7bLvmD1Mghtf9bIKJJvAXWval2cR2Q/edit?usp=sharing) 
 
 #### 10:30-10:45: Break
 
