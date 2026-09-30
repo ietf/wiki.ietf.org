@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-30T10:38:37.915Z
+date: 2026-09-30T11:15:32.304Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -255,7 +255,7 @@ RFC8888
 ### Addressing Multi-Agent Delegation: TTTPS & AUDIT Open Testbed *
 
 - **Champions**
-  * Heime Jorgen Kenosian <heime.jorgen@proton.me>
+  * Heime Jorgen, Kenosian, <heime.jorgen@proton.me>
 
 - **Project Info**
   * **Objective:** Demonstrating **Hardware Temporal Attestation** (TTTPS 180-octet PoT Core + AWS Nitro PTP) and **Fail-Closed Replay Ledger** (Amazon MemoryDB for Redis) for high-speed, asynchronous multi-agent delegation.
