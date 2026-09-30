@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T00:18:29.021Z
+date: 2026-09-30T04:09:47.171Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -176,6 +176,7 @@ Context:
 - [Review of EDM, what's next?](https://docs.google.com/presentation/d/1jCXHDWmnVBqv0Z0uTEE6cYBvkZG6fvGhzjF3wSifnIQ/edit?usp=sharing) (Warren)
 
 - Ideas for Future IAB Technical Program (All)
+	- Are there any changes to be made in ways we do technical programs?
 
 
 #### 16:30-17:00: Strategy Meeting Debrief and Review of Action Items
