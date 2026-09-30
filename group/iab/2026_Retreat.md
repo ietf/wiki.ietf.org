@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T00:05:06.466Z
+date: 2026-09-30T00:18:29.021Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -157,7 +157,7 @@ Context:
 - Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
 	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
 
-- Improving collaboration with ICANN and coordination among ICANN appointees (Warren, Suresh)
+- [Improving collaboration with ICANN and coordination among ICANN appointees](https://docs.google.com/presentation/d/1hSB8UtXI2SaNGsgT-GIryH5q1MRRtdnTJeW7qksDdGI/edit?slide=id.h240dc430e1115816_28_0#slide=id.h240dc430e1115816_28_0) (Warren, Suresh)
 
 - [Relationship with Linux Foundation](https://docs.google.com/presentation/d/1BTkAyw2-faFlAKVLFWZ8Y7d4VHA6ZaGa0zJvz7fRWt4/edit?usp=sharing) - should we do something? (Dhruv, Suresh)
 
