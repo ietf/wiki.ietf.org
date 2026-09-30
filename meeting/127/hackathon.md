@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-30T10:38:15.213Z
+date: 2026-09-30T10:38:37.915Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -265,7 +265,7 @@ RFC8888
     * Proof Vault & UI: `https://kpp.kenosian.com/k-lean.html` | `https://kpp.kenosian.com/kenosian-vault`
     * Evaluates 5 Formal Invariant Fixtures: `BoundedParse`, `InvalidIngressNoMutation`, `ValidIngressMayCommit`, `AtomicReplayAtMostOneCommit`, and `DropHasNoDisposition`.
   * **Specifications:**
-    * [draft-helmprotocol-tttps-13](https://datatracker.ietf.org/doc/draft-helmprotocol-tttps/)
+    * [draft-helmprotocol-tttps-12](https://datatracker.ietf.org/doc/draft-helmprotocol-tttps/)
     * [draft-helmprotocol-confidence-02](https://datatracker.ietf.org/doc/draft-helmprotocol-confidence/)
     * [draft-helmprotocol-deepspace-02](https://datatracker.ietf.org/doc/draft-helmprotocol-deepspace/)
   * **Repositories:**
