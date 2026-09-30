@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T04:09:47.171Z
+date: 2026-09-30T06:33:53.746Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -86,7 +86,7 @@ To view more phone numbers, click this link: https://tel.meet/win-aofy-rmb?hs=5
 #### 15:00-15:30: Break
 
 #### ITU-PP (15:30-16:00)
-- [ITU-T Plenipotentiary Conference](https://docs.google.com/presentation/d/1AHnOBPNHNADzMP7td6pweLJHbAHYtlQO/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true) (Tanya,ISOC) 
+- [ITU Plenipotentiary Conference](https://docs.google.com/presentation/d/1AHnOBPNHNADzMP7td6pweLJHbAHYtlQO/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true) (Tanya,ISOC) 
 
 #### IAB Processes and Administrivia (16:00-17:30)
 
