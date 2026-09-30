@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T06:33:53.746Z
+date: 2026-09-30T17:06:36.648Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -171,7 +171,7 @@ Context:
 - PQ Workshop Prep (Nick/Yaroslav)
 
 - Ideas for Future Workshops (All)
-    - Year 2038 (and other years) problems (proposed by Wes)
+    - [Year 2038 (and other years) problems](https://ant.isi.edu/~hardaker/tmp/IAB_Workshop_on_Y2038.pdf) (proposed by Wes)
     - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
 - [Review of EDM, what's next?](https://docs.google.com/presentation/d/1jCXHDWmnVBqv0Z0uTEE6cYBvkZG6fvGhzjF3wSifnIQ/edit?usp=sharing) (Warren)
 
