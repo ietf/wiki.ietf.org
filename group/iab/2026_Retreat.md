@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T23:18:20.578Z
+date: 2026-09-30T23:21:06.641Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -220,6 +220,9 @@ Jun: We will be at the bldg by the street. You use the door at left, (right is s
 - Agenda: 
 	- [Watt-Bit](https://www.meti.go.jp/english/press/2025/0612_001.html) collabration between electricity and telecommunications entities
   - Medical device standardization with the Internet from ISO/IEC point of view.
+  
+  
+IRTF: [grids meets the Internet](https://datatracker.ietf.org/meeting/126/materials/slides-126-sustain-report-from-passau-workshop-part-2-dirk-kutscher-00)  
 
 > Anyone intrested in [teamLab Borderless](https://www.teamlab.art/e/tokyo/): MORI Building DIGITAL ART MUSEUM, Azabudai Hills after we are done with Keio university?
 
