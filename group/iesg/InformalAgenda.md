@@ -2,13 +2,13 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-09-30T13:50:50.894Z
+date: 2026-09-30T14:51:48.913Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 1, 2026
+# CANCELED Informal Telechat - October 1, 2026
 
 There **WILL NOT** be a meeting on this date.
 
