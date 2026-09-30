@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-30T11:15:32.304Z
+date: 2026-09-30T18:50:47.875Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -273,6 +273,53 @@ RFC8888
     * OpenTTT MCP SDK: `@helm-protocol/ttt-mcp`
   * **Looking for:** Participants interested in AI agent security, RATS CMW / SCITT receipt logging, or testing synthetic time-skew and replay attacks against O(1) admission gates.
 
+---
+### OpenNHP: Network-infrastructure Hiding Protocol (NHP) *
+
+- **Champions**
+
+  **Benfeng Chen**  
+  benfeng@gmail.com  
+  support@opennhp.org
+
+  *(Newcomers, security researchers, and AI-assisted testers are welcome — remote participation supported.)*
+
+- **Project Info**
+
+  **OpenNHP** is an open-source implementation of the **Network-infrastructure Hiding Protocol (NHP)**, a Zero Trust protocol that provides **authenticate-before-connect** semantics: protected resources stay invisible to the network until a client proves its identity cryptographically.
+
+  **An AI vulnerability storm is coming.** AI systems can now find new vulnerabilities, write exploits, and scan the entire Internet faster than ever. Traditional security (patching, signatures, and detection-and-response) is too slow to keep up: an exposed service can be found and attacked within minutes of a new flaw being discovered. We believe the most effective defense is not to out-race AI attackers but to **hide from them**. If an attacker cannot see a service, it cannot scan, fingerprint, or exploit it, no matter how capable the attacker is.
+
+  At IETF 126, independent testers, including an autonomous AI attacker, found no way to reach protected services without authentication. Passive reconnaissance did show that DNS and Certificate Transparency logs can reveal parts of the deployment topology. For IETF 127 we have hardened the public demo and invite participants, human and AI, to try again.
+
+- **What's new since IETF 126:**
+  - `server.opennhp.org` is now fully invisible — no HTTPS surface; it only answers valid NHP knocks
+  - `ac.opennhp.org` enforces access with **eBPF/XDP**, dropping unauthorized packets at the network driver before the Linux TCP/IP stack
+  - New login-portal integration demo at `demo.opennhp.org`
+  - JavaScript SDK agent and NHP-Relay (HTTP-to-NHP translation) for browser-based clients
+
+- **Challenge objectives include:**
+  - Discovering or accessing protected services without authentication
+  - Pointing AI and autonomous agents at NHP-protected infrastructure to see how far they get
+  - Passive reconnaissance: CT log and DNS enumeration, metadata correlation
+  - Active scanning of hidden ports, IP addresses, and domain names
+  - Bypassing authentication or authorization, including replay and knock-forgery attempts
+  - Testing DDoS and pre-authentication attack resistance of the eBPF/XDP data path
+  - Reviewing the protocol design against draft-opennhp-ztcpp-nhp
+  - Interoperability and performance testing
+
+- **Success criteria:**
+  - If you can discover or reach a protected resource without authenticating, we want to understand and fix the weakness.
+  - If you can't, your results add independent evidence that hiding is a practical defense against AI-driven attacks.
+  - Either way, we will publicly credit participants who share findings.
+
+- **Links:**
+  - **Call for Participation:** https://opennhp.org/blog/ietf-127-hackathon-call-for-participation/
+  - **Website:** https://opennhp.org/
+  - **Source Code:** https://github.com/OpenNHP/opennhp
+  - **Live Demo:** https://opennhp.org/demo/
+  - **Internet-Draft:** https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp
+  - **IETF 126 Results:** https://opennhp.org/blog/ietf-126-hackathon-results/
 
 ---
 
