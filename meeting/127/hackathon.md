@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-24T13:27:11.109Z
+date: 2026-09-30T10:37:18.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -250,6 +250,29 @@ RFC8888
   * What we are looking for is implementations written from the document alone. Test vectors are in Appendix D; the negative ones are in D.6. If your implementation accepts the positive vectors and rejects the negative ones, the specification did its job. If you had to guess somewhere, or two readings of a step were both defensible, that is the result we most want to hear.
   * Note that a proof is only complete once the anchoring transaction is confirmed, so a live run spans at least one block interval. The vectors let you test verification without waiting.
   * Any language. A Bitcoin full node is useful but not required; a validated header set is enough.
+
+---
+### Addressing Multi-Agent Delegation: TTTPS & AUDIT Open Testbed *
+
+- **Champions**
+  * Heime Jorgen Kenosian <heime.jorgen@proton.me>
+
+- **Project Info**
+  * **Objective:** Demonstrating **Hardware Temporal Attestation** (TTTPS 180-octet PoT Core + AWS Nitro PTP) and **Fail-Closed Replay Ledger** (Amazon MemoryDB for Redis) for high-speed, asynchronous multi-agent delegation.
+  * **AUDIT BoF Support:** Providing a "Running Code" Open Conformance Testbed and **K-Lean Formal Verification API** in support of the **AUDIT (Agent Use of Delegation and Interaction Traceability) BoF**.
+  * **Formal Verification (K-Lean Engine):**
+    * Live Conformance API: `https://kpp.kenosian.com/api/verify`
+    * Proof Vault & UI: `https://kpp.kenosian.com/k-lean.html` | `https://kpp.kenosian.com/kenosian-vault`
+    * Evaluates 5 Formal Invariant Fixtures: `BoundedParse`, `InvalidIngressNoMutation`, `ValidIngressMayCommit`, `AtomicReplayAtMostOneCommit`, and `DropHasNoDisposition`.
+  * **Specifications:**
+    * [draft-helmprotocol-tttps-13](https://datatracker.ietf.org/doc/draft-helmprotocol-tttps/)
+    * [draft-helmprotocol-confidence-02](https://datatracker.ietf.org/doc/draft-helmprotocol-confidence/)
+    * [draft-helmprotocol-deepspace-02](https://datatracker.ietf.org/doc/draft-helmprotocol-deepspace/)
+  * **Repositories:**
+    * OpenTTT Core Engine: [https://github.com/Helm-Protocol/OpenTTT](https://github.com/Helm-Protocol/OpenTTT)
+    * OpenTTT MCP SDK: `@helm-protocol/ttt-mcp`
+  * **Looking for:** Participants interested in AI agent security, RATS CMW / SCITT receipt logging, or testing synthetic time-skew and replay attacks against O(1) admission gates.
+
 
 ---
 
