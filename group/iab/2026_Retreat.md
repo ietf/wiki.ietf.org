@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T21:59:23.313Z
+date: 2026-09-30T23:18:20.578Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -214,6 +214,9 @@ Keio University Mita Campus
 https://www.keio.ac.jp/en/about/campus/mita/map/
 The East Research Building is Building No. 13 on the campus map.
 No registration or check-in is required. Please come directly to the meeting room.
+
+>Google Map:  https://maps.app.goo.gl/yRKaivZ8ExndrGDg6 
+Jun: We will be at the bldg by the street. You use the door at left, (right is security box) get into the bldg from the left entrance, and catch the elevator to 6th floor.
 - Agenda: 
 	- [Watt-Bit](https://www.meti.go.jp/english/press/2025/0612_001.html) collabration between electricity and telecommunications entities
   - Medical device standardization with the Internet from ISO/IEC point of view.
