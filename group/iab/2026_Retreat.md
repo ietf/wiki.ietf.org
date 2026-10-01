@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-10-01T00:07:01.318Z
+date: 2026-10-01T00:24:54.485Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -118,7 +118,7 @@ To view more phone numbers, click this link: https://tel.meet/win-aofy-rmb?hs=5
 
 #### 19:00: Group Dinner: Gallery 11
 
-### Thursday, October 1, 2026  (UTC +9)
+# Thursday, October 1, 2026  (UTC +9)
 
 #### 09:00-10:30: Internet Governance
 
