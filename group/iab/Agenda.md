@@ -2,29 +2,33 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-23T15:20:08.932Z
+date: 2026-10-01T08:12:47.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-10-07, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-10-14, 23:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-10-07
+## There WILL be a meeting on 2026-10-24
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1462ee51b58235f48f3c18833c20dbe7
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
 
 
 
-### 1. Topic (Owner)
+### 1. GWG Root Server System Governance Framework (Warren)
 
 Goal: 
 Context: 
+
+### 2. Executive Session: Appeal Response (Mark)
+
+ 
 
 
 ## Regrets
@@ -35,8 +39,7 @@ Context:
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- **2026-09-30 - 2026-10-01: IAB Strategy Meeting, Tokyo**
-- 2026-10-07 Informal 1400-1500 UTC
+
 - 2026-10-14 Informal 2300-0000 UTC
 - **2026-10-21: Formal 1300-1500 UTC**
 - 2026-10-28 Informal 0600-0700 UTC
