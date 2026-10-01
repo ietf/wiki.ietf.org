@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-10-01T00:24:54.485Z
+date: 2026-10-01T02:21:29.769Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -173,7 +173,7 @@ Context:
 
 - Ideas for Future Workshops (All)
     - [Year 2038 (and other years) problems](https://ant.isi.edu/~hardaker/tmp/IAB_Workshop_on_Y2038.pdf) (proposed by Wes)
-    - Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA) (Ali)
+    - [Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA)](https://docs.google.com/presentation/d/17gNONb9VDbOE5JBa0JTLF0S3B_i2W65E7rhek1IqJKI/edit?usp=sharing) (Ali)
 - [Review of EDM, what's next?](https://docs.google.com/presentation/d/1jCXHDWmnVBqv0Z0uTEE6cYBvkZG6fvGhzjF3wSifnIQ/edit?usp=sharing) (Warren)
 
 - Ideas for Future IAB Technical Program (All)
