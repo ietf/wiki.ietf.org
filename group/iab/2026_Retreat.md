@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-09-30T23:21:06.641Z
+date: 2026-10-01T00:07:01.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -137,6 +137,7 @@ To view more phone numbers, click this link: https://tel.meet/win-aofy-rmb?hs=5
 
 #### 11:30-12:00: IAB Input to RSS Governance
 
+Slides: [ICANN GWG Root Server System Governance Framework](https://docs.google.com/presentation/d/1fpmoRTl3V_Xedd2h6Te3eIYGFREsC8uI5F511jA9t80/edit?slide=id.h7c587d02ac8b8e7d_0_0&resourcekey=0-II6aqrGct1ZBUNEv9jyMvw#slide=id.h7c587d02ac8b8e7d_0_0) (Warren)
 Context: 
 - [IAB Responds to the ICANN Public Comment on "Functional Model for Root Server System Governance](https://www.iab.org/announcements/iab-response-to-functional-model-for-root-server-system-governance/)
 - [Root Server System GWG Review](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing)
@@ -157,7 +158,7 @@ Context:
 - Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
 	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
 
-- [Improving collaboration with ICANN and coordination among ICANN appointees](https://docs.google.com/presentation/d/1hSB8UtXI2SaNGsgT-GIryH5q1MRRtdnTJeW7qksDdGI/edit?slide=id.h240dc430e1115816_28_0#slide=id.h240dc430e1115816_28_0) (Warren, Suresh)
+- [Improving collaboration with ICANN and coordination among ICANN appointees](https://docs.google.com/presentation/d/1DubNyRPgwr2_gh-G3ovOlLd5zhj3o2LliiyJFPkVhQU/edit?usp=sharing) (Warren, Suresh)
 
 - [Relationship with Linux Foundation](https://docs.google.com/presentation/d/1BTkAyw2-faFlAKVLFWZ8Y7d4VHA6ZaGa0zJvz7fRWt4/edit?usp=sharing) - should we do something? (Dhruv, Suresh)
 
