@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-10-01T03:53:38.805Z
+date: 2026-10-01T04:05:50.957Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -186,6 +186,8 @@ Context:
 - What went well? What could be better?
 - What topics were raised that would benefit from further discussion?
 - What are the next steps to move things forward, and who owns them?
+
+- [Slides](https://docs.google.com/presentation/d/1E64SePZMW3imNlM72bF4YTOtbb2g85sklZTzNhVy2PQ/edit?usp=sharing)
 
 ## Guidance
 - Please add slides (if any) to the agenda in the wiki to provide an oppurtunity for others to review in advance
