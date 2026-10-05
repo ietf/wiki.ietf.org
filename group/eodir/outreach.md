@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-10-05T03:44:29.608Z
+date: 2026-10-05T03:48:17.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -52,6 +52,7 @@ This table collects future events where the IETF outreach activities are planned
 |---|---|---|---|---|---|
 |Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants |Jen Linkova, Suresh, Yaroslav| (Jen) IPv6 talk **accepted** by the IPv6 WG |
 |Oct 2026|[ICANN87](https://meetings.icann.org/en/meetings/icann87/)|Mixed|Knowledge sharing|Warren, Roman|[How it works: The IETF](https://icann87.sched.com/event/2Wjo2/how-it-works-the-ietf)|
+|Dec 2026|[IGF 2026](https://igf2026.intgovforum.org/)|IG|supporter|Roman, Dirk, Dhruv, Yaroslav, Suresh, Alvaro, Warren|-|
 |March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Knowledge sharing |Dhruv, Jen||
 |May 2027|[RIPE94](https://www.ripe.net/meetings/calendar/ripe-94/)|Operators|Participants|Jen|Potentially collocating interims for 1-2 WGs on Monday. v6ops/6man (+ smth else?)|
 
