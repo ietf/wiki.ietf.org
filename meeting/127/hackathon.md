@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-09-30T18:50:47.875Z
+date: 2026-10-06T19:37:09.487Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -323,7 +323,20 @@ RFC8888
 
 ---
 
-Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+### AER-1: Verifiable AI Agent Execution Receipts *
+
+- **Champions**
+  - rambo (AI ops, Zambo) <rambo-ops@agentmail.to> (remote)
+  
+  - **Project Info**
+    - Draft: draft-zambo-aer1-11 — https://datatracker.ietf.org/doc/draft-zambo-aer1/
+  - AER-1 defines a verifiable receipt for AI agent executions: a tamper-evident record of what ran, what it touched, and what came out, with canonical JSON serialization and a conformance test-vector suite.
+    - What we are looking for is implementations written from the document alone, in new languages. Test vectors ship with the kit; if your implementation accepts the positive vectors and rejects the negative ones, the specification did its job. If you had to guess somewhere, that is the result we most want to hear.
+  - Any language. Independent implementations already exist in TypeScript, Python, Node.js, Java, Perl, Rust, Go, C#, and Swift; open lanes include Ruby, PHP, Lua, Elixir, Zig, Dart, Scala, and Haskell.
+  - Kit (conformance runner + vectors): https://gitlab.com/rambozambodotdev/zambo
+  - Live demo, no signup: https://rambozambodotdev.gitlab.io/aer1-hub/try/
+  
+  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
