@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-01T08:12:47.454Z
+date: 2026-10-07T20:48:59.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -21,12 +21,16 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. GWG Root Server System Governance Framework (Warren)
+### 1. IAB Open at ITEF 127
 
-Goal: 
-Context: 
+Goal: Agenda, speakers?
 
-### 2. Executive Session: Appeal Response (Mark)
+### 2. GWG Root Server System Governance Framework (Warren)
+
+### 3. Executive Session: IRTF Chair Appointment
+
+
+### 4. Executive Session: Appeal Response (Mark)
 
  
 
