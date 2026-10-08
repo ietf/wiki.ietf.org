@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-06T19:37:09.487Z
+date: 2026-10-08T04:44:12.233Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -335,7 +335,67 @@ RFC8888
   - Any language. Independent implementations already exist in TypeScript, Python, Node.js, Java, Perl, Rust, Go, C#, and Swift; open lanes include Ruby, PHP, Lua, Elixir, Zig, Dart, Scala, and Haskell.
   - Kit (conformance runner + vectors): https://gitlab.com/rambozambodotdev/zambo
   - Live demo, no signup: https://rambozambodotdev.gitlab.io/aer1-hub/try/
-  
+
+---
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Maxence Younsi (maxence.younsi4 @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
+Paolo Lucente  (paolo @ pmacct.net)
+Vivekananda Boudia (vivekananda.boudia @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Scott Huang (scohuang @ cisco.com)
+Muthumayan Madhayyan (muthu @ cisco.com)
+Deepya Mandadi (dmandadi @ blueplanet.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Irfan Mohammad (irfan @ arrcus.com)
+Per Andersson (per.ietf @ ionio.se)
+Mohamed Kheir (mkheir @ singlestore.com)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-netana-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/rfc10035
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 6 YANG-Push Publishers
+- 3 YANG-Push Receivers
+- 3 YANG-Push Network Telemetry Message
+- 2 YANG Message Broker Producer
+- 1 Schema Registry
+- 3 YANG Message Broker Consumers
+
+implementation in the area of YANG data schema validation and obtaining latest YANG-Push subscription state. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repositories**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/127/Hackathon
+https://github.com/network-analytics/yang-kafka-integration
+https://github.com/network-analytics/NetCalyx/releases/tag/v0.3.0
+https://github.com/NetGauze/NetGauze/releases/tag/v0.13.0
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v5.4.9
+
+----
+
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
