@@ -2,7 +2,7 @@
 title:  draft-cui-idr-content-filter-flowspec Shepherd Report 
 description: Shepherd  draft-cui-idr-content-filter-flowspec
 published: true
-date: 2026-10-08T15:57:47.915Z
+date: 2026-10-08T16:00:20.645Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-08T15:57:47.915Z
@@ -24,8 +24,14 @@ Needs to use filter family for IPv4 and Filter family for IPv6
 
 draft-ietf-idr-fsv2-ip-basic - used 3000 as content Filter component id. 
 
-#### Technical Change 3 - Change references to 
-draft-ietf-idr-fsv2-ip-basic. 
+#### Technical Change 3 - Change IANA section 
+to take the component assignment from draft-ietf-idr-fsv2-ip-basic
+
+### Techical Change 4 - use FSv2 references
+
+use draft-ietf-idr-fsv2-ip-basic. 
+
+
 
 
 
