@@ -2,7 +2,7 @@
 title: Shepherd Report for draft-ietf-idr-flowspec-nvo3 based on draft-ietf-idr-fsv2-ip-basic
 description: Shepherd FSv2 draft-ietf-idr-flowspec-nvo3
 published: true
-date: 2026-05-25T21:03:04.602Z
+date: 2026-10-08T15:07:11.642Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:03:04.602Z
@@ -12,7 +12,7 @@ dateCreated: 2026-05-25T21:03:04.602Z
 # draft-ietf-idr-flowspec-nvo3
 
 ## Summary
-**version:** 23
+**version:** 23 and 24 
 **Shepherd:** Susan Hares 
 **Next steps:** 
 1. Discuss on IDR list the pro/cons of New Safi (77) for FSv2 Tunnel types versus Filter Family Type 200 for AFI IPv4 (1), AFI IPv6 (2) and AFI L2 (AFI = 6). 
