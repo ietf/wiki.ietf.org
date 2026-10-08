@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-07-21T03:43:28.847Z
+date: 2026-10-08T14:43:53.117Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -24,12 +24,12 @@ dateCreated: 2025-03-16T04:26:26.597Z
 ### RFC Editor - Extended Community Action 
 - [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip) - RFC editor's queue
 
-## Pending Resubmission to IESG 
+## At IESG
 - [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy) - [10](/group/idr/Shepherd-FSv2/draft-ietf-idr-ts-flowspec-srv6-policy) **Needs -11** 
  
 ## FS actions WG drafts (deployed) - Need FSv2 section 
 - [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-06)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) - Needs 2 implementations 
-- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-path-redirect/) 
+- [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-path-redirect/) - needs new main editor
 
 
 ## WG drafts needing FSv2 rewrite   
