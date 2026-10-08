@@ -2,15 +2,15 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-09-30T14:51:48.913Z
+date: 2026-10-08T14:31:01.688Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# CANCELED Informal Telechat - October 1, 2026
+# Informal Telechat - October 15, 2026
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -44,6 +44,8 @@ Note that this page is public.
 
 
 ### Administrivia
+
+* IETF 127 Agenda Conflict Resolution! (Liz/all)
 
 ### Document Discussions
 
