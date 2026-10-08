@@ -2,7 +2,7 @@
 title: Shepherd Review for draft-ietf-idr-flowspec-srv6 - based on draft-ietf-idr-fsv2-ip-basic-06 
 description: Shepherd FSv2 drsaft-ietf-idr-flowspec-srv6
 published: true
-date: 2026-05-25T20:55:02.050Z
+date: 2026-10-08T14:49:44.371Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T20:55:02.050Z
@@ -21,13 +21,17 @@ dateCreated: 2026-05-25T20:55:02.050Z
 4. Ask for WG LC 
 
 
-## -09 review
+## -09 and -10 review
 ### Technical changes 
-#### Technical change 1 
+#### Technical change 
 Review the new allocation for the component at: 
 [IDR-wiki](/group/idr/FSv2-Alloc) 
+The assignment is in the IP Basic Filter family, and the 
+IP filter family: 256
+component id: 10 
+description: some parts of SRHv6 SID	draft-ietf-idr-flowspec-srv6
 
-If this allocation is sufficient, change the draft and implementation. 
+ Reference draft-ietf-idr-fsv2-ip-basic-08 (or later) 
 
 ### Editorial changes
 #### Edit-01 Introduction paragraph 1
