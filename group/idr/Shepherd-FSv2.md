@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-10-08T15:08:47.342Z
+date: 2026-10-08T15:23:29.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -37,8 +37,9 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) [-27](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-l2vpn/) - Needs FSv2 format with L2 Filter Family 
 - [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23 tp 24 ](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-nvo3/) - needs rewrite to FSv2 using Tunnel traffic Filter family 
 - [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) -[05](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-network-slice-ts/) 
-- [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-bgp-flowspec-label/) 
-- [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-mpls-match/)
+- [draft-ietf-idr-bgp-flowspec-label](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-flowspec-label/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-bgp-flowspec-label/) - Needs version 03 for FSv2 references,. 
+
+- [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-mpls-match/) - Needs version 03 for FSv2 MPLS filter familyi and references. 
 
 ## IDR WG Drafts related to FSv2 drafts 
 - [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
