@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-09T15:45:38.999Z
+date: 2026-10-09T18:44:10.023Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -37,6 +37,7 @@ Meeting password: 12345
 Note that this page is public.
 {.is-info}
 
+* Can we stop writing ballot texts?  (aka - does anyone actually look at them?) (Chris)
 
 
 ### Administrivia
