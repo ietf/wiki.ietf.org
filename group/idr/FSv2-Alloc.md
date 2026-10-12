@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-07-06T14:08:34.856Z
+date: 2026-10-12T13:16:11.817Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -12,91 +12,113 @@ dateCreated: 2026-05-25T17:09:54.584Z
 
 ## Filter family Types  
 ### defined in draft-ietf-idr-fsv2-ip-basic
-- 20 - Time 
-- 30 - Interface 
-- 50 - L2 Traffic rules 
-- 100 - MPLS traffic rules
-- 150 - SFC Traffic Rules 
-- 200 - Tunneled traffic 
-- 220 - APN tunnel traffic 
-- 256 - IP Basic Filter rules (bit 1 of high bit) 
-- 280 - Extended IP Filter rules (deprecated) 
-- 320 - CATS Traffic rules 
+- 200 - Time 
+- 300 - Interface 
+- 400 - L2 Traffic rules 
+- 500 - MPLS traffic rules
+- 600 - SFC Traffic Rules 
+- 700 - Queued Pair (QP) 
+- 800 - Tunneled traffic 
+- 900 - APN filters 
+- 1000 - IPv4 Basic Filter rules 
+- 1100 - IPv6 Basic Filter Rules 
+- 1200 - CATS Traffic rules 
+- 1400 - Routing 
 
 ### Time 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
-| 20  | 0 | Reserved |
-| 20  | 10 |Scheduling Time Information | [draft-zzd-idr-flowspec-path-scheduling](https://www.ietf.org/archive/id/draft-zzd-idr-flowspec-path-scheduling/)  
+| 200  | 0 | Reserved |
+| 200  | 100 |Scheduling Time Information | [draft-zzd-idr-flowspec-path-scheduling](https://www.ietf.org/archive/id/draft-zzd-idr-flowspec-path-scheduling/)  
 
 ### Interface identifier 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
-| 30  | 0 | Reserved |
-| 30  | 10 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
+| 300  | 0 | Reserved |
+| 300  | 100 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
 
 ## Filters Components for L2 Traffic Rule Family
 | Filter Family | Component | Description }   
 |---|---|---|---|
-| 50  | 0 | Reserved |
-| 50  | 10 | Ethernet Type | 
-| 50  | 20 | Source MAC    |
-| 50  | 30 | Destination MAC | 
-| 50  | 40 | DSAP in LLC | 
-| 50  | 50 | SSAP in LLC | 
-| 50  | 60 | Control field in LLC | 
-| 50  | 70 | SNAP | 
-| 50  | 80 | VLAN ID | 
-| 50  | 90 | Inner VLAN ID | 
-| 50  | 100 | Inner VLAN ID | 
-| 50  | 110 | Inner VLAN PCP | 
-| 50  | 120 | VLAN DEI | 
-| 50  | 130 | Inner VLAN DEI | 
-| 50  | 130 | Source MAC Special Bits | 
-| 50  | 140 | Destination MAC Special Bits |  
-| 50  | 4095 | reserved | 
+| 400  | 0 | Reserved |
+| 400  | 10 | Ethernet Type | 
+| 400  | 20 | Source MAC    |
+| 400  | 30 | Destination MAC | 
+| 400  | 40 | DSAP in LLC | 
+| 400  | 50 | SSAP in LLC | 
+| 400  | 60 | Control field in LLC | 
+| 400  | 70 | SNAP | 
+| 400  | 80 | VLAN ID | 
+| 400  | 90 | Inner VLAN ID | 
+| 400  | 100 | Inner VLAN ID | 
+| 400  | 110 | Inner VLAN PCP | 
+| 400  | 120 | VLAN DEI | 
+| 400  | 130 | Inner VLAN DEI | 
+| 400  | 130 | Source MAC Special Bits | 
+| 400  | 140 | Destination MAC Special Bits |  
+| 400  | 4095 | reserved | 
 {.dense}
 
 ### Filters Components for MPLS Traffic Filter Family 
  
 | Filter Family | Component | Description | document | 
 |---|---|---|---|
-| 100  | 0 | Reserved |
-| 100  | 20 | MPLS-Match 1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
-| 100  | 30 | MPLS-Match 2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
-| 100  | 4095 | reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 500  | 0 | Reserved |
+| 500  | 20 | MPLS-Match 1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
+| 500  | 30 | MPLS-Match 2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
+| 500  | 4095 | reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+
+### SFC Filter Family Component Assignments 
+### 
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 600  | 0 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 600  | 1-4094 | TBD | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+| 600  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+{.dense}
+
+ ## Tunneled Traffic Queued Pair 
+## Filter Family  
+| Filter Family | Component | Description | document | 
+|---|---|---|---|
+| 700 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 700 | 1-99 | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 700 | 100 | Destination QP |  [draft-lll-idr-flowspec-filter-qp-01.txt](https://www.ietf.org/archive/id/draft-lll-idr-flowspec-filter-qp-01.txt) | 
+| 700 | 101-4094 | Unassigned |   [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 700 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 
 ### Tunneled Traffic (NVO3) 
-### Filter Family - 200 
+### Filter Family - 800
 | Filter Family | Component | Description | document | 
 |---|---|---|---|
-| 200  | 0 | Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
-| 200  | 10 | VN ID | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 20 | Cookie | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
- | 200 | 30 | Tunnel Header Flags | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
- | 200 | 40 | L2TP Control Version | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
- | 200 | 50 | L2TP Control Connection ID | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 60 | L2TP Ns | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 70 | L2TP Nr | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 80 | Protocol Type | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 90 | GRE Sequence | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
-| 200 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 800  | 0 | Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |  
+| 800  | 10 | VN ID | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 20 | Cookie | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+ | 800 | 30 | Tunnel Header Flags | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+ | 800 | 40 | L2TP Control Version | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+ | 800 | 50 | L2TP Control Connection ID | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 60 | L2TP Ns | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 70 | L2TP Nr | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 80 | Protocol Type | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 90 | GRE Sequence | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
+| 800 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+
+
 
  ## Tunneled Traffic APN
- ## filter family 
-## Filter Family 150
+## Filter Family  
 | Filter Family | Component | Description | document | 
 |---|---|---|---|
-| 220 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 220 | 1 | APN ID | [draft-peng-idr-apn-bgp-flowspec-00.txt](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
-| 220 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 900 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 900 | 1 | APN ID | [draft-peng-idr-apn-bgp-flowspec-00.txt](https://datatracker.ietf.org/doc/draft-peng-idr-apn-bgp-flowspec/)
+| 900 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 
-### IP Basic Filter Family Components 
+### IPv4 Basic Filter Family Components 
 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
-| 256  | 0 | Reserved |
-| 256  | 10    | some parts of SRHv6 SID | [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | 
+| 1000 | 0 | Reserved |
+| 100 | 10    | some parts of SRHv6 SID | [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) | 
 | 256  | 20    | NRP ID  SRv6 Next Hop Header | [draft-ietf-idr-flowspec-network-slice-ts](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-network-slice-ts-05.txt)
 | 256  | 30   | CS ID (IPv4/IPv6) | [draft-lin-idr-cats-flowspec-ts](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt)
 | 256 |  40    | Bitwise Destination IPv4/IPv6 filter | - [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)  
