@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-10T12:24:31.730Z
+date: 2026-10-13T12:55:05.549Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -29,7 +29,7 @@ Meeting password: 12345
 
 ## Regrets
 
-
+Roman
 
 ## Agenda
 
@@ -47,12 +47,13 @@ Note that this page is public.
 * [Markdown or text](https://github.com/ietf-tools/datatracker/issues/11875) for Doc Shepherd Writeup (Med)
 * Can we stop writing ballot texts?  (aka - does anyone actually look at them?) (Chris)
 * Action to define guidance to give to directorate reviewers about tools for reviews. Chat about way forward (Cooley)
+
 ### WG News 
 
 ### Documents to Swap 
 
 ### Executive Sessions
-
+* (as needed) [Assess LC on PR-Action](https://docs.google.com/document/d/1JHNdOAxGS6zjiKms8yaCV1U0gfq_h7NDpIIJgTeRiFs/edit?tab=t.0#heading=h.d5bk3yijqm1j)
 
 ### AOB
 
