@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-10-13T19:25:52.090Z
+date: 2026-10-13T19:26:19.686Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -12,7 +12,7 @@ dateCreated: 2026-10-13T19:17:55.116Z
 
 ## IAB Breakout Room
 
-To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 126](/group/iab/Breakout126)
+To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/group/iab/Breakout127)
  
 
 
