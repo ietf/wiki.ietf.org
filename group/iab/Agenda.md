@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-09T16:18:29.147Z
+date: 2026-10-13T09:30:55.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,7 +25,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 Goal: Agenda, speakers?
 
-### 2. GWG Root Server System Governance Framework (Warren)
+### 2. GWG Root Server System Governance Framework (Warren/Dhruv)
 
 [Proposal](https://docs.google.com/document/d/1ZEStCLf2thFgVqetFttGc84CuU3UDXXvUR0kjGXtr3w/edit?usp=sharing)
 
