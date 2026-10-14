@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-10-14T10:34:26.937Z
+date: 2026-10-14T10:55:59.958Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -29,7 +29,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 200  | 0 | Reserved |
-| 200  | 100 |Scheduling Time Information | [draft-zzd-idr-flowspec-path-scheduling](https://www.ietf.org/archive/id/draft-zzd-idr-flowspec-path-scheduling/)  
+| 200  | 100 |Scheduling Time Information | [draft-zzd-idr-flowspec-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-scheduling/)
 
 ### Interface identifier 
 | Filter Family | Component | Description | document |  
