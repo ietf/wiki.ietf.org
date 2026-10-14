@@ -2,7 +2,7 @@
 title: Topics for Joint Discussion between IAB and IESG
 description: 
 published: true
-date: 2026-10-14T13:28:33.200Z
+date: 2026-10-14T13:29:03.363Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T13:16:11.019Z
@@ -25,6 +25,6 @@ dateCreated: 2026-10-11T13:16:11.019Z
   
 ---
 
-*Should we designate part of a future IAB informal as a joint IAB+IESG session?*
+*Should we designate part of a future IESG informal as a joint IAB+IESG session?*
 
 
