@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-10-06T04:22:29.244Z
+date: 2026-10-14T11:26:17.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -55,6 +55,7 @@ This table collects future events where the IETF outreach activities are planned
 |Dec 2026|[IGF 2026](https://igf2026.intgovforum.org/)|IG|supporter|Roman, Dirk, Dhruv, Yaroslav, Suresh, Alvaro, Warren|-|
 |March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Knowledge sharing |Dhruv, Jen||
 |May 2027|[RIPE94](https://www.ripe.net/meetings/calendar/ripe-94/)|Operators|Participants|Jen|Potentially collocating interims for 1-2 WGs on Monday. v6ops/6man (+ smth else?)|
+|June 2027|[NANOG100]()|Operators|Participants|Yingzhen|-|
 
 ## Outreach activities, done in the past
 
