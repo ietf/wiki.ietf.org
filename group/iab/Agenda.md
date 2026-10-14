@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-13T09:30:55.275Z
+date: 2026-10-14T02:49:33.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -24,6 +24,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 1. IAB Open at ITEF 127
 
 Goal: Agenda, speakers?
+[Wiki](https://iab.privatewikis.ietf.org/en/iabopen)
 
 ### 2. GWG Root Server System Governance Framework (Warren/Dhruv)
 
