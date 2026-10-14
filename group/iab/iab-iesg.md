@@ -2,7 +2,7 @@
 title: Topics for Joint Discussion between IAB and IESG
 description: 
 published: true
-date: 2026-10-14T13:36:00.263Z
+date: 2026-10-14T13:38:01.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T13:16:11.019Z
