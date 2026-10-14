@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-14T22:53:27.466Z
+date: 2026-10-14T23:05:38.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -56,6 +56,7 @@ Goal: Agenda, speakers?
 - Nick
 - Yaroslav
 - Warren
+- Roman
 
 ## Upcoming IAB Meetings
 
