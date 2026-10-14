@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-08T04:44:12.233Z
+date: 2026-10-14T07:37:21.389Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -217,6 +217,7 @@ RFC9768
 RFC8888
 
 ---
+
 ### 802.11 MAC Performance as a Function of Active IP Devices
 
 * **Champion**
@@ -395,6 +396,24 @@ https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
 ----
+---
+
+### SW103K Layer 2 Compression and Decompression Protocol Interop
+
+- **Champions**
+Katerega Micheal (chief3@chazahgroup.org)
+
+- **Project Info**
+SW103K is a Layer 2 compression and decompression protocol designed to enable efficient data representation for transmission and storage while preserving the ability to reconstruct the original data when required. The protocol supports diverse applications and use cases without being limited to a specific industry or deployment scenario.
+
+This Interop Event will bring together SW103K implementations and test environments to evaluate interoperability, compression and decompression correctness, data integrity, and performance under different data and operating conditions. Initial testing will focus on two use cases: bandwidth reduction during data transmission and storage reduction through compressed-data persistence, with decompression and restoration performed only when explicitly requested. Testing will measure compression efficiency, data size reduction, throughput, processing overhead, and accurate reconstruction of the original data.
+
+- **Related RFCs**
+RFC894
+RFC1122
+RFC2544
+RFC9293
+---
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
