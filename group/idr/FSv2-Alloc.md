@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-10-14T10:08:22.994Z
+date: 2026-10-14T10:34:26.937Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -197,7 +197,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
  
  
  ## Routing Information Family 
-## Filter Family -220 
+## Filter Family 1400 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 1400 | 0 |  Reserved |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
