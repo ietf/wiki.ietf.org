@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-14T04:54:49.465Z
+date: 2026-10-14T04:54:58.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -40,7 +40,7 @@ Goal: Agenda, speakers?
 - Closing of some public IAB mailing lists
 - E-vote for IAB Liaison to TDD
 - Update to IAB statement on Appeal
-- IGF workshop outreach
+- IGF workshop outreach status
 - Additional meeting a week before IETF 127 
 
 ## Regrets
