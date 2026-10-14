@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-14T08:05:37.303Z
+date: 2026-10-14T12:30:49.634Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -45,6 +45,9 @@ Goal: Agenda, speakers?
 - [Topics for future IAB+IESG discussions](https://wiki.ietf.org/group/iab/iab-iesg)
 - IETF-RIR Admin Support Group
 - Executive Session: GDC
+- ISE Survey Feedback
+- 
+
 
 ## Regrets
 
