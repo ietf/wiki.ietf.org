@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-14T05:05:59.961Z
+date: 2026-10-14T07:17:08.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -37,11 +37,12 @@ Goal: Agenda, speakers?
 
 ### Potential Additional Topic for this or future meeting
 - Quick Recap of PQ Workshop
-- Closing of some public IAB mailing lists
 - E-vote for IAB Liaison to TDD
 - Update to IAB statement on Appeal
 - IGF workshop outreach status
 - Additional meeting a week before IETF 127 
+- Closing of some public IAB mailing lists
+- [Topics for future IAB+IESG discussions](https://wiki.ietf.org/group/iab/iab-iesg)
 - Executive Session: GDC
 
 ## Regrets
