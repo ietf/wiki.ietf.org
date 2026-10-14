@@ -2,13 +2,13 @@
 title: Topics for Joint Discussion between IAB and IESG
 description: 
 published: true
-date: 2026-10-14T13:34:37.526Z
+date: 2026-10-14T13:36:00.263Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T13:16:11.019Z
 ---
 
-# Joint Topics for future IAB-IESG Discussion
+# Topics for future IAB+IESG Joint Discussion
 
 ## BoF
 - What is the boundary between shepherding a BOF and becoming a proponent?  
