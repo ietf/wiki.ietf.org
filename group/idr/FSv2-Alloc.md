@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-10-12T14:18:48.858Z
+date: 2026-10-14T10:03:37.339Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -115,7 +115,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 900 | 101-4094| Unassigned |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 | 900 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 
-### IPv4 Basic Filter Family Components 
+### IPv4/IPv6 Basic Filter Family Components 
 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
