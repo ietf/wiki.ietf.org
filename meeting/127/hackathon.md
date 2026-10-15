@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-15T08:22:24.462Z
+date: 2026-10-15T12:31:49.931Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -168,6 +168,32 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 *Note, all projects are open to everyone. However, some champions have identified their projects as being particularly good for those who are new to the IETF or new to the Hackathon. These projects are marked with a star, i.e. `*`. If you are championing a project that is great for newcomers, please add a `*` at the end of your project name.*
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/125/hackathon#projects-included-in-hackathon).
+
+----
+
+### RESTful Provisioning Protocol (RPP)
+- **Champions**
+Maarten Wullink maarten.wullink@sidn.nl
+Pawel Kowalik pawel.kowalik@denic.de
+
+- **Project Info**
+The RPP working group is focused on designing a new RESTful protocol for registering objects in a shared registry, e.g. xxTLD registries. This will result in a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
+
+- **Hackathon Plan**
+	- Discuss current drafts
+  - Validate current and future RPP work 
+  - Develop running code based on latest version of drafts
+  - Other interesting ideas
+  
+- **Related documents**
+
+- [WG Charter](https://datatracker.ietf.org/wg/rpp/about/)
+- [Requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/)
+- [Architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/)
+- [Data Object](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/)
+- [Core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
+- [JSON](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
+- [JSContact Profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/)
 
 ---
 
