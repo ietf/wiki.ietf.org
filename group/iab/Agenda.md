@@ -2,38 +2,26 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-14T23:05:38.215Z
+date: 2026-10-15T00:03:42.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-10-14, 23:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2026-10-21, 13:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-10-14
+## There WILL be a meeting on 2026-10-21
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m528a9aebaf5e52fec0a2b311c725b55e
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1bc3d1914e53b20f5b7c8c48fddafe2e
 
 
 
-### 1. IAB Open at ITEF 127
-
-Goal: Agenda, speakers?
-[Wiki](https://iab.privatewikis.ietf.org/en/iabopen)
-
-### 2. GWG Root Server System Governance Framework (Warren/Dhruv)
-
-[Proposal](https://docs.google.com/document/d/1ZEStCLf2thFgVqetFttGc84CuU3UDXXvUR0kjGXtr3w/edit?usp=sharing)
-
-### 3. Executive Session: IRTF Chair Appointment
-
-
-### 4. Executive Session: Appeal Response (Mark)
+### 1. 
 
 ### Potential Additional Topic for this or future meeting
 - Quick Recap of PQ Workshop
@@ -51,22 +39,17 @@ Goal: Agenda, speakers?
 
 ## Regrets
 
-- Dirk
-- Mathew
-- Nick
-- Yaroslav
-- Warren
-- Roman
+
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
 
-- 2026-10-14 Informal 2300-0000 UTC
 - **2026-10-21: Formal 1300-1500 UTC**
 - 2026-10-28 Informal 0600-0700 UTC
 - 2026-11-04 Informal 1400-1500 UTC
+- 2026-11-11 Informal 1400-1500 UTC (INT AD Confirmation)
 
 ### 2026-11-14 - 2026-11-20: IETF 127 
 
