@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-14T20:26:39.565Z
+date: 2026-10-15T04:37:07.316Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -44,7 +44,9 @@ Note that this page is public.
 ### Management Issues
 
 * IETF 127 Agenda Conflict Resolution! (Liz/all)
-* [Markdown or text](https://github.com/ietf-tools/datatracker/issues/11875) for Doc Shepherd Writeup (Med)
+* Writeup Updates (Med)
+	- Agreed changes echoed for [writeup](https://github.com/IETF-OPS-AD/misc/blob/main/document%20writeup%20template/2026-final-writeup-individual-documents.md) for individual submissions
+  - Formatting: (1) Have it first the way the datatracker do it now; (2) md handled as seprate issue by the team (Update from Robert)
 * Can we stop writing ballot texts?  (aka - does anyone actually look at them?) (Chris)
 * Action to define guidance to give to directorate reviewers about tools for reviews. [https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?tab=t.0#heading=h.c8txwkdgg8it] Chat about way forward (Cooley)
 * [Draft takedown request](https://docs.google.com/document/d/1akC9Firf4c2diATkzRlK46qI0uIkpYrplMNUdGEssXQ/edit?tab=t.0) 
