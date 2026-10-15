@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-10-12T05:20:13.692Z
+date: 2026-10-15T12:23:22.084Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -64,6 +64,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
+|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Returned to WG by AD| Update and coordinate with SPRING | 
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -10 posted on 2026-04-03 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -09 posted on 2026-02-20  | waiting for spring draft for WGLC |
@@ -75,6 +76,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 |draft-ietf-pce-pcep-nrp|-01 posted on 2026-07-06 | - |
 |draft-ietf-pce-sr-mpls-sid-verification | Adopted 2026-01-14| - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
+
 
 
 ## WG documents that authors consider ready for LC
@@ -119,7 +121,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- | --- |
 | [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | In Last Call (ends 2026-09-01)| - | Julien | Ketan|
 | [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | AD Evaluation::Revised I-D Needed | AD replied June 25, 2026. Way forward TBD (Experimental suggested by Dhruv, Pending on Authors since) | Andrew | Ketan |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| AD Evaluation::Revised I-D Needed| Pending on authors to update since 2026-07-16 | Yisong | Ketan |
+
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
