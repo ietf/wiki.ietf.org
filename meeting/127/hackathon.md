@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-14T09:02:34.848Z
+date: 2026-10-15T08:22:24.462Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -414,7 +414,103 @@ RFC1122
 RFC2544
 RFC9293
 ---
+### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-100833 of CVSS 9.6, CVE-2026-108265 of CVSS 9.1, CVE-2026-108266 of CVSS 9.1, CVE-2026-108267 of CVSS 9.1, CVE-2026-108268 of CVSS 9.1, CVE-2026-108269 of CVSS 9.1, CVE-2026-100835 of CVSS 9.1, CVE-2026-92701 of CVSS 9.1, CVE-2026-92702 of CVSS 9.1, CVE-2026-33697 of CVSS 7.5, and more to come 
+- **Champions**
 
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+  - Viacheslav Dubeyko
+  - Jean-Marie Jacquet
+  - Songbo Bu
+  - (Please feel free to add your name here)
+
+- **Potential collaboration with other projects/champions**
+	- TBA
+
+- **Draft vulnerable to CVEs**
+      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
+
+Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
+
+- **Project Motivation**
+   > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
+   > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
+   > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
+   > - https://thenextgentechinsider.com/pulse/critical-flaw-discovered-in-confidential-computing-attestation-protocols
+   > - https://www.securitylab.ru/news/574545.php
+   > - Russian https://www.securitylab.ru/news/574545.php
+   > - German https://www.blogspan.net/confidential-computing-attestierung-relay-luecke/
+   > - https://dailysecurityreview.com/resources/cve-2026-33697-attested-tls-relay-flaw-hits-whatsapp-cocos-ai/
+   > - Chinese https://finance.sina.cn/tech/2026-07-04/detail-inifscxt9953361.d.html
+   > - https://data4biz.com/articles/una-falla-rompe-la-fiducia-del-confidential-computing
+   > - Japanese https://blackhatnews.tokyo/archives/119915
+   > - https://www.dugganusa.com/post/confidential-computing-s-whole-pitch-is-trust-the-proof-not-the-cloud-two-years-of-formal-verifi
+   > - https://post.smzdm.com/p/a82ol990/
+   > - Russian https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - Chinese https://blog.csdn.net/weixin_42376192/category_13096766.html
+   > - https://daily.dev/posts/bad-epoll-hits-99-reliability-sharepoint-rce-under-active-exploitation-zgp0yt8lh
+   > - https://meterpreter.org/attested-tls-vulnerability-cve-2026-33697/
+   > - https://osintsights.com/confidential-computing-flaws-expose-trust-risks
+   > - https://www.boerse-express.com/news/articles/digitale-souveraenitaet-vergabebeschleunigungsgesetz-staerkt-europaeische-cloud-ab-juli-924836
+   > - Turkish: https://hardwaremania.com/haber/arastirma-attested-tls-confidential-computing-icin-zayif-kaliyor/
+   > - https://akber.com/sovereignty-in-the-cloud-is-an-illusion/
+   > - https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
+   > - German https://www.ad-hoc-news.de/wissenschaft/digitale-souveraenitaet-bundesregierung-beschliesst-34-punkte-paket/69692503
+
+
+
+- **Implementations vulnerable to CVEs**
+      - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
+      - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
+
+- **Project Background**
+   > Code under Apache-2.0 License: https://github.com/muhammad-usama-sardar/intra-handshake.fail
+   > Paper: https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS
+   > Paper: https://www.researchgate.net/publication/414529199_EarlyAttestationBleed_Three_Critical-severity_Vulnerabilities_of_CVSS_90_in_Confidential_Computing
+
+
+- **Project Info**
+
+  - 3 fundamental ways to combine attestation in TLS:
+    - Pre-handshake attestation
+    	- [Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol)
+    - Intra-handshake attestation 
+      - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
+    - Post-handshake attestation
+      - [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
+      - Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing)
+  - Complicated Hybrids (Intra-handshake attestation + Post-handshake attestation)
+      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
+      - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
+- **Hackathon plan**
+  	- Discuss the nits of [relay attacks](https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS)
+    - Discuss possible solutions
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+    - Formal evaluation of hybrid proposals in SEAT: which security property is provided by the hybrid (intra+post) proposals that is not provided only by the simple post-handshake attestation to absorb this complexity
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+
+- **Background on Attestation**
+
+	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
+  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
+      
+- **Background on Diversion Attacks**
+
+  - [Identity crisis/diversion attacks](https://www.researchgate.net/publication/398839141_Identity_Crisis_in_Confidential_Computing_Formal_Analysis_of_Attested_TLS)
+  - [Identity crisis repo](https://github.com/CCC-Attestation/formal-spec-id-crisis)
+  
+- **Background on Relay Attacks**
+  - CFRG [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-cfrg-relay-attacks-00) and [video](https://youtu.be/IfKgbO74Lt4?t=6054) at IETF 125
+  - SEAT [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-seat-security-analysis-00) and [video](https://youtu.be/hX7genEkN7w?t=676) at IETF 125
+  - Further slides and videos in this [draft](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), more specifically [here](https://www.ietf.org/archive/id/draft-intra-handshake-fail-55.html#section-19.1.1).
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
+
+
+
+
+---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
