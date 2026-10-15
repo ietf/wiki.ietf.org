@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-15T18:50:37.693Z
+date: 2026-10-15T18:53:06.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -534,6 +534,50 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
   - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
 
+### AI2II: AI-Assisted Protocol Implementation & Interoperability
+
+- **Champions**
+  - Alexander Pelov (IMT Atlantique) — alexander.pelov@imt-atlantique.fr
+  
+- ** Supporters **
+  - Marco Tiloca (RISE) — marco.tiloca@ri.se 
+  - Rikard Höglund (RISE) — rikard.hoglund@ri.se 
+
+- **Project Info**
+
+  **Bring an Internet-Draft. Build with AI. Test interoperability!**
+
+  AI2II (AI-to-Implementation-to-Interop) explores how AI coding agents can accelerate protocol implementation, verification, and interoperability testing.
+
+  The goal is pragmatic: **produce running code, test it against independent implementations, identify problems, and provide feedback to IETF draft authors.**
+
+  **What can you do?**
+  - **Port:** Take an existing implementation and its draft, and port it to another language.
+  - **Implement:** Start from an Internet-Draft and build a new implementation using AI coding agents.
+  - **Extend & Fix:** Add protocol features, discover bugs, and generate regression tests.
+  - **Interop:** Test independent implementations against each other and investigate failures.
+
+  **A framework to get started**
+
+  We bring an existing open-source multi-agent framework providing separate implementation and verification agents, automated tests, interoperability checks, and structured feedback.
+
+  The framework is a **starting point, not a prescribed methodology**. Bring your own coding agents, models, and workflows. The objective is working implementations, not promoting a particular tool.
+
+  **Learning from the experience**
+
+  Alongside the code, we aim to document the approaches used, including tools, models, workflows, successes, failures, and human interventions. These experiences will contribute to a shared **AI-Assisted Protocol Engineering Cookbook** to help the IETF community learn what works.
+
+  **Candidate experiments**
+  - **OSCORE Multicast Notifications:** Port an existing C implementation and test interoperability. ( https://github.com/apelov/coap-multicast-notifications )
+  - **ICMPv6-SEC:** Implement experimental QUIC timer adaptation and evaluate it in a high-delay network testbed. 
+  - **CORECONF / SCHC:** Generate implementations and tests for YANG/CBOR-based management.
+  - **Your own Internet-Draft or implementation!**
+
+  **Expected outcomes:** Running code, test vectors, interoperability results, bug fixes, feedback to draft authors, and reusable lessons learned.
+
+  **Good for newcomers:** Yes — examples and guidance will be available.
+
+  **Repository:** (link to be added)
 
 
 ---
