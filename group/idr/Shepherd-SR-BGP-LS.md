@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-18T22:45:05.611Z
+date: 2026-10-18T23:05:13.218Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -18,13 +18,13 @@ dateCreated: 2024-11-13T18:05:42.647Z
 Shepherd reports for each drafts are listed by draft in alphabetical order.
 Categories are: WG LC, WG drafts, adoption of individual draft, or individual draft (pre-adoption).
 
-### SR drafts at RFC editor 
+### SR-TE drafts at RFC editor 
 - [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - [(-00) to (-13)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-nrp) - Approved August 25, 2026 
 
 - [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) - Approbved 8/25 
 
 
-### Pending WG LC  
+### Pending SR-TE WG LC  
 - none requested at this time. 
 
 ### SR-TE WG drafts (alphabetical) 
