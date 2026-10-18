@@ -2,7 +2,7 @@
 title: Shepherd reports for draft-ietf-idr-sr-p2mp-policy
 description: Shepherd draft-ietf-idr-sr-p2mp-policy
 published: true
-date: 2026-07-21T08:29:39.255Z
+date: 2026-10-18T21:34:47.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:53:24.155Z
@@ -89,6 +89,15 @@ Missing: What TLVs from [RFC9012] do you support?  If it is the same list of sub
 
 This review is still in progress. 
 
+### Edictorial
+#### Editorial 1: Section 3.1.2 header
+**old:/**
+> 3.1.2. Replication segment Route Binding SID- Route type TBD 2
+{.is-info}/ 
+
+**new:** / 
+> 3.1.2. Replication segment Route Binding SID- Route type TBD2
+{.is-info}/ 
 
 ## -00 Review  
  
@@ -301,41 +310,49 @@ Please make this sentence consistent on the names.
 a) Please verify that a replacement of [draft-ietf-idr-segment-routing-te-policy]
    with [draft-ietf-idr-sr-policy-safi].
 
-b) Policy name, Policy Candidate Path Name, Preference, and 
-segment list is defined in[draft-ietf-idr-sr-policy-safi].  Please correct. 
+b) Preference is defined in[RFC9830]. Please correct. 
 
 c) What does "*Relevant only at the Root" mean? I think it means that 
-this subTLV is only vlaid for the Root node.  
+this subTLV is only vlaid for the Root node.
 
-d) Please provide a table with sub-TLVs that will be used 
+d) Text: SR P2MP-POLICY NLRI and P2MP Policy route type"
+I think this means it is the SR P2MP-POLICY NLRI with the P2MP Policy Route Type. 
+If so, please change to the following: 
+> Old text:/SR P2MP-POLICY NLRI and P2MP Policy route type/
+> New text:/SR P2MP-POLICY NLRI with the P2MP Policy route type/
+{.is-info}
+
+
+e) Please provide a list (or a table) with sub-TLVs that will be used 
    for P2MP Policy Tunnel type.  Existing sub-TLVs that you do not explicitly indicate
    can be used for this Tunnel type are invalid.  Future sub-TLVS are outside the 
    scope of this document. 
+   
+  f) remove the "Additional sub-TLVs may be defined in the future."  This is always true given IETF mechanisms. 
  
  #### Issue-17 - sections 3.2.2 and 3.2.3 
  ##### Issue-17a: Section 3.2.2 
- 
  Thank you for stating will not have any sub-TLVs. 
  
 ##### Issue-17b: Section 3.2.3 
 
-a) Policy name, Policy Candidate Path Name, Preference,  
-segment list, and weight are defined in [draft-ietf-idr-sr-policy-safi].  Please correct. 
+a) segment-list is defined in [RFC9830].  Please change 
 
 b) Please provide a table with subTLVs that will be used for replication-Segment-oif
 
-c) I have found that Tunnel-Encaps attribute abbreviation reads better to people than TEA. 
-   You do not have to change. However, you do need to provide an initial instance prior to 
-   using TEA. 
+c) remove the "Additional sub-TLVs may be defined in the future."  This is always true given IETF mechanisms. 
 
 #### Issue-18: Section 3.3.1, whole section, already defined. 
 
-Please remove the preference sub-TLV.  It is already defined. 
-You can define the use this sub-TLV has in the two tunnel types you define. 
+Replace this section with a section that indicates which previously defined subTLVs are valid for inclusion in the P2MP Policy Tunnel TLV. 
 
-#### Issue-19: Section 3.2.2 + Section 3.3.3.1  -  length calculation
+#### Issue-19: Section 3.3.2 fields in SubTLV 
 
-The calculation of length needs to include the "reserved field'.  
+a) The calculation of length needs to include the "reserved field'.  
+b) change the "unset" to set to zero.  
+c) The "remote endpoint" sub-TLV is not defined in [RFC9012].
+I think you mean The Tunnel Egress Endpoint Sub-TLV (Type Code 6) (section 3.1)
+If so, please change the text. If not, please define what you mean by "remote endpoint". 
 
 #### Issue-20: Section 3.3.3 
 
@@ -343,15 +360,23 @@ The calculation of length needs to include the "reserved field'.
 
 #### Issue-21: Section 3.3.3.1, length. 
 
+Please note that you probably want to define "Sub-SubTLV" for active-Instance-ID and      Instance-ID. 
+
 What is the length of the active instance-id?  Is it 4 octets? 
 If it is 4 octets, then the length appears to always be 5 octets.
+
+For RESERVED2: replace "unset" with "set to zero." 
+
 
 #### Issue-22: Section 3.3.3.2, length 
 
 What is the length of the instance-id?  Is it 4 octets? 
 If it is 4 octets, then the length appears to always be 5 octets.
 
-Also note: "instance-id" is incorrectly spelled in the description. 
+Also note: "Instance-ID" is incorrectly spelled in the text (Instan-ID) 
+
+For RESERVED, replace "unset" with "set to zero". 
+
 
 #### Issue-23: Section 3.4.3 
 
@@ -363,12 +388,12 @@ editorial:
 {.is-info}
 **
 > New:/**
->    Protection sub-tlv is optional. if FRR is desired for the downstream
+>    Protection sub-tlv is optional. If FRR is desired for the downstream
 >    node the Protection Sub-TLV can be used to identify the protection segment
 >    list. / 
 {.is-info}
 
-**Confusing:**
+**Confusing:** -
 >   / A protection segment
 >    list can not have a weight sub-tlv and it can not participate in
 >    ECMP.  That said a segment list that is being protected can have a
@@ -376,10 +401,10 @@ editorial:
 {.is-info}
 
    
-This seems to be contradictory.  What am i missing. 
+The current and confusing text seem to be contradictory.  What am I missing? 
 
 **Flags: ** All flags not defined in the flag, should be set to zero upon transmission 
-and ignored upon reception.  
+and ignored upon reception.  The only flag that is defined is the P flag. 
 
 #### Issue-24: Section 3.4.4 Segment Sub-TLV 
 
@@ -392,9 +417,11 @@ Old text:/**
 **{.is-info}
 
 New text:/**
-   *  If the replication segment is steered via IPv4 or IPv6 nexthops or
-      interface then the segment type E or G [draft-ietf-idr-sr-segtypes-ext]
-	  can be used with the new R flag set./ 
+>     If the replication segment is steered via IPv4 or IPv6 nexthops or
+>       interface then the segment type E or G [RFC9830][RFC9831]
+> 	  can be used with the new R flag set./ 
+{.is-info}
+
 
 **old text (unclear) /**
 >    The SR node/adjacency or binding
@@ -425,21 +452,8 @@ New text:/**
 {.is-info}
 
 
-#### Issue-25: Section 4, replace draft-ietf-idr-segment-routing-te-policy with [draft-ietf-idr-sr-policy-safi]. 
 
-**old-text:**
->    /Inline with [draft-ietf-idr-segment-routing-te-policy] the consumer
->    of an P2MP Policy is not the BGP process. /
-{.is-info}
-**
-new text:**
->    /Similar to [draft-ietf-idr-sr-policy-safi] usage, the consumer
->    of an P2MP Policy is not the BGP process. /
-> 
-{.is-info}
-
-
-#### Issue-26: Section 4.1, paragraph 1, 3rd sentence, editorial (I hope) 
+#### Issue-25: Section 4.1, paragraph 1, 3rd sentence, editorial (I hope) 
 **
 old text:**
 >    / Each route 
@@ -459,12 +473,14 @@ old text:**
 {.is-info}
 
 
-#### Issue-27: This document needs a manageability section 
+#### Issue-26: This document needs a manageability section 
 
 #### Issue-28: This document needs a security section.
 
 Please see the security section in [draft-ietf-idr-sr-policy-safi]
 as na example.
  
- 
+#### Issue-29: This document needs a revised IANA section 
+
+Please examine [RFC9830] for an example format.  Or ask me questions, if you need help. 
  
