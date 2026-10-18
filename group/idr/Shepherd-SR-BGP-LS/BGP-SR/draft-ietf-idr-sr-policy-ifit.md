@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-ift Shepherd Reports 
 description: Shepherd report for draft-ietf-idr-sr-policy-ift
 published: true
-date: 2026-10-18T22:10:24.101Z
+date: 2026-10-18T22:17:37.621Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T20:42:40.669Z
@@ -122,6 +122,17 @@ Change:/
    The error handling actions are also described in [RFC9830]. A BGP 
    Speaker MUST perform the syntactic validation of the SR Policy
    NLRI to determine if it is malformed, including the TLVs/sub-TLVs.
+
+#### Technical issue 9, please add appendix with cross-WG information 
+
+Please add an appendix to the end of the document summarizing the following: 
+
+1) IFIT documents 
+2) Spring documents support the inclusion of IFIT 
+3) OPS area document supporting the IFIT 
+4) PCE documents referenced 
+
+Your text provides enough to request allocation. The addition of the appendix is to provide a quick reference for Area Directors, cross-area review (OPSdir, RTGdir, Secdir)  and IANA expert reviewers,
 
 
 ## Revision -11 Shepherd's review 
