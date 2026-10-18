@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-18T20:51:05.733Z
+date: 2026-10-18T20:54:00.794Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -465,7 +465,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-100835
 > 
-> {{CVE-2026-100835}}
 > 
 > - [Threat radar](https://radar.offseq.com/threat/contrast-before-1160-is-susceptible-to-remote-attestation-relay-attacks-cve-2026-100835-3833ee713219f7e3)
 > - [vulnfeed](https://buttondown.com/vulnfeed/archive/vulnfeed-2-critical-cves-2026-09-27-0400-utc/)
@@ -475,7 +474,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108362
 > 
-> {{CVE-2026-108362}}
 > 
 > - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-11-0-fixes/)
 > - [firewallchronicle](https://firewallchronicle.com/topic/vulnerabilities/privasys-ra-tls-clients-identity-validation-flaw/)
@@ -484,7 +482,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108265
 > 
-> {{CVE-2026-108265}}
 > 
 > - [circuitobserver](https://circuitobserver.com/section/vulnerabilities/9-1-cve-allows-relay-attack-on-privasys-enclave/)
 > - [techwirebeat](https://techwirebeat.com/topic/vulnerabilities/organisations-at-risk-privasys-sgx-apps-face/)
@@ -492,7 +489,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108266
 > 
-> {{CVE-2026-108266}}
 > 
 > - [honeypotdaily](https://honeypotdaily.com/category/vulnerabilities/can-attackers-impersonate-privasys-rustls/)
 > - [techsecobserver](https://techsecobserver.com/section/vulnerabilities/privasys-rustls-v0-8-1-patches-cve-2026-108266-to/)
@@ -502,7 +498,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108267
 > 
-> {{CVE-2026-108267}}
 > 
 > 
 > - [vectorupdate](https://vectorupdate.com/news/vulnerabilities/update-privasys-go-to-v0-5-1-to-stop-attackers/)
@@ -512,7 +507,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108268
 > 
-> {{CVE-2026-108268}}
 > 
 > - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-enclave-os-tls-quote-relay-bug-bypasses/)
 > - [malwarechronicle](https://malwarechronicle.com/category/vulnerabilities/update-privasys-enclave-os-now-to-block-critical/)
@@ -521,7 +515,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > ### CVE-2026-108269
 > 
-> {{CVE-2026-108269}}
 > 
 > - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
 > - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-ra-tls-relay-flaw-bypasses-security-in/)
@@ -531,9 +524,9 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
 > - [redteamlog](https://redteamlog.com/category/vulnerabilities/privasys-ra-tls-fixes-enclave-session-binding/)
 > 
+
+
 > ## EarlyAttestationBleed
-> 
-> {{EarlyAttestationBleed}}
 > 
 > - [Freenode](https://freenode.net/article/early-attestation-bugs-crack-cocos-ai-and-contrast-tls-claims)
 > - (German) [Cybersecurity news (CVE-2026-92701)](https://cybersecurity-news.de/cve-2026-92701-trusted-execution-environments-0-8-2/)
@@ -562,7 +555,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [The Hacker wire](https://www.thehackerwire.com/vulnerability/CVE-2026-100833/)
 > - [CVE Brief](https://cvebrief.com/cve/cve-2026-100833/)
 
-
+> ## Intra-handshake.fail
    > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
    > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
    > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
