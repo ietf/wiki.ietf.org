@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-15T18:53:31.470Z
+date: 2026-10-18T20:51:05.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -440,7 +440,7 @@ RFC1122
 RFC2544
 RFC9293
 ---
-### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-100833 of CVSS 9.6, CVE-2026-108265 of CVSS 9.1, CVE-2026-108266 of CVSS 9.1, CVE-2026-108267 of CVSS 9.1, CVE-2026-108268 of CVSS 9.1, CVE-2026-108269 of CVSS 9.1, CVE-2026-100835 of CVSS 9.1, CVE-2026-92701 of CVSS 9.1, CVE-2026-92702 of CVSS 9.1, CVE-2026-33697 of CVSS 7.5, and more to come 
+### EarlyAttestationBleed, EarlyAttestationTschüss (EAT), Intra-handshake.fail, Identity Crisis in Confidential Computing and co: CVE-2026-100833 of CVSS 9.6, CVE-2026-108265 of CVSS 9.1, CVE-2026-108266 of CVSS 9.1, CVE-2026-108267 of CVSS 9.1, CVE-2026-108268 of CVSS 9.1, CVE-2026-108269 of CVSS 9.1, CVE-2026-100835 of CVSS 9.1, CVE-2026-92701 of CVSS 9.1, CVE-2026-92702 of CVSS 9.1, CVE-2026-108362 of CVSS 9.1, CVE-2026-33697 of CVSS 7.5, CVE-2026-108361 of CVSS 7.2, and 29+ other CVEs of up to expected CVSS 10.0 upcoming 
 - **Champions**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
@@ -458,6 +458,111 @@ RFC9293
 Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
 
 - **Project Motivation**
+
+> ## EarlyAttestationTschüss (EAT)
+> 
+> - [al-ice.ai](https://al-ice.ai/posts/2026/10/privasys-ra-tls-five-cves-channel-binding-self-disclosure/)
+> 
+> ### CVE-2026-100835
+> 
+> {{CVE-2026-100835}}
+> 
+> - [Threat radar](https://radar.offseq.com/threat/contrast-before-1160-is-susceptible-to-remote-attestation-relay-attacks-cve-2026-100835-3833ee713219f7e3)
+> - [vulnfeed](https://buttondown.com/vulnfeed/archive/vulnfeed-2-critical-cves-2026-09-27-0400-utc/)
+> - [ervik](https://www.ervik.as/cves/CVE-2026-100835)
+> - [securityvulnerability.io](https://securityvulnerability.io/vulnerability/CVE-2026-100835)
+> - CIRCL's [vulnerability](https://vulnerability.circl.lu/vuln/cve-2026-100835)
+> 
+> ### CVE-2026-108362
+> 
+> {{CVE-2026-108362}}
+> 
+> - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-11-0-fixes/)
+> - [firewallchronicle](https://firewallchronicle.com/topic/vulnerabilities/privasys-ra-tls-clients-identity-validation-flaw/)
+> - [Apple podcase](https://podcasts.apple.com/pl/podcast/top-vulnerabilidades-cr%C3%ADticas-13-10-2026/id1877409819?i=1000796060867&l=pl)
+> - [Phish Herald](https://phishherald.com/topic/vulnerabilities/orgs-face-impersonation-risk-privasys-ra-tls/)
+> 
+> ### CVE-2026-108265
+> 
+> {{CVE-2026-108265}}
+> 
+> - [circuitobserver](https://circuitobserver.com/section/vulnerabilities/9-1-cve-allows-relay-attack-on-privasys-enclave/)
+> - [techwirebeat](https://techwirebeat.com/topic/vulnerabilities/organisations-at-risk-privasys-sgx-apps-face/)
+> - [acidpeak](https://www.acidpeak.com/product/privasys-enclave-os-mini/)
+> 
+> ### CVE-2026-108266
+> 
+> {{CVE-2026-108266}}
+> 
+> - [honeypotdaily](https://honeypotdaily.com/category/vulnerabilities/can-attackers-impersonate-privasys-rustls/)
+> - [techsecobserver](https://techsecobserver.com/section/vulnerabilities/privasys-rustls-v0-8-1-patches-cve-2026-108266-to/)
+> - [techsecheadlines](https://techsecheadlines.com/section/vulnerabilities/privasys-rustls-ra-tls-binding-flaw-cve-2026/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/orgs-at-risk-critical-privasys-rustls-bug/)
+> - [datasaferadar](https://datasaferadar.com/section/vulnerabilities/privasys-rustls-quote-relay-flaw-bypasses/)
+> 
+> ### CVE-2026-108267
+> 
+> {{CVE-2026-108267}}
+> 
+> 
+> - [vectorupdate](https://vectorupdate.com/news/vulnerabilities/update-privasys-go-to-v0-5-1-to-stop-attackers/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/privasys-go-flaw-lets-attackers-relay-attestation/)
+> - [redteamtribune](https://redteamtribune.com/topic/vulnerabilities/privasys-go-quote-relay-bug-bypasses-attestation/)
+> - [darkwebdispatch](https://darkwebdispatch.com/topic/vulnerabilities/patch-privasys-go-before-v0-5-1-to-block-critical/)
+> 
+> ### CVE-2026-108268
+> 
+> {{CVE-2026-108268}}
+> 
+> - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-enclave-os-tls-quote-relay-bug-bypasses/)
+> - [malwarechronicle](https://malwarechronicle.com/category/vulnerabilities/update-privasys-enclave-os-now-to-block-critical/)
+> - [avd](https://avd.aliyun.com/detail?id=AVD-2026-108268)
+> - [bitshieldnews](https://bitshieldnews.com/section/vulnerabilities/9-1-cvss-privasys-enclave-os-critical-flaw/)
+> 
+> ### CVE-2026-108269
+> 
+> {{CVE-2026-108269}}
+> 
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
+> - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-ra-tls-relay-flaw-bypasses-security-in/)
+> - [netsecobserver](https://netsecobserver.com/news/vulnerabilities/privasys-ra-tls-critical-relay-vulnerability/)
+> - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-5-0-vulnerable/)
+> - [sandboxgazette](https://sandboxgazette.com/c/vulnerabilities/how-privasys-ra-tls-clients-let-attackers-spoof/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
+> - [redteamlog](https://redteamlog.com/category/vulnerabilities/privasys-ra-tls-fixes-enclave-session-binding/)
+> 
+> ## EarlyAttestationBleed
+> 
+> {{EarlyAttestationBleed}}
+> 
+> - [Freenode](https://freenode.net/article/early-attestation-bugs-crack-cocos-ai-and-contrast-tls-claims)
+> - (German) [Cybersecurity news (CVE-2026-92701)](https://cybersecurity-news.de/cve-2026-92701-trusted-execution-environments-0-8-2/)
+> - (German) [Cybersecurity news (CVE-2026-92702)](https://cybersecurity-news.de/cve-2026-92702-cocos-ai-0-8-2/)
+> - (Chinese) [Security 114](https://www.anquan114.com/archives/7429)
+> - (Chinese) [KK says security](https://mp.weixin.qq.com/s/31Glxqr6ofHylTyrtNsuaQ)
+> - (Chinese) [Safe Meow Station](mp.weixin.qq.com/s/REtESPngXemSro0hjIZyxw)
+> - (Chinese) [Digital World Information](https://mp.weixin.qq.com/s/864dwIXF5IY04q7ig4uBwg)
+> - (Chinese) [Shusei Consulting](https://mp.weixin.qq.com/s/864dwIXF5IY04q7ig4uBwg)
+> - [Freenode 518](https://freenode.net/digest/518)
+> - [Freenode 571](https://freenode.net/digest/571)
+> - [Flashbots](https://collective.flashbots.net/t/earlyattestationbleed-paper-review/6054)
+> - (Japanese) [Rich & Wise with Socrates and Plato](https://www.rich-wise.co.jp/cve-info/cve-2026-92701-intel-tdx%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%AB%E3%82%88%E3%82%8A%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96%E3%82%92%E8%AC%9B%E3%81%98%E3%82%8B/)
+> - [OpenCVE (CVE-2026-92701)](https://app.opencve.io/cve/CVE-2026-92701)
+> - [OpenCVE (CVE-2026-92702)](https://app.opencve.io/cve/CVE-2026-92702)
+> - CIRCL's [vulnerability.circl.lu (CVE-2026-92701)](https://vulnerability.circl.lu/vuln/CVE-2026-92701)
+> - CIRCL's [vulnerability.circl.lu (CVE-2026-92702)](https://vulnerability.circl.lu/vuln/CVE-2026-92702)
+> - GCVE's [db.gcve.eu (CVE-2026-92701)](https://db.gcve.eu/vuln/cve-2026-92701)
+> - GCVE's [db.gcve.eu (CVE-2026-92702)](https://db.gcve.eu/vuln/cve-2026-92702)
+> 
+> ### CVE-2026-100833
+> 
+> - [America's Cyber Defense Agency (CISA)](https://www.cisa.gov/news-events/bulletins/sb26-271)
+> - [Alan Turing Institute](https://github.com/alan-turing-institute/cyber-threat-observatory/blob/main/reports/2026-09-27/TIER_3_CVE-2026-100833.md)
+> - [Offseq](https://radar.offseq.com/threat/contrast-edgelesssyscontrast-versions-1140-before-1231-generate-runtime-policies-that-fail-to-detect-d602b2a9f5df6321)
+> - [The Hacker wire](https://www.thehackerwire.com/vulnerability/CVE-2026-100833/)
+> - [CVE Brief](https://cvebrief.com/cve/cve-2026-100833/)
+
+
    > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
    > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
    > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
