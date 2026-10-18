@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-metric
 description: Shepherd draft-ietf-idr-sr-policy-metric
 published: true
-date: 2026-10-18T22:25:58.871Z
+date: 2026-10-18T22:28:25.312Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T21:07:32.555Z
@@ -18,9 +18,9 @@ dateCreated: 2025-02-24T21:07:32.555Z
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -04, Needs -05 
 **Early Allocation**: 20 [wiki Early Allocation](/group/idr/Early-Allocation-Status), needs early allocation.  Call awaits -04 version with Issues fixed (Technical and Editorial)  
-**implementations:** TBD  
+**implementations:** Cisco and Huawei (?) 
 **bgp-ls draft:** none 
-**Next step:** 2 implementations, add a cross-Wg appendix for WG LC reviews 
+**Next step:** 2 implementations add a cross-Wg appendix for WG LC reviews 
 
 ## -05 Review 
 ### Technical Issue  
