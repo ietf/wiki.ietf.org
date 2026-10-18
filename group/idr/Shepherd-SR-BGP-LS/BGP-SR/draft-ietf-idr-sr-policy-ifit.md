@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-ift Shepherd Reports 
 description: Shepherd report for draft-ietf-idr-sr-policy-ift
 published: true
-date: 2026-10-18T22:17:37.621Z
+date: 2026-10-18T22:18:44.093Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T20:42:40.669Z
@@ -15,6 +15,7 @@ version: -13
 implementations: none 
 status: WG draft
 Shepherd: Susan Hares (sharesa@ndzh.com)
+Summary: -13 was a good improvement.  We just need a few more improvement prior to ealry allocation. 
 
 ## Revision - 13 Shepherd's review 
 ### Technical issues in -13
