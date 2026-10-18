@@ -2,15 +2,19 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-18T22:42:26.205Z
+date: 2026-10-18T22:45:05.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
 ---
 
-# Reviews for IDR drafts for SR and BGP-LS 
+# Reviews for IDR drafts for SR, SR-TE and BGP-LS 
 
-## SR draft
+## SR drafts 
+### SR WG drafts 
+- [draft-ietf-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) -  Approved waiting upload 
+
+## SR-TE drafts
 Shepherd reports for each drafts are listed by draft in alphabetical order.
 Categories are: WG LC, WG drafts, adoption of individual draft, or individual draft (pre-adoption).
 
@@ -20,10 +24,10 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 - [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - [(-00) to (-11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-seglist-id/) - Approbved 8/25 
 
 
-### Pedning WG LC  
+### Pending WG LC  
 - none requested at this time. 
 
-### SR WG drafts (alphabetical) 
+### SR-TE WG drafts (alphabetical) 
 
 - [draft-ietf-idr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp/) - (-00) to 01](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp) - Needs 2 implementation + cross-WG section  
 
@@ -39,9 +43,10 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr) -  **Needs** 2 implementations + implementation report + Cross-WG sction 
 
-### SR drafts in adoption call 
+### SR-TE drafts in adoption call 
+none 
 
-### SR Pre-Adoption Drafts 
+### SR-TE Pre-Adoption Drafts 
 
 - [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - **Needs -05** to resolve issues prior to adoption  
 
@@ -64,9 +69,9 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-zzd-idr-sr-policy-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling/)  - [(-03) tp (-10)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zzd-idr-sr-policy-scheduling/) - **Need -11 and discussion** 
 
-## Changes to BGP prefix Attribute 
+## SR drafts 
 
-- [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) - **pending review of -00** 
+- [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) -  
 
 ## BGP-LS 
 Shepherd reports for each drafts are listed by draft in alphabetical order. 
