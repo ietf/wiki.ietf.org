@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-18T20:54:00.794Z
+date: 2026-10-18T20:56:16.059Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -459,11 +459,11 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
 - **Project Motivation**
 
-> ## EarlyAttestationTschüss (EAT)
+> #### EarlyAttestationTschüss (EAT)
 > 
 > - [al-ice.ai](https://al-ice.ai/posts/2026/10/privasys-ra-tls-five-cves-channel-binding-self-disclosure/)
 > 
-> ### CVE-2026-100835
+> ##### CVE-2026-100835
 > 
 > 
 > - [Threat radar](https://radar.offseq.com/threat/contrast-before-1160-is-susceptible-to-remote-attestation-relay-attacks-cve-2026-100835-3833ee713219f7e3)
@@ -472,7 +472,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [securityvulnerability.io](https://securityvulnerability.io/vulnerability/CVE-2026-100835)
 > - CIRCL's [vulnerability](https://vulnerability.circl.lu/vuln/cve-2026-100835)
 > 
-> ### CVE-2026-108362
+> ##### CVE-2026-108362
 > 
 > 
 > - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-11-0-fixes/)
@@ -480,14 +480,14 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [Apple podcase](https://podcasts.apple.com/pl/podcast/top-vulnerabilidades-cr%C3%ADticas-13-10-2026/id1877409819?i=1000796060867&l=pl)
 > - [Phish Herald](https://phishherald.com/topic/vulnerabilities/orgs-face-impersonation-risk-privasys-ra-tls/)
 > 
-> ### CVE-2026-108265
+> ##### CVE-2026-108265
 > 
 > 
 > - [circuitobserver](https://circuitobserver.com/section/vulnerabilities/9-1-cve-allows-relay-attack-on-privasys-enclave/)
 > - [techwirebeat](https://techwirebeat.com/topic/vulnerabilities/organisations-at-risk-privasys-sgx-apps-face/)
 > - [acidpeak](https://www.acidpeak.com/product/privasys-enclave-os-mini/)
 > 
-> ### CVE-2026-108266
+> ##### CVE-2026-108266
 > 
 > 
 > - [honeypotdaily](https://honeypotdaily.com/category/vulnerabilities/can-attackers-impersonate-privasys-rustls/)
@@ -496,7 +496,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/orgs-at-risk-critical-privasys-rustls-bug/)
 > - [datasaferadar](https://datasaferadar.com/section/vulnerabilities/privasys-rustls-quote-relay-flaw-bypasses/)
 > 
-> ### CVE-2026-108267
+> ##### CVE-2026-108267
 > 
 > 
 > 
@@ -505,7 +505,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [redteamtribune](https://redteamtribune.com/topic/vulnerabilities/privasys-go-quote-relay-bug-bypasses-attestation/)
 > - [darkwebdispatch](https://darkwebdispatch.com/topic/vulnerabilities/patch-privasys-go-before-v0-5-1-to-block-critical/)
 > 
-> ### CVE-2026-108268
+> ##### CVE-2026-108268
 > 
 > 
 > - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-enclave-os-tls-quote-relay-bug-bypasses/)
@@ -513,7 +513,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [avd](https://avd.aliyun.com/detail?id=AVD-2026-108268)
 > - [bitshieldnews](https://bitshieldnews.com/section/vulnerabilities/9-1-cvss-privasys-enclave-os-critical-flaw/)
 > 
-> ### CVE-2026-108269
+> ##### CVE-2026-108269
 > 
 > 
 > - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
@@ -526,7 +526,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 
 
-> ## EarlyAttestationBleed
+> #### EarlyAttestationBleed
 > 
 > - [Freenode](https://freenode.net/article/early-attestation-bugs-crack-cocos-ai-and-contrast-tls-claims)
 > - (German) [Cybersecurity news (CVE-2026-92701)](https://cybersecurity-news.de/cve-2026-92701-trusted-execution-environments-0-8-2/)
@@ -547,7 +547,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - GCVE's [db.gcve.eu (CVE-2026-92701)](https://db.gcve.eu/vuln/cve-2026-92701)
 > - GCVE's [db.gcve.eu (CVE-2026-92702)](https://db.gcve.eu/vuln/cve-2026-92702)
 > 
-> ### CVE-2026-100833
+> ##### CVE-2026-100833
 > 
 > - [America's Cyber Defense Agency (CISA)](https://www.cisa.gov/news-events/bulletins/sb26-271)
 > - [Alan Turing Institute](https://github.com/alan-turing-institute/cyber-threat-observatory/blob/main/reports/2026-09-27/TIER_3_CVE-2026-100833.md)
@@ -555,7 +555,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - [The Hacker wire](https://www.thehackerwire.com/vulnerability/CVE-2026-100833/)
 > - [CVE Brief](https://cvebrief.com/cve/cve-2026-100833/)
 
-> ## Intra-handshake.fail
+> #### Intra-handshake.fail
    > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
    > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
    > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
