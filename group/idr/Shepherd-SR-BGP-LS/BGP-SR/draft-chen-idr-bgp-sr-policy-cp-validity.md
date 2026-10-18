@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2026-10-18T23:25:28.810Z
+date: 2026-10-18T23:26:15.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -15,8 +15,8 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
 **call for adoption:** authors feel ready, needs revision (-04) + Check for Spring  
-**current version:** 04, Needs -05   
-**spring document**: draft-chen-spring-sr-policy-cp-validity 
+**current version:** 04, Needs -06  
+**spring document**: draft-ietf-spring-sr-policy-cp-validity 
 **Early Allocation**: needs early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
