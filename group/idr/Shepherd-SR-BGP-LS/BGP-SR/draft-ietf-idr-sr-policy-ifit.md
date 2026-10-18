@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-ift Shepherd Reports 
 description: Shepherd report for draft-ietf-idr-sr-policy-ift
 published: true
-date: 2026-03-16T22:10:39.951Z
+date: 2026-10-18T22:10:24.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T20:42:40.669Z
@@ -11,10 +11,117 @@ dateCreated: 2026-01-05T20:42:40.669Z
 # Shepherd Report for draft-ietf-idr-sr-policy-ifit
 
 draft: [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit/)
-version: -11
+version: -13
 implementations: none 
 status: WG draft
 Shepherd: Susan Hares (sharesa@ndzh.com)
+
+## Revision - 13 Shepherd's review 
+### Technical issues in -13
+#### Technical issue 1, section 4, Text need changes 
+
+current text:/
+>    As defined in [RFC9830], a new SAFI is defined (the SR Policy SAFI
+>    with codepoint 73) as well as a new NLRI./ 
+{.is-info}
+
+new text:/ 
+>    [RFC9830], defines the SR Policy SAFI (73) and the NLRI format./ 
+{.is-info}
+
+**current text:/ **
+>    The NLRI contains the SR
+>    Policy candidate path and, according to [RFC9830], the content of the
+>    SR Policy Candidate Path is encoded in the Tunnel Encapsulation
+>    Attribute defined in [RFC9012] using a new Tunnel-Type called SR
+>    Policy Type with codepoint 15. /
+{.is-info}
+
+
+**New text:/**
+>    [RFC930] associates this NLRI with the SR Policy Candidate Path 
+>    encoded in the Tunnel Encapsulation Attribute defined in [RFC9012] 
+>    using a new Tunnel-Type called SR Policy TLV./ 
+{.is-info}
+
+#### Technical issues 2, Section 5 IFIT SubTLV defines sub-SubTLVs 
+
+You define the following Sub-SubTLVS, please adjust the naming in your text:  
+-       * IOAM Pre-allocated Trace Option Sub-TLV (TBD3) 
+-       * IOAM Incremental Trace Option Sub-TLV (TBD4) 
+-       * IOAM Directly Export Option Sub-TLV (TBD5) 
+-       * IOAM Edge-to-Edge Option Sub-TLV (TBD6) 
+-       * Enhanced Alternate Marking (EAM) sub-TLV (TBD7) 
+
+#### Technical issues 3, Section 5.1 
+
+**replace** 
+> /5.1.  IOAM Pre-allocated Trace Option SubTLV/
+{.is-info}
+
+**with**
+> /5.1  IOAM Pre-allocated Trace Option sub-SubTLV/ 
+{.is-info}
+
+#### Technical issues 4, Section 5.2
+
+**replace** 
+> /5.2 IOAM Incremental Trace Option Sub-TLV/ 
+{.is-info}
+
+**with**
+> /5.2 IOAM Incremental Trace Option sub-SubTLV/ 
+{.is-info}
+
+#### Technical issues 5, Section 5.3
+**replace** 
+> /5.2 IOAM Incremental Trace Option Sub-TLV/ 
+{.is-info}
+
+**with**
+> /5.2 IOAM Incremental Trace Option sub-SubTLV/ 
+{.is-info}
+
+Change:
+> / All the other fields definition is the same as the pre-allocated
+>    trace option sub-TLV in section 5.1./
+{.is-info}
+
+to:    
+> / All the other fields definition **are** the same as the pre-allocated
+>    trace option sub-TLV in section 5.1./
+{.is-info}
+
+#### Technical issues 6, Section 5.4
+
+**Change:/**
+> 5.4.  IOAM Edge-to-Edge Option Sub-TLV/ 
+{.is-info}
+
+**to: /**
+> 5.4.  IOAM Edge-to-Edge Option sub-SubTLV/
+{.is-info}
+
+#### Technical issues 7, Section 5.6
+
+**Change:/**
+> 5.5.  Enhanced Alternate Marking (EAM) sub-TLV/ 
+{.is-info}
+
+**to: /**
+> 5.5.  Enhanced Alternate Marking (EAM) sub-SubTLV/ 
+{.is-info}
+
+#### Technical issues 8, Section 6
+
+Change:/
+   The error handling actions are also described in [RFC9830],indeed a
+   BGP Speaker MUST perform the syntactic validation of the SR Policy
+   NLRI to determine if it is malformed, including the TLVs/sub-TLVs./
+ New text:/
+   The error handling actions are also described in [RFC9830]. A BGP 
+   Speaker MUST perform the syntactic validation of the SR Policy
+   NLRI to determine if it is malformed, including the TLVs/sub-TLVs.
 
 
 ## Revision -11 Shepherd's review 
