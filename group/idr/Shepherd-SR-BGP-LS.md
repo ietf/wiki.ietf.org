@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-18T22:23:20.238Z
+date: 2026-10-18T22:31:16.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -31,11 +31,12 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) -  [(-00 - 11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-ifit) - **Needs -14** prior to Early allocation. 
 
-- [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - [(-00) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-metric) - **Needs** 2 implementations 
+- [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - [(-00) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-metric) - **Needs** 2 implementations + Cross-WG section 
 
-- [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - [(-09) to (-15)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu) - **Needs** 2 implementations 
+- [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - [(-09) to (-15)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu) - **Needs** 2 implementations + Cross-WG section 
 
 - [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - [(-11) to (-15)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment)   
+
 - [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr)  - **In Early Allocation Call** 
 
 
