@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 description: Shepherd draft-lin-idr-srv6-policy-headend-behavior
 published: true
-date: 2026-10-19T00:45:13.552Z
+date: 2026-10-19T00:47:53.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:11:15.843Z
@@ -15,9 +15,9 @@ dateCreated: 2025-02-25T23:11:15.843Z
 **Type:** Proposed Standard 
 **status:** Individual Draft, expired (11/6/2024) 
 **adoption Call:** TBD 
-**current version:** 05
+**current version:** 06, Needs -07 
 **Early Allocation**: needs early allocation after adoption. 
-**implementations:**  
+**implementations:**  TBD 
 **bgp-ls draft:** none
 
 ## Review -06: 
