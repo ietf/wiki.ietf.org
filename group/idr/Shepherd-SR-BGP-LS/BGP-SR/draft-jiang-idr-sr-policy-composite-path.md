@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-jiang-idr-sr-policy-composite-path
 description: Shepherd draft-jiang-idr-sr-policy-composite-path
 published: true
-date: 2026-10-19T00:00:30.234Z
+date: 2026-10-19T00:03:08.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T15:20:31.757Z
@@ -73,12 +73,10 @@ text in documnent:
 >    [RFC9830] can apply to this document directly.
 {.is-info}
 
+I remain unconvinced that the technology as stated in the document fits this discussion. You need to comment on the update frequency in a manageability section. In our private discussions, we have discussed that the composite will only change at the rate of BGP configuration or BGP updates, rather than inheriting a faster rate.
 
-I remain unconvinced that the technology as stated in the document fits this discussion.  You need to make some comment about the frequency of updates in a manageability section. 
+Without a manageability section that at least discusses the expected update rate for composite versus explicit paths, this document is incomplete. You may state in the manageability section that explicit and composite paths will be transmitted at the same rate.
 
-In our private discussions, we have talked about the fact that the composite will only change at the rate of BGP configuration or BGP updates -rather than inheriting a faster rate.  
-
-Without a manageability section that at least discusses the expected rate of updates that composite versus explicit paths will involve, this document is incomplete.  You may state in the manageability section that explicit and composite paths will be transmitted at the same rate. 
 
 #### Technical issues #6, Cross-WG appendix 
 
