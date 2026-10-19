@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-18T23:37:25.170Z
+date: 2026-10-19T00:15:30.599Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -33,13 +33,16 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 - [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-p2mp-policy) - **Needs -02** with revisions and a cross-WG section prior to early allocation. 
 
-- [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) -  [(-00 - 11)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-ifit) - **Needs -14** prior to Early allocation. 
+- [draft-ietf-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-admin-flags/) - [00](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-admin-flag)
+
+- [draft-ietf-idr-sr-policy-ifit](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit) -  [(-00 - 14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-ifit) - **Needs -14** prior to Early allocation. 
 
 - [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - [(-00) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-metric) - **Needs** 2 implementations + Cross-WG section 
 
 - [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - [(-09) to (-15)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu) - **Needs** 2 implementations + Cross-WG section 
 
 - [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - [(-11) to (-16)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment)  - **Needs** 2 implementations + Cross-WG section 
+
 
 - [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - [(-00) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-te-policy-attr) -  **Needs** 2 implementations + implementation report + Cross-WG sction 
 
@@ -48,9 +51,9 @@ none
 
 ### SR-TE Pre-Adoption Drafts 
 
-- [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - **Needs -06** to resolve issue prior to adoption 
+- [draft-chen-idr-bgp-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-05)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) -  
 
-- [draft-jiang-idr-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-09)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) - **Needs -04** to resolve issues prior to adoption 
+- [draft-jiang-idr-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) - **Needs -04** to resolve issues prior to adoption 
 
 - [draft-li-idr-bgp-sr-policy-state-report-00](https://datatracker.ietf.org/doc/draft-li-idr-bgp-sr-policy-state-report/) - [00](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-li-idr-bgp-sr-policy-state-report/) - needs review 
 
