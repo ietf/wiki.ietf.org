@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-19T01:53:28.935Z
+date: 2026-10-19T01:55:06.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -57,7 +57,7 @@ none
 
 - [draft-li-idr-bgp-sr-policy-state-report-00](https://datatracker.ietf.org/doc/draft-li-idr-bgp-sr-policy-state-report/) - [00](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-li-idr-bgp-sr-policy-state-report/) - **Needs -01** to answer basic "Why BGP" questions.  
 
-- [draft-li-idr-bgp-sr-policy-bfd-extension](https://datatracker.ietf.org/doc/draft-li-idr-bgp-sr-policy-bfd-extension/) - [01] - needs review
+- [draft-li-idr-bgp-sr-policy-bfd-extension](https://datatracker.ietf.org/doc/draft-li-idr-bgp-sr-policy-bfd-extension/) - [01](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-li-idr-bgp-sr-policy-bfd-extension/) - needs review
 
 - [draft-lin-idr-sr-policy-headend-behavior](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) - [(-01 to -06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-policy-headend-behavior/) - **Needs -07** prior to Adoption call (reduced or non-reduced question), has Spring support  
 
