@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-19T00:58:21.565Z
+date: 2026-10-19T01:04:46.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -79,11 +79,9 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS Drafts at RFC-editor
 - [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/) [(-04) to (-17)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-mt)
+- [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext): [-46](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-bgp-ls-inter-as-topology-ext) -  IESG approved 10/6/2026 
 
-### BGP-LS drafts at IESG 
-- [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext): [-18](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-bgp-ls-inter-as-topology-ext) - **WG LC (4/20 to 5/4 - needs resolution of EPE point**
-
-- [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - **5/11/2026 to 5/25/2026
+- [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - **5/11/2026 to 5/25/2026 (approved 8/6/2026) 
 
 
 ### BGP-LS WG drafts (alphabetical order) 
