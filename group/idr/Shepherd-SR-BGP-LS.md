@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-19T02:42:04.939Z
+date: 2026-10-19T02:52:58.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -91,6 +91,9 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 - [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04) - **Needs -05** - Authors still working.   
 
 - [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - [(-07) to (-12)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu) - **needs two implementations** 
+
+
+- [draft-ietf-idr-bgp-ls-sr-policy-admin-flags-00](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-admin-flags/) - [00] - review pending 
 
 - [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) [(-00) tp (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-nrp) - **Needs two imoplementations** 
 
