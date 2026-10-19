@@ -2,7 +2,7 @@
 title: Shepherd reviews for draft-lin-idr-srv6-policy-headend-behavior
 description: Shepherd draft-lin-idr-srv6-policy-headend-behavior
 published: true
-date: 2026-01-06T23:57:28.827Z
+date: 2026-10-19T00:45:13.552Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T23:11:15.843Z
@@ -19,6 +19,25 @@ dateCreated: 2025-02-25T23:11:15.843Z
 **Early Allocation**: needs early allocation after adoption. 
 **implementations:**  
 **bgp-ls draft:** none
+
+## Review -06: 
+**Summary:** Need to resolve Ketan's comment in text: 
+**Interim comments: **
+
+Ketan's comment from interim in March 
+> Need to resolve the question of whether the draft's focus as reduced or 
+> non-reduced behavior. Indicate encapsulate or insert may have value, but
+> insert is not adopted yet.  Only Trouble shooting or some other applications
+> use the "non-Reduced" function.  I thought the previous vesion makes sense,
+> but I'm not sure about this version.
+{.is-info}
+
+**Joel:** 
+> The behaviors are already defined in SPRING. 
+> **Sue:** 
+> Changwang after you make the change, we'll do an adoption call to
+> see if others feel the "Reduced" or "Non-Reduced" is appropriate.
+{.is-info}
 
 
 ## Review -05 
@@ -63,7 +82,7 @@ During the 5/20/2024 interim, your draft was discussed.  The notes from the inte
 You need to create a version -05 before I start an adoption call for this draft.
 In version -05, please add the following information:
 
-#### Action 1.In  -05 , please make sure you indicate the focus of the draft.
+#### Action 1: In  -05 , please make sure you indicate the focus of the draft.
 
 My understanding is that the draft is focusing on
 "H.Encaps" Encapsulation use case for the Reduce case (H.Encaps.reduced)
