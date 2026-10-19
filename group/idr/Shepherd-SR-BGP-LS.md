@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-10-19T02:13:48.030Z
+date: 2026-10-19T02:35:17.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -86,7 +86,7 @@ Categories are: WG LC, WG drafts, adoption of individual draft, or individual dr
 
 ### BGP-LS WG drafts (alphabetical order) 
 
--  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -05)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) -  ready for implememtation amd early assignment by an expert. 
+-  [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) [(-03 to -07)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-only-fabric) -  Review of -07 pending  
 
 - [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04) - **Needs -05** - Authors still working.   
 
