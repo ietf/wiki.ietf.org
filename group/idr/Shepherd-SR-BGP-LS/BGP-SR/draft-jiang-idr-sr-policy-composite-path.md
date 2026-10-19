@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-jiang-idr-sr-policy-composite-path
 description: Shepherd draft-jiang-idr-sr-policy-composite-path
 published: true
-date: 2026-10-18T23:55:26.195Z
+date: 2026-10-19T00:00:30.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T15:20:31.757Z
@@ -24,7 +24,7 @@ dateCreated: 2025-02-25T15:20:31.757Z
 ## Review -09 
 ### Technical issues 
 #### Technical issues #1, abstract
-The last 2 sentences of the abstract do not make sente together:
+The last 2 sentences of the abstract do not make sense together:
 
 current text: /This document defines extensions to BGP to distribute SR
    policies carrying composite candidate path information.  So that
@@ -48,7 +48,7 @@ current text: /This document defines extensions to BGP to distribute SR
 
 #### Technical issue #3, section 2.1, weight maximum 
 
-Is 4 octets of all 1st valid? 
+Is weight with 4 octets of all ones valid? 
 
 >      *  Weight: 4 octets carrying an unsigned integer value indicating
 >           the weight associated with a segment list as described in
@@ -57,7 +57,7 @@ Is 4 octets of all 1st valid?
 > 
 {.is-info}
 
-#### Technical issue #4, section 2.2,type value 
+#### Technical issue #4, section 2.2, type value 
 **current text:**
 > / Type: to be assigned by IANA./ 
 {.is-info}
@@ -65,7 +65,7 @@ Is 4 octets of all 1st valid?
 > Type: (TBD2): to be assigned by IANA./ 
 {.is-info}
 
-##### Technical issue #4, section 3 Procedures 
+##### Technical issue #5, section 3 Procedures 
 
 text in documnent: 
 >    The document does not bring new operation beyond the description of
@@ -79,6 +79,15 @@ I remain unconvinced that the technology as stated in the document fits this dis
 In our private discussions, we have talked about the fact that the composite will only change at the rate of BGP configuration or BGP updates -rather than inheriting a faster rate.  
 
 Without a manageability section that at least discusses the expected rate of updates that composite versus explicit paths will involve, this document is incomplete.  You may state in the manageability section that explicit and composite paths will be transmitted at the same rate. 
+
+#### Technical issues #6, Cross-WG appendix 
+
+It is helpful for cross-WG review to included an appendix that covers how this document relates to: 
+
+1) Spring WG drafts and concepts 
+2) PCE WG drafts and concepts 
+3) SRV6ops drafts and needs 
+
 
 
 ## Review -03 
