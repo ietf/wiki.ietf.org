@@ -2,7 +2,7 @@
 title: draft-ietf-idr-sr-policy-admin-flag Shepherd Reviews in IDR 
 description: draft-ietf-idr-sr-policy-admin-flag Shepherd Reviews 
 published: true
-date: 2026-10-19T00:29:42.729Z
+date: 2026-10-19T00:36:03.072Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-19T00:26:03.772Z
@@ -18,7 +18,7 @@ dateCreated: 2026-10-19T00:26:03.772Z
 
 ## Review -00 
 ### Technical issues 
-#### Technical issue 1 - Needs manageability section 
+#### Technical issue 1 - Needs a manageability section 
 
 This document needs a manageability section before publication to help operators use this function.  Authors should consult SRv6OPS to determine what manageability comments might be useful. 
 
