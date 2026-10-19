@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-10-14T11:26:17.382Z
+date: 2026-10-19T00:01:21.670Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,6 +50,7 @@ This table collects future events where the IETF outreach activities are planned
 
 |When|Event|Target Audience|Participation|Volunteers|Remarks|
 |---|---|---|---|---|---|
+|Oct 2026|[LACNIC46](https://lacnic46.lacnic.net/en)|Operators|Participants |Jen Linkova| (Jen) Submitted a lightning talk proposal for "why should you care about the IETF" |
 |Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants |Jen Linkova, Suresh, Yaroslav| (Jen) IPv6 talk **accepted** by the IPv6 WG |
 |Oct 2026|[ICANN87](https://meetings.icann.org/en/meetings/icann87/)|Mixed|Knowledge sharing|Warren, Roman|[How it works: The IETF](https://icann87.sched.com/event/2Wjo2/how-it-works-the-ietf)|
 |Dec 2026|[IGF 2026](https://igf2026.intgovforum.org/)|IG|supporter|Roman, Dirk, Dhruv, Yaroslav, Suresh, Alvaro, Warren|-|
