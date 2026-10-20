@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-10-19T00:01:21.670Z
+date: 2026-10-20T22:56:24.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -50,7 +50,6 @@ This table collects future events where the IETF outreach activities are planned
 
 |When|Event|Target Audience|Participation|Volunteers|Remarks|
 |---|---|---|---|---|---|
-|Oct 2026|[LACNIC46](https://lacnic46.lacnic.net/en)|Operators|Participants |Jen Linkova| (Jen) Submitted a lightning talk proposal for "why should you care about the IETF" |
 |Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants |Jen Linkova, Suresh, Yaroslav| (Jen) IPv6 talk **accepted** by the IPv6 WG |
 |Oct 2026|[ICANN87](https://meetings.icann.org/en/meetings/icann87/)|Mixed|Knowledge sharing|Warren, Roman|[How it works: The IETF](https://icann87.sched.com/event/2Wjo2/how-it-works-the-ietf)|
 |Dec 2026|[IGF 2026](https://igf2026.intgovforum.org/)|IG|supporter|Roman, Dirk, Dhruv, Yaroslav, Suresh, Alvaro, Warren|-|
@@ -64,6 +63,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Oct 2026|[LACNIC46](https://lacnic46.lacnic.net/en)|Operators|Participants |Jen Linkova| A lightning talk "why should you care about the IETF" [slides](https://apievt.lacnic.net/wp-content/uploads/2026/08/why-should-you-care-about-ietf-v1-jen-linkova.pdf) |
 |Oct 2026|[HKSU](https://hksu.ee.nfu.edu.tw) Taiwan IETF Program|Students|Participants|Dhruv|[Slide](https://docs.google.com/presentation/d/1p4uX3-yGRbJwiXR-mcVesU2g5EzqYQgB/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)|
 |Sept 2026|[APNIC62](https://conference.apnic.net/62/program/program/index.html#/day/1/)|Operators|Participants|Suresh, Dhruv|[Whats new at IETF](https://conference.apnic.net/62/assets/presentation-files/303b3fff-d1a8-4d23-8e3c-9cbfbbe528cd.pdf)<br>[IP geo workshop report](https://conference.apnic.net/62/assets/presentation-files/bd8185cc-7b34-4f44-86d3-bc2dd593f08e.pdf)<br>[Videos](https://conference.apnic.net/62/program/program/index.html)|
 |Sept 2026|[RFCsWeLove](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|Regional|Participants|Suresh, Dhruv|[Details](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|
