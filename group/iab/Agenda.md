@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-21T04:04:15.959Z
+date: 2026-10-21T04:13:47.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -132,7 +132,10 @@ For approval
   Goal: Record/finish e-vote
 
 
-### 13. Executive Session: Appeal
+### 13. Executive Session: GDC's proposed task force
+
+### 14. Executive Session: Appeal
+
 
 
 
