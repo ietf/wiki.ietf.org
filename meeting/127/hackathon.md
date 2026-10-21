@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-21T16:57:19.586Z
+date: 2026-10-21T20:02:02.371Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -709,6 +709,31 @@ Dave was one of the instigators of the IETF AQM and Packet Scheduling working gr
 
 - **Repository**
 https://github.com/LibreQoE/LibreQoS/pull/684
+
+---
+### DNS-AID: AI Agent Discovery via DNS
+
+- **Champions**
+  - Jim Mozley (jmozley@infoblox.com)
+  - Nic Williams (nwilliams@infoblox.com)
+  - Daniel King (d.king@lancaster.ac.uk)
+
+- **Project Info**
+
+  DNS for AI Discovery (DNS-AID) explores how AI agents and agentic workloads
+  can publish and discover connectivity and capability metadata using existing
+  DNS mechanisms, including SVCB, DNS-SD-style names, DNSSEC, and optional
+  DANE/TLSA.
+  
+- **Hackathon Plan**
+
+	To be discussed. 
+
+- **Related Documents**
+  - DNS-AID draft: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
+  - DAWN: https://datatracker.ietf.org/group/dawn/about/
+  - DAWN Requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/ 
+  
 ---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
