@@ -2,13 +2,13 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-16T20:04:26.946Z
+date: 2026-10-21T04:04:15.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Formal Meeting Agenda: 2026-10-21, 13:00 UTC (1 hour)
+# IAB Formal Meeting Agenda: 2026-10-21, 13:00 UTC (2 hour)
 
 
 ## There WILL be a meeting on 2026-10-21
