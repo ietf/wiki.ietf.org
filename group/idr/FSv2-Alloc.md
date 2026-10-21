@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-10-14T10:55:59.958Z
+date: 2026-10-21T20:29:42.885Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -172,15 +172,15 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 1000  | 2200  | Fragment | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
 | 1000 | 2201-2299  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 | 1000  | 2300  | Flow Label | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-| 1000 | 2301-2399  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 256 | 2300 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt) | 
-| 1000 | 2301-2399  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 1000 | 2400  | QUIC Destination Connection ID | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/) | 
-| 1000 | 2401-2409  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 1000 | 2410  | QUIC Source Connection ID | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/)  | 
-| 1000 | 2411-2419  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-| 1000 | 2420  | QUIC Header Flag (RFC 9000) | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/) | 
-| 1000 | 2421-3045  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 1000 | 2301-2999  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 256 | 3000 | Packet content filter | [draft-cui-idr-content-filter-flowspec](https://www.ietf.org/archive/id/draft-cui-idr-content-filter-flowspec-04.txt) | 
+| 1000 | 3001-3099  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 1000 | 3100  | QUIC Destination Connection ID | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/) | 
+| 1000 | 3101-3109 | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 1000 | 3110  | QUIC Source Connection ID | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/)  | 
+| 1000 | 3111-3119  | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+| 1000 | 3120  | QUIC Header Flag (RFC 9000) | [draft-lin-idr-flowspec-quic](https://datatracker.ietf.org/doc/draft-lin-idr-flowspec-quic/) | 
+| 1000 | 3121-4094 | Unassigned | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 {.dense}
 
 
