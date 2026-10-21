@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-12T23:25:37.360Z
+date: 2026-10-21T09:56:26.844Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -20,7 +20,8 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 Please add any topics for either IESG only meetings at IETF 126, or the joint meetings with the IAB.
 
 - Joint session: What is the boundary between shepherding a BOF and becoming a proponent?
-- Joint session: What does the IESG want from the IAB in BOF reports and charter reviewa?
+- Joint session: What does the IESG want from the IAB in BOF reports and charter reviews?
+
 # IESG Activities
 
 ## Saturday, November 14, 2026
