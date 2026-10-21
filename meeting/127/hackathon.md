@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-21T06:21:18.286Z
+date: 2026-10-21T16:54:00.238Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -697,6 +697,16 @@ Code: https://github.com/tech4biz-yasha/agent-memory-integrity
 Scorecard: https://agentmemoryintegrity.org
 
 
+
+### In Loving Memory of Dave Täht (1965-2025)
+- **Champions**
+Frank (Frantisek) Borsik frank@libreqos.com / frantisek.borsik@gmail.com
+- **Project Info**
+Want to meet people that used to work with Dave and/or want to learn more about his work inside/outside of IETF. I plan to bring stickers - LibreQoS, Dave's latest thing, as well as his signature "This Machine Kills Vogons" and a scrap book with photos ready for anyone willing to share a thought or two, or just sign in...will be in place as well:
+https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
+
+Dave was one of the instigators of the IETF AQM and Packet Scheduling working group, and not only the co-author of RFC 8290[](/https://datatracker.ietf.org/doc/rfc8290/) (FQ-CoDel) and a contributor to RFC 8289 (CODEL), but also RFC 7567 (IETF Recommendations Regarding Active Queue Management), RFC 8034 (Active Queue Management (AQM) Based on Proportional Integral Controller Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable Modems), RFC 7928 (Characterization Guidelines for Active Queue Management (AQM), RFC 7806 (On Queuing, Marking, and Dropping), and RFC 8033 (Proportional Integral Controller Enhanced (PIE): A Lightweight Control Scheme to Address the Bufferbloat Problem). He also made contributions to the DOCSIS 3.1 standard.
+- **Project Info**
 ---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
