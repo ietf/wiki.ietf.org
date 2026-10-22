@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-21T16:28:14.361Z
+date: 2026-10-22T04:56:10.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -11,7 +11,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 # IAB Informal Meeting Agenda: 2026-10-28, 06:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-10-28
+## There WILL be a meeting on 2026-10-28
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
@@ -21,9 +21,12 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 
 
-### 1. Topic (Owner)
+### 1. Update to IAB statement on Appeal (Mark)
 
-Context: 
+[Doc](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
+
+### 2. Executive Session: Appeal
+
 
 
 ### Potential Additional Topic for this or future meeting
@@ -32,7 +35,6 @@ Context:
 - Closing of some public IAB mailing lists
 - [Topics for future IAB+IESG discussions](https://wiki.ietf.org/group/iab/iab-iesg)
 - IETF-RIR Admin Support Group
-- Executive Session: GDC
 - ISE Survey Feedback
 - Year 2038 (and other years) problems
 
