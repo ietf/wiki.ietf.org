@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-22T15:30:00.631Z
+date: 2026-10-22T15:37:44.955Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -79,6 +79,8 @@ Details TBD
     Random order: 
 
 ### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda127)
+
+
 
 ### Evening Meeting Events
 > 16:00-17:00 **New Participant's Quick Connections** 
@@ -171,9 +173,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 **PLEASE NOTE: NOT AVAILABLE BEFORE 09:00**
 
 * 14:00 - 15:00 -- RTG AD Office hours (Gunter/Jim/Ketan)
-
-
-
+* 15:00 - 16:00 -- WIT AD Office Hours (Gorry/Mike) -- please add to main Agenda
 
 ## Monday, November 16, 2026
 
@@ -194,7 +194,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * TIME - TIME -- Thing (Person responsible)
 
-
+* 10:45 -11:30 -- SQUAD BoF follow-up (Gorry - Private)
 
 
 ## Thursday, November 19, 2026
