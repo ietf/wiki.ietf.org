@@ -2,7 +2,7 @@
 title: Topics for Joint Discussion between IAB and IESG
 description: 
 published: true
-date: 2026-10-14T13:39:11.879Z
+date: 2026-10-22T09:10:23.793Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-11T13:16:11.019Z
@@ -11,7 +11,7 @@ dateCreated: 2026-10-11T13:16:11.019Z
 # Topics for future IAB+IESG Joint Discussion
 
 ## BoF & Charters
-- What is the boundary between shepherding a BOF and becoming a proponent?  
+- What is the clear boundary between shepherding a BOF and being seen as a proponent?  
 	- Right time for the IAB shepherd to get involved with the BoF prep
 - What does the IESG want from the IAB in BOF reports and charter reviews?
 - How can IAB members best support ADs in BoF process? 
