@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-22T08:53:59.604Z
+date: 2026-10-22T08:54:47.201Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -687,9 +687,9 @@ Changhua Pei (chpei@cnic.cn)
 
 - **Project info**
 
-o Develop an Architectural Framework for observability and benchmarking of a network diagnosis AI agent
-o To validate the core components including the Agent system and observability, Benchmarking functionality
-o Demonstrate key applications which consume network management observability data
+- Develop an Architectural Framework for observability and benchmarking of a network diagnosis AI agent
+- To validate the core components including the Agent system and observability, Benchmarking functionality
+- Demonstrate key applications which consume network management observability data
 
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
