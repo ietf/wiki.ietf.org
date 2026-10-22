@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-21T20:02:02.371Z
+date: 2026-10-22T08:53:59.604Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -677,8 +677,31 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
   **Repository:** (link to be added)
   
+ ### ICON: AI Agent observability for Benchmarking In network management operations
+
+- **Champions**
+Qin Wu (bill.wu@huawei.com)
+King Daniel (d.king@lancaster.ac.uk)
+Cheng Zhou (zhouchengyjy@chinamobile.com)
+Changhua Pei (chpei@cnic.cn)
+
+- **Project info**
+
+o Develop an Architectural Framework for observability and benchmarking of a network diagnosis AI agent
+o To validate the core components including the Agent system and observability, Benchmarking functionality
+o Demonstrate key applications which consume network management observability data
+
+- **Related Drafts**
+https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
+https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/
+https://datatracker.ietf.org/doc/draft-contreras-bmwg-ai-agent-benchmarking/
+https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/
+
+- **Repositories**
+https://github.com/billwuqin/Agent-Observability-Intervention-Control
  
- ### Agent memory integrity: does your agent's memory store notice tampering? *
+ 
+ ### Agent memory integrity: does your agent's memory store notice tampering? 
 - **Champions**
 Yasha Khandelwal, yasha.khandelwal@tech4biz.io (remote, India UTC+5:30)
 - **Project Info**
@@ -735,6 +758,7 @@ https://github.com/LibreQoE/LibreQoS/pull/684
   - DAWN Requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/ 
   
 ---
+
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
