@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-10-15T12:23:22.084Z
+date: 2026-10-23T04:58:41.947Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -44,7 +44,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-| draft-lee-pce-pcep-ls-optical | WG Adoption (IPR: 5/5 authors, 1/4 contributors. 1-contributor email bounced back) | Ends 2026-09-14 | Dhruv |
+
 | draft-gandhi-pce-pm | Pending | Polled during IETF 126 | Julien |
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
@@ -53,7 +53,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-| draft-ietf-pce-topology-filter | Adoption 2026-05-05; IPR-5/5 | Dhruv |
+| draft-ietf-pce-pcep-ls-optical | Adoption 2026-09-17; IPR-5/5 | Dhruv |
+
 
 
 
@@ -75,6 +76,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 |draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
 |draft-ietf-pce-pcep-nrp|-01 posted on 2026-07-06 | - |
 |draft-ietf-pce-sr-mpls-sid-verification | Adopted 2026-01-14| - |
+| draft-ietf-pce-topology-filter | Adoption 2026-05-05 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
 
 
