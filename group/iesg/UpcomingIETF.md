@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-23T11:26:10.071Z
+date: 2026-10-23T14:19:23.691Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -174,6 +174,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * 14:00 - 15:00 -- RTG AD Office hours (Gunter/Jim/Ketan)
 * 15:00 - 16:00 -- WIT AD Office Hours (Gorry/Mike) -- please add to main Agenda
+* 16:00 - 17:00 -- MTAHOOKs BoF Prep (andy)
 
 ## Monday, November 16, 2026
 
@@ -185,15 +186,14 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Tuesday, November 17, 2026
 
 
-* TIME - TIME -- Thing (Person responsible)
+* 08:00 - 09:00 -- EVP BoF Prep (Andy)
 
 
 
 
 ## Wednesday, November 18, 2026
 
-* TIME - TIME -- Thing (Person responsible)
-
+* 08:00 - 09:00 -- TDD Chairs Meeting (Andy/Med)
 * 10:45 -11:30 -- SQUAD BoF follow-up (Gorry - Private)
 * 17:30 - 18:00 -- Pre-plenary relaxation time (Éric)
 
