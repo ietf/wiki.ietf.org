@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-23T13:23:31.665Z
+date: 2026-10-23T13:39:17.262Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -681,6 +681,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
 - **Champions**
 Qin Wu (bill.wu@huawei.com)
+Giuseppe Fioccola (giuseppe.fioccola@huawei.com)
 King Daniel (d.king@lancaster.ac.uk)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
