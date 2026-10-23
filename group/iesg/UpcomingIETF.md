@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-23T10:53:44.793Z
+date: 2026-10-23T11:26:10.071Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -177,8 +177,8 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 ## Monday, November 16, 2026
 
+* 12:45 - 13:45 -- SEC AD Office Hours (Chris/Deb)
 
-* TIME - TIME -- Thing (Person responsible)
 
 
 
