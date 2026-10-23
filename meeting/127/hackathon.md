@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-23T10:23:19.261Z
+date: 2026-10-23T10:51:48.499Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -757,6 +757,27 @@ https://github.com/LibreQoE/LibreQoS/pull/684
   - DAWN: https://datatracker.ietf.org/group/dawn/about/
   - DAWN Requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/ 
   
+---
+
+### YANG Data Normalization
+
+- **Champions**
+  - Ana Méndez (ana.mendezperez@telefonica.com)
+  - Diego López (diego.r.lopez@telefonica.com)
+  - Lucia Cabanillas (lucia.cabanillasrodriguez@telefonica.com)
+
+- **Project Info**
+YANG-modeled data can be represented using different encodings, including XML, JSON, and CBOR. Even when these representations convey equivalent information, encoding-specific differences can produce different byte sequences, hashes, and signatures.
+For the IETF 127 Hackathon, we will demonstrate a normalization procedure that parses XML, JSON, and CBOR representations into a common abstract syntax tree and generates a deterministic normalized representation.
+The demo will show equivalent interface data using the three encodings, display their resulting trees, and verify that they produce identical normalized bytes and SHA-256 fingerprints. The project will also help identify additional normalization rules and interoperability test cases for future versions of the draft.
+  
+
+- **Related Documents**
+  - draft-mendez-opsawg-yang-normalization (https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/)
+
+- **Related Repositories**
+  - https://github.com/ana-mp26/yang-normalization (draft)
+  - https://github.com/tefiros/yang-data-normalization/ (implementation)
 ---
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
