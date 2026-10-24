@@ -2,7 +2,7 @@
 title: NETCONF WG - Network Configuration
 description: 
 published: true
-date: 2026-10-24T23:28:42.666Z
+date: 2026-10-24T23:28:51.269Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
