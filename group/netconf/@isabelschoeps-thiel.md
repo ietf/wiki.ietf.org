@@ -2,7 +2,7 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-24T23:55:44.100Z
+date: 2026-10-24T23:55:51.687Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
