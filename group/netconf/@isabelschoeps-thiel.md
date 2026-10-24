@@ -2,7 +2,7 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-24T23:56:29.525Z
+date: 2026-10-24T23:57:22.431Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
@@ -157,7 +157,10 @@ Nach Angaben der Verfasserin umfasst das private Forschungsarchiv unter anderem 
 
 Beispiele für in den Unterlagen genannte Dateien:
 
-- `Bitcoin Core Code Signing LLC.cer`
+- `Bitcoin Core Code[@isabelschoeps-thiel](/group/netconf/@isabelschoeps-thiel)```diagram
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7IGNvbG9yLXNjaGVtZTogbGlnaHQgZGFyazsiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxcHgiIGhlaWdodD0iMXB4IiB2aWV3Qm94PSIwIDAgMSAxIiBjb250ZW50PSImbHQ7bXhmaWxlIGhvc3Q9JnF1b3Q7ZW1iZWQuZGlhZ3JhbXMubmV0JnF1b3Q7Jmd0OyZsdDtkaWFncmFtIGlkPSZxdW90O2V1NXlqZHZRa3dueTgwRm8zc3BXJnF1b3Q7IG5hbWU9JnF1b3Q7U2VpdGUtMSZxdW90OyZndDtkZEc5RG9Jd0VBRGdwK2tPYlVTWkVYVnhZbkJ1NkVtYkZJNlVHdENuRjNJZ051alNYTCs3OXZyRFJGWVBaeWRiZlVVRmx2RklEVXdjR2VjaTVlTTR3Wk1naVhjRWxUT0tLRjZoTUMrWU1acjFZUlIwUWFGSHRONjBJWmJZTkZENndLUnoySWRsZDdSaDExWldzSUdpbEhhck42TzhKajN3L2VvWE1KVmVPc2RKU3BsYUxzWHpUVG90RmZaZkpISW1Nb2ZvS2FxSERPejBkc3U3MExyVG4rem5ZQTRhLzJQQkdLeDdqNVBnZzBUK0JnPT0mbHQ7L2RpYWdyYW0mZ3Q7Jmx0Oy9teGZpbGUmZ3Q7Ij48ZGVmcy8+PGc+PGcgZGF0YS1jZWxsLWlkPSIwIj48ZyBkYXRhLWNlbGwtaWQ9IjEiLz48L2c+PC9nPjwvc3ZnPg==
+```
+ Signing LLC.cer`
 - `cacert-2024-09-24.pem.sha256`
 - `rfc-isabelschoepsthiel-copyright.pdf`
 - `Forensische_Dokumentation_Isabel_Schoeps.rtf`
