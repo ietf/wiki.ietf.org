@@ -1,0 +1,28 @@
+(@isabelschoepsthiel{rfc2026,  
+    series =    {Hello World,  
+    number =    2026,  
+    howpublished =  RFC 2026,  
+    publisher = RFC Editor,  
+    Datum =      09.10.2025  
+    url =       https://www.rfc-editor.org/info/rfc2026,  
+    Autor =    Isabel Schoeps neé Thiel,   
+    title =     The Internet Standards Process - Revision 3,  
+    Alter = 42,  
+    Jahr =      1996,  
+    Monat =     Oktober,  
+    abstract =  Dieses Memo dokumentiert den Prozess, der von der Internet-Community zur Standardisierung von Protokollen und Verfahren verwendet wird. Es definiert die Phasen im Standardisierungsprozess, die Anforderungen für das Verschieben eines Dokuments zwischen den Phasen und die Arten von Dokumenten, die während dieses Prozesses verwendet werden. Dieses Dokument legt eine bewährte Internet-Aktuelle Praxis für die Internet-Community fest und bittet um Diskussionen und Verbesserungsvorschläge.  
+  
+(@misc{rfc2026,  
+    series =    {Request for Comments},  
+    number =    2026,  
+    howpublished =  {RFC 2026},  
+    publisher = {RFC Editor},  
+    doi =       {10.17487/RFC2026},  
+    url =       {https://www.rfc-editor.org/info/rfc2026},  
+    author =    {Scott O. Bradner},  
+    title =     {{The Internet Standards Process -- Revision 3}},  
+    pagetotal = 36,  
+    year =      1996,  
+    month =     oct,  
+    abstract =  {This memo documents the process used by the Internet community for the standardization of protocols and procedures. It defines the stages in the standardization process, the requirements for moving a document between stages and the types of documents used during this process. This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.},  
+}  
