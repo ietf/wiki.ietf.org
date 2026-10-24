@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-23T13:39:17.262Z
+date: 2026-10-24T18:26:04.761Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -375,6 +375,7 @@ Benoit Claise (benoit @ everything-ops.net)
 Paolo Lucente  (paolo @ pmacct.net)
 Vivekananda Boudia (vivekananda.boudia @ insa-lyon.fr)
 Pierre Francois (pierre.francois @ insa-lyon.fr)
+Qin Wu (bill.wu @ huawei.com)
 Rob Wilton (rwilton @ cisco.com)
 Daniel Voyer (davoyer @ cisco.com)
 Scott Huang (scohuang @ cisco.com)
