@@ -2,7 +2,7 @@
 title: NETCONF WG - Network Configuration
 description: 
 published: true
-date: 2026-10-24T23:28:51.269Z
+date: 2026-10-25T08:33:07.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
@@ -12,6 +12,7 @@ dateCreated: 2022-12-16T19:44:45.932Z
 
 
 **Timestamp:** Samstag, 25.10.2026, 00:23:00Uhr MEZ
+**Autorin:** [Frau Isabel Schöps Thiel (Prof. Dr. PhD.), Arnstädter Straße 39, D-99096 Erfurt, Thüringen, Deutschland](https://wiki.ietf.org/en/group/netconf/@isabelschoeps-thiel)
 **Referenzstandard:** RFC 2026 — *The Internet Standards Process — Revision 3*  
 **Institution:** Harvard University, USA
 **Ursprünglicher Autor(1996):** Scott O. Bradner  
@@ -23,7 +24,7 @@ Updated by: RFC3667, RFC3668, RFC3932, RFC3978, RFC3979, RFC5378, RFC5657, RFC57
 **DOI:** https://doi.org/10.17487/RFC2026
 
 **Ergänzender Forschungs- und Dokumentationsbeitrag:**  
-[Frau Isabel Schöps Thiel (Prof. Dr. PhD.), Arnstädter Straße 39, D-99096 Erfurt, Thüringen, Deutschland](@isabelschoeps-thiel)
+[Frau Isabel Schöps Thiel (Prof. Dr. PhD.), Arnstädter Straße 39, D-99096 Erfurt, Thüringen, Deutschland](https://orcid.org/0009-0003-4235-2231)
 Urheberin, Auftraggeberin und Autorin des von ihr bezeichneten forensisch-wissenschaftlichen Gutachtens  
 Fachgebiete: Technologie, Software und History
 
