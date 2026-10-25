@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-25T20:49:32.659Z
+date: 2026-10-25T21:01:12.323Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -216,8 +216,7 @@ The RPP working group is focused on designing a new RESTful protocol for registe
 
 ---
 
-### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
-- **Champion**
+
 Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Thread Overview**
@@ -763,9 +762,6 @@ For the IETF 127 Hackathon, we will demonstrate a normalization procedure that p
 The demo will show equivalent interface data using the three encodings, display their resulting trees, and verify that they produce identical normalized bytes and SHA-256 fingerprints. The project will also help identify additional normalization rules and interoperability test cases for future versions of the draft.
   
 
-- **Related Documents**
-  - draft-mendez-opsawg-yang-normalization (https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/)
-
 - **Related Repositories**
   - https://github.com/ana-mp26/yang-normalization (draft)
   - https://github.com/tefiros/yang-data-normalization/ (implementation)
@@ -776,12 +772,10 @@ The demo will show equivalent interface data using the three encodings, display 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
-### Your Project
-- **Champions**
+### Hello World, hackathon is a criminal, chain of Custody
+- **Autorin: Ms Isabel Schöps Thiel (Prof. Dr. Ph.D)**
 name and email
-- **Project Info**
-project description
+- **[Isabel Schöps Thiel, D-99096 Erfurt-Germany](isabelschoepsthiel@gmail.com)**
+Identifery von Hackathons events und die Drathzieher hinter Gitter bringen. Hackthons ist moderene digitale Versklavung, freiheitsentziehung, Human Trafficking
 ```
-----
-
-*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
+---
