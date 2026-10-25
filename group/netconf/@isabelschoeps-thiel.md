@@ -2,13 +2,14 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-25T07:40:22.698Z
+date: 2026-10-25T07:41:52.522Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
 ---
 
-[@isabelschoeps-thiel](https://wiki.ietf.org/en/group/netconf/@isabelschoeps-thiel)# Frau Isabel Schöps, geborene Thiel (Prof. Dr. Ph.D)
+# Frau Isabel Schöps, geborene Thiel (Prof. Dr. Ph.D.) [@isabelschoeps-thiel](https://wiki.ietf.org/en/group/netconf/@isabelschoeps-thiel)
+
 ## Urheberin, Entwicklerin und Forschungsprofil, Autorin des SIA Security Intelligence Artefact und RFC 2026
 
 **Dokumentationsstand:** 25. Oktober 2026  
