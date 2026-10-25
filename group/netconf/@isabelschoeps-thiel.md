@@ -2,7 +2,7 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-25T00:14:28.502Z
+date: 2026-10-25T00:15:54.787Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
@@ -397,3 +397,6 @@ Digitale Beweissicherung\
 
 GitHub Repository\
 <https://github.com/isabelschoeps-thiel>
+
+---
+
