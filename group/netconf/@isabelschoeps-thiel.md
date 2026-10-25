@@ -1,9 +1,9 @@
 ---
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
-description: 
+description: The SIA Security Intelligence Artefact is a research framework by Isabel Schöps, née Thiel, addressing artificial intelligence-related technologies, software provenance, automation, digital forensics, technological history, and responsible AI governance. 
 published: true
-date: 2026-10-25T07:47:01.605Z
-tags: dmarc, leadership, int area, cryptography, ai intelligence, sia security intelligenz artefact, github, pornhub, the yellow whitepaper, ywp-1-ist-sia, orcid 0009-0003-4235-2231, int-code-2025-btc/eth-core-isabelschoepsthiel, german-woman
+date: 2026-10-25T08:02:54.754Z
+tags: meeting information, hackathon, dmarc, leadership, int area, cryptography, irtf, mac address randomization, implementation report for sidrops rfc, ai intelligence, sia security intelligenz artefact, github, pornhub, the yellow whitepaper, ywp-1-ist-sia, orcid 0009-0003-4235-2231, int-code-2025-btc/eth-core-isabelschoepsthiel, german-woman, human dna, bitcoin, satoshi nakamoto
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
 ---
