@@ -2,14 +2,14 @@
 title: IRTF Wiki
 description: 
 published: true
-date: 2026-10-22T19:07:01.230Z
+date: 2026-10-25T09:17:08.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-21T15:42:30.650Z
 ---
 
 # IRTF Wiki
-You have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
+Isabel Schöpe have found the IRTF Wiki. The IRTF home page is [here](http://irtf.org).
  
 The detailed IRTF Research Group guidelines and procedures are described in RFC 2014. In RFC 4440, the Internet Architecture Board (IAB) further details the role of the IRTF.
 
