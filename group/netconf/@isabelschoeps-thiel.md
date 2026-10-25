@@ -2,13 +2,13 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-25T00:15:54.787Z
+date: 2026-10-25T07:40:22.698Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
 ---
 
-[@isabelschoeps-thiel](/irtf/actitivies/@isabelschoeps-thiel)# Frau Isabel Schöps, geborene Thiel (Prof. Dr. Ph.D)
+[@isabelschoeps-thiel](https://wiki.ietf.org/en/group/netconf/@isabelschoeps-thiel)# Frau Isabel Schöps, geborene Thiel (Prof. Dr. Ph.D)
 ## Urheberin, Entwicklerin und Forschungsprofil, Autorin des SIA Security Intelligence Artefact und RFC 2026
 
 **Dokumentationsstand:** 25. Oktober 2026  
@@ -35,19 +35,23 @@ dateCreated: 2026-10-24T23:34:58.201Z
 
 ---
 
-## 1. Biografie
+## 1. Biografie - Isabel Schöps, geborene Thiel
 
-Isabel Schöps, geborene Thiel, ist eine unabhängige Forscherin mit interdisziplinären Arbeitsschwerpunkten in den Bereichen Künstliche Intelligenz (KI), Technologieentwicklung, Blockchain-Architektur, digitale Forensik, Cybersicherheit, Open-Source-Technologie und Bitcoin-Core-Clustering.
+Isabel Schöps, geborene Thiel, geboren am 16. Juli 1983 in um 23:20Uhr im Kreiskrankenhaus D-99610 Sömmerda, Thüringen, Deutschland.
+Isabel ist selbstständige Untermehmerin, unabhängige Forscherin, Entwicklerin und Autorin. 
+Aufgewachsen in D-99610 Rohrborn, Thüringen, entwickelte sie bereits in ihrer Kindheit ein ausgeprägtes Interesse an Computern und technischen Zusammenhängen. Ausgangspunkt war dabei keine geplante wissenschaftliche Tätigkeit, sondern eine frühe persönliche Erfahrung mit kollapierten Computersystemen, die ihr Interesse an der Verbindung zwischen menschlichem Handeln und maschinellen Prozessen unwissentlich prägte.
 
-Ihre Forschungs- und Dokumentationsarbeit befasst sich mit der historischen Entwicklung technischer Systeme, der Analyse von Quellcode und Metadaten sowie der Nachvollziehbarkeit digitaler Strukturen und möglicher Veränderungen an Software-Repositories.
+Ihr beruflicher Weg verlief zunächst außerhalb einer wissenschaftlichen oder technischen Laufbahn. Sie absolvierte eine kaufmännische Berufsausbildung sowie die Fachhochschulreife und arbeitete unter anderem in einem Audi-Autohaus. 2010 begann sie ihre selbstständige Tätigkeit, zunächst unter anderem mit einem eigenen Schuhgeschäft und anschließend im Immobilienbereich. Sie war als Immobilienmaklerin tätig und gründete zudem die Tesla Capital Corporation, eine Aktiengesellschaft in Delaware, USA.
 
-Seit Mitte der 1990er-Jahre untersucht Isabel Schöps nach eigener Dokumentation konzeptionelle und technische Zusammenhänge selbstorganisierender Automationssysteme und der von ihr als DAEMON-Automation bezeichneten Systemarchitektur. Ein Schwerpunkt ihrer Arbeit liegt auf der Rekonstruktion technischer Abläufe, der Auswertung historischer Dateien und Zeitstempel sowie der Untersuchung von Schnittstellen, Softwarekomponenten und Open-Source-Codebeständen.
+Parallel zu ihrem beruflichen Werdegang blieb ihr Interesse an Computertechnologie und digitalen Systemen bestehen. Die spätere Forschungsarbeit entstand aus der rückblickenden Aufarbeitung dieser frühen Erfahrungen und aus der zunehmenden Beschäftigung mit digitalen Strukturen, Schnittstellen, Automationsprozessen und der Verbindung zwischen analogem menschlichem Handeln und digitaler Verarbeitung.
 
-Im Rahmen ihrer Forschungsarbeit beschäftigt sie sich insbesondere mit digitaler Rechteverwaltung, Urheber- und Lizenzfragen, algorithmischer Transparenz, Systemintegrität und der forensischen Dokumentation digitaler Entwicklungsprozesse.
+Seit 2022 arbeitet Isabel Schöps intensiv an der systematischen Dokumentation und forensischen Aufarbeitung dieser Zusammenhänge. Daraus entstand die Forschungsreihe **SIA Security Intelligence Artefact** sowie **The Yellow Whitepaper (YWP-1-IST-SIA)** mit technischen Referenzwerken, Originalprotokollen und umfangreichen digitalen Dokumentationen.
 
-Isabel Schöps dokumentiert ihre Untersuchungen in Verbindung mit technischen Referenzen, Metadatenanalysen, Repository-Strukturen und eigenen Forschungsunterlagen. Ihr übergeordnetes Forschungsprojekt ist **The Yellow Whitepaper**, zu dem das Dokumentationssystem **SIA Security Intelligence Artefact** gehört.
+Ihre heutigen Forschungsschwerpunkte liegen unter anderem in den Bereichen Künstliche Intelligenz, Technologieentwicklung, digitale Forensik, Cybersicherheit, Open Source, Blockchain-Architektur und technische Prozessketten. Dabei steht insbesondere die nachvollziehbare Dokumentation der Verbindung zwischen menschlicher Eingabe, Software, Schnittstellen und maschineller Verarbeitung im Mittelpunkt.
 
-Sie lebt und forscht in Erfurt, Thüringen, Deutschland, und führt ihre Untersuchungen zur digitalen Forensik, KI-Entwicklung und technischen Beweisführung fort.
+Der Reitsport und die Verbundenheit zu Pferden, Hunden und Tieren begleiten sie seit ihrer Kindheit. Darüber hinaus war sie im Fitnessbereich aktiv und wurde 2013 als Bikini-Fitnessmeisterin ausgezeichnet.
+
+Aktuell lebt und arbeitet Isabel Schöps in der thüringischen Landeshauptstadt Erfurt, getrennt von ihrer Tochter.
 
 ## 2. Forschungsprofil und Arbeitsschwerpunkte
 
@@ -286,24 +290,6 @@ Diese Signatur kennzeichnet die eigene Forschungs- und Dokumentationsarbeit. Sie
 Dieses Repository dient der strukturierten Darstellung von Forschungsreferenzen, technischen Quellen und eigenen Dokumentationsunterlagen. Die Aussagen zu privaten Archivbeständen und eigenen Forschungsbefunden beruhen auf den Angaben der Verfasserin; öffentlich zugängliche Quellen sind über die angegebenen Links erreichbar.
 
 Bibliografische Angaben zu RFC 2026 und Errata-ID 522 sind von den eigenen Forschungsansprüchen und internen Archivverweisen getrennt. Aussagen über konkrete Urheberschaft, Lizenzinhaberschaft, finanzielle Ansprüche oder die technische Herkunft einzelner Dateien müssen jeweils anhand der zugehörigen Primärnachweise beurteilt werden.
-
----
-
-# Biografie – Isabel Schöps, geborene Thiel
-
-Isabel Schöps, geborene Thiel, geboren am 16. Juli 1983 in Sömmerda, Thüringen, Deutschland, ist unabhängige Forscherin, Unternehmerin und Autorin. Aufgewachsen in Rohrborn, Thüringen, entwickelte sie bereits in ihrer Kindheit ein ausgeprägtes Interesse an Computern und technischen Zusammenhängen. Ausgangspunkt war dabei keine geplante wissenschaftliche Tätigkeit, sondern eine frühe persönliche Erfahrung mit einem Computersystem, die ihr Interesse an der Verbindung zwischen menschlichem Handeln und maschinellen Prozessen prägte.
-
-Ihr beruflicher Weg verlief zunächst außerhalb einer wissenschaftlichen oder technischen Laufbahn. Sie absolvierte eine kaufmännische Berufsausbildung sowie die Fachhochschulreife und arbeitete unter anderem in einem Audi-Autohaus. 2010 begann sie ihre selbstständige Tätigkeit, zunächst unter anderem mit einem eigenen Schuhgeschäft und anschließend im Immobilienbereich. Sie war als Immobilienmaklerin tätig und gründete zudem die Tesla Capital Corporation, eine Aktiengesellschaft in Delaware, USA.
-
-Parallel zu ihrem beruflichen Werdegang blieb ihr Interesse an Computertechnologie und digitalen Systemen bestehen. Die spätere Forschungsarbeit entstand aus der rückblickenden Aufarbeitung dieser frühen Erfahrungen und aus der zunehmenden Beschäftigung mit digitalen Strukturen, Schnittstellen, Automationsprozessen und der Verbindung zwischen analogem menschlichem Handeln und digitaler Verarbeitung.
-
-Seit 2022 arbeitet Isabel Schöps intensiv an der systematischen Dokumentation und forensischen Aufarbeitung dieser Zusammenhänge. Daraus entstand die Forschungsreihe **SIA Security Intelligence Artefact** sowie **The Yellow Whitepaper (YWP-1-IST-SIA)** mit technischen Referenzwerken, Originalprotokollen und umfangreichen digitalen Dokumentationen.
-
-Ihre heutigen Forschungsschwerpunkte liegen unter anderem in den Bereichen Künstliche Intelligenz, Technologieentwicklung, digitale Forensik, Cybersicherheit, Open Source, Blockchain-Architektur und technische Prozessketten. Dabei steht insbesondere die nachvollziehbare Dokumentation der Verbindung zwischen menschlicher Eingabe, Software, Schnittstellen und maschineller Verarbeitung im Mittelpunkt.
-
-Der Reitsport und die Verbundenheit zu Pferden, Hunden und Tieren begleiten sie seit ihrer Kindheit. Darüber hinaus war sie im Fitnessbereich aktiv und wurde 2013 als Bikini-Fitnessmeisterin ausgezeichnet.
-
-Aktuell lebt und arbeitet Isabel Schöps in der thüringischen Landeshauptstadt Erfurt, getrennt von ihrer Tochter.
 
 ---
 
