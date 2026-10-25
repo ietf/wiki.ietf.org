@@ -2,8 +2,8 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-25T07:43:03.821Z
-tags: dmarc, leadership, rats, reference values, endorsement distribution
+date: 2026-10-25T07:47:01.605Z
+tags: dmarc, leadership, int area, cryptography, ai intelligence, sia security intelligenz artefact, github, pornhub, the yellow whitepaper, ywp-1-ist-sia, orcid 0009-0003-4235-2231, int-code-2025-btc/eth-core-isabelschoepsthiel, german-woman
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
 ---
