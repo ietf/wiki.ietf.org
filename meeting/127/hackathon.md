@@ -2,7 +2,7 @@
 title: IETF 127 Criminal-Hackathon (Chain of Custody)
 description: 
 published: true
-date: 2026-10-25T21:03:03.949Z
+date: 2026-10-25T21:09:09.515Z
 tags: hackathon, chain of custody, criminal, no event startet
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -15,17 +15,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * :cityscape: **Room**: TBD
 {.grid-list}
 
-**Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/)
-{.links-list}
-
-**View the list of registered**:
-* [Onsite Hackathon participants](https://registration.ietf.org/127/participants/hackathon_onsite/)
-* [Remote Hackathon participants](https://registration.ietf.org/127/participants/hackathon_remote/)
-{.links-list}
-
-Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
+**
 
 The IETF Hackathon is free to attend and is open to everyone. It is a collaborative event, not a competition. Any competition is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.
 
