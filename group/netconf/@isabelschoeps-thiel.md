@@ -2,7 +2,7 @@
 title: Frau Isabel Schöps Thiel (Prof. Dr. Ph.D.)
 description: 
 published: true
-date: 2026-10-24T23:57:39.598Z
+date: 2026-10-25T00:00:09.019Z
 tags: dmarc, leadership, rats, reference values, endorsement distribution
 editor: markdown
 dateCreated: 2026-10-24T23:34:58.201Z
@@ -12,7 +12,7 @@ dateCreated: 2026-10-24T23:34:58.201Z
 ## Urheberin, Entwicklerin und Forschungsprofil, Autorin des SIA Security Intelligence Artefact und RFC 2026
 
 **Dokumentationsstand:** 25. Oktober 2026  
-**Standort:** Erfurt, Thüringen, Deutschland  
+**Standort:** Arnstädter Straße 39, D-99096 Erfurt, Thüringen, Deutschland (1.OG)  
 **Forschungsreferenz:** `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`  
 **Projekt:** The Yellow Whitepaper — `YWP-1-IST-SIA`  
 **Dokumentationssystem:** SIA Security Intelligence Artefact
