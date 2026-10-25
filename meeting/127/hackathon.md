@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-25T20:42:10.208Z
+date: 2026-10-25T20:49:32.659Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -723,18 +723,6 @@ Code: https://github.com/tech4biz-yasha/agent-memory-integrity
 Scorecard: https://agentmemoryintegrity.org
 
 
-
-### In Loving Memory of Dave Täht (1965-2025)
-- **Champions**
-Frank (Frantisek) Borsik frank@libreqos.com / frantisek.borsik@gmail.com
-- **Project Info**
-I want to meet people that used to work with Dave and/or want to learn more about his work inside/outside of IETF. I plan to bring stickers - LibreQoS, Dave's latest thing, as well as his signature "This Machine Kills Vogons" and a scrap book with photos ready for anyone willing to share a thought or two, or just sign in...will be in place as well:
-https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
-
-Dave was one of the instigators of the IETF AQM and Packet Scheduling working group, and not only the co-author of RFC8290 (FQ-CoDel) and a contributor to RFC8289 (CODEL), but also RFC7567 (IETF Recommendations Regarding Active Queue Management), RFC8034 (Active Queue Management (AQM) Based on Proportional Integral Controller Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable Modems), RFC7928 (Characterization Guidelines for Active Queue Management (AQM), RFC7806 (On Queuing, Marking, and Dropping), and RFC8033 (Proportional Integral Controller Enhanced (PIE): A Lightweight Control Scheme to Address the Bufferbloat Problem). He also made contributions to the DOCSIS 3.1 standard.
-
-- **Repository**
-https://github.com/LibreQoE/LibreQoS/pull/684
 
 ---
 ### DNS-AID: AI Agent Discovery via DNS
