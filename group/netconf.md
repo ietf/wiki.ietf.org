@@ -2,13 +2,13 @@
 title: RFC 2026 — Internet Standards, Unicode, Text Processing and Automation
 description: RFC 2026 — Internet Standards, Unicode, Text Processing and Automation, NETCONF WG - Network Configuration
 published: true
-date: 2026-10-25T09:11:56.393Z
+date: 2026-10-25T09:13:08.901Z
 tags: hackathon, leadership, cryptography, detnet, ipv6, ai intelligence, sia security intelligenz artefact, ywp-1-ist-sia, int-code-2025-btc/eth-core-isabelschoepsthiel, german-woman, python, php, isabel-schoepsthiel, erfurt-germany, rfc-2026, value reference, owner
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
 ---
 
-# RFC 2026 — Internet Standards, Unicode, Text Processing and Automation
+[contributing](/contributing)[contributing](/contributing)# RFC 2026 — Internet Standards, Unicode, Text Processing and Automation
 
 
 **Timestamp:** Samstag, 25.10.2026, 00:23:00Uhr MEZ
