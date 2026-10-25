@@ -2,8 +2,8 @@
 title: NETCONF WG - Network Configuration
 description: 
 published: true
-date: 2026-10-25T08:33:07.691Z
-tags: 
+date: 2026-10-25T08:38:58.595Z
+tags: leadership, cryptography, ai intelligence, sia security intelligenz artefact, ywp-1-ist-sia, int-code-2025-btc/eth-core-isabelschoepsthiel, german-woman, python, php, isabel-schoepsthiel, erfurt-germany, rfc-2026
 editor: markdown
 dateCreated: 2022-12-16T19:44:45.932Z
 ---
