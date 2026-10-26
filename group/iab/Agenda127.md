@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-10-26T19:30:47.414Z
+date: 2026-10-26T19:33:18.397Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -87,7 +87,7 @@ Meetecho: TBD
 
 
 
-### 18:30-20:30: IETF 127 Plenary (Room: TBD)
+### 18:00-20:00: IETF 127 Plenary (Room: Continental 5-6)
 
 
 ## Thursday, 2026-11-19
