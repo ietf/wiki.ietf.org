@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-26T10:13:22.840Z
+date: 2026-10-26T19:25:05.303Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -30,9 +30,9 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > Not-required activities:
 > 
 >  **Hackathon**, 09:30-20:00
->     Room: TBD
+>     Room: Continental 4
 >  **Code Sprint**, 10:00-18:00
->    Room: TBD
+>    Room: Continental 7
 {.is-info}
 
 
@@ -52,11 +52,11 @@ Details TBD
 > Not-required activity:
 > 
 >   **Hackathon**, 08:30-15:00
->     Room: TBD
+>     Room: Continental 4
 {.is-info}
 
 
-### 09:30-11:30 - IESG Meeting (Room: TBD)
+### 09:30-11:30 - IESG Meeting (Room: Plaza A)
 
 
 > Meetecho: TBD
@@ -70,7 +70,7 @@ Details TBD
 > Note2: Topics are prioritized if linked to IETF 127 events or if they are time sensitive
 
 
-### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: TBD)
+### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Plaza A)
 
 > Meetecho: TBD
 > 
@@ -84,23 +84,23 @@ Details TBD
 
 ### Evening Meeting Events
 > 16:00-17:00 **New Participant's Quick Connections** 
->   Room: TBD
+>   Room: Continental 3
 > 17:00-19:00 **Welcome Reception** 
->   Room: TBD
+>   Room: Yosemite Ballroom
 > 18:00-20:00 **HotRFC Lightning Talks** 
->   Room: TBD
+>   Room: Continental 6
 {.is-info}
 
 
 ## Monday, November 16, 2026
 
-### 07:30-08:50 - IESG Meeting (Room: TBD)
+### 07:30-08:50 - IESG Meeting (Room: Plaza A)
 
 > Meetecho: TBD
 > 
 > 1. 
 
-### 12:45-13:45: IETF-3GPP Coordination (Room: TBD)
+### 12:45-13:45: IETF-3GPP Coordination (Room: Plaza A)
 
 Meetecho: TBD
  
@@ -112,7 +112,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
   
 ## Wednesday, November 18, 2026
-### 07:30-08:50 IESG Meeting  (Room: TBD)
+### 07:30-08:50 IESG Meeting  (Room: Plaza A)
 
 > Meetecho: TBD
 > 
@@ -143,10 +143,9 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ## Friday, November 20, 2026
 
-### 08:00-08:50 IESG Meeting  (Room: Park Suite 10)
 
 
-### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: TBD)
+### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: Plaza A)
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1007
 > 
@@ -162,7 +161,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 # <a id="IESGBreakoutRoom"></a>Reservations for IESG Meeting Room
 
-Location: TBD
+Location: Continental 1
 Conference style for 16
 
 This room is available for anyone on the IESG, for AD office hours or any meetings with individuals or small groups. The LLC has asked that we track general categories of usage for this room. Please include your name so we know who is responsible for each meeting.
