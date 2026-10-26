@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-26T19:25:05.303Z
+date: 2026-10-26T19:33:53.851Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -123,7 +123,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 
 
 
-### 17:30-19:30 - IETF 127 Plenary (Room: TBD)
+### 18:00-20:00 - IETF 127 Plenary (Room: Continental 5-6)
 
 
 
