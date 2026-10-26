@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-10-13T19:26:19.686Z
+date: 2026-10-26T19:30:47.414Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -111,7 +111,7 @@ Meetecho: TBD
 
 ## Friday, 2026-11-20
 
-### 12:30-14:00: Joint IAB/IESG Lunch and Meeting (Room: Grand Klimt Hall 3)
+### 12:30-14:00: Joint IAB/IESG Lunch and Meeting (Room: Plaza A)
 
 > Meetecho: TBD
 > 
