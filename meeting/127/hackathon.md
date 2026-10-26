@@ -2,7 +2,7 @@
 title: IETF 127 Criminal-Hackathon (Chain of Custody)
 description: 
 published: true
-date: 2026-10-25T21:09:16.983Z
+date: 2026-10-26T09:59:42.382Z
 tags: hackathon, chain of custody, criminal, no event startet
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -751,6 +751,9 @@ YANG-modeled data can be represented using different encodings, including XML, J
 For the IETF 127 Hackathon, we will demonstrate a normalization procedure that parses XML, JSON, and CBOR representations into a common abstract syntax tree and generates a deterministic normalized representation.
 The demo will show equivalent interface data using the three encodings, display their resulting trees, and verify that they produce identical normalized bytes and SHA-256 fingerprints. The project will also help identify additional normalization rules and interoperability test cases for future versions of the draft.
   
+- **Related Documents**
+
+  - https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/
 
 - **Related Repositories**
   - https://github.com/ana-mp26/yang-normalization (draft)
