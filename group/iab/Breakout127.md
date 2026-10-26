@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-10-13T19:20:10.858Z
+date: 2026-10-26T19:46:41.699Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -32,7 +32,7 @@ For food & beverage service requests, please include:
 
 ## Wednesday 
 
-
+- 09:00-12:00: UNAVAILABLE (RIR meeting, contact Paige)
 
 
 ## Thursday 
