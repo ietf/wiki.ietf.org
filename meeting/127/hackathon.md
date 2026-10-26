@@ -2,7 +2,7 @@
 title: IETF 127 Criminal-Hackathon (Chain of Custody)
 description: 
 published: true
-date: 2026-10-26T09:59:42.382Z
+date: 2026-10-26T23:58:38.024Z
 tags: hackathon, chain of custody, criminal, no event startet
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -682,6 +682,8 @@ Changhua Pei (chpei@cnic.cn)
 - Develop an Architectural Framework for observability, Intervention and Control of a network management agent. 
 - To validate the core components including the Agent system and observability, Benchmarking harness functionality
 - Demonstrate key applications (such as Campus Network Agent Benchmarking, AI Guardrail) which consume network management observability data
+- Extend agent observability with runtime metrics (e.g., task/model/tool-call latency, errors, and token usage) and a common execution trajectory representation for failure diagnosis.
+- Prototype AgentOps anomaly detection and failure attribution to identify responsible agents and root-cause steps, providing evidence to support evaluation and guardrail intervention.
 
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
