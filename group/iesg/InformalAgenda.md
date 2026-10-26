@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-26T17:57:00.668Z
+date: 2026-10-26T17:58:10.997Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -40,15 +40,13 @@ Note that this page is public.
 
 ### Document Discussions
 
+* Should rfc5706bis require an Operational Considerations section? (Mahesh)
+	* https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/edit?usp=share_link&ouid=102028873119142323400&rtpof=true&sd=true
+
 ### Management Issues
 * Input for the 2026 Community Survey (Roman)
   * Survey (see your email for a reference)
   * [Discussion at the 2026 Strategy Meeting](https://iesg.privatewikis.ietf.org/notes/2026-05-13)
-  
-* Should rfc5706bis require an Operational Considerations section? (Mahesh)
-	* https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/edit?usp=share_link&ouid=102028873119142323400&rtpof=true&sd=true
-
-
 
 ### WG News 
 
