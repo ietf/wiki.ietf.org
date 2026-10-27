@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-10-27T13:13:16.921Z
+date: 2026-10-27T13:14:12.093Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -46,7 +46,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 13 | [draft-ietf-teas-power-steering](https://datatracker.ietf.org/doc/draft-ietf-teas-power-steering)  | Open issues exist | 2026-10-13
 | 14 | [draft-ietf-teas-rsvp-auth-v2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-auth-v2/) | [WG LC - To Be Closed](https://mailarchive.ietf.org/arch/msg/teas/Rt6ts8yMxXJS4w33iPXeUwa4XKM/) (Pavan) | 2026-09-16
 | 15 | [draft-ietf-teas-rsvp-hmac-sha2](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-hmac-sha2/) | Pre-WG last call IPR Poll Done (Oscar) | 2026-09-26
-| 16 | [draft-ietf-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-inplace-lsp-bw-update/) |  Pre-WG last call IPR Poll (Oscar) | 2026-09-26
+| 16 | [draft-ietf-teas-rsvp-inplace-lsp-bw-update](https://datatracker.ietf.org/doc/draft-ietf-teas-rsvp-inplace-lsp-bw-update/) |  Pre-WG last call IPR Poll Done (Oscar) | 2026-09-26
 | 17 | [draft-ietf-teas-sf-aware-topo-model](https://datatracker.ietf.org/doc/draft-ietf-teas-sf-aware-topo-model/) ^Exp,^ ^YDR^           | No open issues; Editorial cleanup pending; <br> Ver 14 will be ready for WGLC (as per authors)| 2025-01-13
 | 18 | [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^    | Gated by progress of other YANG models| 2026-07-05
 | 19 | [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/) ^Exp^  | Open issues exist                   | 2025-01-13
