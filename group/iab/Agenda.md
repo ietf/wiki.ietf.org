@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-27T15:34:53.594Z
+date: 2026-10-27T18:26:02.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -43,7 +43,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ## Regrets
 
 - Matthew Bocci
+- Liz Flynn
 - Jason Livingood
+- Yingzhen Qu
 - Alvaro Retana
 
 ## Upcoming IAB Meetings
