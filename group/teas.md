@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-10-27T13:14:12.093Z
+date: 2026-10-27T13:21:55.578Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -51,7 +51,7 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 | 18 | [draft-ietf-teas-te-service-mapping-yang](https://datatracker.ietf.org/doc/draft-ietf-teas-te-service-mapping-yang/) ^YDR^    | Gated by progress of other YANG models| 2026-07-05
 | 19 | [draft-ietf-teas-te-topo-and-tunnel-modeling](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topo-and-tunnel-modeling/) ^Exp^  | Open issues exist                   | 2025-01-13
 | 20 | [draft-ietf-teas-te-topology-profiles](https://datatracker.ietf.org/doc/draft-ietf-teas-te-topology-profiles/)                      | [Ready for WGLC (as per Authors)](https://mailarchive.ietf.org/arch/msg/teas/vpPUEQHfj9YeV4ic5Zj2GwODDWY/) (Pavan) | 2026-07-06
-| 21 | [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/) ^YDR^                   | WGLC Done - Get Ready for Publication | 2026-09-08
+| 21 | [draft-ietf-teas-yang-l3-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-l3-te-topo/) ^YDR^                   | WGLC Done - Get Ready for Publication (Italo)| 2026-09-08
 | 22 | [draft-ietf-teas-yang-rsvp](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp/) ^YDR^                               | Ready for WGLC (as per Authors)     | 2025-01-13
 | 23 | [draft-ietf-teas-yang-rsvp-te](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-rsvp-te/) ^Exp,^ ^YDR^                         | Open issues exist                   | 2026-07-28
 | 24 | [draft-ietf-teas-yang-sr-te-topo](https://datatracker.ietf.org/doc/draft-ietf-teas-yang-sr-te-topo/) ^Exp,^ ^YDR^                   | No open issues; Editorial cleanup pending; <br> Ver 20 will be ready for WGLC (as per authors) (Oscar) | 2026-09-26 
