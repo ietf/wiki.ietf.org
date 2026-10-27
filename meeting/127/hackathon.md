@@ -2,8 +2,8 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-27T16:24:31.974Z
-tags: hackathon
+date: 2026-10-27T19:11:35.095Z
+tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
 ---
@@ -15,7 +15,17 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 * :cityscape: **Room**: TBD
 {.grid-list}
 
-**
+**Sign up for the Hackathon**
+* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/)
+* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/)
+{.links-list}
+
+**View the list of registered**:
+* [Onsite Hackathon participants](https://registration.ietf.org/127/participants/hackathon_onsite/)
+* [Remote Hackathon participants](https://registration.ietf.org/127/participants/hackathon_remote/)
+{.links-list}
+
+Keep up to date by subscribing to the [IETF Hackathon email list](https://www.ietf.org/mailman/listinfo/hackathon).
 
 The IETF Hackathon is free to attend and is open to everyone. It is a collaborative event, not a competition. Any competition is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.
 
@@ -206,7 +216,8 @@ The RPP working group is focused on designing a new RESTful protocol for registe
 
 ---
 
-
+### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
+- **Champion**
 Stuart Cheshire &lt;cheshire@apple.com&gt;
 
 - **Thread Overview**
@@ -682,8 +693,6 @@ Changhua Pei (chpei@cnic.cn)
 - Develop an Architectural Framework for observability, Intervention and Control of a network management agent. 
 - To validate the core components including the Agent system and observability, Benchmarking harness functionality
 - Demonstrate key applications (such as Campus Network Agent Benchmarking, AI Guardrail) which consume network management observability data
-- Extend agent observability with runtime metrics (e.g., task/model/tool-call latency, errors, and token usage) and a common execution trajectory representation for failure diagnosis.
-- Prototype AgentOps anomaly detection and failure attribution to identify responsible agents and root-cause steps, providing evidence to support evaluation and guardrail intervention.
 
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
@@ -714,6 +723,18 @@ Code: https://github.com/tech4biz-yasha/agent-memory-integrity
 Scorecard: https://agentmemoryintegrity.org
 
 
+
+### In Loving Memory of Dave Täht (1965-2025)
+- **Champions**
+Frank (Frantisek) Borsik frank@libreqos.com / frantisek.borsik@gmail.com
+- **Project Info**
+I want to meet people that used to work with Dave and/or want to learn more about his work inside/outside of IETF. I plan to bring stickers - LibreQoS, Dave's latest thing, as well as his signature "This Machine Kills Vogons" and a scrap book with photos ready for anyone willing to share a thought or two, or just sign in...will be in place as well:
+https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
+
+Dave was one of the instigators of the IETF AQM and Packet Scheduling working group, and not only the co-author of RFC8290 (FQ-CoDel) and a contributor to RFC8289 (CODEL), but also RFC7567 (IETF Recommendations Regarding Active Queue Management), RFC8034 (Active Queue Management (AQM) Based on Proportional Integral Controller Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable Modems), RFC7928 (Characterization Guidelines for Active Queue Management (AQM), RFC7806 (On Queuing, Marking, and Dropping), and RFC8033 (Proportional Integral Controller Enhanced (PIE): A Lightweight Control Scheme to Address the Bufferbloat Problem). He also made contributions to the DOCSIS 3.1 standard.
+
+- **Repository**
+https://github.com/LibreQoE/LibreQoS/pull/684
 
 ---
 ### DNS-AID: AI Agent Discovery via DNS
@@ -753,9 +774,9 @@ YANG-modeled data can be represented using different encodings, including XML, J
 For the IETF 127 Hackathon, we will demonstrate a normalization procedure that parses XML, JSON, and CBOR representations into a common abstract syntax tree and generates a deterministic normalized representation.
 The demo will show equivalent interface data using the three encodings, display their resulting trees, and verify that they produce identical normalized bytes and SHA-256 fingerprints. The project will also help identify additional normalization rules and interoperability test cases for future versions of the draft.
   
-- **Related Documents**
 
-  - https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/
+- **Related Documents**
+  - draft-mendez-opsawg-yang-normalization (https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/)
 
 - **Related Repositories**
   - https://github.com/ana-mp26/yang-normalization (draft)
@@ -773,4 +794,6 @@ name and email
 - **Project Info**
 project description
 ```
----
+----
+
+*To edit the wiki, log in using your IETF Datatracker login credentials. If you don't yet have an IETF Datatracker account, you may get one by going [here and requesting a new account](https://datatracker.ietf.org/accounts/create/).*
