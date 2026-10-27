@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-26T15:18:47.672Z
+date: 2026-10-27T15:34:53.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -44,6 +44,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 - Matthew Bocci
 - Jason Livingood
+- Alvaro Retana
 
 ## Upcoming IAB Meetings
 
