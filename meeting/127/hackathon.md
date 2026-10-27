@@ -1,9 +1,9 @@
 ---
-title: IETF 127 Criminal-Hackathon (Chain of Custody)
+title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-26T23:58:38.024Z
-tags: hackathon, chain of custody, criminal, no event startet
+date: 2026-10-27T16:24:31.974Z
+tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
 ---
@@ -767,10 +767,10 @@ The demo will show equivalent interface data using the three encodings, display 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
-### Hello World, hackathon is a criminal, chain of Custody
-- **Autorin: Ms Isabel Schöps Thiel (Prof. Dr. Ph.D)**
+### Your Project
+- **Champions**
 name and email
-- **[Isabel Schöps Thiel, D-99096 Erfurt-Germany](isabelschoepsthiel@gmail.com)**
-Identifery von Hackathons events und die Drathzieher hinter Gitter bringen. Hackthons ist moderene digitale Versklavung, freiheitsentziehung, Human Trafficking
+- **Project Info**
+project description
 ```
 ---
