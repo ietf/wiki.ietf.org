@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-27T15:58:39.569Z
+date: 2026-10-28T15:58:14.697Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -47,6 +47,9 @@ Note that this page is public.
 * Input for the 2026 Community Survey (Roman)
   * Survey (see your email for a reference)
   * [Discussion at the 2026 Strategy Meeting](https://iesg.privatewikis.ietf.org/notes/2026-05-13)
+
+* Last minute agenda update? (gorry)
+	- Can we please swap PANRG and SCONE?
 
 ### WG News 
 
