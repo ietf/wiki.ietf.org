@@ -2,32 +2,28 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-27T18:26:02.438Z
+date: 2026-10-28T07:09:06.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-10-28, 06:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-11-04, 14:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-10-28
+## There WILL NOT be a meeting on 2026-11-04
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m32bf9eb2b60c46d25d9f966510503eca
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1853bd6046f7c32b5d609d34df995dd6
 
 
 
-### 1. Update to IAB statement on Appeal (Mark)
+### 1. Topic (Owner)
 
-[Doc](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
-
-### 2. Executive Session: Appeal (if needed)
-
-
+Context: 
 
 ### Potential Additional Topic for this or future meeting
 
@@ -42,17 +38,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ## Regrets
 
-- Matthew Bocci
-- Liz Flynn
-- Jason Livingood
-- Yingzhen Qu
-- Alvaro Retana
 
 ## Upcoming IAB Meetings
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-10-28 Informal 0600-0700 UTC
 - 2026-11-04 Informal 1400-1500 UTC
 - 2026-11-11 Informal 1400-1500 UTC (INT AD Confirmation)
 
