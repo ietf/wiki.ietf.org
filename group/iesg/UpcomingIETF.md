@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-26T19:33:53.851Z
+date: 2026-10-28T18:56:07.154Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -37,10 +37,12 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 
 
 
-### 15:45 AMS-IETF Leadership Venue Tour & Happy Hour
-The Secretariat hosts a tour of the meeting space for leadership, followed by a happy hour. It's a good opportunity to learn your way around the venue and socialize with IAB, IESG, LLC, Secretariat, etc.
+### 16:00 IETF Leadership Venue Tour & Happy Hour
 
-Details TBD
+> 
+> Please meet at 16:00 at the IETF Registration counter in the first floor foyer (right before you enter the Golden Gate rooms) for a quick toast + beverage to take on the tour. If you're not joining for the tour, please meet us in the Vista Lounge, located 46th floor, within the City Scape Bar for light drinks. Please note: there's no food offered at this happy hour.
+{.is-info}
+
 
 
 
@@ -59,7 +61,7 @@ Details TBD
 ### 09:30-11:30 - IESG Meeting (Room: Plaza A)
 
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
 > 
 > 1. 
 
@@ -72,7 +74,7 @@ Details TBD
 
 ### 11:45-13:45 - Joint IAB/IESG Lunch & Meeting (Room: Plaza A)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
 > 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
@@ -96,13 +98,13 @@ Details TBD
 
 ### 07:30-08:50 - IESG Meeting (Room: Plaza A)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1002
 > 
 > 1. 
 
 ### 12:45-13:45: IETF-3GPP Coordination (Room: Plaza A)
 
-Meetecho: TBD
+Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1003
  
  
 ## Tuesday, November 17, 2026
@@ -114,7 +116,7 @@ No IESG meeting. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab/A
 ## Wednesday, November 18, 2026
 ### 07:30-08:50 IESG Meeting  (Room: Plaza A)
 
-> Meetecho: TBD
+> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1005
 > 
 > Agenda:
 > 1. Plenary Slide Review + Prep
@@ -136,7 +138,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 > Non-required event:
 > 
 > **New Participants' Social Hour** Time: 18:45-19:45
-> Room: TBD
+> Room: Continental 3
 > Opportunity to socialize with new participants and hear how their meeting week has been
 {.is-info}
 
