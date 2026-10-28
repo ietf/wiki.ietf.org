@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-10-28T18:46:50.121Z
+date: 2026-10-28T18:47:42.198Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -50,7 +50,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 ### Evening Meeting Events
 
 > **New Participants' Quick Connections** 16:00-17:00
->   Room: TBD
+>   Room: Continental 3
 > **Welcome Reception** 17:00-19:00
 >   Room: Yosemite Ballroom
 > **HotRFC Lightning Talks** 18:00-20:00
@@ -122,7 +122,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 
 
-### 17:30-18:30: Farewell Reception (Room: TBD)
+### 17:30-18:30: Farewell Reception (Room: Yosemite Ballroom)
 
 
 
