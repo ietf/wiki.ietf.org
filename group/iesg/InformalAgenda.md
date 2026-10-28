@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-28T16:05:36.983Z
+date: 2026-10-28T16:21:48.024Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -59,6 +59,8 @@ Note that this page is public.
 ### WG News 
 
 ### Documents to Swap 
+
+* draft-alivar-6man-icmp-error-srv6-vpn should rather be in SPRING rather than 6MAN as the SRv6 experts are in SPRING.
 
 ### Executive Sessions
 
