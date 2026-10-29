@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-28T14:31:13.293Z
+date: 2026-10-29T00:37:26.323Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -424,7 +424,30 @@ https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
 ----
 ---
+### AIDEVOPS — Network-Management Agent Interoperability
 
+- **Champions**
+Sun Qiong (sunqiong@chinatelecom.cn)
+Fu Yu (fuy44@chinatelecom.cn)
+Song Xin (songx18@chinatelecom.cn)
+Yu Yunfu (Yuyf12@chinatelecom.cn)
+Luo Runze (luorz4@chinatelecom.cn)
+Roland Schott (Roland.Schott@telekom.de)
+Nirali Vasoya (nvasoya@cisco.com)
+Scott Huang (scohuang@cisco.com)
+Muthumayan Madhayyan (muthu@cisco.com)
+David Chunk (dachuck@cisco.com)
+Dan Voyer (davoyer@cisco.com)
+
+- **Project Info**  
+Connect an external capacity-planning agent to an agentic network-management platform to identify best paths that meet capacity constraints. Using A2A for task exchanges and evaluating MCP or a platform API for data access, we will test skill-interface discovery, input/output validation, and exchange of results with supporting evidence. The goal is to demonstrate interoperability between independent implementations and document where existing mechanisms suffice or additional shared definitions are needed. Testing will use a controlled environment without production network changes.
+
+- **Repos**
+[AINETOPS proposal](https://github.com/dan-voyer/IETF/tree/main/AINETOPS-proposal) - working text describing the operational interoperability problems
+
+[Schema Interfaces for Network Management Agent Skills](https://github.com/agentic-network-management/agent-schema-interfaces) - working draft for the schema-interface
+
+	
 ### SW103K Layer 2 Compression and Decompression Protocol Interop
 
 - **Champions**
