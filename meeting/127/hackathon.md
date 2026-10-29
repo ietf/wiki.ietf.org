@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-29T00:37:26.323Z
+date: 2026-10-29T00:40:49.412Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -444,7 +444,6 @@ Connect an external capacity-planning agent to an agentic network-management pla
 
 - **Repos**
 [AINETOPS proposal](https://github.com/dan-voyer/IETF/tree/main/AINETOPS-proposal) - working text describing the operational interoperability problems
-
 [Schema Interfaces for Network Management Agent Skills](https://github.com/agentic-network-management/agent-schema-interfaces) - working draft for the schema-interface
 
 	
