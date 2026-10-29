@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-28T16:21:48.024Z
+date: 2026-10-29T14:23:07.963Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -75,7 +75,7 @@ Please list topics in this section that could use discussion but may not warrant
 ### Topics Deferred Till Next Informal 
 * IESG review of liaison statement drafts (4052bis & 4053bis), hopefully with Suresh present for discussion [raised at IETF 126 joint meeting]
 * `code` formatting in drafts, `.txt` output and doc production (Inacio)
-
+* Can I know a little more context on ROCEv2: what might or might not be in scope of IETF specs/guidance, or pointers to help me frame this. (Gorry) - Prefer before IETF127.
 -------
 
 
