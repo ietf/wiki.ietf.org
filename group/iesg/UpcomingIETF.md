@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-10-28T18:56:07.154Z
+date: 2026-10-29T14:07:27.734Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -63,7 +63,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 
 > Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
 > 
-> 1. 
+> 1. ROCEv2 (Gorry, Ketan)
 
 
 >
