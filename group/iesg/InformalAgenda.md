@@ -2,18 +2,16 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-29T14:23:07.963Z
+date: 2026-10-29T22:00:17.950Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 29, 2026
+# Informal Telechat - December 10, 2026
 
-There **WILL** be a meeting on this date.
+There **WILL NOT** be a meeting on this date.
 
-> Note: The 29 Oct meeting is at 07:00 US PT / 14:00 UTC!
-{.is-warning}
 
 
 
@@ -45,22 +43,15 @@ Note that this page is public.
 
 ### Document Discussions
 
-* Should rfc5706bis require an Operational Considerations section? (Mahesh)
-	* https://docs.google.com/presentation/d/1nt_LW7quL3ll6H0dvTCz3N_wWQrkmtat/edit?usp=share_link&ouid=102028873119142323400&rtpof=true&sd=true
 
 ### Management Issues
-* Input for the 2026 Community Survey (Roman)
-  * Survey (see your email for a reference)
-  * [Discussion at the 2026 Strategy Meeting](https://iesg.privatewikis.ietf.org/notes/2026-05-13)
 
-* Last minute agenda update? (gorry)
-	- Can we please swap PANRG and SCONE?
 
 ### WG News 
 
 ### Documents to Swap 
 
-* draft-alivar-6man-icmp-error-srv6-vpn should rather be in SPRING rather than 6MAN as the SRv6 experts are in SPRING.
+
 
 ### Executive Sessions
 
