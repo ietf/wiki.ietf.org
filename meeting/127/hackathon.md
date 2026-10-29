@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-29T00:40:49.412Z
+date: 2026-10-29T14:36:18.743Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -436,7 +436,7 @@ Roland Schott (Roland.Schott@telekom.de)
 Nirali Vasoya (nvasoya@cisco.com)
 Scott Huang (scohuang@cisco.com)
 Muthumayan Madhayyan (muthu@cisco.com)
-David Chunk (dachuck@cisco.com)
+David Chuck (dachuck@cisco.com)
 Dan Voyer (davoyer@cisco.com)
 
 - **Project Info**  
