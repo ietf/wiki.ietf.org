@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-30T20:18:03.053Z
+date: 2026-10-30T22:51:32.582Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -808,7 +808,45 @@ The demo will show equivalent interface data using the three encodings, display 
   - https://github.com/ana-mp26/yang-normalization (draft)
   - https://github.com/tefiros/yang-data-normalization/ (implementation)
 ---
+### Working on GREEN Use-Case Events
 
+- **Champions**
+
+  - Emile Stephan ([emile.stephan@orange.com](mailto:emile.stephan@orange.com))
+  - Marisol Palmero ([marisolpalmero7@gmail.com](mailto:marisolpalmero7@gmail.com))
+
+- **Collaborators**
+
+  - Contributions from GREEN participants and Hackathon attendees are welcome.
+
+- **Project Info**
+
+  There was a GREEN Hackathon table at [IETF 123](https://wiki.ietf.org/meeting/123/hackathon) and [IETF 126](https://wiki.ietf.org/en/meeting/126/hackathon). 
+  For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
+
+  - turn GREEN use cases into simple event sequences;
+  - refine event details for implementation and testing;
+  - run a small simulator and inspect YANG state;
+  - feed what we learn back into the GREEN WG work.
+
+- **Related Documents**
+
+  - GREEN WG: https://datatracker.ietf.org/group/green/
+  - Use Cases for Energy Efficiency Management: https://datatracker.ietf.org/doc/draft-ietf-green-use-cases/
+  - Framework for Energy Efficiency Management: https://datatracker.ietf.org/doc/draft-ietf-green-framework/
+  - Power and Energy YANG Module: https://datatracker.ietf.org/doc/draft-ietf-green-power-and-energy-yang/
+  - Terminology for Energy Efficiency Network Management: https://datatracker.ietf.org/doc/draft-ietf-green-terminology/
+  - RFC 8348 â€” A YANG Data Model for Hardware Management: https://datatracker.ietf.org/doc/rfc8348/
+
+- **Repos and Previous Hackathon Material**
+
+  - Current GREEN use-case source: https://github.com/emile22/draft-ietf-green-use-cases
+  - IETF 123 Hackathon page: https://wiki.ietf.org/en/meeting/123/hackathon
+  - IETF 123 GREEN Hackathon report: https://datatracker.ietf.org/meeting/123/materials/slides-123-green-sessa-05-report-from-the-ietf-123-hackathon-00
+  - IETF 126 Hackathon page: https://wiki.ietf.org/en/meeting/126/hackathon
+  - IETF 126 Hackathon materials: https://datatracker.ietf.org/meeting/126/session/hackathon
+  - Previous GREEN Hackathon repository/resources: https://github.com/luismcontreras/HackathonIETF123
+---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
