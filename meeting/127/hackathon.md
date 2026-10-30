@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-29T14:36:18.743Z
+date: 2026-10-30T20:16:42.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -424,7 +424,7 @@ https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
 ----
 ---
-### AIDEVOPS — Network-Management Agent Interoperability
+### AINETOPS — Network-Management Agent Interoperability
 
 - **Champions**
 Sun Qiong (sunqiong@chinatelecom.cn)
