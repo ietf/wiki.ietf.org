@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-30T20:16:42.630Z
+date: 2026-10-30T20:18:03.053Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -464,6 +464,7 @@ RFC2544
 RFC9293
 ---
 ### EarlyAttestationBleed, EarlyAttestationTschüss (EAT), Intra-handshake.fail, Identity Crisis in Confidential Computing and co: CVE-2026-100833 of CVSS 9.6, CVE-2026-108265 of CVSS 9.1, CVE-2026-108266 of CVSS 9.1, CVE-2026-108267 of CVSS 9.1, CVE-2026-108268 of CVSS 9.1, CVE-2026-108269 of CVSS 9.1, CVE-2026-100835 of CVSS 9.1, CVE-2026-92701 of CVSS 9.1, CVE-2026-92702 of CVSS 9.1, CVE-2026-108362 of CVSS 9.1, CVE-2026-33697 of CVSS 7.5, CVE-2026-108361 of CVSS 7.2, and 29+ other CVEs of up to expected CVSS 10.0 upcoming 
+
 - **Champions**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
