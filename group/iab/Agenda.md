@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-29T14:00:34.494Z
+date: 2026-10-30T05:30:20.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -21,9 +21,11 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 1. ISE Survey (Akanksha)
 
-Context: 
+Context:
 
-### 2. Executive Session: INT-AD Mid-term Confirmation
+### 2. Prep for IETF 127 
+
+### 3. Executive Session: Mid-Term Vacancy Internet (INT) AD Confirmation
 
 ### Potential Additional Topic for this or future meeting
 
