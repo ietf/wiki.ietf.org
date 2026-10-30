@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-10-30T05:30:20.084Z
+date: 2026-10-30T23:09:37.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -26,6 +26,8 @@ Context:
 ### 2. Prep for IETF 127 
 
 ### 3. Executive Session: Mid-Term Vacancy Internet (INT) AD Confirmation
+
+### 4. Walk on item - from Jason Livingood
 
 ### Potential Additional Topic for this or future meeting
 
