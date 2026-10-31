@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-30T22:51:32.582Z
+date: 2026-10-31T15:15:21.328Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -808,6 +808,47 @@ The demo will show equivalent interface data using the three encodings, display 
   - https://github.com/ana-mp26/yang-normalization (draft)
   - https://github.com/tefiros/yang-data-normalization/ (implementation)
 ---
+
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
+Mike Ounsworth (mike.ounsworth@crypticforest.ca)
+Jean-Pierre Fiset (jp@crypto4a.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc9881
+https://datatracker.ietf.org/doc/rfc9935/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/rfc9810/
+https://datatracker.ietf.org/doc/rfc9909/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-certdiscovery
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-frodokem/
+https://datatracker.ietf.org/doc/draft-longa-cfrg-frodokem/
+https://datatracker.ietf.org/doc/draft-song-lamps-cms-composite-frodokem/
+https://datatracker.ietf.org/doc/draft-song-lamps-pq-composite-frodokem/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have github automated tooling that automatically tests submitted artifacts allowing implementations to get immediate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 127, we plan to add more automation and others are invited to test interoperability.  
+- FrodoKEM and Classic McEliece have been standardized at ISO, so participants are welcome to test those algorithms. 
+- There are new drafts for FrodoKEM composite algorithms, prototype OIDs and artifacts for those can be added for testing
+- Test vectors for draft-ietf-lamps-certdiscovery are needed
+- Some experimentation with Merkle Tree Certificates is also being tested.  For example the ldp mechanism
+
+Repository:  https://github.com/IETF-Hackathon/pqc-certificates
+
+---
+
 ### Working on GREEN Use-Case Events
 
 - **Champions**
@@ -850,6 +891,7 @@ The demo will show equivalent interface data using the three encodings, display 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
 
 ```markdown
 ### Your Project
