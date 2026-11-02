@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-10-31T15:15:21.328Z
+date: 2026-11-02T01:00:35.058Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -887,6 +887,20 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
   - IETF 126 Hackathon page: https://wiki.ietf.org/en/meeting/126/hackathon
   - IETF 126 Hackathon materials: https://datatracker.ietf.org/meeting/126/session/hackathon
   - Previous GREEN Hackathon repository/resources: https://github.com/luismcontreras/HackathonIETF123
+
+---
+
+### SRv6 SFC Control Plane Implementation
+ 
+- **Champions**
+Masahiro Asami (asami@fnsc.co.jp)
+Ryosuke Takenaka (takenaka@fnsc.co.jp)
+ 
+- **Project Info**
+  - This project aims to implement control plane functionality for SRv6 Service Function Chaining (SFC), based on the architecture described in [draft-watal-spring-srv6-sfc-sr-aware-functions].
+
+  - The primary focus is on implementing a BGP FlowSpec sender to distribute traffic classification rules and the associated information needed to steer traffic through SRv6-based Service Function Chains.
+
 ---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
