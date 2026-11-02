@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-02T01:00:35.058Z
+date: 2026-11-02T10:56:09.690Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -660,6 +660,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
 - **Champions**
   - Alexander Pelov (IMT Atlantique) — alexander.pelov@imt-atlantique.fr
+  - Ivaylo Petrov (Google) — ivaylopetrov@google.com
   
 - ** Supporters **
   - Marco Tiloca (RISE) — marco.tiloca@ri.se 
