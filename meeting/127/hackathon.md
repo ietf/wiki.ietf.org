@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-02T10:56:09.690Z
+date: 2026-11-02T14:36:43.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -901,6 +901,29 @@ Ryosuke Takenaka (takenaka@fnsc.co.jp)
   - This project aims to implement control plane functionality for SRv6 Service Function Chaining (SFC), based on the architecture described in [draft-watal-spring-srv6-sfc-sr-aware-functions].
 
   - The primary focus is on implementing a BGP FlowSpec sender to distribute traffic classification rules and the associated information needed to steer traffic through SRv6-based Service Function Chains.
+
+---
+### Experiment on Incident Server Implementation Using Agentic AI
+
+- **Champions**
+Henry Yu (hyu2010b@gmail.com)
+Yanxia Tan (tanyx11@chinaunicom.cn)
+
+- **Project Info**
+  - This project is an experiment on how to use AI-related technology to implement the incident server defined in [1] for optical transport networks. The experiment boundary is within the functionality of the incident server.  (That being said, incident prevention [2], which is essential to SLA assurance, may also be our experiment target. But we will focus on incident first.)
+
+  - The experiment will study/investigate relevant AIOPs questions, such as
+   (1) how agents (i.e., NMA specifically) uses cognitive reasoning for incident handling
+   (2) what and how AI-data (e.g., knowledge graph and ontology) should be constructed and used to assist cognitive reasoning
+   (3) what and how tools are used by NMA
+
+  - We have already done some preliminary work [3] at the IETF 126 hackathon. 
+
+  - References:
+  [1] https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/
+  [2] https://datatracker.ietf.org/doc/draft-yu-ccamp-sla-assurance-optical-yang/
+  [3] https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-issues-and-incidents-identification-using-agentic-ai-and-knowledge-graph-00
+
 
 ---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
