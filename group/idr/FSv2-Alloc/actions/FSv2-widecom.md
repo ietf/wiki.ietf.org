@@ -2,7 +2,7 @@
 title: Comunity Container Flow Specification V2 Actions 
 description: FSv2 Community Container Actions 
 published: true
-date: 2026-11-02T01:57:38.945Z
+date: 2026-11-02T03:47:59.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-05T12:48:43.032Z
@@ -40,17 +40,16 @@ dateCreated: 2026-06-05T12:48:43.032Z
 | 100 | redirect  | BSID/index (1000) | redirect to BSID as index SRv6 | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
 | 100 | redirect  | BSID SRv6 (1100 | redirect to BSID SRv6  | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
 | 100 | redirect  | SFC | SFC path Identifier | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
- 
+| 200 | redirect to | CS-ID in IPv4 packet |  [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) |
+| 210 | redirect to | CS-ID in IPv4 packet |  [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
 {.dense}
  
 ### Group Action Mark, Merge or Traffic Shape (500) 
 | Action ID | Action Component | SubTLV | Description | document |   
 |---|---|---|---|
 | 100 | Mark DSCP  | none | Mark DSCP in IPv4 Packet  | [/draft-hares-idr-ip-more-actions]((https://www.ietf.org/archive/id/draft-hares-idr-fsv2-ip-more-actions) | 
-| 400 | Mark IPv4 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
-| 410 | Mark IPv6 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
-| 500 | Redirect to IPv4 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
-| 510 | Redirect to IPv6 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
+| 200 | Mark IPv4 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
+| 210 | Mark IPv6 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
 | 600 | Redirect Load Balance | see LB SubTLV registry | [draft-wu-idr-flowspec-redirect-group](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-redirect-group/)
 {.dense}
 
@@ -70,7 +69,7 @@ dateCreated: 2026-06-05T12:48:43.032Z
 ### Loggin Action Family (1000) 
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
-| 100 | Sample | none | Sample traffic | [/draft-hares-idr-ip-more-actions]((https://www.ietf.org/archive/id/draft-hares-idr-fsv2-ip-more-actions) | 
+| 100 | log | none | logging info | TBD | 
 {.dense}
 
 
