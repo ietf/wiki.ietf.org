@@ -2,7 +2,7 @@
 title: Shepherd Reports for FSv2 Drafts 
 description: Shepherd FSv2 Drafts 
 published: true
-date: 2026-10-08T16:29:46.927Z
+date: 2026-11-02T00:35:47.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T04:26:26.597Z
@@ -31,9 +31,17 @@ dateCreated: 2025-03-16T04:26:26.597Z
 - [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  -  [(-06)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-interfaceset/) - Needs 2 implementations 
 - [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - [(-13)](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-path-redirect/) - needs new main editor
 
+## WG drafts for Filters for FSv2 
+- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09 to -10](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-srv6/) - needs FSv2 format with IP Basic Filter family 
+- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [(00) to (04)](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
+- [draft-ietf-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-bitwise-ip-filters/) [-00](/group/idr/Shepherd-FSv2/draft-kao-idr-bitwise-ip-filters/)
+ - [draft-ietf-idr-fsv2-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-dip-origin-as-filter/)  [-13]
+- [draft-ietf-idr-fsv2-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-sip-origin-as-filter/)  [-01]
+- [draft-ietf-idr-fsv2-dip-community-filter](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-dip-community-filter/)  [-01]
+- [draft-ietf-idr-fsv2-sip-community-filter](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-sip-community-filter/) [-01]
+- [draft-ietf-idr-fsv2-scheduling](https://datatracker.ietf.org/doc/draft-fsv2-idr-flowspec-path-scheduling/) [-02] 
 
 ## WG drafts needing FSv2 rewrite   
-- [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/) [-09 to -10](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-srv6/) - needs FSv2 format with IP Basic Filter family 
 - [draft-ietf-idr-flowspec-l2vpn](/group/idr/implementations/draft-ietf-idr-flowspec-l2vpn) [-27](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-l2vpn/) - Needs FSv2 format with L2 Filter Family 
 - [draft-ietf-idr-flowspec-nv03](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) - [23 tp 24 ](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-nvo3/) - needs rewrite to FSv2 using Tunnel traffic Filter family 
 - [draft-ietf-idr-flowspec-network-slice-ts](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-network-slice-ts/) -[05](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-network-slice-ts/) - Needs version 06 - for FSv2 changes 
@@ -41,21 +49,18 @@ dateCreated: 2025-03-16T04:26:26.597Z
 
 - [draft-ietf-idr-flowspec-mpls-match](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-mpls-match/) - [02](/group/idr/Shepherd-FSv2/draft-ietf-idr-flowspec-mpls-match/) - Needs version 03 for FSv2 MPLS filter familyi and references. 
 
+- [draft-zzd-idr-flowspec-pa| th-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-path-scheduling/) [-02] 
+
 ## IDR WG Drafts related to FSv2 drafts 
 - [draft-wu-idr-flowspec-rpd-impl](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-rpd-impl) [-00] 
 
 
 ## Individual Drafts - reviews pending (ETA by 6/6) 
 ### Filters 
-- [draft-cui-idr-content-filter-flowspec](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) [(00) to (04)](/group/idr/Shepherd-FSv2/cui-idr-content-filter-flowspec/) - filter 
 - [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/) [-(06 to -07)](/group/idr/Shepherd-FSv2/draft-geng-idr-flowspec-sav/) - filter and action 
-- [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/) [-03 to -04 ](/group/idr/Shepherd-FSv2/draft-kao-idr-bitwise-ip-filters/)
 - [draft-lin-idr-cats-flowspec-ts](https://datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts/) [-03](/group/idr/Shepherd-FSv2/draft-lin-idr-cats-flowspec-ts/) 
 - [draft-lll-idr-flowspec-filter-qp-00](https://datatracker.ietf.org/doc/draft-lll-idr-flowspec-filter-qp/) [-00](/group/idr/Shepherd-FSv2/draft-lll-idr-flowspec-filter-qp/)
- - [draft-wang-idr-flowspec-dip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-dip-origin-as-filter/)  [-13]
-- [draft-wang-idr-flowspec-sip-origin-as-filter](https://datatracker.ietf.org/doc/draft-wang-idr-flowspec-sip-origin-as-filter/)  [-01]
-- [draft-wu-idr-flowspec-dip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-dip-community-filter/)  [-01]
-- [draft-wu-idr-flowspec-sip-community-filter](https://datatracker.ietf.org/doc/draft-wu-idr-flowspec-sip-community-filter/) [-01]
+
 
 #### identifiers still to be categorized 
 #### May be outdated 
