@@ -2,7 +2,7 @@
 title: Comunity Container Flow Specification V2 Actions 
 description: FSv2 Community Container Actions 
 published: true
-date: 2026-11-02T01:34:01.115Z
+date: 2026-11-02T01:54:11.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-05T12:48:43.032Z
@@ -28,7 +28,18 @@ dateCreated: 2026-06-05T12:48:43.032Z
 ### Redirect Action Family (300) 
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
-| 100 | interface set  | Interface | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | IP VRF (100)  | redirect to IPv4 VRF | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |
+| 100 | redirect  | IP address (200)  | redirect to IOP address | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | Indirect ID (300)  | redirect to indirection ID | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | Node ID with SID/index (400)  | redirect to Node ID SID/indexx | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | Node ID with SID/label (500) | redirect to SID as Label | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | BSID with SID/index (600)  | redirect to BSID as index | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | BSID with SID/label (700) | rediret to BSID as global label | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | Tunnel ID (800) | redirect to tunnel ID  | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | SID/Index SRv6 (900)  | redirect to SID/index  | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | BSID/index (1000) | redirect to BSID as index SRv6 | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  | BSID SRv6 (1100 | redirect to BSID SRv6  | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 100 | redirect  |  | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
 | 200 | 
 {.dense}
  
