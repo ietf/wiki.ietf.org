@@ -2,7 +2,7 @@
 title: BGP Flow Specification Component Allocation for draft-ietf-idr-fsv2-ip-basic
 description: FSv2 components
 published: true
-date: 2026-10-21T20:29:42.885Z
+date: 2026-11-02T01:16:17.911Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T17:09:54.584Z
@@ -30,12 +30,14 @@ dateCreated: 2026-05-25T17:09:54.584Z
 |---|---|---|---|
 | 200  | 0 | Reserved |
 | 200  | 100 |Scheduling Time Information | [draft-zzd-idr-flowspec-scheduling](https://datatracker.ietf.org/doc/draft-zzd-idr-flowspec-scheduling/)
+{.dense}
 
 ### Interface identifier 
 | Filter Family | Component | Description | document |  
 |---|---|---|---|
 | 300  | 0 | Reserved |
 | 300  | 100 | incoming Interface set | [draft-geng-idr-flowspec-sav](https://datatracker.ietf.org/doc/draft-geng-idr-flowspec-sav/)
+{.dense}
 
 ## Filters Components for L2 Traffic Rule Family
 | Filter Family | Component | Description }   
@@ -67,6 +69,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 500  | 20 | MPLS-Match 1 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 500  | 30 | MPLS-Match 2 | [draft-ietf-idr-flowspec-mpls-match](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-mpls-match)
 | 500  | 4095 | reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
+{.dense}
 
 ### SFC Filter Family Component Assignments 
 ### 
@@ -86,6 +89,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 700 | 100 | Destination QP |  [draft-lll-idr-flowspec-filter-qp-01.txt](https://www.ietf.org/archive/id/draft-lll-idr-flowspec-filter-qp-01.txt) | 
 | 700 | 101-4094 | Unassigned |   [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 | 700 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
+{.dense}
 
 ### Tunneled Traffic (NVO3) 
 ### Filter Family 
@@ -102,7 +106,7 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 800 | 80 | Protocol Type | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
 | 800 | 90 | GRE Sequence | [draft-ietf-idr-flowspec-nvo3](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-nvo3/) | 
 | 800 | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
-
+{.dense}
 
 
  ## Tunneled Traffic APN
@@ -211,4 +215,4 @@ dateCreated: 2026-05-25T17:09:54.584Z
 | 1400 | 400 | SIP-Com | [draft-wang-idr-flowspec-sip-community-filter](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-sip-communityn-as-filter/) | 
 | 1400 | 401-4094 | Unassigned |  [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) |
 | 1400  | 4095 | Reserved | [draft-ietf-idr-fsv2-ip-basic](https://datatracker.ietf.org/doc/draft-ietf-idr-fsv2-ip-basic) | 
-
+{.dense}
