@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-01T16:02:47.670Z
+date: 2026-11-02T06:57:09.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -21,13 +21,15 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 ### 1. ISE Survey (Akanksha)
 
-Context: Check your email :)
+Context: Check your email
 
 ### 2. Prep for IETF 127 (Dhruv)
 
 ### 3. Executive Session: Mid-Term Vacancy Internet (INT) AD Confirmation
 
-### 4. Walk on item - from Jason Livingood
+### 4. Executive Session: Appeal
+
+### 5. Walk on item - from Jason Livingood
 
 ### Potential Additional Topic for this or future meeting
 
