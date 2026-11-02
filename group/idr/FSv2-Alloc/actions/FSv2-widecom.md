@@ -2,7 +2,7 @@
 title: Comunity Container Flow Specification V2 Actions 
 description: FSv2 Community Container Actions 
 published: true
-date: 2026-11-02T01:22:42.830Z
+date: 2026-11-02T01:34:01.115Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-05T12:48:43.032Z
@@ -31,16 +31,7 @@ dateCreated: 2026-06-05T12:48:43.032Z
 | 100 | interface set  | Interface | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
 | 200 | 
 {.dense}
-0 - reserved
-100 - action failure
-200 - group
-300 - redirect
-500 - Mark, Merge or traffic shape
-700 - Flag traffic for sampling
-900 - terminate action instructions,
-1000 - logging
-4095 - reserved
-
+ 
 ### Group Action Mark, Merge or Traffic Shape (500) 
 | Action ID | Action Component | SubTLV | Description | document |   
 |---|---|---|---|
@@ -52,7 +43,20 @@ dateCreated: 2026-06-05T12:48:43.032Z
 | 600 | Redirect Load Balance | see LB SubTLV registry | [draft-wu-idr-flowspec-redirect-group](https://www.ietf.org/archive/id/draft-wu-idr-flowspec-redirect-group/)
 {.dense}
 
-### Flag Traffic for sampling (700) 
+### Sampligy Action Family (700) 
+| Action Component Type | SubTLV | Description | document |   
+|---|---|---|---|
+| 100 | Sample | none | Sample traffic | [/draft-hares-idr-ip-more-actions]((https://www.ietf.org/archive/id/draft-hares-idr-fsv2-ip-more-actions) | 
+{.dense}
+
+### Terminate Action Family (900) 
+| Action Component Type | SubTLV | Description | document |   
+|---|---|---|---|
+| 100 | Terminate FSv2 action chain | none | Sample traffic | [/draft-hares-idr-ip-more-actions]((https://www.ietf.org/archive/id/draft-hares-idr-fsv2-ip-more-actions) | 
+{.dense}
+
+
+### Loggin Action Family (1000) 
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
 | 100 | Sample | none | Sample traffic | [/draft-hares-idr-ip-more-actions]((https://www.ietf.org/archive/id/draft-hares-idr-fsv2-ip-more-actions) | 
