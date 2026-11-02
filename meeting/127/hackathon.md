@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-02T14:36:43.887Z
+date: 2026-11-02T16:04:06.517Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -924,8 +924,19 @@ Yanxia Tan (tanyx11@chinaunicom.cn)
   [2] https://datatracker.ietf.org/doc/draft-yu-ccamp-sla-assurance-optical-yang/
   [3] https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-issues-and-incidents-identification-using-agentic-ai-and-knowledge-graph-00
 
+---
+
+### RTP Frame Acknowledgement
+- **Champions**
+Erik Språng  (sprang@google.com)
+- **Project Info**
+  - This project aims to implement a prototype of the RTP Frame Acknowledgement draft [1] in libwebrtc [2]. We hope to demonstrate improved responsiveness of real-time video streams, especially in scenarions with high loss and RTT.
+  - References:
+  [1] https://datatracker.ietf.org/doc/draft-ietf-avtcore-frame-acknowledgement/
+  [2] https://webrtc.googlesource.com/src/
 
 ---
+
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
