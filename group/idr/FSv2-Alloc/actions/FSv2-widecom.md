@@ -2,7 +2,7 @@
 title: Comunity Container Flow Specification V2 Actions 
 description: FSv2 Community Container Actions 
 published: true
-date: 2026-11-02T01:10:50.025Z
+date: 2026-11-02T01:15:09.857Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-05T12:48:43.032Z
@@ -13,17 +13,33 @@ dateCreated: 2026-06-05T12:48:43.032Z
 ## (was Wide Community) 
 
 ### Action Failure Action Family (100) 
-| Action Component Type | SubTLV | Description | document |   
+| ID | Action Component | SubTLV | Description | document |   
 |---|---|---|---|
 | 100 | Action Continue option (ACO) | none | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) | 
 
 ### Group Action Family (200)  
+| ID | Action Component | SubTLV | Description | document |   
+|---|---|---|---|----|
+| 100 | interface set  | Interface | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 200 | 
+
+### Redirect Action Family (300) 
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
 | 100 | interface set  | Interface | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
-| 
+| 200 | 
 
-### Group Action Mark
+0 - reserved
+100 - action failure
+200 - group
+300 - redirect
+500 - Mark, Merge or traffic shape
+700 - Flag traffic for sampling
+900 - terminate action instructions,
+1000 - logging
+4095 - reserved
+
+### Group Action Mark, Merge or Traffic Shape (500) 
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
 | Mark IPv4 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
