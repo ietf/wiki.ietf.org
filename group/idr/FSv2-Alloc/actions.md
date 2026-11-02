@@ -2,7 +2,7 @@
 title: Flow Specification Actions in Extended Communities (FSv1 and FSv2) 
 description: FSv1/FSv2 Ext. Comm. Actions
 published: true
-date: 2026-11-02T00:48:17.686Z
+date: 2026-11-02T00:53:13.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T21:38:17.946Z
@@ -19,8 +19,8 @@ dateCreated: 2026-05-25T21:38:17.946Z
 
 #### Family types for Community Container 
 - 0   - reserved
-- 100 - action failure processing 
-- 200 - group,
+- 100 - action failure 
+- 200 - group
 - 300 - redirect
 - 500 - Mark, Merge or traffic shape
 - 700 - Flag traffic for sampling
