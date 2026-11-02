@@ -2,7 +2,7 @@
 title: Comunity Container Flow Specification V2 Actions 
 description: FSv2 Community Container Actions 
 published: true
-date: 2026-11-02T00:52:37.190Z
+date: 2026-11-02T01:10:50.025Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-05T12:48:43.032Z
@@ -12,10 +12,18 @@ dateCreated: 2026-06-05T12:48:43.032Z
 # Community Container Actions 
 ## (was Wide Community) 
 
-### Action Family - Failure 
+### Action Failure Action Family (100) 
+| Action Component Type | SubTLV | Description | document |   
+|---|---|---|---|
+| 100 | Action Continue option (ACO) | none | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) | 
 
-### Acti 
-###
+### Group Action Family (200)  
+| Action Component Type | SubTLV | Description | document |   
+|---|---|---|---|
+| 100 | interface set  | Interface | what to do if action fails | [draft-hares-fsv2-ip-more-actions](/draft-hares-fsv2-ip-more-actions) |  
+| 
+
+### Group Action Mark
 | Action Component Type | SubTLV | Description | document |   
 |---|---|---|---|
 | Mark IPv4 CS-ID | none | Mark CS-ID in IPv4 packet | [/draft-lin-idr-cats-flowspec-ts-03.txt](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) | 
