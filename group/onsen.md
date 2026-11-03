@@ -1,8 +1,8 @@
 ---
-title: ONSEN
+title: ONSEN - perationalizing Network & SErvice abstractioNs Wiki
 description: 
 published: true
-date: 2026-11-03T21:50:28.047Z
+date: 2026-11-03T21:55:25.338Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:49:19.822Z
