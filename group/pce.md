@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-10-23T04:58:41.947Z
+date: 2026-11-03T06:30:55.592Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -28,12 +28,13 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-|draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
+|draft-all-pce-srv6-policy-sid-list-optimization|-|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
 | draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
 | draft-many-pce-stateful-amendment | Formal email to be sent to list by authors |
 | draft-contreras-pce-pam | last presented at IETF 126 |
 | draft-sidor-pce-binding-label-sid-extensions | last presented at IETF 126 |
+| draft-sidor-pce-lsp-state-reporting-extensions | last presented at IETF 125 |
 
 
 
