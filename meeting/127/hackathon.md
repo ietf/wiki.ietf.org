@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T10:29:52.780Z
+date: 2026-11-03T10:31:19.219Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -946,6 +946,21 @@ Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **References**
 https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
 ---
+
+### I2ICF Project for Intent-Driven Autonomous SDV Robots
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+  - The goal of the Interface to In-Network Computing Functions (I2ICF) is to demonstrate the feasibility of an intent-driven autonomous navigation framework for Software-Defined Vehicle (SDV) robots. The framework enables users to specify a destination through natural language intent, allowing an SDV robot to autonomously perceive its surroundings, plan its route, and make navigation decisions.
+  - During navigation, the SDV robot continuously monitors its environment and dynamically adjusts its route in response to obstacles and changing conditions. The framework is demonstrated in a virtual environment, where the SDV robot autonomously navigates to its destination. Users can monitor the entire navigation process and review the robot's decisions and corresponding actions, providing visibility into its autonomous behavior.
+- **References**
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/00/
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/00/
+https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/02/
+---
+
+
+
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
