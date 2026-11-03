@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-10-29T19:59:43.948Z
+date: 2026-11-03T22:10:16.299Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -18,13 +18,13 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 ## Monday 16th November
 
 Beverage Break, **11:00-11:30** (after dispatch)
-Volunteers: Dhruv, Alvaro
+Volunteers: Dhruv, Alvaro, Warren
 TODO: Ask HotRFC and dispatch chairs to mention IAB New Work "Help Desk"
 
 ## Thursday 19th November
 
 Beverage and Snack Break, **16:00-16:30**
-Volunteers: Dhruv
+Volunteers: Dhruv, Warren
 
 # IETF 126 Vienna
 
