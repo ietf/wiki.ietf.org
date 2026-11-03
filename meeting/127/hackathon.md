@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T11:21:23.155Z
+date: 2026-11-03T11:25:57.366Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -975,7 +975,7 @@ https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/03/
 
   The prototype uses three-component IPN endpoint identifiers (RFC 9758), a direct no-proxy design, µD3TN with AAP2, and a modified aiocoap library. A three-node Rover–Satellite–Earth testbed (Satellite acting as BP relay) runs Safety GET and Science POST applications using Single and Aggregate messages.
 
-  **Scope:** NON unicast requests. CON, Observe, block-wise/Q-Block, OSCORE/BPSec and group communication are out of scope.
+- **Scope:** NON unicast requests. CON, Observe, block-wise/Q-Block, OSCORE/BPSec and group communication are out of scope.
 
 - **Hackathon Goals:**
   - Run end-to-end CoAP GET and POST exchanges over BPv7 using IPN addressing.
@@ -988,7 +988,8 @@ https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/03/
 - **Current Status:**
   A working research prototype has been tested in a controlled three-node environment. Wireshark captures show two CoAP requests carried in one BPv7 Aggregate bundle, with responses returned separately. Full Draft-05 conformance and interoperability have not yet been verified.  The implementation currently uses experimental CoAP Payload-length option number 65000. Alignment with the final option assignment and required option properties remains an open implementation issue.
 
-- **Technologies:** CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
+- **Technologies:** 
+CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
 - **Repository:** https://github.com/ENTEL-WNG/CoAPoverBP-IPN-Draft05-NoProxy
 - **Related Internet-Draft:** https://datatracker.ietf.org/doc/draft-ietf-core-coap-bp/05/
 
