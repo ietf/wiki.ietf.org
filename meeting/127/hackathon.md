@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T15:52:34.491Z
+date: 2026-11-03T17:14:35.786Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1003,8 +1003,39 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
  
  **Participation:**
   Remote participation is welcome. Sample captures and the Lua dissector are available in the repository for participants who wish to contribute without building the testbed. Implementers of CoAP or BPv7 stacks are particularly encouraged to join for interoperability testing.
-
+  
 ---
+### DAWN - ARD: Agent Resource Discovery
+
+- **Champions**
+  - Junjie Bu (bujunjie@gmail.com)
+  - Jaime Jiménez (jaime@iki.fi)
+	- ...
+ 
+- **Project Info**
+
+  Agent Resource Discovery (ARD) is a set of three drafts submitted to DAWN
+  that describe how AI agents publish a manifest, how clients look it up and
+  search it, and how the first contact between an agent and a discovered
+  resource takes place. The work is a joint proposal from Google, Hugging Face,
+  Amazon and Ericsson. Anyone working on DAWN or on agent discovery in general
+  is welcome at the table.
+
+- **Hackathon Plan**
+
+  - Running code for the manifest format and the lookup flow in the discovery draft
+  - A client that performs the initial contact handshake against a published manifest
+  - Interop between independent implementations and feedback to the draft authors
+  - Compare notes with the DNS-AID project on the DNS side of discovery
+
+- **Related Documents**
+  - ARD Architecture: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-architecture/
+  - ARD Manifest and Lookup: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-discovery/
+  - ARD Initial Contact: https://datatracker.ietf.org/doc/draft-jimenez-dawn-ard-initial-contact/
+---
+
+
+
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
