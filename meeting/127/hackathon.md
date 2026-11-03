@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T11:25:57.366Z
+date: 2026-11-03T15:19:41.059Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -700,7 +700,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
   **Good for newcomers:** Yes — examples and guidance will be available.
 
-  **Repository:** (link to be added)
+  **Repository:** : https://github.com/apelov/AI2II
   
  ### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection In network management operations
 
