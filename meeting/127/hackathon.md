@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T10:32:43.099Z
+date: 2026-11-03T11:21:23.155Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -960,9 +960,43 @@ https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/01/
 https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/03/
 
 ---
+### CoAP over BPv7 with IPN Addressing and Message Aggregation
 
+- **Champions**
+  - Mahitab Salah Elattar (Remote Champion) — mahitab.elattar@outlook.com
+  - Anna Calveras (Onsite Champion) — anna.calveras@upc.edu
+  - Affiliation: Universitat Politècnica de Catalunya (UPC), Wireless Networks Group (WNG)
 
+- **Related WGs:** CoRE, DTN
 
+- **Project Info**
+
+  This project implements and tests the Constrained Application Protocol (CoAP) over Bundle Protocol Version 7 (BPv7), based on draft-ietf-core-coap-bp-05, and aims to feed implementation experience back to the CoRE WG.
+
+  The prototype uses three-component IPN endpoint identifiers (RFC 9758), a direct no-proxy design, µD3TN with AAP2, and a modified aiocoap library. A three-node Rover–Satellite–Earth testbed (Satellite acting as BP relay) runs Safety GET and Science POST applications using Single and Aggregate messages.
+
+  **Scope:** NON unicast requests. CON, Observe, block-wise/Q-Block, OSCORE/BPSec and group communication are out of scope.
+
+- **Hackathon Goals:**
+  - Run end-to-end CoAP GET and POST exchanges over BPv7 using IPN addressing.
+  - Test IPN endpoint identification, application registration, and message demultiplexing.
+  - Test Single and Aggregate message handling, including 24-bit Message IDs, Tokens, Payload-length framing, and request–response correlation.
+  - Analyse captured BPv7 traffic using Wireshark and a custom Lua dissector.
+  - Identify unclear or underspecified points in Draft-05 and report them to the CoRE WG.
+  - Find a second implementation to begin interoperability testing.
+
+- **Current Status:**
+  A working research prototype has been tested in a controlled three-node environment. Wireshark captures show two CoAP requests carried in one BPv7 Aggregate bundle, with responses returned separately. Full Draft-05 conformance and interoperability have not yet been verified.  The implementation currently uses experimental CoAP Payload-length option number 65000. Alignment with the final option assignment and required option properties remains an open implementation issue.
+
+- **Technologies:** CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
+- **Repository:** https://github.com/ENTEL-WNG/CoAPoverBP-IPN-Draft05-NoProxy
+- **Related Internet-Draft:** https://datatracker.ietf.org/doc/draft-ietf-core-coap-bp/05/
+
+ 
+ **Participation:**
+  Remote participation is welcome. Sample captures and the Lua dissector are available in the repository for participants who wish to contribute without building the testbed. Implementers of CoAP or BPv7 stacks are particularly encouraged to join for interoperability testing.
+
+---
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
