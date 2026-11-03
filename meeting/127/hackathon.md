@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T17:14:35.786Z
+date: 2026-11-03T21:50:11.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -12,7 +12,7 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 
 * :spiral_calendar: **When**: 14-15 November 2026 (Saturday - Sunday)
 * :hotel: **Where**: Hilton San Francisco Union Square
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Continental 4
 {.grid-list}
 
 **Sign up for the Hackathon**
