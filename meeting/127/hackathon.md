@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T21:56:03.553Z
+date: 2026-11-03T22:28:11.284Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1032,6 +1032,51 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
   - ARD Architecture: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-architecture/
   - ARD Manifest and Lookup: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-discovery/
   - ARD Initial Contact: https://datatracker.ietf.org/doc/draft-jimenez-dawn-ard-initial-contact/
+---
+### Action Evidence Packages for AI agents: recompute, don't inherit *
+
+- **Champions**
+  - Anton Sokolov, anton.sokolov@tyche.institute
+
+- **Project Info**
+
+  An AI agent acts under a mandate. Afterwards, someone has to check what it did, under which mandate, and whether that mandate still held at the moment of the action.
+
+  An Action Evidence Package (AEP) bundles three things:
+  - the action;
+  - the authority it ran under;
+  - the attestation evidence.
+
+  An offline verifier can then recompute every digest and verdict itself, instead of trusting a neighbouring artifact.
+
+  At IETF 126 we showed AEP appraised by Project Veraison as RATS evidence. That run produced a freshness fix in Veraison (veraison/services#427).
+
+  For 127, the question is simple: if you build a verifier from the documents alone, do you reach the same verdicts we do on the same packages?
+
+- **Hackathon Plan**
+  - Run the attackable sandbox. Forge, replay and overreach packages against a mandate-enforcing verifier, and record which attacks are caught and at which step.
+  - Recompute digests and receipt bindings independently. Use the SCITT payload-binding draft and the AEP composition draft. Write down every place where the text had to be guessed.
+  - Check how a verifier stops. After the first rejection, later checks are reported as not evaluated rather than silently passed.
+  - Compare verdict tables between implementations, and publish each disagreement as an issue.
+  - If we work as one team only, we report it as a single-team reproducibility exercise.
+
+- **Looking for**
+  - Anyone writing a second verifier, in any language.
+  - People working on RATS, SCITT or COSE.
+  - Participants from the AUDIT BoF who want to test agent-delegation evidence against real packages.
+
+- **Related documents**
+  - draft-sokolov-rats-aep-composition: https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/
+  - draft-mih-sokolov-scitt-payload-binding: https://datatracker.ietf.org/doc/draft-mih-sokolov-scitt-payload-binding/
+
+- **Repositories and artifacts**
+  - Attackable sandbox: https://github.com/tyche-institute/aep-sandbox (online: https://tyche.institute/lab/aep-ctf/)
+  - Reference verifiers, offline TypeScript and Python, with conformance vectors: https://github.com/tyche-institute/eatf-verifier
+  - IETF 126 Veraison reproducibility artifact: https://github.com/tyche-institute/aep-veraison-freshness
+  - Live demo console: https://demo.eatf.eu
+
+- **Results presentation**
+  - Sunday 15 November, Hackathon Results.
 ---
 
 
