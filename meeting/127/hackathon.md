@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T10:29:42.571Z
+date: 2026-11-03T10:29:52.780Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -943,7 +943,7 @@ Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
   - The goal of this project is to demonstrate the feasibility of an Agentic AI framework for the autonomous management of networks, security, and AI services based on natural language intents. The framework consists of a User System, a Cloud System, an Edge System, and Devices with Worker Agents.
   - The framework uses Intent-Based Networking (IBN) to translate human-language intents into structured policies through an Intent Translator. A Knowledge Base and an Agent Catalog support policy validation and the selection of appropriate Worker Agents. These agents collaborate through the Agent-to-Agent (A2A) protocol and access tools and resources through the Model Context Protocol (MCP) to execute the requested services. The framework supports policy enforcement, continuous monitoring, and reporting of execution results, enabling users to manage network, security, and AI services through coordinated AI agents.
-  - **References**
+- **References**
 https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
 ---
 
