@@ -2,7 +2,7 @@
 title: IETF 128 Hackathon
 description: 
 published: true
-date: 2026-11-03T22:01:51.709Z
+date: 2026-11-03T22:04:46.913Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T22:01:51.709Z
@@ -31,9 +31,9 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are in PST/UTC-8)*
+Hackathon *(all times are in Malaysia time GMT+8)*
 
-### Saturday, 14 November 
+### Saturday, 06 March 
 
 * **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - coffee & soft drinks provided
@@ -45,7 +45,7 @@ Hackathon *(all times are in PST/UTC-8)*
 * **20:30** : Room closes 
 {.grid-list}
 
-### Sunday, 15 November
+### Sunday, 07 March
 
 * **09:30** : Room opens - coffee & soft drinks provided
 * **12:30** : Lunch Break (Lunch not provided)
