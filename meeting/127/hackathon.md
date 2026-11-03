@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T10:31:19.219Z
+date: 2026-11-03T10:31:28.431Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -957,6 +957,7 @@ Jaehoon Paul Jeong (pauljeong@skku.edu)
 https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/00/
 https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/00/
 https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/02/
+
 ---
 
 
