@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-03T22:28:11.284Z
+date: 2026-11-04T07:45:17.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1078,8 +1078,30 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
 - **Results presentation**
   - Sunday 15 November, Hackathon Results.
 ---
+### Benchmarking Methodology for Route Origin Validation (ROV)
 
+- **Champions**
 
+  Libin Liu (liulb@zgclab.edu.cn) (remote)  
+  Nan Geng (gengnan@huawei.com) (remote)  
+  Yanqi Chen (chenyq@zgclab.edu.cn) (remote)
+
+- **Project Info**
+
+  This project implements and evaluates a repeatable benchmarking methodology for routers supporting Route Origin Validation (ROV). The prototype uses BIRD, BRIO, and Bngblaster to evaluate ROV performance and its impact on routing.
+
+- **Hackathon Plan**
+
+  Present the benchmarking implementation and experimental results, and discuss feedback on the methodology.
+
+- **Related Documents**
+
+  draft-lg-bpm-benchmarking-methodology-for-rov-00 — Benchmarking Methodology for Route Origin Validation (ROV)
+
+- **Repository**
+
+  https://github.com/LibinLiu0189/Benchmarking-Methodology-for-Route-Origin-Validation/tree/tom473/implementation-results
+---
 
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
