@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-04T07:45:17.612Z
+date: 2026-11-04T15:41:03.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -860,10 +860,13 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
 ### Working on GREEN Use-Case Events
 
 - **Champions**
-
   - Emile Stephan ([emile.stephan@orange.com](mailto:emile.stephan@orange.com))
   - Marisol Palmero ([marisolpalmero7@gmail.com](mailto:marisolpalmero7@gmail.com))
-
+  - Benoît Claise ([benoit@everything-ops.net](mailto:benoit@everything-ops.net))
+  - Jan Lindblad ([jan.lindblad+ietf@for.eco](mailto:jan.lindblad+ietf@for.eco))
+  - Reshad Rahman ([reshad@yahoo.com](mailto:reshad@yahoo.com))
+  - Muhammad Awais Jadoon ([muhammad.awaisjadoon@interdigital.com](mailto:muhammad.awaisjadoon@interdigital.com))
+  
 - **Collaborators**
 
   - Contributions from GREEN participants and Hackathon attendees are welcome.
