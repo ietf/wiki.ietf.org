@@ -2,16 +2,16 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-04T11:16:09.693Z
+date: 2026-11-04T15:08:13.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-11-04, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-12-02, 16:00 UTC (1 hour)
 
 
-## There WILL be a meeting on 2026-11-04
+## There WILL NOT be a meeting on 2026-12-02
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
@@ -19,17 +19,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1853bd6046f7c32b5d609d34df995dd6
 
-### 1. ISE Survey (Akanksha)
+### 1. Topic (Owner)
 
-Context: Check your email
-
-### 2. Prep for IETF 127 (Dhruv)
-
-### 3. Executive Session: Mid-Term Vacancy Internet (INT) AD Confirmation
-
-### 4. Executive Session: Appeal
-
-### 5. Walk on item - from Jason Livingood
+Context: 
 
 ## Regrets
 - Warren
@@ -52,8 +44,6 @@ Context: Check your email
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- 2026-11-04 Informal 1400-1500 UTC
-- 2026-11-11 Informal 1400-1500 UTC (INT AD Confirmation)
 
 ### 2026-11-14 - 2026-11-20: IETF 127 
 
