@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-02T06:57:09.011Z
+date: 2026-11-04T11:16:09.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -31,6 +31,9 @@ Context: Check your email
 
 ### 5. Walk on item - from Jason Livingood
 
+## Regrets
+- Warren
+
 ### Potential Additional Topic for this or future meeting
 
 - Update to IAB statement on Appeal
@@ -42,7 +45,7 @@ Context: Check your email
 
 
 
-## Regrets
+
 
 
 ## Upcoming IAB Meetings
