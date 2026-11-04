@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-04T18:42:28.172Z
+date: 2026-11-04T18:43:21.147Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -196,7 +196,6 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 ## Wednesday, November 18, 2026
 
-* 08:00 - 09:00 -- TDD Chairs Meeting (Andy/Med)
 * 10:45 - 11:30 -- SQUAD BoF follow-up (Gorry - Private)
 * 16:00 - 17:00 -- DAWN WG preparation (Éric)
 * 17:30 - 18:00 -- Pre-plenary relaxation time (Éric)
