@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-11-04T09:44:41.280Z
+date: 2026-11-04T11:46:21.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -61,7 +61,7 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
-|Nov 2026|[AfIGF](https://igf.africa/africa-igf-2026/2026-schedule/)|Internet Governance|all levels|Roman|-|
+|Nov 2026|[AfIGF](https://igf.africa/africa-igf-2026/2026-schedule/)|Internet Governance|all levels|Roman|Africa at the Standards Table: Why Participation in the IETF Matters panel (organized by ISOC+IETF); Strengthening Internet Governance for Africa's Digital Future (organized by the AUC); (backup as needed) for the Digital Emblems (DIEM WG) pitch (organized by the ICRC)|
 |Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants |Jen Linkova, Suresh, Yaroslav, Èric V| [IPv6](https://ripe93.ripe.net/programme/meeting-plan/sessions/152/9R9WYW/)<br>[BoF](https://ripe93.ripe.net/programme/meeting-plan/sessions/127/)<br> [LT](https://ripe93.ripe.net/programme/meeting-plan/sessions/167/KREQC9/) |
 |Oct 2026|[SECTOR](https://blackhat.com/sector/)|Mixed|Participants|Paul Wouters|[Slide](https://i.blackhat.com/SecTor-2026/presentations/SecTor2026-IETF-PaulWouters.pdf)|
 |Oct 2026|[ICANN87](https://meetings.icann.org/en/meetings/icann87/)|Mixed|All Levels|Roman,Warren,David,Dan York|[Video](https://icann.zoom.us/rec/play/yvo8T_Uvcqr9UJsSdKSqHkuXeBAnuM2LqS97Ry97HdUxehKVJiB3cjinZ9uqcHPedVc8zcpYxSh8cqx2.ocrTIGsqNDcfEX21?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1792463462000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FQp0GapQxkT_z85EHdc8Q4NfkjORqduE8DqQIgZU84qrP4ZdWcXiwU-8rQLhD0xgM.4eLSb0H2JauNqGbk%3FstartTime%3D1792463462000)|
