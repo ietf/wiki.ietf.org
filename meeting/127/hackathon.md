@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-04T15:41:03.024Z
+date: 2026-11-04T16:03:43.359Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -866,6 +866,7 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
   - Jan Lindblad ([jan.lindblad+ietf@for.eco](mailto:jan.lindblad+ietf@for.eco))
   - Reshad Rahman ([reshad@yahoo.com](mailto:reshad@yahoo.com))
   - Muhammad Awais Jadoon ([muhammad.awaisjadoon@interdigital.com](mailto:muhammad.awaisjadoon@interdigital.com))
+  - Luis M. Contreras ([luismiguel.contrerasmurillo@telefonica.com](mailto:luismiguel.contrerasmurillo@telefonica.com))
   
 - **Collaborators**
 
