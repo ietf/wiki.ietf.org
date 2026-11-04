@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-04T16:03:43.359Z
+date: 2026-11-04T16:15:36.508Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1107,6 +1107,28 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
   https://github.com/LibinLiu0189/Benchmarking-Methodology-for-Route-Origin-Validation/tree/tom473/implementation-results
 ---
 
+### Oblivious CoAP in `aiocoap`
+- **Champions**
+
+  Martine S. Lenders (ietf@lenders.berlin) (remote)
+
+- **Project Info**
+
+	This project aims to implement a first prototype of Oblivious CoAP in `aiocoap`.
+  
+- **Hackathon Plan**
+
+  - Provide an HPKE shim in `aiocoap`
+  - Evaluate suitability of available HPKE Python libraries to use for that
+  - Use HPKE shim to implement Oblivious CoAP.
+  
+- **Relate Documents**
+  - draft-lenders-core-oblivious-coap-01 — Oblivious CoAP
+
+- **Repositories and artifacts**
+  - https://codeberg.org/aiocoap/aiocoap
+
+---
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
