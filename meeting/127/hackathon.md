@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T10:28:13.906Z
+date: 2026-11-05T10:29:10.875Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -806,9 +806,9 @@ The second project is unicast DNS for AI Discovery (DNS-AID), which explores how
    * DAWN requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
    * DAWN working group: https://datatracker.ietf.org/group/dawn/about/
 * Sandbox
-   * Instruqt track, no install needed, one VM with a venue link and a stand-in Internet under `.test`: https://play.instruqt.com/infoblox/invite/b0uvyonms8e2
+   * Instruqt track, no install needed: https://play.instruqt.com/infoblox/invite/b0uvyonms8e2
 * Repository
-   * (link to be added)
+   * [TBA]
    
   
 ---
