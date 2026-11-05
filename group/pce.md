@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-05T09:50:47.813Z
+date: 2026-11-05T09:52:36.489Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -100,7 +100,6 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| draft-ietf-pce-entropy-label-position |Y|Y| WGLC Ends-2026-10-05 |IPR-4/4 | Dhruv | Andrew |
 |-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
 |-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
 |-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -06 posted on 2026-03-16 | - | - | Yisong |
@@ -114,6 +113,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | --- | --- | --- | --- |
 |[draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | WG Consensus: Waiting for Write-Up| Pending Shepherd Review since 2026-06-01| Julien|
 |[draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)| Revised I-D Needed - Issue raised by WGLC | Pending Author update since 2026-08-28 | Adrian |
+|draft-ietf-pce-entropy-label-position |WG Consensus: Waiting for Write-Up : Proposed Standard|Pending Shepherd Review since 2026-10-12 | Andrew |
 
 
 
