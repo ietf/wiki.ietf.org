@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-05T09:52:36.489Z
+date: 2026-11-05T09:53:03.528Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -112,7 +112,7 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 |[draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | WG Consensus: Waiting for Write-Up| Pending Shepherd Review since 2026-06-01| Julien|
-|[draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)| Revised I-D Needed - Issue raised by WGLC | Pending Author update since 2026-08-28 | Adrian |
+|[draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)| Revised I-D Needed - Issue raised by WGLC | on WG agenda for IETF 127 | Adrian |
 |draft-ietf-pce-entropy-label-position |WG Consensus: Waiting for Write-Up : Proposed Standard|Pending Shepherd Review since 2026-10-12 | Andrew |
 
 
