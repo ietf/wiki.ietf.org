@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T10:26:32.726Z
+date: 2026-11-05T10:28:13.906Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -777,6 +777,8 @@ https://github.com/LibreQoE/LibreQoS/pull/684
    * Lori Jakab (Cisco), [lojakab@cisco.com](mailto:lojakab@cisco.com)
    * Jim Mozley (Infoblox), [jmozley@infoblox.com](mailto:jmozley@infoblox.com)
    * Nic Williams (Infoblox), [nwilliams@infoblox.com](mailto:nwilliams@infoblox.com)
+   * Ingmar Van Glabbeek [ivanglabbeek@infoblox.com]
+(mailto:ivanglabbeek@infoblox.com)
    * Daniel King (Lancaster University), [d.king@lancaster.ac.uk](mailto:d.king@lancaster.ac.uk)
 * Project Info
    * Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither.
