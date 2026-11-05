@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-05T17:04:35.265Z
+date: 2026-11-05T17:08:10.105Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -190,7 +190,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 
 * 08:00 - 09:00 -- EVP BoF Prep (Andy)
-* 12:45 - 13:45 -- INT AD Office Hours (Éric + N)
+* 12:45 - 13:45 -- INT AD Office Hours (Éric + Jen)
 * 17:00 - 18:00 -- TDD Chairs Meeting (Andy/Med)
 
 
