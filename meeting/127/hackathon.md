@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T10:29:13.913Z
+date: 2026-11-05T13:15:49.738Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -771,7 +771,7 @@ Dave was one of the instigators of the IETF AQM and Packet Scheduling working gr
 https://github.com/LibreQoE/LibreQoS/pull/684
 
 ---
-### Agent Discovery in Local Networks via mDNS/DNS-SD
+### DNS Based Agent Discovery
 
 * Champions
    * Lori Jakab (Cisco), [lojakab@cisco.com](mailto:lojakab@cisco.com)
