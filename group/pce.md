@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-05T09:53:03.528Z
+date: 2026-11-05T13:51:00.281Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -100,8 +100,8 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
-|-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
+|1| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
+|2| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
 |-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -06 posted on 2026-03-16 | - | - | Yisong |
 
 
