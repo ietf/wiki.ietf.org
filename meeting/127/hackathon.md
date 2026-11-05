@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T09:20:29.948Z
+date: 2026-11-05T09:23:02.174Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -789,7 +789,7 @@ https://github.com/LibreQoE/LibreQoS/pull/684
   - Publish the same agents in a unicast DNS zone using the DNS-AID records (`_index._agents.<domain>` SVCB, TLSA/DNSSEC) and check that one client vocabulary resolves both the local and the Internet case.
   - Write up the results as an Implementation Status section (RFC 7942) for the next revisions of the drafts.
 - **What to Bring**
-  - A macOS or Linux laptop. mDNS is link-local, so testing needs onsite participants; remote participants are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
+  - A macOS or Linux laptop. mDNS is link-local, if you want to connect to participants; remote participants are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
 - **Related Documents**
   - Zero-Configuration Agent Discovery: https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/
   - Multicast DNS (RFC 6762) and DNS-Based Service Discovery (RFC 6763)
