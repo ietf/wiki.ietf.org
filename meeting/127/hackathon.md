@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T09:25:00.117Z
+date: 2026-11-05T10:26:32.726Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -773,37 +773,41 @@ https://github.com/LibreQoE/LibreQoS/pull/684
 ---
 ### Agent Discovery in Local Networks via mDNS/DNS-SD
 
-- **Champions**
-  - Lori Jakab (Cisco), lojakab@cisco.com
-  - Jim Mozley (Infoblox), jmozley@infoblox.com
-  - Nic Williams (Infoblox), nwilliams@infoblox.com
-  - Daniel King (Lancaster University), d.king@lancaster.ac.uk
-- **Project Info**
-  - Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither. 
-  
-We have two prrojects for DNS-based agent discovery: 
+* Champions
+   * Lori Jakab (Cisco), [lojakab@cisco.com](mailto:lojakab@cisco.com)
+   * Jim Mozley (Infoblox), [jmozley@infoblox.com](mailto:jmozley@infoblox.com)
+   * Nic Williams (Infoblox), [nwilliams@infoblox.com](mailto:nwilliams@infoblox.com)
+   * Daniel King (Lancaster University), [d.king@lancaster.ac.uk](mailto:d.king@lancaster.ac.uk)
+* Project Info
+   * Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither.
 
-One project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`cap`), and whether its cached description is still current (`cap-digest`). The same keys serve unicast DNS discovery, so one vocabulary covers the local network and the Internet. Discovery records are not authenticated, so clients list what they find and connect only on explicit action.
+We have two projects for DNS-based agent discovery:
+
+One project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`desc-ref`), and whether its cached description is still current (`desc-ref-digest`). The same keys are the subject of draft-blwm-dawn-common-discovery-parameters and serve unicast DNS discovery too, so one vocabulary covers the local network and the Internet. Discovery records on the link are not authenticated, so clients list what they find, connect only on explicit action, and can corroborate a local claim against a signed global record.
 
 The second project is unicast DNS for AI Discovery (DNS-AID), which explores how agents and agentic workloads publish and discover connectivity and capability metadata using existing DNS mechanisms: SVCB, DNS-SD-style names, DNSSEC and optional DANE/TLSA. All drafts are inputs to the IETF DAWN working group.
 
-- **Hackathon Plan**
-  - Announce toy MCP servers and A2A agents on a shared link as `_agents._tcp` instances, including an agent that offers both protocols as two instances sharing one `cap`.
-  - Discover the MCP servers from a fork of OpenAI's Codex CLI, which lists them in `/mcp` next to the configured ones and connects only when the user asks.
-  - Bring your own agent: announce your MCP server or A2A agent with `dns-sd -R` or `avahi-publish-service` and see it discovered. MCP servers also show up in the Codex fork.
-  - Test interoperability across mDNS implementations, including subtype browsing: Apple mDNSResponder, Avahi, python-zeroconf, and the Rust `mdns-sd` crate.
-  - Publish the same agents in a unicast DNS zone using the DNS-AID records (`_index._agents.<domain>` SVCB, TLSA/DNSSEC) and check that one client vocabulary resolves both the local and the Internet case.
-  - Write up the results as an Implementation Status section (RFC 7942) for the next revisions of the drafts.
-- **What to Bring**
-  - A macOS or Linux laptop. mDNS is link-local, if you want to connect to participants; remote participants are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
-- **Related Documents**
-  - Zero-Configuration Agent Discovery: https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/
-  - Multicast DNS (RFC 6762) and DNS-Based Service Discovery (RFC 6763)
-  - DNS-AID, discovery of agents through unicast DNS: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
-  - DAWN requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
-  - DAWN working group: https://datatracker.ietf.org/group/dawn/about/
-- **Repository**
-  - (link to be added)
+* Hackathon Plan
+   * Announce toy MCP servers and A2A agents on a shared link as `_agents._tcp` instances, including an agent that offers both protocols as two instances sharing one `desc-ref`.
+   * Discover the MCP servers from a fork of OpenAI's Codex CLI, which lists them in `/mcp` next to the configured ones and connects only when the user asks.
+   * Bring your own agent: announce your MCP server or A2A agent with `dns-sd -R` or `avahi-publish-service` and see it discovered. MCP servers also show up in the Codex fork.
+   * Test interoperability across mDNS implementations, including subtype browsing: Apple mDNSResponder, Avahi, python-zeroconf, and the Rust `mdns-sd` crate.
+   * Sign a zone and publish the same agent with DNS-AID (`_index._agents.<domain>` SVCB, TLSA/DNSSEC) and with the common parameters, compare what each client understands, and corroborate a link-local instance against the signed global record to catch a spoof.
+   * Write up the results as an Implementation Status section (RFC 7942) for the next revisions of the drafts.
+* What to Bring
+   * A macOS or Linux laptop. mDNS is link-local, if you want to connect to participants; remote participants can work through the sandbox below, and are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
+* Related Documents
+   * Zero-Configuration Agent Discovery: https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/
+   * Common discovery parameters: https://datatracker.ietf.org/doc/draft-blwm-dawn-common-discovery-parameters/
+   * Multicast DNS (RFC 6762) and DNS-Based Service Discovery (RFC 6763)
+   * DNS-AID, discovery of agents through unicast DNS: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
+   * DAWN requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
+   * DAWN working group: https://datatracker.ietf.org/group/dawn/about/
+* Sandbox
+   * Instruqt track, no install needed, one VM with a venue link and a stand-in Internet under `.test`: https://play.instruqt.com/infoblox/invite/b0uvyonms8e2
+* Repository
+   * (link to be added)
+   
   
 ---
 
