@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-03T09:16:37.852Z
+date: 2026-11-05T09:49:32.880Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -134,17 +134,17 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |in-progress, awaiting publisher|- | Andrew |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | blocked, publish incomplete(?)| - | Dhruv | 
-|draft-ietf-pce-sr-bidir-path|in-progress, formatting|-|Dhruv| 
-|draft-ietf-pce-circuit-style-pcep-extensions|in-progress, awaiting 1st editor|-|Dhruv|
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | blocked, intake form pending | - | Adrian
+|draft-ietf-pce-circuit-style-pcep-extensions|Final Approval Pending|-|Dhruv|
 
 ## Recent RFCs
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| --- | --- | --- |
+| RFC 9916 | was draft-ietf-pce-pceps-tls13 | Andrew |
+| RFC 9933 | was draft-ietf-pce-sid-algo | Dhruv |
+| RFC 10066 | was draft-ietf-pce-multipath | Adrian |
+| RFC 10067 | was draft-ietf-pce-sr-bidir-path | Dhruv |
+
 
 
 
