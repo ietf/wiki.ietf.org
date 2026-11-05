@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T09:23:02.174Z
+date: 2026-11-05T09:25:00.117Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -779,8 +779,14 @@ https://github.com/LibreQoE/LibreQoS/pull/684
   - Nic Williams (Infoblox), nwilliams@infoblox.com
   - Daniel King (Lancaster University), d.king@lancaster.ac.uk
 - **Project Info**
-  - Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither. This project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`cap`), and whether its cached description is still current (`cap-digest`). The same keys serve unicast DNS discovery, so one vocabulary covers the local network and the Internet. Discovery records are not authenticated, so clients list what they find and connect only on explicit action.
-  - The unicast side is DNS for AI Discovery (DNS-AID), which explores how agents and agentic workloads publish and discover connectivity and capability metadata using existing DNS mechanisms: SVCB, DNS-SD-style names, DNSSEC and optional DANE/TLSA. Both drafts are inputs to the IETF DAWN working group.
+  - Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither. 
+  
+We have two prrojects for DNS-based agent discovery: 
+
+One project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`cap`), and whether its cached description is still current (`cap-digest`). The same keys serve unicast DNS discovery, so one vocabulary covers the local network and the Internet. Discovery records are not authenticated, so clients list what they find and connect only on explicit action.
+
+The second project is unicast DNS for AI Discovery (DNS-AID), which explores how agents and agentic workloads publish and discover connectivity and capability metadata using existing DNS mechanisms: SVCB, DNS-SD-style names, DNSSEC and optional DANE/TLSA. All drafts are inputs to the IETF DAWN working group.
+
 - **Hackathon Plan**
   - Announce toy MCP servers and A2A agents on a shared link as `_agents._tcp` instances, including an agent that offers both protocols as two instances sharing one `cap`.
   - Discover the MCP servers from a fork of OpenAI's Codex CLI, which lists them in `/mcp` next to the configured ones and connects only when the user asks.
