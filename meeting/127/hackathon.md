@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-04T16:15:36.508Z
+date: 2026-11-05T09:20:29.948Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -771,28 +771,33 @@ Dave was one of the instigators of the IETF AQM and Packet Scheduling working gr
 https://github.com/LibreQoE/LibreQoS/pull/684
 
 ---
-### DNS-AID: AI Agent Discovery via DNS
+### Agent Discovery in Local Networks via mDNS/DNS-SD
 
 - **Champions**
-  - Jim Mozley (jmozley@infoblox.com)
-  - Nic Williams (nwilliams@infoblox.com)
-  - Daniel King (d.king@lancaster.ac.uk)
-
+  - Lori Jakab (Cisco), lojakab@cisco.com
+  - Jim Mozley (Infoblox), jmozley@infoblox.com
+  - Nic Williams (Infoblox), nwilliams@infoblox.com
+  - Daniel King (Lancaster University), d.king@lancaster.ac.uk
 - **Project Info**
-
-  DNS for AI Discovery (DNS-AID) explores how AI agents and agentic workloads
-  can publish and discover connectivity and capability metadata using existing
-  DNS mechanisms, including SVCB, DNS-SD-style names, DNSSEC, and optional
-  DANE/TLSA.
-  
+  - Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither. This project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`cap`), and whether its cached description is still current (`cap-digest`). The same keys serve unicast DNS discovery, so one vocabulary covers the local network and the Internet. Discovery records are not authenticated, so clients list what they find and connect only on explicit action.
+  - The unicast side is DNS for AI Discovery (DNS-AID), which explores how agents and agentic workloads publish and discover connectivity and capability metadata using existing DNS mechanisms: SVCB, DNS-SD-style names, DNSSEC and optional DANE/TLSA. Both drafts are inputs to the IETF DAWN working group.
 - **Hackathon Plan**
-
-	To be discussed. 
-
+  - Announce toy MCP servers and A2A agents on a shared link as `_agents._tcp` instances, including an agent that offers both protocols as two instances sharing one `cap`.
+  - Discover the MCP servers from a fork of OpenAI's Codex CLI, which lists them in `/mcp` next to the configured ones and connects only when the user asks.
+  - Bring your own agent: announce your MCP server or A2A agent with `dns-sd -R` or `avahi-publish-service` and see it discovered. MCP servers also show up in the Codex fork.
+  - Test interoperability across mDNS implementations, including subtype browsing: Apple mDNSResponder, Avahi, python-zeroconf, and the Rust `mdns-sd` crate.
+  - Publish the same agents in a unicast DNS zone using the DNS-AID records (`_index._agents.<domain>` SVCB, TLSA/DNSSEC) and check that one client vocabulary resolves both the local and the Internet case.
+  - Write up the results as an Implementation Status section (RFC 7942) for the next revisions of the drafts.
+- **What to Bring**
+  - A macOS or Linux laptop. mDNS is link-local, so testing needs onsite participants; remote participants are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
 - **Related Documents**
-  - DNS-AID draft: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
-  - DAWN: https://datatracker.ietf.org/group/dawn/about/
-  - DAWN Requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/ 
+  - Zero-Configuration Agent Discovery: https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/
+  - Multicast DNS (RFC 6762) and DNS-Based Service Discovery (RFC 6763)
+  - DNS-AID, discovery of agents through unicast DNS: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
+  - DAWN requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
+  - DAWN working group: https://datatracker.ietf.org/group/dawn/about/
+- **Repository**
+  - (link to be added)
   
 ---
 
