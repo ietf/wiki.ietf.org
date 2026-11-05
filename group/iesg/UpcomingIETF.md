@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-05T16:01:18.593Z
+date: 2026-11-05T17:04:35.265Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -212,6 +212,7 @@ If you would like your meeting to be added to the main meeting agenda, please em
 ## Friday, November 20, 2026
 **PLEASE NOTE: NOT AVAILABLE AFTER 13:00**
 
+* 11:30 - 12:30 -- 6MAN Omni Drafts (Éric - Jen)
 * TIME - TIME -- Thing (Person responsible)
 
 
