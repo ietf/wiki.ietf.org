@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-05T17:08:10.105Z
+date: 2026-11-05T17:12:02.438Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -59,6 +59,12 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 >     Room: Continental 4
 {.is-info}
 
+> Not-required activity:
+> 
+> 08:30-09:30 - Pre-IESG meeting (Room: Plaza A or IESG office ?)
+> Preparation of the "defending against AI" discussion, based on [Gunter's slides](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1)
+>
+
 
 ### 09:30-11:30 - IESG Meeting (Room: Plaza A)
 
@@ -66,6 +72,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
 > 
 > 1. ROCEv2 (Gorry, Ketan)
+> 2. Defending against potential AI-slop attack (Gunter & Éric)
 
 
 >
