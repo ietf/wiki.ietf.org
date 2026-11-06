@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-05T13:15:49.738Z
+date: 2026-11-06T12:22:21.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1151,6 +1151,16 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
+### SRv6 SFC Architecture with SR-aware Functions
+- **Champions**
+[Wataru Mishima](mishima@nw.kanagawa-it.ac.jp)
+[Yuta Fukagawa](y.fukagawa@ntt.com)
+- **Project Info**
+Implement the components described in Chapter 4, "Overview of Architecture," of "draft-watal-spring-srv6-sfc-sr-aware-functions," including the Application Layer and Intent-Enabled Layer defined in RFC 9315. Also, develop a Linux client that configures policy-based routing based on BGP FlowSpec rules.
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/06/
+https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
+https://datatracker.ietf.org/doc/html/rfc9315
 
 ```markdown
 ### Your Project
