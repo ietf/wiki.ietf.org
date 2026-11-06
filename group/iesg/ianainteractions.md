@@ -2,7 +2,7 @@
 title: IANA and Internet Draft processing
 description: 
 published: true
-date: 2026-02-03T20:40:03.347Z
+date: 2026-11-06T20:17:04.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-20T20:31:13.707Z
@@ -36,7 +36,7 @@ If the document creates a new registry that requires experts, IANA will notify t
 The authors need to respond to the IANA review only if IANA has questions or if IANA misunderstood the requested actions.
 
 ### IESG Evaluation - IANA Review States (OK/NOT OK)
-In the IESG Evaluation phase, IANA tells the IESG whether the IANA actions are clear by sending an “OK” or “NOT OK” email in response to the ballot. Messages may include a brief description of any issues, which should also be documented in the Datatracker response.
+In the IESG Evaluation phase, IANA updates the Datatracker to indicate whether the IANA actions are clear. If the actions are unclear, can’t be completed as written, or still need approval from designated experts, IANA sends a “NOT OK” message to the IESG in response to the ballot.
 
 IANA NOT OK indicates that IANA is waiting for an expert review or for the authors to address unresolved issues. In this case, the document is placed on hold until the IANA actions are clarified. 
 
