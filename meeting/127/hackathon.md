@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-06T12:22:21.344Z
+date: 2026-11-06T12:23:28.829Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1161,6 +1161,8 @@ Implement the components described in Chapter 4, "Overview of Architecture," of 
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/06/
 https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
 https://datatracker.ietf.org/doc/html/rfc9315
+
+---
 
 ```markdown
 ### Your Project
