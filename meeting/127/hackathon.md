@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-06T12:23:28.829Z
+date: 2026-11-06T12:23:57.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1147,10 +1147,6 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
 
 ---
 
-  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
-
 ### SRv6 SFC Architecture with SR-aware Functions
 - **Champions**
 [Wataru Mishima](mishima@nw.kanagawa-it.ac.jp)
@@ -1163,6 +1159,10 @@ https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
 https://datatracker.ietf.org/doc/html/rfc9315
 
 ---
+
+  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
 ```markdown
 ### Your Project
