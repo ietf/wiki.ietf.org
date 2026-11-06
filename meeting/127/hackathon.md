@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-06T12:25:37.296Z
+date: 2026-11-06T14:34:58.047Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1157,6 +1157,32 @@ Implement the components described in Chapter 4, "Overview of Architecture," of 
 https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/06/
 https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
 https://datatracker.ietf.org/doc/html/rfc9315
+
+
+### On-Path delay measurements using IOAM DEX
+- **Champion(s)**
+Alex Huang Feng (alex.huang-feng@t-systems.com)
+Thomas Graf (thomas.graf@swisscom.com)
+Benoit Claise (benoit@everything-ops.net)
+Pierre Francois (pierre.francois@insa-lyon.fr)
+Justin Iurman (justin.iurman@gmail.com)
+Daniel Voyer (davoyer@cisco.com)
+Holger Keller (holger.keller@telekom.de)
+
+- **Project Info**
+Implement IOAM DEX Extensions to compute the On-Path delay as defined in RFC9951 in Vector Packet Processor (VPP).
+Collect IPFIX packets from the aggregated delay metrics as defined in RFC9951.
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-netana-ippm-ioam-on-path-delay/
+https://datatracker.ietf.org/doc/html/rfc9951
+https://datatracker.ietf.org/doc/html/rfc9326
+https://datatracker.ietf.org/doc/html/rfc9486
+
+
+- **Repositories**
+https://github.com/network-analytics/vpp-srh-onpath-telemetry
+https://github.com/network-analytics/vpp
 
 ---
 
