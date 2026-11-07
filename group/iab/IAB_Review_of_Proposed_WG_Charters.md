@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2026-10-09T16:19:36.826Z
+date: 2026-11-07T13:35:14.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -37,6 +37,67 @@ IAB reviews of WG charters should be sent to the IAB and IESG mailing lists. The
 
 ## Ecosystem
 - Does the proposal fit within the general scope of IETF? Have the necessary collaborations to other organisations been considered?
+
+# Operational Process
+
+**Owners:** Dhruv, Cindy
+**Status:** Draft (from IAB strategy meeting action item)
+**Scope:** How the IAB assigns, tracks, and follows up on reviews of WG charters and re-charters. 
+
+## Why the IAB reviews charters
+
+Per the IAB Charter (RFC 2850, Section 2.1), "When a new IETF working group is proposed, the IESG will forward a preliminary version of the charter to the IAB for review of architectural consistency and integrity. The IAB shall review these proposed charters and give feedback to the IESG as appropriate."
+
+Charter review is one of the main points at which the IAB can:
+
+- assess long-term architectural impact of new and continuing work;
+- help bring new work into the IETF in a well-scoped form; and
+- flag overlap or coordination needs with other organizations in the Internet ecosystem (RFC 2850, Section 2(f)).
+
+## Default policy
+
+- A designated IAB member reviews **every new charter and every re-charter**.
+- RFC 2850 explicitly refers to charters for new working groups. 
+> At the 2026 IAB strategy meeting, the IAB decided to also review re-charters by default, because some re-charters expand a WG's scope and therefore still need an architectural impact review. 
+- For a re-charter with **minimal change**, the review **may be skipped**. Either the reviewer or the IAB Chair can make this call. 
+
+## Process
+
+### 1. Trigger
+
+- IAB Executive Director monitors the IESG telechat agenda in Datatracker.
+- When a charter or re-charter is placed on an agenda, they starts a thread in the IAB Slack channel `#iab` with the link to the charter. 
+
+### 2. Reviewer selection
+
+- IAB Executive Director asks for volunteers in the thread.
+- The IAB Chair and other members help match the charter to IAB member expertise.
+- Conflicts of interest are considered when assigning.
+- If nobody volunteers, the IAB Chair or the IAB Executive Director assigns a reviewer.
+
+### 3. Tracking
+
+- Once a reviewer confirms, IAB Executive Director (or IAB Chair) opens an issue in the IAB GitHub repository [intarchboard/responsibilities](https://github.com/intarchboard/responsibilities) containing:
+  - charter link, telechat date, assigned reviewer;
+  - review status (assigned / in progress / sent / skipped).
+- The issue is closed when the review has been sent to the IESG, or the skip is recorded.
+
+### 4. Reminders and timing
+
+- Reviewers should target responding during the **internal review** stage, so that the IESG can take the feedback into account before deciding to send the charter for external review.
+- In the worst case, the review should be sent before the IESG finalizes (approves) the charter.
+- Early reviews are strongly preferred.
+- IAB Executive Director (or IAB Chair) send a reminder to the assigned reviewer ahead of the telechat at which the charter is scheduled for discussion.
+
+### 5. Discussion within the IAB
+
+- Reviewers are encouraged to share their review with the rest of the IAB, especially when they have **major concerns within the IAB's remit** (architectural, cross-area, or ecosystem/liaison implications). Such concerns may warrant discussion at an IAB call as well.
+- Other IAB members should proactively respond on the Slack thread with their own comments or concerns, rather than leaving the review solely to the designated reviewer.
+
+
+
+
+
 
 ## Review Assignments
 
