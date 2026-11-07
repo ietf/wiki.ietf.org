@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-07T06:54:35.043Z
+date: 2026-11-07T22:09:47.326Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1207,6 +1207,29 @@ Bring a Linux laptop; we provide VMs with the GOB kernel on our testbed. Remote 
 
 
 ---
+
+### Mapping IETF Device YANG Models to Vendor-Native YANG Models *
+
+- **Champions**
+  - Ian Farrer (Deutsche Telekom) — ian.farrer@telekom.de
+  - Kris Lambrechts (Intwine) — kris@intwine.net
+
+- **Project Info**
+
+  IETF device YANG models promise vendor-independent network automation, but limited native vendor support has hindered their adoption. **Off-box YANG-to-YANG translation** bridges this gap by mapping standardized IETF models to vendor-native models, enabling operators to use common configurations across heterogeneous networks without requiring device software changes.
+
+  Building on an existing [StratoWeave implementation](https://github.com/stratoweave/sorespo/tree/translate) supporting Cisco IOS XR and Juniper Junos, this hackathon aims to:
+
+  - Extend mappings to additional vendors and IETF YANG modules.
+  - Test interoperability using common configurations across vendors.
+  - Identify translation challenges and gaps in existing standards.
+
+  The work is described in [draft-fl-nmop-device-yang-vendor-mapping](https://datatracker.ietf.org/doc/draft-fl-nmop-device-yang-vendor-mapping/).
+
+  Contributors interested in YANG, NETCONF, and multi-vendor network automation are welcome.
+
+---
+
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
