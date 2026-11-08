@@ -32,7 +32,7 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 
 # Process
 
-Here's our expectations of the process of assignment of review tasks to members of the DNS Directorate.
+Here are our expectations of the process of assignment of review tasks to members of the DNS Directorate.
 
 Sometimes DNS Directorate  members take an extended period of time to respond to assignment requests. This delay creates unnecessary problems. The co-chairs aren't sure if these requests should be given to someone else, and the longer we wait, the less the time for the subsequent review if we need to re-assign it to another member, which is unfair on them.
 
