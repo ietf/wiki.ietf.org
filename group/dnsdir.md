@@ -52,7 +52,7 @@ e) If you don't respond to d) in a further 7 days we will assume a "no" to the q
 
 We will be using the email address you provided in the datatracker. Please monitor it regularly.
 
-If you give us a nag point of contact (slack or something else that we also use) we will use that for last minute nags when you have not responded to an email request within the 72 hour period.
+If you give us a nag point of contact (slack or something else that we also use) we will use that for last minute nags when you have not responded to an email request within the 72-hour period.
 
 These are not "rules" per se, but they are our expectations, so that we all can manage the DNS DIrectorate review work smoothly and efficiently, with the minimum of friction and surprises as we go.
 
