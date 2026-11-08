@@ -50,7 +50,7 @@ d) If we mark you as non-responsive three or more times in the most recent 12 mo
 
 e) If you don't respond to d) in a further 7 days we will assume a "no" to the question and request the AD to take the necessary action.
 
-We will be using the email address you provided the datatracker. Please monitor it regularly.
+We will be using the email address you provided in the datatracker. Please monitor it regularly.
 
 If you give us a nag point of contact (slack or something else that we also use) we will use that for last minute nags when you have not responded to an email request within the 72 hour period.
 
