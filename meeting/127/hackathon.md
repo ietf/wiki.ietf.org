@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-07T22:09:47.326Z
+date: 2026-11-08T14:48:21.652Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -385,6 +385,7 @@ Jérémie Leska (jeremie.leska @ 6wind.com)
 Irfan Mohammad (irfan @ arrcus.com)
 Per Andersson (per.ietf @ ionio.se)
 Mohamed Kheir (mkheir @ singlestore.com)
+Helmar Becker (hellmar.becker @ clickhouse.com)
 
 - **Draft Specifications Message Broker**
 https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
