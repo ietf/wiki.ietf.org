@@ -38,7 +38,7 @@ Sometimes DNS Directorate  members take an extended period of time to respond to
 
 If a dnsdir member's availability hasn't been updated in the datatracker, nobody knows if an intended stuckee is unavailable and shouldn't get further assignment requests for a while.
 
-Here's our expectations:
+Here are our expectations:
 
 a) If you are going to be out of touch for any reason for more than 1 week please enter your absence into the Datatracker and we won't bug you (you can do this for shorter periods also if you want - its up to you).
 
