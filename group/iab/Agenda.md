@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-04T15:08:13.804Z
+date: 2026-11-07T09:36:08.289Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -24,7 +24,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 Context: 
 
 ## Regrets
-- Warren
+- 
 
 ### Potential Additional Topic for this or future meeting
 

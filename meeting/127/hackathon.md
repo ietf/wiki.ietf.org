@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-06T14:34:58.047Z
+date: 2026-11-07T22:09:47.326Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1158,6 +1158,7 @@ https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/
 https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
 https://datatracker.ietf.org/doc/html/rfc9315
 
+---
 
 ### On-Path delay measurements using IOAM DEX
 - **Champion(s)**
@@ -1185,6 +1186,50 @@ https://github.com/network-analytics/vpp-srh-onpath-telemetry
 https://github.com/network-analytics/vpp
 
 ---
+
+### IOAM Global Opaque Block (GOB): namespace-implied mode and backward compatibility
+
+- **Champions**
+Stefano Salsano, Univ. of Rome Tor Vergata / CNIT, stefano.salsano@uniroma2.it (onsite)
+Andrea Mayer, Univ. of Rome Tor Vergata / CNIT, andrea.mayer@uniroma2.it (onsite)
+
+- **Project Info**
+The Global Opaque Block (GOB) extends the IOAM Pre-allocated Trace Option (RFC 9197) with a single global metadata region placed at the tail of the option, after the node data space, so that legacy IOAM transit nodes never reach it. It carries path-level records such as an accumulated delay, in the same IOAM option that carries the per-node trace. Draft: https://datatracker.ietf.org/doc/draft-mayer-bpm-ioam-gob/ (BPM WG, individual submission). Running code: Linux kernel implementation with a dedicated eBPF program type for the GOB payload, iproute2 support, interactive demo shown at the IETF 126 Hackathon within the "In-Network Telemetry Aggregation" project. Playground with build instructions: https://github.com/netgroup/ioam-gob-kernel-playground
+
+Hackathon plan:
+1. Implement the new namespace-implied mode of the -00 draft in the Linux kernel and iproute2: the IOAM Namespace-ID implies presence, size and schema of the GOB, no trailer, a 4-octet accumulated delay carried in exactly 4 octets inside a PTO that is plain RFC 9197 on the wire.
+2. Measure backward compatibility: a path mixing stock Linux IOAM nodes and GOB-aware nodes; legacy nodes record their node data and never touch the GOB.
+3. Time permitting: latency percentiles vs. number of GOB-aware hops, as input for BPM benchmarking.
+
+Related: "On-Path delay measurements using IOAM DEX" (RFC 9951); we will coordinate on the accumulated-delay use case.
+
+Bring a Linux laptop; we provide VMs with the GOB kernel on our testbed. Remote participants welcome.
+
+
+---
+
+### Mapping IETF Device YANG Models to Vendor-Native YANG Models *
+
+- **Champions**
+  - Ian Farrer (Deutsche Telekom) — ian.farrer@telekom.de
+  - Kris Lambrechts (Intwine) — kris@intwine.net
+
+- **Project Info**
+
+  IETF device YANG models promise vendor-independent network automation, but limited native vendor support has hindered their adoption. **Off-box YANG-to-YANG translation** bridges this gap by mapping standardized IETF models to vendor-native models, enabling operators to use common configurations across heterogeneous networks without requiring device software changes.
+
+  Building on an existing [StratoWeave implementation](https://github.com/stratoweave/sorespo/tree/translate) supporting Cisco IOS XR and Juniper Junos, this hackathon aims to:
+
+  - Extend mappings to additional vendors and IETF YANG modules.
+  - Test interoperability using common configurations across vendors.
+  - Identify translation challenges and gaps in existing standards.
+
+  The work is described in [draft-fl-nmop-device-yang-vendor-mapping](https://datatracker.ietf.org/doc/draft-fl-nmop-device-yang-vendor-mapping/).
+
+  Contributors interested in YANG, NETCONF, and multi-vendor network automation are welcome.
+
+---
+
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
