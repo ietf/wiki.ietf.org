@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T14:53:39.103Z
+date: 2026-11-09T17:12:02.512Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -16,8 +16,8 @@ The Internet Engineering Task Force (IETF) is holding a hackathon to encourage d
 {.grid-list}
 
 **Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/)
+* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/hackathon_only/standard/)
+* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/hackathon_only/standard/)
 {.links-list}
 
 **View the list of registered**:
