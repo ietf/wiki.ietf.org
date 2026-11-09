@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-08T14:48:21.652Z
+date: 2026-11-09T03:26:15.166Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1228,6 +1228,47 @@ Bring a Linux laptop; we provide VMs with the GOB kernel on our testbed. Remote 
   The work is described in [draft-fl-nmop-device-yang-vendor-mapping](https://datatracker.ietf.org/doc/draft-fl-nmop-device-yang-vendor-mapping/).
 
   Contributors interested in YANG, NETCONF, and multi-vendor network automation are welcome.
+
+---
+
+### WEXP Appraisal Core -02: two appraisers, specification-derived tests and a SCITT boundary experiment
+- **Champions**
+Mikhail Sergeev, mikhailsergeev369@gmail.com (remote)
+- **Project Info**
+WEXP Appraisal Core ([draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/), an individual Internet-Draft with intended status Informational) defines appraisal of support for exact execution-related claims, with three verdicts: accept, downgrade and reject. Its Boundary Ceiling limits which content bases can be supported, without creating support by itself.
+This project brings public implementations, test cases and a mapping experiment, and invites others to reproduce the results and contribute new cases.
+  - **wexp-ref**: reference appraiser for Core-02.
+  - **wexp-check**: a second appraiser whose initial implementation was written from the published Core-02 text and the documented fixture representation, without access to wexp-ref or corpus expectations. That version was frozen before corpus testing; subsequent changes are documented.
+  - **wexp-vectors**: set 001 contains 89 specification-derived cases with frozen expected results; set 002 adds 35 cases exploring the section 7 boundary matrix and related checks. A separate isolated session re-derived all 89 set 001 expected results without access to either appraiser; its handoff, derivation and comparison records are public.
+  - **scitt-receipt-boundary-001/pkg-001** in wexp-interop: a Receipt from a pinned, archived scitt-api-emulator revision mapped to a Core-02 boundary finding. Both appraisers match the frozen expectations on all 20 result components for four normalized inputs.
+
+  Current state, 9 November 2026: both appraisers at the listed revisions agree with each other and with the expected results on all 124 corpus cases. The first frozen wexp-check run agreed on 122/124; two interpretation differences were documented and aligned, producing 124/124. The four SCITT inputs are a separate comparison.
+  These are same-project artifacts, with isolated implementation and derivation sessions. No external reproduction of these comparisons is recorded yet; the SCITT package remains marked `independent_reproduction: not-performed`.
+- **Hackathon Plan**
+  - Reproduce: follow [wexp-check/REPRODUCE.md](https://github.com/WEXP-dev/wexp-check/blob/a2fd1ffd/REPRODUCE.md) for the corpus comparison and the "Repeat the appraisal" section of the [SCITT package instructions](https://github.com/WEXP-dev/wexp-interop/blob/a45c88e9/experiments/scitt-receipt-boundary-001/packages/pkg-001/REPRODUCE.md). The appraisal runs use Python 3.12 and the standard library. Re-running the SCITT emulator has separate dependencies.
+  - Break the comparison: change an expectation or remove a case in a local copy, then run the documented comparison with `--baseline` and confirm that it exits non-zero and names the case.
+  - Review the text: examine the documented interpretation differences (P08, P18) and open questions; propose clarifications or counterexamples.
+  - Bring a record: help define an explicit mapping from your evidence format (a verdict record, agent audit record, permission receipt, action evidence package or SCITT statement) to normalized Core-02 inputs. Run both appraisers and inspect the supported claims, verdicts, reasons and limitations.
+  - Share a result: contribute the inputs, source revisions and outputs. We will document reproducible results and disagreements in wexp-interop, with contributor attribution.
+- **Cross-project interop**
+  - Action Evidence Packages ([draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/)): the same method, a verifier from the documents alone with every guess written down, and negative packages (forge, replay, overreach) that are natural inputs for Core-02 reject and downgrade. First candidate for a shared verdict table.
+  - AER-1 execution receipts ([draft-zambo-aer1](https://datatracker.ietf.org/doc/draft-zambo-aer1/)) and SCITT time anchors ([draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)): published conformance vectors; a mapping of one vector to a normalized Core-02 input, run through both appraisers, is a result we would record under both projects' names.
+  - Agent Action Capsule ([draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)): a proposal already exists in the wexp-interop collection.
+  - Agent memory integrity ([draft-khandelwal-bmwg-agent-memory-integrity](https://datatracker.ietf.org/doc/draft-khandelwal-bmwg-agent-memory-integrity/)): a related question from the store side; its detection outcomes against Coverage-00's correspondence/completeness distinction.
+- **Looking for**
+  - Anyone running the two comparisons on their own machine and reporting what they saw, agreeing or not.
+  - Owners of the formats above who want a Core-02 verdict table for their vectors.
+- **Related documents**
+  - [draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/)
+  - [draft-sergeev-wexp-coverage-00](https://datatracker.ietf.org/doc/draft-sergeev-wexp-coverage/00/)
+  - [draft-sergeev-claim-boundaries-02](https://datatracker.ietf.org/doc/draft-sergeev-claim-boundaries/02/)
+- **Repositories** (snapshots checked 9 November 2026)
+  - [wexp-vectors](https://github.com/WEXP-dev/wexp-vectors) `edd67056`
+  - [wexp-ref](https://github.com/WEXP-dev/wexp-ref) `56289024`
+  - [wexp-check](https://github.com/WEXP-dev/wexp-check) `a2fd1ffd`
+  - [wexp-interop](https://github.com/WEXP-dev/wexp-interop) `a45c88e9`
+- **Results presentation**
+  - Sunday 15 November, Hackathon Results. The champion participates remotely through written discussion; results and open questions will be posted in writing.
 
 ---
 
