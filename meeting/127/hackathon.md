@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T03:26:15.166Z
+date: 2026-11-09T03:53:06.530Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1251,10 +1251,10 @@ This project brings public implementations, test cases and a mapping experiment,
   - Bring a record: help define an explicit mapping from your evidence format (a verdict record, agent audit record, permission receipt, action evidence package or SCITT statement) to normalized Core-02 inputs. Run both appraisers and inspect the supported claims, verdicts, reasons and limitations.
   - Share a result: contribute the inputs, source revisions and outputs. We will document reproducible results and disagreements in wexp-interop, with contributor attribution.
 - **Cross-project interop**
-  - Action Evidence Packages ([draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/)): the same method, a verifier from the documents alone with every guess written down, and negative packages (forge, replay, overreach) that are natural inputs for Core-02 reject and downgrade. First candidate for a shared verdict table.
-  - AER-1 execution receipts ([draft-zambo-aer1](https://datatracker.ietf.org/doc/draft-zambo-aer1/)) and SCITT time anchors ([draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)): published conformance vectors; a mapping of one vector to a normalized Core-02 input, run through both appraisers, is a result we would record under both projects' names.
-  - Agent Action Capsule ([draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)): a proposal already exists in the wexp-interop collection.
-  - Agent memory integrity ([draft-khandelwal-bmwg-agent-memory-integrity](https://datatracker.ietf.org/doc/draft-khandelwal-bmwg-agent-memory-integrity/)): a related question from the store side; its detection outcomes against Coverage-00's correspondence/completeness distinction.
+  - Action Evidence Packages ([draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/)): a candidate for a shared comparison table. Agree the exact claim and mapping, then record the AEP verifier outcome, any mapping diagnostic, and any Core-02 appraisal separately. Record cases where no complete normalized Core input can be constructed.
+  - AER-1 execution receipts ([draft-zambo-aer1](https://datatracker.ietf.org/doc/draft-zambo-aer1/)) and SCITT time anchors ([draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)): published conformance vectors; a mapping of one vector to a normalized Core-02 input, run through both appraisers, is a result we would record in wexp-interop with attribution agreed with the participating contributors.
+  - Agent Action Capsule ([draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)): a WEXP-side proposal is already available in wexp-interop.
+  - Agent memory integrity ([draft-khandelwal-bpm-agent-memory-integrity-00](https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/00/)): explore how storage-tampering detection results relate to Coverage-00's distinction between supplied-view correspondence and population completeness.
 - **Looking for**
   - Anyone running the two comparisons on their own machine and reporting what they saw, agreeing or not.
   - Owners of the formats above who want a Core-02 verdict table for their vectors.
