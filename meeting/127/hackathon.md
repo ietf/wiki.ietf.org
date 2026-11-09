@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T03:53:06.530Z
+date: 2026-11-09T10:45:40.932Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1269,6 +1269,33 @@ This project brings public implementations, test cases and a mapping experiment,
   - [wexp-interop](https://github.com/WEXP-dev/wexp-interop) `a45c88e9`
 - **Results presentation**
   - Sunday 15 November, Hackathon Results. The champion participates remotely through written discussion; results and open questions will be posted in writing.
+  
+---
+
+### EDHOC in a swarm of DotBots
+
+**Champion(s)**
+- Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
+
+**Project Info**
+
+Deploy EDHOC to a swarm of DotBots, using lakers (Rust EDHOC implementation) over Mari, a scalable low-power local connectivity protocol supporting mobility, which enables the 1k DotBots Testbed (https://github.com/DotBots).
+
+plans for the hackathon include:
+- over-the-air deployment of lakers to a swarm of DotBots
+- authenticate Mari network join using EDHOC, for every robot in the swarm
+- ELA (lake-authz) for zero-touch enrollment of the robots
+- measure handshake time and memory usage at swarm scale
+
+Specifications:
+- https://datatracker.ietf.org/doc/rfc9528/
+- https://datatracker.ietf.org/doc/draft-ietf-lake-authz/
+
+Repositories:
+- https://github.com/lake-rs/lakers
+- https://github.com/geonnave/lakers-dotbot
+- https://github.com/DotBots/mari
+- https://github.com/DotBots/pydotbot
 
 ---
 
