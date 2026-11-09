@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-09T12:10:59.354Z
+date: 2026-11-09T12:15:46.402Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -161,8 +161,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|In WGLC| various |2022-05-09|2024-04-25 and 2025-04-04|2027-05-09|
-|draft-ietf-pce-sr-p2mp-policy |WG I-D|- ASSOCIATION Type<br>- Generalized Endpoint Types<br>- SR-P2MP-POLICY-CAPABILITY<br>- IPV4-SR-P2MP-INSTANCE-ID<br>- IPV6-SR-P2MP-INSTANCE-ID<br>- CCI Object Type - SR P2MP Policy|2022-05-09 and 2024-08-27|2026-04-03 and 2025-07-10|2027-05-09 and 2026-08-27|
+|draft-ietf-pce-sr-p2mp-policy |WG I-D|- ASSOCIATION Type<br>- Generalized Endpoint Types<br>- SR-P2MP-POLICY-CAPABILITY<br>- IPV4-SR-P2MP-INSTANCE-ID<br>- IPV6-SR-P2MP-INSTANCE-ID<br>- CCI Object Type - SR P2MP Policy|2022-05-09 and 2024-08-27|2026-04-03 and 2025-07-10|2027-05-09 and 2027-08-27|
   
 ### Recent Errata
 
