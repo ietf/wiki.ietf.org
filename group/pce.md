@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-09T12:15:46.402Z
+date: 2026-11-09T16:58:26.151Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -65,7 +65,6 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft | Remarks |Action|
 | --- | --- | --- |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Returned to WG by AD| Update and coordinate with SPRING | 
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
 | [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -10 posted on 2026-04-03 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
 | [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -09 posted on 2026-02-20  | waiting for spring draft for WGLC |
@@ -100,8 +99,9 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
+|1| draft-ietf-pce-stateful-pce-autobw-update |Y|Y| -04 posted on 2026-05-03 | Added support for SR | - | - |
 |2| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
+|-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Y|Y|Returned to WG by AD| Update and coordinate with SPRING |Dhruv|Yisong|
 |-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -06 posted on 2026-03-16 | - | - | Yisong |
 
 
