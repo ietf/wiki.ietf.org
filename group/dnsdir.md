@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2026-11-09T12:21:34.561Z
+date: 2026-11-09T13:23:22.848Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
@@ -32,29 +32,29 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 
 # Process
 
-Here are our expectations of the process of assignment of review tasks to members of the DNS Directorate.
+Here are the expectations of the process of assignment of review tasks to members of the DNS Directorate.
 
-Sometimes DNS Directorate  members take an extended period of time to respond to assignment requests. This delay creates unnecessary problems. The co-chairs aren't sure if these requests should be given to someone else, and the longer we wait, the less the time for the subsequent review if we need to re-assign it to another member, which is unfair on them.
+Sometimes DNS Directorate members take an extended period of time to respond to assignment requests. This delay creates unnecessary problems. The co-chairs aren't sure if these requests should be given to someone else, and the longer the chairs wait, the less the time for the subsequent review if the review needs to be re-assigned  to another member, which is unfair on them.
 
-If a dnsdir member's availability hasn't been updated in the datatracker, nobody knows if an intended stuckee is unavailable and shouldn't get further assignment requests for a while.
+If a DNS Directorate member's availability hasn't been updated in the datatracker (i.e., https://datatracker.ietf.org/group/dnsdir/reviewers/foo@example.com/settings/), nobody knows if an intended stuckee is unavailable and shouldn't get further assignment requests for a while.
 
-Here are our expectations:
+Here are the expectations:
 
-a) If you are going to be out of touch for any reason for more than 1 week please enter your absence into the Datatracker and we won't bug you (you can do this for shorter periods also if you want - its up to you).
+a) If you are going to be out of touch for any reason for more than 1 week please enter your absence into the Datatracker and you won't be bugged (you can do this for shorter periods also if you want - its up to you).
 
-b) When we assign a draft to you for review we would like to get your acceptance or rejection within 72 hours (i.e. 3 days) (yes, we know that's a whole lot shorter than 1 week, but if we have to reassign this review then this leaves the next reviewer less time to perform the review).
+b) When a review is assigned, your acceptance or rejection is due within 72 hours (i.e. 3 days) (yes, that's a whole lot shorter than 1 week, but if teh review is re-assigned, then this leaves the next reviewer less time to perform the review).
 
-c) If we have to reasssign the review task to someone else because of no response to the original request within this 72 hour period, then we'll record you as being non responsive for that review assignment.
+c) If in absence of acceptance or rejection within this 72 hour period, then this is recorded in the datatracker.
 
-d) If we mark you as non-responsive three or more times in the most recent 12 months, we will ask you if you are still interested in being a reviewer in the DNS Directorate (and nag you on your nag channel if you have provided one to us).
+d) If you are marked as non-responsive three or more times in the most recent 12 months, you will be asked whether you are still interested in being a reviewer in the DNS Directorate.
 
-e) If you don't respond to d) in a further 7 days we will assume a "no" to the question and request the AD to take the necessary action.
+e) In absence of response to d) in a further 7 days, a "no" to the question will be assuled and the AD will be requested to take the necessary action.
 
-We will be using the email address you provided in the datatracker. Please monitor it regularly.
+The email address provided in the datatracker will be used. Please monitor it regularly.
 
-If you give us a nag point of contact (slack or something else that we also use) we will use that for last minute nags when you have not responded to an email request within the 72-hour period.
+If you provided a nag point of contact (slack or something else) it will be used that for last minute nags when you have not responded to an email request within the 72-hour period.
 
-These are not "rules" per se, but they are our expectations, so that we all can manage the DNS DIrectorate review work smoothly and efficiently, with the minimum of friction and surprises as we go.
+These are not "rules" per se, but these are the DNS directorate chairs and ADs expectations, so that we all can manage the DNS Directorate review work smoothly and efficiently, with the minimum of friction and surprises as we go.
 
 # Review Template
 
@@ -64,7 +64,8 @@ Reviewer: Your Name
 Review Result: Ready/Not Ready/Has Nits/Has Issues/Serious Issues
 
 I have reviewed this document as part of the DNS directorate's 
-ongoing effort to review all IETF documents being processed by the IESG.  These 
+ongoing effort to review IETF documents being processed by the IESG or upon
+an early review request by a WG chair.  These 
 comments were written with the intent of improving the operational aspects of the 
 IETF drafts. Comments that are not addressed in IETF Last Call may be included in AD reviews 
 during the IESG review.  Document editors and WG chairs should treat these comments 
