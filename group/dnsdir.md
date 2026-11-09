@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2026-11-09T13:23:22.848Z
+date: 2026-11-09T13:31:19.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
@@ -27,8 +27,9 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 # Personal
 
 -  **Secretaries**: [Jim Reid](https://datatracker.ietf.org/person/jim@rfc1035.com), [Geoff Huston](https://datatracker.ietf.org/person/gih@apnic.net)
-- **Responsible AD**: [Mohamed Boucadair](https://datatracker.ietf.org/person/mohamed.boucadair@orange.com), OPS AD
 - **Responsible AD**: [Éric Vyncke](https://datatracker.ietf.org/person/evyncke@cisco.com), INT AD
+- **Responsible AD**: [Jen Linkova](https://datatracker.ietf.org/person/furry13@gmail.com), INT AD
+- **Responsible AD**: [Mohamed Boucadair](https://datatracker.ietf.org/person/mohamed.boucadair@orange.com), OPS AD
 
 # Process
 
