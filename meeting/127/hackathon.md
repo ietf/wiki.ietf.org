@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T10:45:40.932Z
+date: 2026-11-09T11:48:34.032Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1299,6 +1299,22 @@ Repositories:
 
 ---
 
+### Model for distributed policy sharing
+- **Champions**
+Lucia Cabanillas, lucia.cabanillasrodriguez@telefonica.com
+Diego López, diego.r.lopez@telefonica.com
+Ana Méndez, ana.mendezperez@telefonica.com
+Pedro Martínez-Julia, pedromj@gmail.com
+ 
+- **Project Info**
+This project demonstrates a framework for sharing and managing policies across heterogeneous domains using a YANG-based model. Policies are expressed in their own native languages and encapsulated in a YANG artifact that carries metadata such as area, language, owner, author, origin and, optionally, a cryptographic provenance signature. The prototype implements a policy lifecycle (create, validate, distribute, enforce and remove) in which the framework routes each policy, based on its area, to the right domain. The demonstration runs in two independent domains. In the first, an OPA Policy Decision Point receives and evaluates Rego policies. In the second, a controller receives an RFC 9061 policy requiring an IPsec tunnel between two nodes. 
+ 
+- **Related Drafts** 
+https://datatracker.ietf.org/doc/draft-cabanillas-nmop-policy-sharing-model/
+- **Related Repositories**
+https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
+
+----
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
