@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T11:48:34.032Z
+date: 2026-11-09T13:40:35.352Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1313,6 +1313,41 @@ This project demonstrates a framework for sharing and managing policies across h
 https://datatracker.ietf.org/doc/draft-cabanillas-nmop-policy-sharing-model/
 - **Related Repositories**
 https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
+
+---
+
+### Formal model of MCP authorization: untrusted servers, AS discovery and enterprise token exchange
+
+- **Champions**
+  - Harsh Thumar, harshthummar1000@gmail.com (remote, India UTC+5:30)
+
+- **Project Info**
+
+  In MCP, the server a client connects to (which may be untrusted) tells the client which authorization server to use (RFC 9728), and one client identity can be reused across many authorization servers (Client ID Metadata Documents). The Enterprise-Managed Authorization extension adds RFC 8693 token exchange at the identity provider followed by an RFC 7523 JWT bearer grant at the MCP authorization server. This project builds a machine-checked model of these flows in the Tamarin prover, to find attacks or prove which client-side checks (issuer, resource, client record) are sufficient.
+
+- **Hackathon Plan**
+  - Model discovery (RFC 9728), PKCE and resource indicators (RFC 8707).
+  - Validate the model against published 2026 MCP SDK advisories: with a fix removed, the model should rediscover the known issue; with the fix in place, the property should hold.
+  - Write down every assumption the spec leaves open; turn confirmed findings into proposed conformance tests.
+  - Later: add Client ID Metadata Documents and Enterprise-Managed Authorization (ID-JAG).
+
+- **Looking for**
+  - People with Tamarin, ProVerif or formal OAuth analysis experience.
+  - OAuth WG and MCP authorization folks willing to review the model's assumptions.
+
+- **Related documents**
+  - [MCP authorization specification](https://modelcontextprotocol.io/specification/draft/basic/authorization), [MCP security best practices](https://modelcontextprotocol.io/specification/draft/basic/security_best_practices)
+  - [RFC 9728](https://datatracker.ietf.org/doc/rfc9728/), [RFC 8707](https://datatracker.ietf.org/doc/rfc8707/), [RFC 9207](https://datatracker.ietf.org/doc/rfc9207/), [RFC 8693](https://datatracker.ietf.org/doc/rfc8693/), [RFC 7523](https://datatracker.ietf.org/doc/rfc7523/)
+  - [draft-ietf-oauth-identity-assertion-authz-grant](https://datatracker.ietf.org/doc/draft-ietf-oauth-identity-assertion-authz-grant/)
+  - [MCP conformance suite](https://github.com/modelcontextprotocol/conformance)
+
+- **Repository**
+  - https://github.com/HarshThumar/mcp-auth-tamarin
+
+- **Results presentation**
+  - The champion participates remotely; results and open questions will be posted in writing.
+
+
 
 ----
 
