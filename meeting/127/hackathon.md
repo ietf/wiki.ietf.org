@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T13:41:13.820Z
+date: 2026-11-09T14:53:39.103Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1320,6 +1320,7 @@ https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
 
 - **Champions**
   - Harsh Thumar, harshthummar1000@gmail.com (remote, India UTC+5:30)
+	- Prince Upadhyay, upadhyayprince0019@gmail.com (remote, India UTC+5:30)
 
 - **Project Info**
 
