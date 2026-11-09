@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-05T13:51:00.281Z
+date: 2026-11-09T12:10:59.354Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -140,8 +140,6 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| RFC 9916 | was draft-ietf-pce-pceps-tls13 | Andrew |
-| RFC 9933 | was draft-ietf-pce-sid-algo | Dhruv |
 | RFC 10066 | was draft-ietf-pce-multipath | Adrian |
 | RFC 10067 | was draft-ietf-pce-sr-bidir-path | Dhruv |
 
