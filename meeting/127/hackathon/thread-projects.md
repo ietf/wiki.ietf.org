@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon Thread Projects
 description: 
 published: true
-date: 2026-09-17T01:33:23.504Z
+date: 2026-11-09T18:59:29.004Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T18:57:23.857Z
@@ -18,6 +18,7 @@ To avoid taking up too much space on the [main Hackathon page](/meeting/127/hack
 
 - **Champion**
 Stuart Cheshire (Apple)
+François Michel (Apple)
 
 - **Thread Overview**
 
