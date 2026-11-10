@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-10T09:52:26.023Z
+date: 2026-11-10T17:07:12.392Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1243,8 +1243,8 @@ This project brings public implementations, test cases and a mapping experiment,
   - **wexp-vectors**: set 001 contains 89 specification-derived cases with frozen expected results; set 002 adds 35 cases exploring the section 7 boundary matrix and related checks. A separate isolated session re-derived all 89 set 001 expected results without access to either appraiser; its handoff, derivation and comparison records are public.
   - **scitt-receipt-boundary-001/pkg-001** in wexp-interop: a Receipt from a pinned, archived scitt-api-emulator revision mapped to a Core-02 boundary finding. Both appraisers match the frozen expectations on all 20 result components for four normalized inputs.
 
-  Current state, 9 November 2026: both appraisers at the listed revisions agree with each other and with the expected results on all 124 corpus cases. The first frozen wexp-check run agreed on 122/124; two interpretation differences were documented and aligned, producing 124/124. The four SCITT inputs are a separate comparison.
-  These are same-project artifacts, with isolated implementation and derivation sessions. No external reproduction of these comparisons is recorded yet; the SCITT package remains marked `independent_reproduction: not-performed`.
+  Current state, 10 November 2026: both appraisers at the listed revisions agree with each other and with the expected results on all 124 corpus cases. The first frozen wexp-check run agreed on 122/124; two interpretation differences were documented and aligned, producing 124/124. The four SCITT inputs are a separate comparison.
+  The implementation and derivation sessions are same-project, isolated from each other. On 10 November 2026 Laurent Lemonnier replayed both comparisons in GitHub Actions in his own repository, at the pinned revisions, with the same results: 89/89 and 35/35 against both expectations and the reference, and all four SCITT inputs equal to the expectations. This is a replay of the published procedure with our code and public expectations, not an independent implementation; the optional SCITT registration was not repeated. Records: [SCITT package card, revision 6](https://github.com/WEXP-dev/wexp-interop/blob/976a270542a46ffdfed605c55149b601bcf76d8a/experiments/scitt-receipt-boundary-001/packages/pkg-001/README.md), now `independent_reproduction: performed`; [corpus comparison](https://github.com/WEXP-dev/wexp-check/blob/4ed0232ae01cd094dbb2f3c7b3e688697a497c41/reproductions/2026-11-10-lemonnier/README.md).
 - **Hackathon Plan**
   - Reproduce: follow [wexp-check/REPRODUCE.md](https://github.com/WEXP-dev/wexp-check/blob/a2fd1ffd/REPRODUCE.md) for the corpus comparison and the "Repeat the appraisal" section of the [SCITT package instructions](https://github.com/WEXP-dev/wexp-interop/blob/a45c88e9/experiments/scitt-receipt-boundary-001/packages/pkg-001/REPRODUCE.md). The appraisal runs use Python 3.12 and the standard library. Re-running the SCITT emulator has separate dependencies.
   - Break the comparison: change an expectation or remove a case in a local copy, then run the documented comparison with `--baseline` and confirm that it exits non-zero and names the case.
@@ -1257,17 +1257,17 @@ This project brings public implementations, test cases and a mapping experiment,
   - Agent Action Capsule ([draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)): a WEXP-side proposal is already available in wexp-interop.
   - Agent memory integrity ([draft-khandelwal-bpm-agent-memory-integrity-00](https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/00/)): explore how storage-tampering detection results relate to Coverage-00's distinction between supplied-view correspondence and population completeness.
 - **Looking for**
-  - Anyone running the two comparisons on their own machine and reporting what they saw, agreeing or not.
+  - More replays of the two comparisons on other machines, agreeing or not; and a second implementation of Core-02 from the text by another team.
   - Owners of the formats above who want a Core-02 verdict table for their vectors.
 - **Related documents**
   - [draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/)
   - [draft-sergeev-wexp-coverage-00](https://datatracker.ietf.org/doc/draft-sergeev-wexp-coverage/00/)
   - [draft-sergeev-claim-boundaries-02](https://datatracker.ietf.org/doc/draft-sergeev-claim-boundaries/02/)
-- **Repositories** (snapshots checked 9 November 2026)
+- **Repositories** (snapshots checked 10 November 2026)
   - [wexp-vectors](https://github.com/WEXP-dev/wexp-vectors) `edd67056`
   - [wexp-ref](https://github.com/WEXP-dev/wexp-ref) `56289024`
-  - [wexp-check](https://github.com/WEXP-dev/wexp-check) `a2fd1ffd`
-  - [wexp-interop](https://github.com/WEXP-dev/wexp-interop) `a45c88e9`
+  - [wexp-check](https://github.com/WEXP-dev/wexp-check) `4ed0232a` (appraiser code unchanged since `a2fd1ffd`)
+  - [wexp-interop](https://github.com/WEXP-dev/wexp-interop) `976a2705`
 - **Results presentation**
   - Sunday 15 November, Hackathon Results. The champion participates remotely through written discussion; results and open questions will be posted in writing.
   
