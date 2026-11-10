@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-09T08:41:22.635Z
+date: 2026-11-10T18:21:54.321Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -72,8 +72,8 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
 > 
 > 1. ROCEv2 (Gorry, Ketan)
-> 2. Defending against potential AI-slop attack (Gunter & Éric)
 > 3. RPC processes for checking YANG modules (Jean & Sandy) (15 mins)
+> 3. Defending against potential AI-slop attack (Gunter & Éric)
 > 99. Should IETF web properties use our [own AIPREF attachment](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/) (recurring topic by Éric, low priority)
 
 >
