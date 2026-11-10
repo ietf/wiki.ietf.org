@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-10T17:09:23.032Z
+date: 2026-11-10T17:29:59.372Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
