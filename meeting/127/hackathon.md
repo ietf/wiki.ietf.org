@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-10T23:05:46.810Z
+date: 2026-11-10T23:06:49.788Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1444,6 +1444,37 @@ Related projects: Independent time anchoring (Jonna Fassbender), AER-1, WEXP App
 
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+
+### Agent Evidence Conformance Matrix: cross-project verification and continuous interoperability
+
+- **Champions**
+
+Sankalp Gilda, sankalp.gilda@gmail.com (remote)
+
+- **Project Info**
+
+A reproducible conformance matrix across the agent-evidence projects on this page. It runs each project's emitted records through shared test vectors and offline verifiers, and it separates four outcomes: agreement, contradiction, unsupported check, and insufficient evidence. Each cell says whether it used the project's own records or our adapter, and each result states how many projects it covers.
+
+It starts from cross-library results that are already run: RFC 8785 canonicalizers in Rust, Go, Python and Node, and DSSE PAE and signing in Rust, Go and Python. It grows by pull request, and a standing dashboard continues after the event.
+
+- **Hackathon Plan**
+
+1. Inventory the projects on this page that emit records, and screen which ones each result can honestly cover.
+2. Publish a versioned external-verifier contract with adapters, and reproduce the JCS and DSSE results with pinned versions and negative tests.
+3. Fill the matrix with a replay command for every cell, and record each verifier result with its package, version, input digest and corpus revision.
+4. Open pull requests that run the shared vectors in each project's own CI.
+5. Produce joint results with Agent action evidence interop (Laurent Lemonnier, Steven Mih).
+
+- **Looking for**
+
+Anyone who emits or verifies agent-evidence records, in any language. Send a few sample records or a repository path on the Hackathon Zulip stream, or open a pull request.
+
+- **Links**
+
+Matrix repository: https://github.com/probityai/agent-evidence-matrix
+Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent memory integrity.
+
 
 ```markdown
 ### Your Project
