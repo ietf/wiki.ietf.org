@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-11-10T17:30:56.278Z
+date: 2026-11-10T22:29:14.018Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -21,7 +21,7 @@ For food & beverage service requests, please include:
 
 ## Monday
 
-
+- 12:30-13:30: IETF + W3C (Yaroslav)
 
 
 ## Tuesday 
