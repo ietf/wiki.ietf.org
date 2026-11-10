@@ -1349,7 +1349,37 @@ https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
 - **Results presentation**
   - The champion participates remotely; results and open questions will be posted in writing.
 
+----
 
+### OP-Experiment: DNSSEC-backed key currency and revocation for signed email (OPKEY)
+
+- **Champion(s)**: Shigeya Suzuki (shigeya@wide.ad.jp)
+- **Project info**:
+  - Originator Profile (project page): https://originator-profile.org/en-US/
+  - draft-shigeya-dns-opkey-00: https://datatracker.ietf.org/doc/draft-shigeya-dns-opkey/
+  - Originator Profile Framework v0.2 (Public Drafts, published 27 October 2026):
+    - Architectural Overview: https://docs.originator-profile.org/en/aov/
+    - Core Specification: https://docs.originator-profile.org/en/core/
+    - Web Media Use Case Specification: https://docs.originator-profile.org/en/web-media/
+    - Email Use Case Specification: https://docs.originator-profile.org/en/email/
+  - dnsdata-go (Go DNS library with OPKEY support, v0.12.0): https://github.com/shigeya/dnsdata-go
+  - opkey-dig (OPKEY lookup tracer, MIT): https://github.com/shigeya/op-experiment-01
+
+- **Organizations**: Keio University / Originator Profile CIP / WIDE Project
+
+- **Participation**: onsite
+
+- **Description**:
+  Originator Profile (OP) lets a recipient's software verify who originated a web page or an email, through signed profiles issued by organizations that validated the originator. These profiles carry attributes of the originator that third parties have validated, such as membership in an association or an editorial policy, not only who the originator is. The verifier checks the documents locally and asks the DNS, under DNSSEC, only whether keys are current and whether profiles have been revoked. draft-shigeya-dns-opkey defines the records for this. It requests a new RR type, OPKEY, with the TLSA format; whether a new type is needed, or TLSA itself at these names will do, is an open question. For this hackathon, the data is published as TLSA records at the names the draft defines.
+
+  At this hackathon we will:
+
+  1. Publish OPKEY records (TLSA form) under `_op` in a real DNSSEC-signed zone, and verify them live against the public DNS.
+  2. Send S/MIME-signed email with an OP bundle through an ordinary mail provider, and verify it on arrival with live DNS lookups.
+  3. Revoke a profile by removing its Originator Key Record from the DNS, and measure how long it takes until verification fails. We will also try revoking an annotation (adding a Revocation Record) and withdrawing an issuer key.
+  4. Show OPKEY support in a DNS library (dnsdata-go) and a small `opkey-dig` tool.
+
+  We would like to hear from people who work on DNS libraries and tools, DNSSEC validation in applications, and DKIM / DMARC, about what breaks.
 
 ----
 
