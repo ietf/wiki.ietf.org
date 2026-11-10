@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-09T17:12:02.512Z
+date: 2026-11-10T01:28:20.246Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -716,6 +716,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 Qin Wu (bill.wu@huawei.com)
 Giuseppe Fioccola (giuseppe.fioccola@huawei.com)
 King Daniel (d.king@lancaster.ac.uk)
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
 
@@ -732,7 +733,7 @@ Changhua Pei (chpei@cnic.cn)
 - **Related Drafts**
 https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
 https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/
-https://datatracker.ietf.org/doc/draft-contreras-bmwg-ai-agent-benchmarking/
+https://datatracker.ietf.org/doc/draft-contreras-bpm-ai-agent-benchmarking/
 https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/
 
 - **Repositories**
