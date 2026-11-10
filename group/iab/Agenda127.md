@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-06T11:44:04.387Z
+date: 2026-11-10T16:57:12.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -34,7 +34,10 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > 
-
+> - ISE Survey (Akanksha/Dhruv) - 45 mins
+> - Update to IAB statement on Appeal (Mark) - 30 mins
+> - Closing of some public IAB mailing lists and moderation procedures (Dhruv) - 15 mins
+> - Proposed RIR Admin Support Group (Dhruv) - 30 mins
 
 ### 14:00-16:00: IAB Business Meeting (Room: Plaza A)
 > Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
@@ -82,7 +85,8 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 > 
 > Agenda:
 >
-
+> - Year 2038 (and other years) problems (Suresh, with Wes Hardaker) - 40 mins
+> - Architecture Principle Document (Mark) - 40 mins
 
 
 
@@ -101,7 +105,10 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 {.is-info}
 
 > Agenda:
-> 1. Placeholder for possible Q+A with IETF Counsel (added by Jay)
+> - Prep for IGF2026 (with ISOC) - 35 mins
+> - Linux Foundation (Suresh) - 15 mins
+> - ETSI (Suresh) - 15 mins
+> - Q&A with IETF Counsel - 15 mins
 
 
 ### Non-required events:
@@ -127,15 +134,8 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 
 ## Potential Topics
-- New Admin Support Group (Dhruv)
-- ISE Survey (Akanksha/Dhruv)
-- Update to IAB statement on Appeal (Mark)
-- Closing of some public IAB mailing lists and moderation procedures (Dhruv)
-- Year 2038 (and other years) problems (Suresh)
-- Architecture Principle Document (Mark)
-- Linux Foundation (Suresh)
-- ETSI (Suresh)
-- Prep for IGF2026 (with ISOC)
+
+
 
 
 
