@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2026-11-10T16:34:14.620Z
+date: 2026-11-10T16:35:12.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -14,7 +14,7 @@ The [TSV Area Review Team](/group/tsv/TSVART) reviews selected documents within 
 
 We plan to have TSVART assist in developing such guidelines, and to turn them into a checklist for TSVART reviews. The checklist and guidelines can be advertised to authors so their documents address the issues properly before we do TSVART reviews, and during TSVART reviews, we can check the checklist to make sure they considered the relevant issues.
 
-See also: [Guidance on the use of Tool-Assisted Reviews by Directorate Reviewers](/group/tsvwg/tsvart-ai).
+See also: [Guidance for Tool-Assisted Reviews by TSV-ART Reviewers](/group/tsvwg/tsvart-ai).
 
 ## Use of QUIC
 
