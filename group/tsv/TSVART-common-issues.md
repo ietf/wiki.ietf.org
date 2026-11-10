@@ -2,7 +2,7 @@
 title: TSV Common Issues
 description: 
 published: true
-date: 2026-07-24T07:59:55.727Z
+date: 2026-11-10T16:32:08.293Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T23:20:38.347Z
@@ -13,6 +13,8 @@ dateCreated: 2022-12-22T23:20:38.347Z
 The [TSV Area Review Team](/group/tsv/TSVART) reviews selected documents within the transport area and selected documents from other areas. This page describes some common issues that might come up in TSVART reviews.. We should publish guidelines that identify transport-related issues and point to the documents that contain further discussion.
 
 We plan to have TSVART assist in developing such guidelines, and to turn them into a checklist for TSVART reviews. The checklist and guidelines can be advertised to authors so their documents address the issues properly before we do TSVART reviews, and during TSVART reviews, we can check the checklist to make sure they considered the relevant issues.
+
+See also: [Guidance on the use of Tool-Assisted Reviews by Directorate Reviewers](/group/tsvwg/tsvart-ai).
 
 ## Use of QUIC
 
