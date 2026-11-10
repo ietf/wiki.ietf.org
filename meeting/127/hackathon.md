@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-10T09:21:50.796Z
+date: 2026-11-10T09:30:48.067Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1380,6 +1380,31 @@ https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
   4. Show OPKEY support in a DNS library (dnsdata-go) and a small `opkey-dig` tool.
 
   We would like to hear from people who work on DNS libraries and tools, DNSSEC validation in applications, and DKIM / DMARC, about what breaks.
+
+----
+
+### Agent credential conformance: build evidence, authorization and identity *
+- **Champions**
+  - Abdel Sy Fane, OpenA2A, info@opena2a.org (onsite)
+- **Project Info**
+We run open conformance fixtures for AI agent credentials against verifiers and issuers we didn't write, and file every difference the same day. We bring pinned fixtures and two independent reference verifiers (Go and Python) for ATX, a signed build evidence credential for agents, plus suites for our identity and authorization profiles, and a kit that runs the fixtures through your verifier and reports agree, disagree and couldn't read. The kit runs on your laptop, uploads nothing, and needs no network after one install.
+- **Hackathon Plan**
+  - Run the fixtures against every verifier that comes to the table, and publish a results table.
+  - Implement Mission-Bound Authorization (draft-mcguinness-oauth-mission) and the WIMSE agent delegation chain (draft-asor-wimse-agent-delegation-chain) from the documents, and report where the text had to be guessed.
+  - Draft fixtures for AIMS (draft-ietf-wimse-aims).
+- **Looking for**
+  - Anyone with a verifier or issuer for agent credentials, in any language.
+  - People working on RATS, SCITT, WIMSE or OAuth, and participants in the AUDIT BoF.
+- **Cross-project**
+Most agent evidence projects here record what an agent did. We test evidence about how the agent was built, and we'd like to try the two together: Action Evidence Packages, AER-1, the TTTPS and AUDIT testbed, and WEXP.
+- **Thanks**
+Every tester is credited by name in the results. For each confirmed bug in our fixtures, kit or spec reported during IETF 127, we donate 100 US dollars to the open-source project or nonprofit of the finder's choice.
+- **What to bring**
+A laptop with Go 1.22 or later (1.23 or later on macOS 26).
+- **Repository**
+https://github.com/opena2a-standards/atx-conformance
+- **When**
+At the table Saturday and Sunday. Remote through the Hackathon Zulip stream, with check-ins Saturday 12:00 and 17:00 and Sunday 11:00 Pacific.
 
 ----
 
