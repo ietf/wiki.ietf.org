@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-10T09:30:48.067Z
+date: 2026-11-10T09:52:26.023Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1406,9 +1406,42 @@ https://github.com/opena2a-standards/atx-conformance
 - **When**
 At the table Saturday and Sunday. Remote through the Hackathon Zulip stream, with check-ins Saturday 12:00 and 17:00 and Sunday 11:00 Pacific.
 
+### Agent action evidence interop: who approved it, what was allowed, what happened
+
+- **Champions**
+
+Steven Mih, Action State, steven@actionstate.ai (on site)
+Laurent Lemonnier, iSoluce, laurent@isoluce.net (remote)
+
+- **Project Info**
+
+Several drafts record what an AI agent did. Each says, in its own text, what it does not prove, often which person approved that exact action. This project composes them with a signed decision record and checks the result with independent code written from the documents.
+
+Track 1, evidence chains: the Agent Action Capsule cases with the current library; an agent pass carried three ways; a plan run with its manifest and checkpoint; one refund running through the four drafts of the SCITT adoption discussion of 18 November (draft-thaha-scitt-agent-execution-evidence, draft-lemonnier-scitt-decision-provenance, draft-wright-verdict-record, draft-xg-payment-dispute-profile). Two approvals signed with a real passkey. Every case has failing cases, each caught where expected. The data is synthetic.
+
+Track 2, deterministic encodings for COSE: draft-mih-sokolov-cose-deterministic-encodings end to end. Positive vectors run by two implementations; negative vectors (header absent, encoding not implemented, preimage not in the declared form, hash over another serialization), each failing for its stated reason.
+
+- **Hackathon Plan**
+
+1. One record, two logs: register the same Signed Statements on two independently run Transparency Services, and have each receipt verified by the other party's verifier.
+2. Register a Hash Envelope through a SCITT + SCRAPI implementation and verify the receipt offline.
+3. Results checked in, not pasted: one folder per vector set, a README naming the implementation and commit that produced each result, a pass/fail table.
+4. Run it yourself, offline, and tell us where your reading of a draft differs from ours.
+
+- **Looking for**
+
+Anyone running a Transparency Service, or writing a verifier for any of these drafts, in any language.
+
+- **Links**
+
+Code, vectors and failing cases: https://github.com/Laurent-Lemonnier/dps-scitt-decision-layer
+Transparency Service: https://ts.isoluce.net
+Related projects: Independent time anchoring (Jonna Fassbender), AER-1, WEXP Appraisal Core-02 (Mikhail Sergeev).
+
 ----
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
