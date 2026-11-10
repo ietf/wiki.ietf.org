@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-10T17:04:33.595Z
+date: 2026-11-10T17:09:23.032Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -34,10 +34,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 > Agenda: https://wiki.ietf.org/en/group/iesg/UpcomingIETF
 > 
-> - ISE Survey (Akanksha/Dhruv) - 45 mins
-> - Update to IAB statement on Appeal (Mark) - 30 mins
-> - Closing of some public IAB mailing lists and moderation procedures (Dhruv) - 15 mins
-> - Proposed RIR Admin Support Group (Dhruv) - 30 mins
+
 
 ### 14:00-16:00: IAB Business Meeting (Room: Plaza A)
 > Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1001
@@ -45,8 +42,10 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 
 > Agenda:
-> 
-> 
+> - ISE Survey (Akanksha/Dhruv) - 45 mins
+> - Update to IAB statement on Appeal (Mark) - 30 mins
+> - Closing of some public IAB mailing lists and moderation procedures (Dhruv) - 15 mins
+> - Proposed RIR Admin Support Group (Dhruv) - 30 mins
 
 
 
