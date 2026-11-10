@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-10T18:21:54.321Z
+date: 2026-11-10T18:39:05.321Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -88,7 +88,8 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
-    Random order: 
+    Random order: INT, RTG, ART, WIT, OPS, SEC, IRTF, IAB, GEN
+>3. Liaison BCP update 4052bis and 4053bis (Suresh)
 
 ### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda127)
 
@@ -164,7 +165,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 > 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
-    Random order: 
+    Random order: GEN, IRTF, IAB, RTG, INT, ART, SEC, OPS, WIT
     * Everything but BoFs
     * BoFs
 > 3. General discussion of productivity and how the meeting went (standing item)
