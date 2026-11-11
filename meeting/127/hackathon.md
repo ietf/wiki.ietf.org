@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T22:29:48.837Z
+date: 2026-11-11T22:30:49.335Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1531,7 +1531,7 @@ The goal is to interop between HPE (Juniper cRPD) and Arrcus (ArcOS container).
 **Hackathon Plan**
 
 - Bring up the lab.
-- Interop: run RSVP-TE SRv6 tunnels between cRPD and ArcOS nodes in both directions.
+- Interop: run RSVP-TE SRv6 tunnels between HPE cRPD and ArcOS nodes in both directions.
 - Check the format of the RRO SRv6 SID sub-object across implementations.
 - Review the draft text against what the implementations do, and record any gaps or ambiguities for the next revision.
 - Newcomers can follow a worksheet (available on demand) to explore the lab.
