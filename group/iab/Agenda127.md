@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-10T17:29:59.372Z
+date: 2026-11-11T13:10:14.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -44,8 +44,8 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 > Agenda:
 > - ISE Survey (Akanksha/Dhruv) - 45 mins
 > - Update to IAB statement on Appeal (Mark) - 30 mins
-> - Closing of some public IAB mailing lists and moderation procedures (Dhruv) - 15 mins
-> - Proposed RIR Admin Support Group (Dhruv) - 30 mins
+> - Moderation procedures and Closing of some public IAB mailing lists (Dhruv) [[Slide]](https://docs.google.com/presentation/d/1jco93XW1Tqp-nN_ZA8DQsgzneQ24iAtDjqbwfmw5UQs/edit?usp=sharing) - 15 mins
+> - Proposed RIR Admin Support Group (Dhruv) [[GDoc]](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing) - 30 mins
 
 
 
@@ -132,7 +132,8 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 
 
-## Potential Topics
+## Potential Topics / Parking Lot
+- [De facto v/s Open Standards](https://docs.google.com/document/d/1tGbZ2LwCwGneB7FwsHBPBdMzaSqwputt_bwBaUB_1r4/edit?usp=sharing)
 
 
 
