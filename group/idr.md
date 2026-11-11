@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-11-11T21:15:36.427Z
+date: 2026-11-11T21:17:14.462Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -70,14 +70,9 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 [CT WG LC](/group/idr/CT-WGLC)
 [CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
 
-#### (Closed) FSv2 Design teams from 2025 -
-[Background on Open Design Teams](/group/idr/FSv2-DTeam)
-[Design Team 1: Basic IP FSv2](/group/idr/Basic-IP-FSv2)
-[Design Team 2: More IP Filters for FSv2](/group/idr/More-IP-Filter-FSv2)
-[Design Team 3: More IP Actions for FSv2](/group/idr/More-IP-Action-FSv2)
-[Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
 
-### Notes on IDR Interims before 2021-2025 
+### Notes on IDR Interims and Design Teams
+### 2021-2025 
 [interims 2021-2026](/group/idr/Interims/Pre-2026)
 
 ## Useful information
@@ -88,7 +83,6 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 [De facto BGP features needing documentation](/group/idr/DeFactoBGPFeatures)
 [Glossary](/group/idr/Glossary)
 
-[idr-draft-status](idr-draft-status) - deprecated see top of page 
 
 Attachments:
 [draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf](/draft-dunbar-idr-sdwan-edge-discovery-00-v12.pdf)
