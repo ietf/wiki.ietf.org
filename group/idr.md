@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-11-11T21:10:08.648Z
+date: 2026-11-11T21:10:53.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -30,7 +30,6 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 
 ## Draft Status
 [idr-draft-status](https://github.com/ietf-wg-idr/idr-chairs/blob/main/status.md) 
-[idr-draft-status](idr-draft-status) - Stale. See the github link.
 [Early Allocation Status](/group/idr/Early-Allocation-Status)
 [Shepherd Reviews on SR and BGP-LS drafts](/group/idr/Shepherd-SR-BGP-LS)
 [Flowspec - Code points (actions, filters) and shepherd reports](/group/idr/Shepherd-FSv2)
@@ -78,41 +77,6 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 
 ### Notes on IDR Interims before 2021-2025 
 [interims 2021-2026](/group/idr/Interims/Pre-2026)
-
-### Interims in 2024 
-[IDR interim on 9/9/2024 on SR and BGP Routing](https://datatracker.ietf.org/meeting/interim-2024-idr-11/session/idr)
-[IDR interim on 9/23/2024 on Next Hop features and Link Bandwidth](https://datatracker.ietf.org/meeting/interim-2024-idr-12/session/idr)
-[IDR Interim on 5/20 - SR and BGP-LS](https://datatracker.ietf.org/meeting/interim-2024-idr-04/session/idr)
-[IDR Interim on 6/24 - Pre-IETF-120 New Drafts (-00)](https://datatracker.ietf.org/meeting/interim-2024-idr-05/session/idr)  
-[IDR Interim-1 on 1/26 - CAR, CT, AIGP, and Sendholdtimer](https://datatracker.ietf.org/meeting/interim-2024-idr-02/session/idr)
-[IDR Interim-2 on 2/26 - New Drafts Interim](https://datatracker.ietf.org/meeting/interim-2024-idr-01/session/idr) 
-
-#### IDR FSv2 interims in 2024
-[Design team 1 on 4/29](https://datatracker.ietf.org/meeting/interim-2024-idr-03/session/idr)
-[Design team 1 + 2 on 5/6](https://datatracker.ietf.org/meeting/interim-2024-idr-06/session/idr)
-[Design team 1 on 6/3](https://datatracker.ietf.org/meeting/interim-2024-idr-08/session/idr)
-[Design team 1 + 2 on 6/10](https://datatracker.ietf.org/meeting/interim-2024-idr-09/session/idr)
-
-
-### Interims in 2023 
-[IDR Interim-1 in April 2023](/group/idr/IDR-New-Drafts-Apr2023) 
-[IDR interim-2 on Sept 25, 2023](/group/idr/IDR-Interim2-Sept2023)
-
-### Interims in 2022 
-[BGP Autoconfiguration + FSv2 - moved to January 10th or 24th](/group/idr/BGPAustoconfiguration+FSv2)
-[Embedded NLRI and Error Handling (CAR, Classful Transport)) - Moved to January 10th or 24th](/group/idr/EmbeddedNLRI)
-
-[IDR-New-Drafts-Aug-2022 - 8/29/2022](/group/idr/IDR-New-Drafts-Aug2022)
-[IDR-CAR-CT and NextHop - Oct-2022](/group/idr/IDR-CAR-CTandNextHop-Oct-
-
-### Interims in 2021
-[June 07, 2021 - Flow Specification Feedback](/group/idr/FlowSpecificationFeedback)
-[June 21, 2021 - AutoConfiguration Feedback](/group/idr/AutoConfigurationFeedback)
-[August 23, 2021 - Chairs on new Drafts](/group/idr/ChairsonNewDrafts)
-[September 27, 2021 - Flow Specification v2](/group/idr/FlowSpecification)
-[October 11, 2021 - Embedded NLRI and Error Handling (CAR, Classful Transport)) - cancelled](/group/idr/EmbeddedNLRIandErrorHandling)
-[October 18, 2021 - BGP Autoconfiguration + New Drafts](/group/idr/BGPAutoconfiguration)
-
 
 ## Useful information
 
