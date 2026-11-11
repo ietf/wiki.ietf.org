@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-10T18:39:05.321Z
+date: 2026-11-11T01:30:29.310Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -19,7 +19,6 @@ This is a space to organize schedules and meeting topics for the upcoming IETF m
 ## Candidate Meeting Topics
 Please add any topics for either IESG only meetings at IETF 126, or the joint meetings with the IAB.
 
-- Joint Session: Liaison BCP update 4052bis and 4053bis (Suresh)
 - [Potential topics for Joint discussion](https://wiki.ietf.org/en/group/iab/iab-iesg)
 - Community Survey (Sunday?)
 
