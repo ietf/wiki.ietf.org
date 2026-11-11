@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-07-24T03:40:38.044Z
+date: 2026-11-11T21:07:40.919Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -60,18 +60,14 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 - February 10th, 2025 - BGP-LS, BGP-SR, FSv2 - Canceled 
 - February 24, 2025 - 00 drafts prior to IETF-122 - Canceled 
 
-# Past Interims + Design teams 
-## Interims in 2026 
-### February 9th, 2025 - Early Review Interm 
-
-
 ## Past Interims 
+### 2026 
+- [Feb 9, 2026](datatracker.ietf.org/meeting/interim-2026-idr-01/session/idr) 
+- [May 11, 2026](datatracker.ietf.org/meeting/interim-2026-idr-02/session/idr)
+- [October 26, 2026](datatracker.ietf.org/meeting/interim-2026-idr-03/session/idr)
 
-### Interims in 2025 
-- February 10th, 2025 - BGP-LS, BGP-SR, FSv2 - Canceled 
-- February 24, 2025 - 00 drafts prior to IETF-122 - Canceled
-
-#### Notes on CAR/CT (2022-2025) 
+### Interim 2025 
+#### CAR/CT interims and Discussions
 [CAR WG LC](/group/idr/CAR-WGLC)
 [CT WG LC](/group/idr/CT-WGLC)
 [CAR-CT Adoption call (7/6/2022 to 7/27/2022)](/group/idr/CAR-CTAdoption)
@@ -84,6 +80,7 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 [Design Team 4: Non-IP filters and actions FSv2](/group/idr/Non-IP-FSv2)
 
 ### Notes on IDR Interims before 2021-2025 
+[interims 2021-2026](/group/idr/Interims/Pre-2026)
 
 ### Interims in 2024 
 [IDR interim on 9/9/2024 on SR and BGP Routing](https://datatracker.ietf.org/meeting/interim-2024-idr-11/session/idr)
