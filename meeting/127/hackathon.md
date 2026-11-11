@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-10T23:06:49.788Z
+date: 2026-11-11T04:03:14.532Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1475,6 +1475,26 @@ Anyone who emits or verifies agent-evidence records, in any language. Send a few
 Matrix repository: https://github.com/probityai/agent-evidence-matrix
 Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent memory integrity.
 
+
+### Batch Authorization Delegation: One Approval, Agent-Specific Permissions
+
+- **Champions**
+ Yuan Ni, niyuan1@huawei.com (remote)
+ Chunchi Peter Liu, liuchunchi@huawei.com (remote)
+
+- **Project Info**
+	* An orchestrator agent coordinates specialized agents to complete a user request. For example, a Product Manager Agent coordinates Development and Testing Agents to implement and test a feature; a Personal Assistant coordinates Calendar and Email Agents to schedule a meeting and notify attendees.
+	* Batch Authorization Delegation lets the orchestrator request permissions for these specialized agents together, reducing repeated user approval interactions while allowing each sub-agent to obtain only its assigned permissions. 
+	* The demo illustrates a Personal Assistant coordinating Calendar and Email Agents. Users can approve both permissions, approve only one, or decline both.
+	* Try the demo locally to explore user approval, per-agent tokens, and resource responses through a web interface. Calendar and email operations are simulated.
+
+- **Links**
+	* Draft: https://datatracker.ietf.org/doc/draft-ni-oauth-batch-authorization-delegation/
+           https://github.com/NiYuan224/draft-ni-oauth-batch-authorization-delegation/blob/main/draft-ni-oauth-batch-authorization-delegation.md
+	* Code and instructions: https://github.com/NiYuan224/draft-ni-oauth-batch-authorization-delegation/tree/main/demo
+  
+- **Looking for**
+  * Participants interested in multi-agent authorization to try the demo, share use cases, and help improve the draft and implementation. 
 
 ```markdown
 ### Your Project
