@@ -2,7 +2,7 @@
 title: IDR WG - Inter-Domain Routing
 description: The IETF IDR working group (WG) advances the BGP protocol.
 published: true
-date: 2026-11-11T21:10:53.981Z
+date: 2026-11-11T21:11:51.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T14:02:17.635Z
@@ -54,9 +54,7 @@ The longer term intent is that the IETF wiki continues to be the primary locatio
 [Feedback for RTGWG drafts](/group/idr/Feedback-to-RTGWG)
 [Feedback on Yang Models](/group/idr/Feedback-Yang-Models)
 
-
-
-## Past Interims 
+## Past Interims, Chair Chats and design teams
 ### 2026 
 - [Feb 9, 2026](datatracker.ietf.org/meeting/interim-2026-idr-01/session/idr) 
 - [May 11, 2026](datatracker.ietf.org/meeting/interim-2026-idr-02/session/idr)
