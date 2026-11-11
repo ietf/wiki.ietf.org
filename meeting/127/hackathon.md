@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T11:50:57.446Z
+date: 2026-11-11T12:00:00.770Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -421,7 +421,7 @@ https://github.com/NetGauze/NetGauze/releases/tag/v0.14.0
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
-----
+
 ---
 ### AINETOPS — Network-Management Agent Interoperability
 
@@ -445,7 +445,7 @@ Connect an external capacity-planning agent to an agentic network-management pla
 [AINETOPS proposal](https://github.com/dan-voyer/IETF/tree/main/AINETOPS-proposal) - working text describing the operational interoperability problems
 [Schema Interfaces for Network Management Agent Skills](https://github.com/agentic-network-management/agent-schema-interfaces) - working draft for the schema-interface
 
-	
+---	
 ### SW103K Layer 2 Compression and Decompression Protocol Interop
 
 - **Champions**
@@ -654,7 +654,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
   - Further slides and videos in this [draft](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), more specifically [here](https://www.ietf.org/archive/id/draft-intra-handshake-fail-55.html#section-19.1.1).
   - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
-
+---
 ### AI2II: AI-Assisted Protocol Implementation & Interoperability
 
 - **Champions**
@@ -708,7 +708,8 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
 -  **Repository:** : https://github.com/apelov/AI2II
   
- ### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection In network management operations
+---
+### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection In network management operations
 
 - **Champions**
 Qin Wu (bill.wu@huawei.com)
@@ -737,8 +738,8 @@ https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/
 - **Repositories**
 https://github.com/billwuqin/Agent-Observability-Intervention-Control
  
- 
- ### Agent memory integrity: does your agent's memory store notice tampering? 
+--- 
+### Agent memory integrity: does your agent's memory store notice tampering? 
 - **Champions**
 Yasha Khandelwal, yasha.khandelwal@tech4biz.io (remote, India UTC+5:30)
 - **Project Info**
@@ -757,7 +758,7 @@ Code: https://github.com/tech4biz-yasha/agent-memory-integrity
 Scorecard: https://agentmemoryintegrity.org
 
 
-
+---
 ### In Loving Memory of Dave Täht (1965-2025)
 - **Champions**
 Frank (Frantisek) Borsik frank@libreqos.com / frantisek.borsik@gmail.com
@@ -1053,6 +1054,7 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
   - ARD Architecture: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-architecture/
   - ARD Manifest and Lookup: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-discovery/
   - ARD Initial Contact: https://datatracker.ietf.org/doc/draft-jimenez-dawn-ard-initial-contact/
+
 ---
 ### Action Evidence Packages for AI agents: recompute, don't inherit *
 
@@ -1436,14 +1438,7 @@ Code, vectors and failing cases: https://github.com/Laurent-Lemonnier/dps-scitt-
 Transparency Service: https://ts.isoluce.net
 Related projects: Independent time anchoring (Jonna Fassbender), AER-1, WEXP Appraisal Core-02 (Mikhail Sergeev).
 
-----
-
-  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
-
-
-**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
-
-
+---
 ### Agent Evidence Conformance Matrix: cross-project verification and continuous interoperability
 
 - **Champions**
@@ -1473,7 +1468,7 @@ Anyone who emits or verifies agent-evidence records, in any language. Send a few
 Matrix repository: https://github.com/probityai/agent-evidence-matrix
 Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent memory integrity.
 
-
+---
 ### Batch Authorization Delegation: One Approval, Agent-Specific Permissions
 
 - **Champions**
@@ -1494,6 +1489,14 @@ Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent m
 - **Looking for**
   * Participants interested in multi-agent authorization to try the demo, share use cases, and help improve the draft and implementation. 
 
+----
+
+  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+
+**TEMPLATE:** Copy/paste and update the following template to add your project to the list:
+
+---
 ```markdown
 ### Your Project
 - **Champions**
