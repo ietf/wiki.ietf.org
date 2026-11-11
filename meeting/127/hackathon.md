@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T11:21:48.416Z
+date: 2026-11-11T11:40:06.513Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -55,19 +55,6 @@ Hackathon *(all times are in PST/UTC-8)*
 * **17:00** : Tear down complete
 {.grid-list}
 
-Related activities before and after the Hackathon weekend
-
-## Hackdemo Happy Hour
-  * Share your Hackathon project with the IETF community
-  * Monday, 16 November, Time: 18:30 - 19:30, Room: East Lounge
-  * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 16 November
-
-## Shared Workspace
-  * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 16-20 November, Room: Continental 2 
-  * View the [schedule](codelounge) or reserve space for your team/project
-
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
 When you register for the IETF Hackathon, you are sent a separate email to create an IETF Datatracker account if you don't already have one. 
@@ -81,14 +68,28 @@ If you received the email but the link to create an account has expired, please 
 3. Enter the email address that you registered with for the Hackathon
 4. Follow the instructions in the email you receive
 
+
+Related activities before and after the Hackathon weekend
+
+## Hackdemo Happy Hour
+  * Share your Hackathon project with the IETF community
+  * Monday, 16 November, Time: 18:30 - 19:30, Room: East Lounge
+  * View the [schedule](hackdemo) or reserve space for your team/project
+    * Reservations for space must be made by 13:00, Monday 16 November
+
+## Shared Workspace
+  * Space for groups to gather and collaborate on running code 
+  * Monday - Friday, 16-20 November, Room: Continental 2 
+
+
 ## Presentation and Meeting Materials
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/33500/propose_slides) at 14:00-16:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/127/session/35923/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
-    * https://datatracker.ietf.org/meeting/127/session/hackathon#autoid-16
+    * https://datatracker.ietf.org/meeting/127/session/hackathon#autoid-19
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
