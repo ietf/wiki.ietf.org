@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T11:20:31.179Z
+date: 2026-11-11T11:21:48.416Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -59,7 +59,7 @@ Related activities before and after the Hackathon weekend
 
 ## Hackdemo Happy Hour
   * Share your Hackathon project with the IETF community
-  * Monday, 16 November, Time: 19:00 - 20:00, Room: East Lounge
+  * Monday, 16 November, Time: 18:30 - 19:30, Room: East Lounge
   * View the [schedule](hackdemo) or reserve space for your team/project
     * Reservations for space must be made by 13:00, Monday 16 November
 
