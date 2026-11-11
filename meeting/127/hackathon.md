@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T04:03:14.532Z
+date: 2026-11-11T07:40:44.392Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
