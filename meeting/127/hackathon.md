@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T12:00:00.770Z
+date: 2026-11-11T21:46:47.560Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1488,6 +1488,31 @@ Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent m
   
 - **Looking for**
   * Participants interested in multi-agent authorization to try the demo, share use cases, and help improve the draft and implementation. 
+
+----
+### PQC DNSSEC MTL Deduplication Strategies
+
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com)
+Andrew Kaizer (akaizer@verisign.com)
+Hongying Dong (hdong@verisign.com)
+
+
+- **Draft Specifications**
+[1] https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/
+[2] https://datatracker.ietf.org/doc/draft-hdong-dnsop-ml-dsa-mtl-dnssec-sigtag-ext/
+[3] https://datatracker.ietf.org/doc/draft-westerbaan-dnssec-mldsa/
+
+- **Project Info**
+This hackathon effort is looking at different Merkle Tree Ladder (MTL) deduplication techniques for post-quantum cryptography (PQC) DNSSEC. One example is looking at deduplication techniques for dynamic MTL DNSSEC signatures. These techniques help make PQC DNSSEC with MTL more efficient.  The deduplication techniques will be evaluated in comparison to transmitting pure ML-DSA-44 DNSSEC signatures per draft specification [3].
+
+- **Related Groups**
+•	PQ DNSSEC Research Side Meetings
+•	DNS Operations (DNSOP) Working Group
+•	Crypto Forum Research Group (CFRG)
+
+
 
 ----
 
