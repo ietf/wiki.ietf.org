@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T07:40:44.392Z
+date: 2026-11-11T08:27:47.169Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -419,7 +419,7 @@ implementation in the area of YANG data schema validation and obtaining latest Y
 https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/127/Hackathon
 https://github.com/network-analytics/yang-kafka-integration
 https://github.com/network-analytics/NetCalyx/releases/tag/v0.3.0
-https://github.com/NetGauze/NetGauze/releases/tag/v0.13.0
+https://github.com/NetGauze/NetGauze/releases/tag/v0.14.0
 https://github.com/pmacct/pmacct
 https://github.com/CESNET/libyang/releases/tag/v5.4.9
 
