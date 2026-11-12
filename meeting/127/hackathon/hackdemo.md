@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-11-11T11:19:41.122Z
+date: 2026-11-12T14:44:58.182Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:19:41.122Z
@@ -19,6 +19,6 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 
 | Project Name  |  Contact Name |  Contact Email |  Reference Link  |
 |---|---|---|---|
-|   |   |   |   |
+| Glint RFC/I-D/ASN.1 parser | Daniel Van Geest | daniel.vangeest@cryptonext-security.com | https://github.com/turbolight-solutions/glint/ |
 |   |   |   |   |
 |   |   |   |   |
