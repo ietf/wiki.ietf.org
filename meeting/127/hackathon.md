@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T19:56:28.351Z
+date: 2026-11-12T19:57:15.748Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -750,7 +750,7 @@ Measure the stores participants bring. Write the one adapter class a new store n
 - **Potential collaboration**
 Independent time anchoring (an anchor kept outside the store is the configuration that refuses rollback and resurrection in our measurements); AER-1 execution receipts; the AUDIT BoF; the Agent Evidence Conformance Matrix (Sankalp Gilda) and WEXP Appraisal Core (Mikhail Sergeev), both of which name this project on this page.
 - **What to bring**
-A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all.
+A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all. Install ahead of the day: pip install agent-memory-integrity (0.7.0 carries all ten edits).
 - **When**
 Remote, Saturday 14 November, 10:45 to 14:45 Pacific, on the Hackathon Zulip stream; check-ins at 11:00 and 13:30 Pacific. Email ahead for other hours.
 - **Links**
