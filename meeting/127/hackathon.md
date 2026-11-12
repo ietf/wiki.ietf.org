@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T11:55:49.933Z
+date: 2026-11-12T14:25:55.470Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1565,6 +1565,27 @@ We don't have a single plan for the hackathon, but are interested in both provin
 - experiment with IPv6-only accounts and repository hosting
 - experiment with Post-Quantum keys and signatures
 - discuss "Spaces" proposal (https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
+
+----
+
+### Glint ASN.1 checker
+- **Champions**
+
+Corey Bonnell (corey.bonnell@turbolightsolutions.com)
+Daniel Van Geest (daniel.vangeest@cryptonext-security.com)
+- **Project Info**
+
+[Glint](https://github.com/turbolight-solutions/glint) is a vibe-coded ASN.1 checker for Internet-Draft and RFC authors. It parses modules per ITU-T X.680–X.683 (2021), resolves IMPORTS against a corpus of every ASN.1 module published in an RFC or an active Internet-Draft, and verifies that ASN.1 quoted in a draft's prose matches the draft's own module. A [Web UI](https://glint.turbolightsolutions.com/) is available.
+
+In this hackathon we plan to:
+
+- integrate a Claude Code skill for applying errata to the corpus.  This will focus on ASN.1 (module and inline) errata only, the applied errata can be checked by Glint.
+- integrate with the CI/CD of internet drafts so that ASN.1 can be automatically verified before publication. Projects in the [lamps-wg](https://github.com/lamps-wg) repo will be initial targets (only due to champions' other work), but other projects are welcome.
+
+Looking for:
+
+- internet draft repos to add CI/CD.
+- ideas for improvement to the tool.
 
 ----
 
