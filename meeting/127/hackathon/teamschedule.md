@@ -2,7 +2,7 @@
 title: Team Schedule
 description: 
 published: true
-date: 2026-11-11T11:14:42.206Z
+date: 2026-11-12T22:45:34.557Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:14:42.206Z
@@ -22,7 +22,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
-|   |   |   |
+|CoAP over BPv7 with IPN Addressing and Message Aggregation   |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Google Meet: https://meet.google.com/jwo-hbof-hcq .  Onsite Champion: Anna Calveras (anna.calveras@upc.edu). Remote Champion: Mahitab Salah Elattar (mahitab.elattar@outlook.com).  Remote participants are welcome.   |
 |   |   |   |
 |   |   |   |
 
