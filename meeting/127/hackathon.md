@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T19:25:28.471Z
+date: 2026-11-12T19:29:03.949Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1518,7 +1518,7 @@ This hackathon effort is looking at different Merkle Tree Ladder (MTL) deduplica
 
 ----
 
-**RSVP-TE Signaling over an SRv6 Forwarding Plane (RSv6-TE)**
+### RSVP-TE Signaling over an SRv6 Forwarding Plane (RSv6-TE)
 
 **Champions**
 Vishnu Pavan Beeram, HPE (vbeeram@hpe.com)
