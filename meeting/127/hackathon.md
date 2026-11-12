@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T14:44:19.716Z
+date: 2026-11-12T17:26:31.853Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -694,7 +694,8 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 
 
 - **Candidate experiments**
-  - **OSCORE Multicast Notifications:** Port an existing C implementation and test interoperability. ( https://github.com/apelov/coap-multicast-notifications )
+  - **WIMSE:** Run interop of several supporting implementations.
+  - **OSCORE Multicast Notifications:** Port an existing C implementation and test interoperability. ( https://github.com/apelov/coap-multicast-notifications ).
   - **ICMPv6-SEC:** Implement experimental QUIC timer adaptation and evaluate it in a high-delay network testbed. 
   - **CORECONF / SCHC:** Generate implementations and tests for YANG/CBOR-based management.
   - **Your own Internet-Draft or implementation!**
