@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T20:18:45.175Z
+date: 2026-11-12T21:59:30.829Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1548,6 +1548,30 @@ Looking for:
 - internet draft repos to add CI/CD.
 - ideas for improvement to the tool.
 
+----
+### Testing Congestion Control and Queue Management Mechanisms
+
+- **Champions**
+Mohit P. Tahiliani (tahiliani@nitk.edu.in)
+Vivek Jain (jain.vivek.anand@gmail.com)
+Vishal Kamath (vishalkamath.221cs261@nitk.edu.in) [Remote]
+
+- **Project Info**
+Objective 1: Testing the integration of picoquic, quiche and neqo with ns-3
+Objective 2: Exploring the feasbility of conducting congestion control and ECN/L4S related experiments using picoquic and ns-3 
+Objective 3: Testing the implementation of [rate-limited sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/) in picoquic
+Objective 4: Testing the implementation of [Alternative Backoff with ECN](https://www.rfc-editor.org/info/rfc8511/) in msquic, mvfst and quiche. 
+
+- **Related Documents**
+  - [Internet Draft on Rate Limited Sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
+  - [RFC 8511](https://datatracker.ietf.org/doc/rfc8511/)
+- **Related Repositories** 
+  - [ns-3](https://gitlab.com/nsnam/ns-3-dev/)
+  - [picoquic](https://github.com/private-octopus/picoquic)
+  - [quiche](https://github.com/cloudflare/quiche)
+  - [neqo](https://github.com/mozilla/neqo)
+  - [msquic](https://github.com/microsoft/msquic)
+  - [mvfst](https://github.com/facebook/mvfst)
 ----
 
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
