@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T19:57:15.748Z
+date: 2026-11-12T20:18:45.175Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -476,9 +476,10 @@ RFC9293
 	- TBA
 
 - **Draft vulnerable to CVEs**
-      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
+ >  - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
 
-Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
+- Current analysis
+> Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
 
 - **Project Motivation**
 
@@ -486,21 +487,12 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > - [al-ice.ai](https://al-ice.ai/posts/2026/10/privasys-ra-tls-five-cves-channel-binding-self-disclosure/)
 > 
-> ##### CVE-2026-100835
-> 
-> 
-> - [Threat radar](https://radar.offseq.com/threat/contrast-before-1160-is-susceptible-to-remote-attestation-relay-attacks-cve-2026-100835-3833ee713219f7e3)
-> - [vulnfeed](https://buttondown.com/vulnfeed/archive/vulnfeed-2-critical-cves-2026-09-27-0400-utc/)
-> - [ervik](https://www.ervik.as/cves/CVE-2026-100835)
-> - [securityvulnerability.io](https://securityvulnerability.io/vulnerability/CVE-2026-100835)
-> - CIRCL's [vulnerability](https://vulnerability.circl.lu/vuln/cve-2026-100835)
-> 
+> ##### CVE-2026-100835 
 > ##### CVE-2026-108362
 > 
 > 
 > - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-11-0-fixes/)
 > - [firewallchronicle](https://firewallchronicle.com/topic/vulnerabilities/privasys-ra-tls-clients-identity-validation-flaw/)
-> - [Apple podcase](https://podcasts.apple.com/pl/podcast/top-vulnerabilidades-cr%C3%ADticas-13-10-2026/id1877409819?i=1000796060867&l=pl)
 > - [Phish Herald](https://phishherald.com/topic/vulnerabilities/orgs-face-impersonation-risk-privasys-ra-tls/)
 > 
 > ##### CVE-2026-108265
@@ -508,7 +500,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > - [circuitobserver](https://circuitobserver.com/section/vulnerabilities/9-1-cve-allows-relay-attack-on-privasys-enclave/)
 > - [techwirebeat](https://techwirebeat.com/topic/vulnerabilities/organisations-at-risk-privasys-sgx-apps-face/)
-> - [acidpeak](https://www.acidpeak.com/product/privasys-enclave-os-mini/)
 > 
 > ##### CVE-2026-108266
 > 
@@ -533,7 +524,6 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > 
 > - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-enclave-os-tls-quote-relay-bug-bypasses/)
 > - [malwarechronicle](https://malwarechronicle.com/category/vulnerabilities/update-privasys-enclave-os-now-to-block-critical/)
-> - [avd](https://avd.aliyun.com/detail?id=AVD-2026-108268)
 > - [bitshieldnews](https://bitshieldnews.com/section/vulnerabilities/9-1-cvss-privasys-enclave-os-critical-flaw/)
 > 
 > ##### CVE-2026-108269
@@ -555,20 +545,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > - (German) [Cybersecurity news (CVE-2026-92701)](https://cybersecurity-news.de/cve-2026-92701-trusted-execution-environments-0-8-2/)
 > - (German) [Cybersecurity news (CVE-2026-92702)](https://cybersecurity-news.de/cve-2026-92702-cocos-ai-0-8-2/)
 > - (Chinese) [Security 114](https://www.anquan114.com/archives/7429)
-> - (Chinese) [KK says security](https://mp.weixin.qq.com/s/31Glxqr6ofHylTyrtNsuaQ)
-> - (Chinese) [Safe Meow Station](mp.weixin.qq.com/s/REtESPngXemSro0hjIZyxw)
-> - (Chinese) [Digital World Information](https://mp.weixin.qq.com/s/864dwIXF5IY04q7ig4uBwg)
-> - (Chinese) [Shusei Consulting](https://mp.weixin.qq.com/s/864dwIXF5IY04q7ig4uBwg)
-> - [Freenode 518](https://freenode.net/digest/518)
-> - [Freenode 571](https://freenode.net/digest/571)
 > - [Flashbots](https://collective.flashbots.net/t/earlyattestationbleed-paper-review/6054)
-> - (Japanese) [Rich & Wise with Socrates and Plato](https://www.rich-wise.co.jp/cve-info/cve-2026-92701-intel-tdx%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%AB%E3%82%88%E3%82%8A%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96%E3%82%92%E8%AC%9B%E3%81%98%E3%82%8B/)
-> - [OpenCVE (CVE-2026-92701)](https://app.opencve.io/cve/CVE-2026-92701)
-> - [OpenCVE (CVE-2026-92702)](https://app.opencve.io/cve/CVE-2026-92702)
-> - CIRCL's [vulnerability.circl.lu (CVE-2026-92701)](https://vulnerability.circl.lu/vuln/CVE-2026-92701)
-> - CIRCL's [vulnerability.circl.lu (CVE-2026-92702)](https://vulnerability.circl.lu/vuln/CVE-2026-92702)
-> - GCVE's [db.gcve.eu (CVE-2026-92701)](https://db.gcve.eu/vuln/cve-2026-92701)
-> - GCVE's [db.gcve.eu (CVE-2026-92702)](https://db.gcve.eu/vuln/cve-2026-92702)
 > 
 > ##### CVE-2026-100833
 > 
@@ -581,33 +558,11 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
 > #### Intra-handshake.fail
    > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
    > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
-   > - https://blogs.groupware.org.uk/01-Quantum-Inc/the-handshake-that-cant-keep-its-promise-why-confidential-computings-flaw-changes-the-data-sovereignty-conversation/
-   > - https://thenextgentechinsider.com/pulse/critical-flaw-discovered-in-confidential-computing-attestation-protocols
-   > - https://www.securitylab.ru/news/574545.php
-   > - Russian https://www.securitylab.ru/news/574545.php
-   > - German https://www.blogspan.net/confidential-computing-attestierung-relay-luecke/
-   > - https://dailysecurityreview.com/resources/cve-2026-33697-attested-tls-relay-flaw-hits-whatsapp-cocos-ai/
-   > - Chinese https://finance.sina.cn/tech/2026-07-04/detail-inifscxt9953361.d.html
-   > - https://data4biz.com/articles/una-falla-rompe-la-fiducia-del-confidential-computing
-   > - Japanese https://blackhatnews.tokyo/archives/119915
-   > - https://www.dugganusa.com/post/confidential-computing-s-whole-pitch-is-trust-the-proof-not-the-cloud-two-years-of-formal-verifi
-   > - https://post.smzdm.com/p/a82ol990/
-   > - Russian https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
-   > - Chinese https://blog.csdn.net/weixin_42376192/category_13096766.html
-   > - https://daily.dev/posts/bad-epoll-hits-99-reliability-sharepoint-rce-under-active-exploitation-zgp0yt8lh
-   > - https://meterpreter.org/attested-tls-vulnerability-cve-2026-33697/
-   > - https://osintsights.com/confidential-computing-flaws-expose-trust-risks
-   > - https://www.boerse-express.com/news/articles/digitale-souveraenitaet-vergabebeschleunigungsgesetz-staerkt-europaeische-cloud-ab-juli-924836
-   > - Turkish: https://hardwaremania.com/haber/arastirma-attested-tls-confidential-computing-icin-zayif-kaliyor/
-   > - https://akber.com/sovereignty-in-the-cloud-is-an-illusion/
-   > - https://www.itsec.ru/news/issledovateli-nashli-kriticheskuyu-uyazvimost-v-attested-tls
-   > - German https://www.ad-hoc-news.de/wissenschaft/digitale-souveraenitaet-bundesregierung-beschliesst-34-punkte-paket/69692503
-
 
 
 - **Implementations vulnerable to CVEs**
-      - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
-      - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
+> - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
+> - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
 
 - **Project Background**
    > Code under Apache-2.0 License: https://github.com/muhammad-usama-sardar/intra-handshake.fail
@@ -630,11 +585,9 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
       - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
 - **Hackathon plan**
   	- Discuss the nits of [relay attacks](https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS)
-    - Discuss possible solutions
     - Discuss open issues
 	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
-    - Formal evaluation of hybrid proposals in SEAT: which security property is provided by the hybrid (intra+post) proposals that is not provided only by the simple post-handshake attestation to absorb this complexity
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
 
