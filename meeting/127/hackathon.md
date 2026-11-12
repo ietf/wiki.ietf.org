@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-11T22:30:49.335Z
+date: 2026-11-12T03:57:10.501Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1539,6 +1539,31 @@ The goal is to interop between HPE (Juniper cRPD) and Arrcus (ArcOS container).
 **References**
 
 [1] [https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/](https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/)
+
+### Authenticated Transfer (atproto)
+
+**Champions**
+
+Bryan Newbold (bnewbold@robocracy.org) (arriving Saturday mid-day)
+Daniel Holmgren (daniel@blueskyweb.xyz)
+
+**Project Info**
+
+Authenticated Transfer (atproto) is a decentralized social web protocol.
+
+- https://datatracker.ietf.org/wg/atp/about/
+- https://datatracker.ietf.org/doc/draft-holmgren-at-repository/04/
+- https://atproto.com
+
+**Hackathon Plan**
+
+We don't have a single plan for the hackathon, but are interested in both proving out recently proposed changes from the mailing list (floats and URIs), and chatting with adjacent standards projects (OAuth, CBOR, HPKE, WebSocket, etc).
+
+- implement floating-point numbers proposal (https://bnewbold.leaflet.pub/3myzwz2tvgk26) and document test cases
+- experiment with `at:space/` URI syntax proposal
+- experiment with IPv6-only accounts and repository hosting
+- experiment with Post-Quantum keys and signatures
+- discuss "Spaces" proposal (https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 
 ----
 
