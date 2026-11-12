@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T19:29:03.949Z
+date: 2026-11-12T19:54:34.408Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -744,7 +744,7 @@ https://github.com/billwuqin/Agent-Observability-Intervention-Control
 - **Champions**
 Yasha Khandelwal, yasha.khandelwal@tech4biz.io (remote, India UTC+5:30)
 - **Project Info**
-Bring the memory or checkpoint store your agent uses and leave with its own row on a public scorecard. The method, draft-khandelwal-bmwg-agent-memory-integrity-02 (BPM, joint BMWG/IPPM session at IETF 127), applies ten edits to a store beneath its own API: one record altered, a record deleted, records reordered, a forged record, a cross-context replay, a whole-store rollback, a restored copy of an erased record, and so on. It then reads back through the store's own API and records whether the store refused on read, served the edit and flagged it at a later audit, or served it as genuine. The open-source implementation, agmi (MIT; `pip install agent-memory-integrity`), has 39 published rows across 26 released stores, including LangGraph, Letta, Mem0, LlamaIndex, the OpenAI Agents SDK, Vertex AI Memory Bank and Bedrock AgentCore Memory.
+Bring the memory or checkpoint store your agent uses and leave with its own row on a public scorecard. The method, draft-khandelwal-bpm-agent-memory-integrity (BPM, joint BMWG/IPPM session at IETF 127), applies ten edits to a store beneath its own API: one record altered, a record deleted, records reordered, a forged record, a cross-context replay, a whole-store rollback, a restored copy of an erased record, and so on. It then reads back through the store's own API and records whether the store refused on read, served the edit and flagged it at a later audit, or served it as genuine. The open-source implementation, agmi (MIT; pip install agent-memory-integrity), has 39 published rows across 26 released stores, including LangGraph, Letta, Mem0, LlamaIndex, the OpenAI Agents SDK, Vertex AI Memory Bank and Bedrock AgentCore Memory.
 - **Hackathon Plan**
 Measure the stores participants bring. Write the one adapter class a new store needs. Compare detection points: read path versus later audit. Fold the weekend's results into the BPM presentation.
 - **Potential collaboration**
@@ -752,9 +752,9 @@ Independent time anchoring (an anchor kept outside the store is the configuratio
 - **What to bring**
 A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all.
 - **When**
-Remote, Saturday 14 November, 09:00 to 13:00 Pacific; email ahead for other hours.
+Remote, Saturday 14 November, 10:45 to 14:45 Pacific, on the Hackathon Zulip stream; check-ins at 11:00 and 13:30 Pacific. Email ahead for other hours.
 - **Links**
-Draft: https://datatracker.ietf.org/doc/draft-khandelwal-bmwg-agent-memory-integrity/
+Draft: https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/
 Code: https://github.com/tech4biz-yasha/agent-memory-integrity
 Scorecard: https://agentmemoryintegrity.org
 
