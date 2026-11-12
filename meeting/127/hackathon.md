@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T19:54:34.408Z
+date: 2026-11-12T19:56:28.351Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -748,7 +748,7 @@ Bring the memory or checkpoint store your agent uses and leave with its own row 
 - **Hackathon Plan**
 Measure the stores participants bring. Write the one adapter class a new store needs. Compare detection points: read path versus later audit. Fold the weekend's results into the BPM presentation.
 - **Potential collaboration**
-Independent time anchoring (an anchor kept outside the store is the configuration that refuses rollback and resurrection in our measurements); AER-1 execution receipts; the AUDIT BoF.
+Independent time anchoring (an anchor kept outside the store is the configuration that refuses rollback and resurrection in our measurements); AER-1 execution receipts; the AUDIT BoF; the Agent Evidence Conformance Matrix (Sankalp Gilda) and WEXP Appraisal Core (Mikhail Sergeev), both of which name this project on this page.
 - **What to bring**
 A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all.
 - **When**
