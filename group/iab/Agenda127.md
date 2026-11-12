@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-11T16:30:12.461Z
+date: 2026-11-12T06:00:01.461Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -42,10 +42,11 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 
 > Agenda:
-> - ISE Survey (Akanksha/Dhruv) [[GDoc]](https://docs.google.com/document/d/1PZAB8kCYA_oyHkc6DXPNpCjepzlPOU-UEAqGQCA2DW0/edit?usp=sharing) - 45 mins
+> - ISE Survey (Akanksha/Dhruv) [[GDoc]](https://docs.google.com/document/d/1PZAB8kCYA_oyHkc6DXPNpCjepzlPOU-UEAqGQCA2DW0/edit?usp=sharing) - 30 mins
 > - Update to IAB statement on Appeal (Mark) [[GDoc]](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing) - 30 mins
 > - Moderation procedures and Closing of some public IAB mailing lists (Dhruv) [[Slide]](https://docs.google.com/presentation/d/1jco93XW1Tqp-nN_ZA8DQsgzneQ24iAtDjqbwfmw5UQs/edit?usp=sharing) - 15 mins
 > - Proposed RIR Admin Support Group (Dhruv) [[GDoc]](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing) - 30 mins
+> - Executive Session: Appeal - 15 mins
 
 
 
