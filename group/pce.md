@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-11-12T12:12:16.974Z
+date: 2026-11-12T12:12:29.291Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -34,7 +34,7 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 | draft-contreras-pce-pam | last presented at IETF 126 |
 | draft-sidor-pce-binding-label-sid-extensions | last presented at IETF 126 |
 | draft-sidor-pce-lsp-state-reporting-extensions | last presented at IETF 125 |
-| draft-ali-pce-sr-policy-msd-consideration | - |
+| draft-ali-pce-sr-policy-msd-consideration | last presented at IETF 125 |
 
 
 
