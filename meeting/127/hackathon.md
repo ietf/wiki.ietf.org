@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T06:14:53.165Z
+date: 2026-11-12T11:55:49.933Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -885,6 +885,7 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
   - Reshad Rahman ([reshad@yahoo.com](mailto:reshad@yahoo.com))
   - Muhammad Awais Jadoon ([muhammad.awaisjadoon@interdigital.com](mailto:muhammad.awaisjadoon@interdigital.com))
   - Luis M. Contreras ([luismiguel.contrerasmurillo@telefonica.com](mailto:luismiguel.contrerasmurillo@telefonica.com))
+  - Irfan Mohamad (irfanm@arrcus.com)
   
 - **Collaborators**
 
