@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T21:59:30.829Z
+date: 2026-11-12T22:02:19.170Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1558,7 +1558,7 @@ Vishal Kamath (vishalkamath.221cs261@nitk.edu.in) [Remote]
 
 - **Project Info**
 Objective 1: Testing the integration of picoquic, quiche and neqo with ns-3
-Objective 2: Exploring the feasbility of conducting congestion control and ECN/L4S related experiments using picoquic and ns-3 
+Objective 2: Exploring the feasibility of conducting congestion control and ECN/L4S related experiments using picoquic and ns-3 
 Objective 3: Testing the implementation of [rate-limited sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/) in picoquic
 Objective 4: Testing the implementation of [Alternative Backoff with ECN](https://www.rfc-editor.org/info/rfc8511/) in msquic, mvfst and quiche. 
 
