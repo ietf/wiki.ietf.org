@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T17:26:31.853Z
+date: 2026-11-12T19:25:22.236Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1524,23 +1524,29 @@ This hackathon effort is looking at different Merkle Tree Ladder (MTL) deduplica
 Vishnu Pavan Beeram, HPE (vbeeram@hpe.com)
 Colby Barth, HPE (jonathan.barth@hpe.com)
 Andrew Smith, Arrcus (andy@arrcus.com)
+Andrei Tikhonov, Nebius (antixonov@nebius.com) (remote)
+Alexey Gorovoy, Nebius (algorovoy@nebius.com) (remote)
+Minjie Dai, HPE (minjie.dai@hpe.com) (remote)
+Jayant Agarwal, HPE (jayant.agarwal@hpe.com) (remote)
 
 **Project Info**
 This project tests RSVP-TE signaling over an SRv6 forwarding plane, as specified in [draft-beeram-teas-rsvp-srv6](https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/) ("Signaling RSVP-TE Tunnels on an SRv6 Forwarding Plane Using End.X Segment Identifiers"). RSVP-TE provides distributed bandwidth reservation. SRv6 End.X SIDs provide the forwarding path.
 
-The goal is to interop between HPE (Juniper cRPD) and Arrcus (ArcOS container).
+The goal is to interop between HPE (Juniper cRPD) and Arrcus (ArcOS container). Nebius is a facilitator for this project, providing the Linux VM that hosts the lab and the remote access for participants.
 
 **Hackathon Plan**
 
 - Bring up the lab.
-- Interop: run RSVP-TE SRv6 tunnels between HPE cRPD and ArcOS nodes in both directions.
-- Check the format of the RRO SRv6 SID sub-object across implementations.
+- Interop: run RSVP-TE SRv6 tunnels between cRPD and ArcOS nodes in both directions.
+- Check the format of the protocol extensions across both implementations.
 - Review the draft text against what the implementations do, and record any gaps or ambiguities for the next revision.
 - Newcomers can follow a worksheet (available on demand) to explore the lab.
 
 **References**
 
 [1] [https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/](https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/)
+
+----
 
 ### Authenticated Transfer (atproto)
 
