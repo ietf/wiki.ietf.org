@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-11-12T23:23:55.235Z
+date: 2026-11-12T23:24:40.363Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:19:41.122Z
@@ -21,4 +21,4 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |---|---|---|---|
 | Glint RFC/I-D/ASN.1 parser | Daniel Van Geest | daniel.vangeest@cryptonext-security.com | https://github.com/turbolight-solutions/glint/ |
 |   |   |   |   |
-|GREEN WG UCs showcase   | Emile Stephan   | emile.stephan@orange.com, marisolpalmero7@gmail.com  | https://github.com/ietf-wg-green/green-hackathon-127  |
+|GREEN WG UCs showcase   | Emile Stephan, Marisol Palmero   | emile.stephan@orange.com, marisolpalmero7@gmail.com  | https://github.com/ietf-wg-green/green-hackathon-127  |
