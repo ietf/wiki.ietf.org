@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T19:14:23.989Z
+date: 2026-11-13T19:14:58.315Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -843,7 +843,7 @@ Hackathon table:
 
   - Show cases https://github.com/marisolpalmero/GREENHack127
   
-https://ietf-wg-green.github.io/green-hackathon-127/showcase_live.html
+  - Live showcase:  https://ietf-wg-green.github.io/green-hackathon-127/showcase_live.html
 
 For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
 
