@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T13:21:24.367Z
+date: 2026-11-13T13:30:11.282Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -696,7 +696,7 @@ Independent time anchoring (an anchor kept outside the store is the configuratio
 - **What to bring**
 A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all. Install ahead of the day: pip install agent-memory-integrity (0.7.0 carries all ten edits).
 - **When**
-Remote, Saturday 14 November, 10:45 to 14:45 Pacific, on the Hackathon Zulip stream; check-ins at 11:00 and 13:30 Pacific. Email ahead for other hours.
+Remote, Saturday 14 November, 09:00 to 13:00 Pacific, on the Hackathon Zulip stream; check-ins at 09:15 and 11:30 Pacific. Email ahead for other hours.
 - **Links**
 Draft: https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/
 Code: https://github.com/tech4biz-yasha/agent-memory-integrity
