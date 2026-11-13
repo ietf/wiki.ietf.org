@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T16:54:22.506Z
+date: 2026-11-13T17:26:40.739Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -838,13 +838,18 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
 
 - **Project Info**
 
-  There was a GREEN Hackathon table at [IETF 123](https://wiki.ietf.org/meeting/123/hackathon) and [IETF 126](https://wiki.ietf.org/en/meeting/126/hackathon). 
+  - UCs simulator https://github.com/emile22/allrun53
+
+  - Show cases https://github.com/marisolpalmero/GREENHack127
+ 
   For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
 
   - turn GREEN use cases into simple event sequences;
   - refine event details for implementation and testing;
   - run a small simulator and inspect YANG state;
   - feed what we learn back into the GREEN WG work.
+
+  see https://github.com/ietf-wg-green/green-hackathon-127
 
 - **Related Documents**
 
@@ -856,7 +861,9 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
   - RFC 8348 ” A YANG Data Model for Hardware Management: https://datatracker.ietf.org/doc/rfc8348/
 
 - **Repos and Previous Hackathon Material**
-
+ 
+   There was a GREEN Hackathon table at [IETF 123](https://wiki.ietf.org/meeting/123/hackathon) and [IETF 126](https://wiki.ietf.org/en/meeting/126/hackathon). 
+   
   - Current GREEN use-case source: https://github.com/emile22/draft-ietf-green-use-cases
   - IETF 123 Hackathon page: https://wiki.ietf.org/en/meeting/123/hackathon
   - IETF 123 GREEN Hackathon report: https://datatracker.ietf.org/meeting/123/materials/slides-123-green-sessa-05-report-from-the-ietf-123-hackathon-00
