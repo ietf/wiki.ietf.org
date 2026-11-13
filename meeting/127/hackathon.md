@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T02:47:00.377Z
+date: 2026-11-13T13:21:24.367Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -652,7 +652,7 @@ RFC9293
 -  **Repository:** : https://github.com/apelov/AI2II
   
 ---
-### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection In network management operations
+### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection 
 
 - **Champions**
 Qin Wu (bill.wu@huawei.com)
