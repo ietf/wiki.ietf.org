@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T00:07:52.385Z
+date: 2026-11-13T02:47:00.377Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -462,7 +462,7 @@ RFC1122
 RFC2544
 RFC9293
 ---
-### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-108265 of CVSS 9.1 and 41+ other CVEs of up to expected CVSS 10.0 
+### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-100835 of CVSS 9.1 and 41+ other CVEs of up to expected CVSS 10.0 on Early Attestation
 
 - **Champions**
 
@@ -565,24 +565,18 @@ RFC9293
 > - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
 
 - **Project Background**
+   > EarlyAttestationTschüss (EAT) https://www.researchgate.net/publication/417343302_EarlyAttestationTschuss_EAT
    > Code under Apache-2.0 License: https://github.com/muhammad-usama-sardar/intra-handshake.fail
-   > Paper: https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS
-   > Paper: https://www.researchgate.net/publication/414529199_EarlyAttestationBleed_Three_Critical-severity_Vulnerabilities_of_CVSS_90_in_Confidential_Computing
+   > Intra-handshake.fail: https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS
+   > EarlyAttestationBleed: https://www.researchgate.net/publication/414529199_EarlyAttestationBleed_Three_Critical-severity_Vulnerabilities_of_CVSS_90_in_Confidential_Computing
 
 
 - **Project Info**
 
-  - 3 fundamental ways to combine attestation in TLS:
-    - Pre-handshake attestation
-    	- [Paper](https://www.researchgate.net/publication/385384309_Towards_Validation_of_TLS_13_Formal_Model_and_Vulnerabilities_in_Intel's_RA-TLS_Protocol)
-    - Intra-handshake attestation 
-      - [Attestation in (D)TLS](https://datatracker.ietf.org/doc/draft-fossati-tls-attestation/)
-    - Post-handshake attestation
-      - [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
-      - Sec. 4 in [this paper](https://www.researchgate.net/publication/367284929_SoK_Attestation_in_Confidential_Computing)
-  - Complicated Hybrids (Intra-handshake attestation + Post-handshake attestation)
-      - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
-      - [FACTS](https://datatracker.ietf.org/doc/draft-ritz-seat-facts/)
+  - 2 fundamental ways to combine attestation in TLS:
+    - Early (intra-handshake) attestation
+    - Standard (post-handshake) attestation: [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
+  - Complicated Hybrids (Early + Standard attestation): [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
 - **Hackathon plan**
   	- Discuss the nits of [relay attacks](https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS)
     - Discuss open issues
@@ -590,11 +584,6 @@ RFC9293
 		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
   - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
   - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
-
-- **Background on Attestation**
-
-	- [Formal Specs](https://www.researchgate.net/publication/375592777_Formal_Specification_and_Verification_of_Architecturally-defined_Attestation_Mechanisms_in_Arm_CCA_and_Intel_TDX)
-  - [Formal analysis artifacts repo](https://github.com/CCC-Attestation/formal-spec-TEE)
       
 - **Background on Diversion Attacks**
 
@@ -602,9 +591,9 @@ RFC9293
   - [Identity crisis repo](https://github.com/CCC-Attestation/formal-spec-id-crisis)
   
 - **Background on Relay Attacks**
-  - CFRG [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-cfrg-relay-attacks-00) and [video](https://youtu.be/IfKgbO74Lt4?t=6054) at IETF 125
-  - SEAT [slides](https://datatracker.ietf.org/meeting/125/materials/slides-125-seat-security-analysis-00) and [video](https://youtu.be/hX7genEkN7w?t=676) at IETF 125
-  - Further slides and videos in this [draft](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), more specifically [here](https://www.ietf.org/archive/id/draft-intra-handshake-fail-55.html#section-19.1.1).
+  - [RIPE video](https://ripe93.ripe.net/programme/meeting-plan/sessions/137/GJXMGP/#video)
+  - IEPG [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-iepg-sessa-05-intra-handshakefail-cve-2026-33697-00) and [video](https://youtu.be/g8q_u19vXzk?t=4404) at IETF 126
+  - Further slides and videos in this [draft](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), more specifically [here](https://www.ietf.org/archive/id/draft-intra-handshake-fail-61.html#section-20.1.1).
   - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
 
 ---
