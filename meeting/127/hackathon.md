@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-12T22:02:19.170Z
+date: 2026-11-13T00:07:52.385Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -672,6 +672,7 @@ King Daniel (d.king@lancaster.ac.uk)
 Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
+Justin Kintzele (jkintzele@jdieselny.com)
 
 - **Project info**
 
@@ -679,6 +680,7 @@ Changhua Pei (chpei@cnic.cn)
 - Develop an Architectural Framework for observability, Intervention and Control of a network management agent. 
 - To validate the core components including the Agent system and observability, Benchmarking harness functionality
 - Demonstrate key applications (such as Campus Network Agent Benchmarking, AI Guardrail) which consume network management observability data
+- Develop Control & Enforcement Plane to implement Agent Control requirements and Agent Intervention Requirements
 - Extend agent observability with runtime metrics (e.g., task/model/tool-call latency, errors, and token usage) and a common execution trajectory representation for failure diagnosis.
 - Prototype AgentOps anomaly detection and failure attribution to identify responsible agents and root-cause steps, providing evidence to support evaluation and guardrail intervention.
 
@@ -862,7 +864,7 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
   - Framework for Energy Efficiency Management: https://datatracker.ietf.org/doc/draft-ietf-green-framework/
   - Power and Energy YANG Module: https://datatracker.ietf.org/doc/draft-ietf-green-power-and-energy-yang/
   - Terminology for Energy Efficiency Network Management: https://datatracker.ietf.org/doc/draft-ietf-green-terminology/
-  - RFC 8348 â€” A YANG Data Model for Hardware Management: https://datatracker.ietf.org/doc/rfc8348/
+  - RFC 8348 ” A YANG Data Model for Hardware Management: https://datatracker.ietf.org/doc/rfc8348/
 
 - **Repos and Previous Hackathon Material**
 
