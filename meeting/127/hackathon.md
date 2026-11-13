@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T17:27:29.196Z
+date: 2026-11-13T17:28:33.252Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -838,12 +838,13 @@ Repository:  https://github.com/IETF-Hackathon/pqc-certificates
 
 - **Project Info**
 
+Hackathon table:
   - UCs simulator https://github.com/emile22/allrun53
 
   - Show cases https://github.com/marisolpalmero/GREENHack127
 
 
-  For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
+For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
 
   - turn GREEN use cases into simple event sequences;
   - refine event details for implementation and testing;
