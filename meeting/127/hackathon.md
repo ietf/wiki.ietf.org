@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T17:28:33.252Z
+date: 2026-11-13T18:07:38.852Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -851,7 +851,7 @@ For IETF 127, the focus is on GREEN use-case events. The goal is to identify use
   - run a small simulator and inspect YANG state;
   - feed what we learn back into the GREEN WG work.
 
-  see https://github.com/ietf-wg-green/green-hackathon-127
+See https://github.com/ietf-wg-green/green-hackathon-127
 
 - **Related Documents**
 
