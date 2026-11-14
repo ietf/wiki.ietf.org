@@ -2,7 +2,7 @@
 title: ONSEN - Operationalizing Network & SErvice abstractioNs Wiki
 description: 
 published: true
-date: 2026-11-14T18:58:08.709Z
+date: 2026-11-14T19:02:57.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:49:19.822Z
@@ -48,7 +48,7 @@ Try the hosted version at [netclics.stratoweave.org](https://netclics.stratoweav
 
 <br>
 
-### StratoWeave SORESPO
+### StratoWeave SORESPO Orchestrator - RFC8299 L3VPN Implementation
 https://github.com/stratoweave/sorespo
 SORESPO helps you create and manage Layer 3 VPN services across a multi-vendor network. It implements the RFC899 L3VPN Service YANG module, giving you a common way to describe customer sites, their VPN membership, IP addressing, and routing requirements. You define the service you want, and SORESPO translates that definition into the configuration needed to connect those sites.
  
