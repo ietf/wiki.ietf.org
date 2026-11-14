@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T20:18:54.568Z
+date: 2026-11-14T20:22:19.369Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1738,13 +1738,12 @@ that upgrading from QCBOR v1 to v2 works for your project. QCBOR is a full featu
 - **Project Info**
 Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that combines TE with Equal/Unequal-Cost Multipath (ECMP/UCMP) load-balancing. The notions of MPTE and of an MPTE Directed Acyclic Graph (MPTED) tunnel are introduced in [draft-kompella-teas-mpte].  An MPTED tunnel is a Traffic Engineering (TE) construct that contains a constrained set of paths representing an optimized Directed Acyclic Graph (DAG) from one or more ingresses to one or more egresses.  The paths that make up an MPTED tunnel traverse a set of junction nodes, and the state associated with the MPTED at each junction node constitutes a set of previous-hops and a set of next-hops over which traffic is load-balanced in a weighted fashion.  Provisioning an MPTED tunnel in a TE network using a signaling protocol involves provisioning control and forwarding plane state at each junction node. An MPTED tunnel may be realized over a Multiprotocol Label Switching (MPLS) forwarding plane or a native Internet Protocol (IP) v4/v6 forwarding plane using an appropriate tunnel type.  Depending on the deployment needs, a centralized or a distributed approach MAY be adopted for provisioning an MPTED tunnel.
 
-	- Hackathon Goals:
-    	- Evaluate the unique characteristics of MPTED tunnels (multiple ingresses, multiple egresses, largely pinned DAG shape, handling resource failures and congestion events)
-    	- Evaluate the requirements of the signaling protocol.
-    	- Evaluate RSVP signaling procedures and sequences in detail.
-    	- Evaluate PCEP signaling procedures.
-    	- Evaluate MPTED data model for managing MPTED tunnels and junctions (config/state).
-    	- Evaluate different tunnel types (traditional/shared MPLS forwarding plane, Native v4/v6)
+	- Hackathon Goals - 
+  		- Demonstrate MPTE functionality and get feedback on:
+  			- the unique characteristics of MPTE tunnels (multiple ingresses, multiple egresses, largely pinned DAG shape, handling resource failures and congestion events)
+    		- the MPTE RSVP signaling procedures and sequences in detail.
+    		- the MPTE data model for managing MPTED tunnels and junctions (config/state).
+    		- the different tunnel types (traditional/shared MPLS forwarding plane, Native v4/v6)
 
 
 - **Specifications**
