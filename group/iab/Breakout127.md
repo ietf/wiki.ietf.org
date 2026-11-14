@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-11-10T22:29:14.018Z
+date: 2026-11-14T19:44:48.395Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -18,6 +18,14 @@ For food & beverage service requests, please include:
 
 * number of people
 * any dietary restrictions
+
+## Saturday (no A/V available)
+
+- 15:00-16:00: IAB Open Prep (Dhruv, Nick)
+
+## Sunday (not available for IAB use)
+
+- 09:00-17:00: RootOps
 
 ## Monday
 
