@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-13T23:47:05.434Z
+date: 2026-11-14T02:34:32.647Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1588,6 +1588,55 @@ Objective 4: Testing the implementation of [Alternative Backoff with ECN](https:
   - Hardware - [board design](https://github.com/vlvassilev/spark)
   - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
   - Wireshark extcap interface for NETCONF [netconfdump](https://github.com/vlvassilev/wireshark-extcap-netconf)
+
+---
+### MIMI Interop (More Instant Messaging Interoperability)
+
+**Champions**
+- Mark Atwood, mark@reviewcommit.com (remote)
+
+**Project Info**
+
+MIMI lets different messaging providers' users talk to each other, with end-to-end encryption from MLS (RFC 9420). This project brings independent MIMI implementations together to test against the current drafts, both on the wire and against public test providers, and sends what we find back to the MIMI working group.
+
+Drafts targeted:
+- draft-ietf-mimi-protocol-07
+- draft-ietf-mimi-content-10
+- draft-ietf-mimi-room-policy-04
+- draft-ietf-mimi-arch-03
+- draft-ietf-mls-extensions (AppDataUpdate)
+
+Implementations taking part, or welcome to:
+- **mimid** (Rust, over OpenMLS): https://github.com/MarkAtwood/mimid. Covers protocol-07 hub and follower, content-10 and room-policy-04.
+- **Haven** (Rust, Apache-2.0): https://github.com/havenmessenger/interop. A runnable mTLS hub (`mimi-hubd`), with protocol-07 wire and JSON lanes.
+- Any other MIMI implementation, at any draft revision. Phoenix (mimi-content, mimi-room-policy), Arkret (coland) and nexun (mimi-rs) implementers are especially welcome. Libraries are welcome too: content and room-policy cross-checks need no server.
+
+Public test providers, up for the weekend:
+- `mimid.reviewcommit.com`: mimid. Seeded users `mimi://mimid.reviewcommit.com/u/alice`, `/u/carol` and `/u/dave` answer keyMaterial.
+- `haven.reviewcommit.com`: Haven's mimi-hubd at edd3ba1, run by the champion.
+- `mimi.havenmessenger.com`: Haven's own hub. It needs a client certificate; request one through https://github.com/havenmessenger/interop/issues.
+- Directory for each: `https://<provider>/.well-known/mimi-protocol-directory`.
+
+**Hackathon Plan**
+- Run protocol-07 end to end between providers: directory, keyMaterial, submitMessage, update (participant list, Add/Remove, leave by reference), notify, consent, identifierQuery and reportAbuse.
+- Swap mimi-content-10 encodings in both directions; bring your fixtures.
+- Cross-check room-policy-04 components.
+- Record each mismatch with its draft section and line, decide whose reading is right, and take draft-level questions to the MIMI WG and Rohan Mahy's MIMI interop side meeting (requested for Tuesday 08:00-09:00).
+- Status so far: mimid and Haven agree byte-for-byte on 25 of 25 mimid-encoded and 23 of 24 Haven-encoded protocol-07 messages, and interoperate live over the internet. Open questions include the reportAbuse success status (§5.9 names no code) and the exhausted keyMaterial response (mimi-protocol#184).
+
+**When and where**
+- Remote: Saturday 14 November 09:00-17:00 and Sunday 15 November 09:00-14:00 Pacific, then the results presentations.
+- Chat: `#mimi` on the IETF Zulip, https://zulip.ietf.org/#narrow/stream/mimi (log in with your Datatracker account), with the Hackathon Zulip stream for hackathon-wide notices.
+- Peering: to test against a provider above, open an issue at https://github.com/havenmessenger/interop/issues (Haven) or email the champion (mimid).
+
+**Related documents**
+- https://datatracker.ietf.org/wg/mimi/about/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-protocol/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-content/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-room-policy/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-arch/
+- RFC 9420 (MLS)
+
 
 ---
   Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
