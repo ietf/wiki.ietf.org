@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T02:34:32.647Z
+date: 2026-11-14T02:38:35.302Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1621,7 +1621,7 @@ Public test providers, up for the weekend:
 - Run protocol-07 end to end between providers: directory, keyMaterial, submitMessage, update (participant list, Add/Remove, leave by reference), notify, consent, identifierQuery and reportAbuse.
 - Swap mimi-content-10 encodings in both directions; bring your fixtures.
 - Cross-check room-policy-04 components.
-- Record each mismatch with its draft section and line, decide whose reading is right, and take draft-level questions to the MIMI WG and Rohan Mahy's MIMI interop side meeting (requested for Tuesday 08:00-09:00).
+- Record each mismatch with its draft section and line, decide whose reading is right, and take questions about the drafts to the MIMI WG.
 - Status so far: mimid and Haven agree byte-for-byte on 25 of 25 mimid-encoded and 23 of 24 Haven-encoded protocol-07 messages, and interoperate live over the internet. Open questions include the reportAbuse success status (§5.9 names no code) and the exhausted keyMaterial response (mimi-protocol#184).
 
 **When and where**
