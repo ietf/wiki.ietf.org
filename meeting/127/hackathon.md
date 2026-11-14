@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T18:25:23.330Z
+date: 2026-11-14T19:21:32.455Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -464,7 +464,7 @@ RFC9293
 ---
 ### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-100835 of CVSS 9.1 and 41+ other CVEs of up to expected CVSS 10.0 on Early Attestation
 
-- **Champions**
+- **Champions (Remote, please contact by email)**
 
 	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
   - Viacheslav Dubeyko
