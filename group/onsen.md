@@ -2,7 +2,7 @@
 title: ONSEN - Operationalizing Network & SErvice abstractioNs Wiki
 description: 
 published: true
-date: 2026-11-12T14:06:31.663Z
+date: 2026-11-14T18:58:08.709Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:49:19.822Z
@@ -25,6 +25,16 @@ Archive: http://www.ietf.org/mail-archive/web/onsen/current/maillist.html
 This section is for IETF LxNM/LxSM implementations and tooling. If you would like your project to be listed here, please contact onsen-chair@ietf.org
 
 Please also see the collection of NETCONF implementations, Papers, tutorials and tools located at https://wiki.ietf.org/group/netconf
+
+<br>
+
+### ONSVAL - Validation Tools for ONSEN YANG Model
+
+ONSVAL project  aims to design a validation system and related tools that can validate YANG models individually or as an integrated suite, ensuring the models are well designed so that IETF service and network abstractions become easier to implement and use, thereby improving automation, operational efficiency, and interoperability.
+
+The tools will be openly developed and maintained in https://github.com/ctri-ietf-team/opensource-onsen-yang-models-implementation.
+
+Contributions are welcome — join the project!
 
 <br>
 
