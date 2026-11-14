@@ -2,7 +2,7 @@
 title: Team Schedule
 description: 
 published: true
-date: 2026-11-14T18:32:58.509Z
+date: 2026-11-14T18:33:26.942Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:14:42.206Z
@@ -22,7 +22,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
-|CoAP over BPv7 with IPN Addressing and Message Aggregation   |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Google Meet: https://meet.google.com/jwo-hbof-hcq . Onsite in Table 3 and 23.  Onsite Champion: Anna Calveras (anna.calveras@upc.edu). Remote Champion: Mahitab Salah Elattar (mahitab.elattar@outlook.com).  Remote participants are welcome.   |
+|CoAP over BPv7 with IPN Addressing and Message Aggregation   |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Google Meet: https://meet.google.com/jwo-hbof-hcq . Onsite in Table 3.  Onsite Champion: Anna Calveras (anna.calveras@upc.edu). Remote Champion: Mahitab Salah Elattar (mahitab.elattar@outlook.com).  Remote participants are welcome.   |
 ||BGP MultiNexthop Attribute (draft-ietf-idr-multinexthop-attribute-05)  |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Gather: https://app.gather.town/app/aIb12sciwUUcgoBq/bgp-mnh .  Onsite Champion: Kaliraj Vairavakkalai (kaliraj@hpe.com).  Onsite and Remote participants are welcome.   |
 | Action Evidence Packages for AI agents: recompute, don't inherit | Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 1:30 PM (PST, UTC−8) | Hackathon room, AEP table (Tyche Institute, Anton Sokolov); remote: Hackathon Zulip stream; files: https://github.com/tyche-institute/aep-sandbox/tree/main/hackathon/ietf127 |
 |   |   |   |
