@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-14T15:42:50.263Z
+date: 2026-11-14T15:43:25.120Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -60,7 +60,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 
 > Not-required activity:
 > 
-> 08:30-09:30 - Pre-IESG meeting (Room: Plaza A or IESG office ?)
+> 08:30-09:30 - Pre-IESG meeting (Room: Plaza A, if not opened IESG office)
 > Preparation of the "defending against AI" discussion, based on [Gunter's slides](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1) and [Éric's ones](https://docs.google.com/presentation/d/11OZ2CTGhSRFqcVcMAd0NOEtQ81whUN8o/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true)
 >
 
