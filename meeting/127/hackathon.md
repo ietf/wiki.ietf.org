@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T17:51:56.416Z
+date: 2026-11-14T17:52:45.501Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -50,7 +50,7 @@ Hackathon *(all times are in PST/UTC-8)*
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
-* **14:00** : Project results presentations
+* **14:00** : Project results presentations: [Meetecho](https://meetings.conf.meetecho.com/ietf127/?session=35923)
 * **16:00** : Hackathon ends
 * **17:00** : Tear down complete
 {.grid-list}
