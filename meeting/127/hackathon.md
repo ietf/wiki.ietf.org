@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T19:21:32.455Z
+date: 2026-11-14T19:32:03.285Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1192,6 +1192,11 @@ Bring a Linux laptop; we provide VMs with the GOB kernel on our testbed. Remote 
 ### WEXP Appraisal Core -02: two appraisers, specification-derived tests and a SCITT boundary experiment
 - **Champions**
 Mikhail Sergeev, mikhailsergeev369@gmail.com (remote)
+- **Take part**
+  - Replay the published corpus comparison: fork [wexp-check](https://github.com/WEXP-dev/wexp-check), enable Actions in the fork, and run "Replay the corpus comparison" ([REPRODUCE.md](https://github.com/WEXP-dev/wexp-check/blob/main/REPRODUCE.md)).
+  - Examine a record or format of your own, or an Internet-Draft: [start an interoperability check](https://github.com/WEXP-dev/interop-test-lab/blob/main/START-HERE.md). A project name and one public link are enough.
+  - Run your own implementation of Core-02 on the public corpus: [bring an implementation](https://github.com/WEXP-dev/interop-test-lab/blob/main/BRING-AN-IMPLEMENTATION.md).
+  - Live on the Hackathon Zulip stream Saturday and Sunday, 11:00–12:00 PST (19:00–20:00 UTC); at other times a reply within 12 hours.
 - **Project Info**
 WEXP Appraisal Core ([draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/), an individual Internet-Draft with intended status Informational) defines appraisal of support for exact execution-related claims, with three verdicts: accept, downgrade and reject. Its Boundary Ceiling limits which content bases can be supported, without creating support by itself.
 This project brings public implementations, test cases and a mapping experiment, and invites others to reproduce the results and contribute new cases.
