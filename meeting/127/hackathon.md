@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T17:29:48.053Z
+date: 2026-11-14T17:51:56.416Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -37,7 +37,7 @@ Hackathon *(all times are in PST/UTC-8)*
 
 * **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - pastries and coffee provided
-* **10:30** : Hackathon kickoff
+* **10:30** : Hackathon kickoff: [Meetecho](https://meetings.conf.meetecho.com/ietf127/?session=35922)
 * **10:45** : Form teams, see [Team Schedule](teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
