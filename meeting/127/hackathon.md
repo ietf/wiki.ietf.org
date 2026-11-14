@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T20:22:19.369Z
+date: 2026-11-14T20:35:36.518Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1755,6 +1755,26 @@ Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that
   - https://datatracker.ietf.org/doc/draft-beeram-teas-yang-mpted/01/
   - https://datatracker.ietf.org/doc/draft-stone-spring-mpte-sr/01/
 
+----
+```markdown
+### BGP MNH (MultiNexthop Attribute)
+- **Champions**
+   Kaliraj Vairavakkalai - kaliraj@hpe.com
+   
+- **Draft link**
+   https://datatracker.ietf.org/doc/html/draft-ietf-idr-multinexthop-attribute-05
+   
+- **Project Info**
+   + Implement, showcase BGP MNH
+   + Demo usecases on Juniper-HPE virtual devices (VMX, cRPD)
+   
+- **Demo Usecase Scenarios**
+   + WECMP with MNH in lieu of AddpathMultipath
+     Addpath Multipath is used widely by operators today, but has RIB scale implications with high RIB size. RIB-out at RR and RIB-in at receiving PEs both increase proportional to path-count. 
+     This demo shows how same effective result can be achieved using BGP MNH, by advertising the multiple NHs in the same attribute, expressing the multipath WECMP bandwidth ratios per nexthop leg.
+   + MNH on Flowspec routes for Redirect usecases
+     This demo will try advertising MNH on Flowspec route, to redirect traffic to a set of NHs, which could be unlabeled or labeled.
+```
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
