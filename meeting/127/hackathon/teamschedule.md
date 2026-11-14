@@ -2,7 +2,7 @@
 title: Team Schedule
 description: 
 published: true
-date: 2026-11-12T22:45:34.557Z
+date: 2026-11-14T07:50:30.447Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:14:42.206Z
@@ -23,7 +23,7 @@ You are free to use gather.town, and you may also use Zoom, Webex, Slack, or wha
 | Project/Team name | Date(s) and time(s), including timezone | Meeting link, URL, email address, etc.|
 |---|---|---|
 |CoAP over BPv7 with IPN Addressing and Message Aggregation   |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Google Meet: https://meet.google.com/jwo-hbof-hcq .  Onsite Champion: Anna Calveras (anna.calveras@upc.edu). Remote Champion: Mahitab Salah Elattar (mahitab.elattar@outlook.com).  Remote participants are welcome.   |
-|   |   |   |
+||BGP MultiNexthop Attribute (draft-ietf-idr-multinexthop-attribute-05)  |Saturday, November 14, 2026, 10:45 AM – Sunday, November 15, 2026, 4:00 PM (PST, UTC−8)   |Gather: https://app.gather.town/app/aIb12sciwUUcgoBq/bgp-mnh .  Onsite Champion: Kaliraj Vairavakkalai (kaliraj@hpe.com).  Onsite and Remote participants are welcome.   |
 |   |   |   |
 
 *To edit the wiki, log in using your IETF datatracker login credentials. If you don't yet have an IETF datatracker account, you may get one by going here [https://datatracker.ietf.org/accounts/create/] and requesting a new account.*
