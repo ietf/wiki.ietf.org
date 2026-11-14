@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T08:35:25.366Z
+date: 2026-11-14T17:29:48.053Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1639,14 +1639,31 @@ Public test providers, up for the weekend:
 - https://datatracker.ietf.org/doc/draft-ietf-mimi-arch/
 - RFC 9420 (MLS)
 
+----
+
+### DNS Operator-Led Transport Signaling (OOTS)
+- **Champions**
+  - Johan Stenstam, johan.stenstam@internetstiftelsen.se
+  - Joe Abley, joe.abley@cloudflare.com (remote)
+  - Philip Homburg, philip.hommburg@nlnetlabs.nl (remote)
+- **Project Info**
+The OOTS initiative is based on the idea of authoritative nameserver operators signaling the ability of an authoritative nameserver to provide service over other types of transport than UDP/TCP (aka "Do53"). Typically DoT, DoQ and DoH in different combinations. The OOTS signal is sent as a new SVCB Svcparam:
+
+_dns.name.server. IN SVCB oots="dot:50,doq:20"
+
+and may be sent as an opportunistic signal in the Additional Section for a response to some other query. Alternatively the signal may be sent as the Answer to a direct query for the signal.
+A resolver that understands the signal may use it to upgrade the transport used and thereby provide improved privacy for its end users.
+
+Because this signaling is directly betwen authoritative server and resolver it does not require any changes to customer zones, nor to delegation information in either parent or child zone.
 
 ---
-  Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
+Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
----
+----
 ```markdown
 ### Your Project
 - **Champions**
