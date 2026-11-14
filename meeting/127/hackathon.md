@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T17:52:45.501Z
+date: 2026-11-14T18:21:26.254Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1049,6 +1049,7 @@ CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
   - draft-mih-sokolov-scitt-payload-binding: https://datatracker.ietf.org/doc/draft-mih-sokolov-scitt-payload-binding/
 
 - **Repositories and artifacts**
+  - Round 1 for AEP verifiers, open at this hackathon (Tyche sandbox specification, 22 test vectors, rules, answer key fixed in advance): https://github.com/tyche-institute/aep-sandbox/tree/main/hackathon/ietf127
   - Attackable sandbox: https://github.com/tyche-institute/aep-sandbox (online: https://tyche.institute/lab/aep-ctf/)
   - Reference verifiers, offline TypeScript and Python, with conformance vectors: https://github.com/tyche-institute/eatf-verifier
   - IETF 126 Veraison reproducibility artifact: https://github.com/tyche-institute/aep-veraison-freshness
