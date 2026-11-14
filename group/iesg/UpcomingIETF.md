@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-14T22:39:10.175Z
+date: 2026-11-14T22:46:12.709Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -75,7 +75,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 3. (meeting related) [Meeting decisions for th IESG](https://docs.google.com/presentation/d/1jFl9N_Q_q5cqLCOUsniDVH7qEzm_xDXNaOlICgl1boM/edit?slide=id.p#slide=id.p) (Roman)
 > 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1) (Gunter & Éric)
 > 99. Should IETF web properties use our [own AIPREF attachment](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/) (recurring topic by Éric, low priority)
-> 99. Community Survey (Akanksha)
+> 99. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
 
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
