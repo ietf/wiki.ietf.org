@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-14T22:46:12.709Z
+date: 2026-11-14T23:15:18.901Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -73,7 +73,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 1. ROCEv2 (Gorry, Ketan)
 > 2. [RPC processes questions for the IESG](https://docs.google.com/presentation/d/1nwfTRUVy_0Po35Xq54QIdytuC-xoaO85U2JdccCIh0Q/edit?slide=id.p#slide=id.p) (Jean & Sandy) (15 mins)
 > 3. (meeting related) [Meeting decisions for th IESG](https://docs.google.com/presentation/d/1jFl9N_Q_q5cqLCOUsniDVH7qEzm_xDXNaOlICgl1boM/edit?slide=id.p#slide=id.p) (Roman)
-> 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1) (Gunter & Éric)
+> 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1) and [Emergency guardrail](https://docs.google.com/presentation/d/11OZ2CTGhSRFqcVcMAd0NOEtQ81whUN8o/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (Gunter & Éric)
 > 99. Should IETF web properties use our [own AIPREF attachment](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/) (recurring topic by Éric, low priority)
 > 99. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
 
