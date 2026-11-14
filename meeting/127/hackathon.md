@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T19:32:03.285Z
+date: 2026-11-14T20:13:00.368Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1716,6 +1716,16 @@ The goal for this hackathon is to implement and test the big changes between the
 
  - JSON Schema and CDDL testing
  
+----
+
+### QCBOR v2 / CBOR Serialization
+- **Champions**
+Laurence Lundblade <lgl@island-resort.com>
+- **Project Info**
+Complete, check and release QCBOR v2-beta-1 that supports draft-ietf-cbor-serialization. I'd like help verifying the seriaization modes support and
+that upgrading from QCBOR v1 to v2 works for your project. QCBOR is a full features CBOR library in C. See https://github.com/laurencelundblade/QCBOR/tree/dev. (My arrival in SF is delayed until Saturday night)
+
+
 ----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
