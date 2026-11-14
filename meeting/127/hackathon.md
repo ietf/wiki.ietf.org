@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T18:21:26.254Z
+date: 2026-11-14T18:25:23.330Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1657,7 +1657,61 @@ A resolver that understands the signal may use it to upgrade the transport used 
 
 Because this signaling is directly betwen authoritative server and resolver it does not require any changes to customer zones, nor to delegation information in either parent or child zone.
 
----
+----
+
+### vCon
+
+- **Champions**
+
+  - Dan Petrie (dan.ietf@sipez.com)
+
+
+
+- **Project Info**
+
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
+
+**I-D:** [vCon core](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/)
+
+**Repos:**
+
+  - [python_vcon - python vCon library and CLI](https://github.com/py-vcon/py-vcon/tree/integration-features)
+
+  - [py_vcon_server - vCon integration and AI enabled workflow server ](https://github.com/py-vcon/py-vcon/blob/integration-features/py_vcon_server/README.md)
+
+<br>
+
+  One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
+
+  
+
+  - Communications systems (email, sms, web chate, voice and video calls)
+
+  - Data consumer or customer data platform
+
+  - AI, ML and algorithmic analysis services, model training and testing
+
+  - CRM systems
+
+  
+
+- **Hackathon Objective**
+
+The goal for this hackathon is to implement and test the big changes between the 04 and 05 draft
+
+ - Session Object
+ 
+ - Event Object migration from party_history Object
+ 
+ - channel contributor Event
+ 
+ - Redaction tagging
+ 
+ - Migration tools for converting vCons from 04 to 05
+
+ - JSON Schema and CDDL testing
+ 
+----
 
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
 
