@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T20:36:20.735Z
+date: 2026-11-14T21:37:36.271Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -659,6 +659,7 @@ Qin Wu (bill.wu@huawei.com)
 Giuseppe Fioccola (giuseppe.fioccola@huawei.com)
 King Daniel (d.king@lancaster.ac.uk)
 Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Shailesh Prabhu (shailesh.prabhu@nokia.com)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
 Justin Kintzele (jkintzele@jdieselny.com)
