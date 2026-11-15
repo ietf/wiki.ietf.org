@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-14T23:30:55.104Z
+date: 2026-11-15T01:56:11.728Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -74,8 +74,8 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 2. [RPC processes questions for the IESG](https://docs.google.com/presentation/d/1nwfTRUVy_0Po35Xq54QIdytuC-xoaO85U2JdccCIh0Q/edit?slide=id.p#slide=id.p) (Jean & Sandy) (15 mins)
 > 3. (meeting related) [Meeting decisions for th IESG](https://docs.google.com/presentation/d/1jFl9N_Q_q5cqLCOUsniDVH7qEzm_xDXNaOlICgl1boM/edit?slide=id.p#slide=id.p) (Roman)
 > 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/17IZGRujWI9QTHpdr0Nt0HKLqeMaziPD7/edit?slide=id.p1#slide=id.p1) and [Emergency guardrail](https://docs.google.com/presentation/d/11OZ2CTGhSRFqcVcMAd0NOEtQ81whUN8o/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (Gunter & Éric)
+> 4. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
 > 99. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
-> 99. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
 
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
