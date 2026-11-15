@@ -2,7 +2,7 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-10-29T22:00:17.950Z
+date: 2026-11-15T21:55:21.558Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T19:46:23.149Z
 
 # Informal Telechat - December 10, 2026
 
-There **WILL NOT** be a meeting on this date.
+There **WILL** be a meeting on this date.
 
 
 
@@ -45,6 +45,13 @@ Note that this page is public.
 
 
 ### Management Issues
+
+- Joint discussion with IAB: BOFs and Charter reviews
+    - What is the clear boundary between shepherding a BOF and being seen as a proponent?
+    - Right time for the IAB shepherd to get involved with the BoF prep
+    - How can IAB members best support ADs in BoF process?
+    - Should we have more joint discussions about BoFs and bringing new work?
+    - What does the IESG want from the IAB in BOF reports and charter reviews?
 
 
 ### WG News 
