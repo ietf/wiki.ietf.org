@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-15T18:11:51.266Z
+date: 2026-11-15T18:23:24.798Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -91,7 +91,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 >2. Area walkthrough for hot topics (45 min)
     Random order: INT, RTG, ART, WIT, OPS, SEC, IRTF, IAB, GEN
 >3. Liaison BCP update 4052bis and 4053bis (Suresh)
->4. Possible joint meeting with with MPEG/SVTA on Networked-Assisted Media Delivery (Ali) (if there is time) ([slides](https://docs.google.com/presentation/d/1hg-S-ja5dbQCB7hfREhy6nhNmQNvoCKLBPMyGTCZD40/edit?usp=sharing))
+>4. Possible joint meeting with with MPEG/SVTA on Networked-Assisted Media Delivery (Ali) (if there is time) ([slides](https://docs.google.com/presentation/d/1hg-S-ja5dbQCB7hfREhy6nhNmQNvoCKLBPMyGTCZD40/edit?usp=sharing))([text](https://docs.google.com/document/d/1epf0OtFZ7n03iFw-l8c5KgZDfVatvkgRV-5y5PEqYIg/edit?usp=sharing))
 
 ### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda127)
 
