@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-11-15T00:20:12.260Z
+date: 2026-11-15T23:40:08.444Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:19:41.122Z
@@ -23,3 +23,4 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |GREEN WG UCs showcase   | Emile Stephan, Marisol Palmero   | emile.stephan@orange.com, marisolpalmero7@gmail.com  | https://github.com/ietf-wg-green/green-hackathon-127  |
 |An Agentic AI Framework for the Management of Networks, Security, and AI Services (AAiF)  | Jaehoon (Paul) Jeong, Kihyun Shim | tlarlguswh@skku.edu | https://github.com/jaehoonpauljeong/I2ICF/tree/main/IETF-127  |
 |An Agentic AI Security Framework for Security Management in Mobile Networks | Jaehoon (Paul) Jeong, Joseph Ahn | ahnjs124@skku.com | https://github.com/jaehoonpauljeong/5G-I2NSF/tree/main/IETF-127  |
+| vCon - vConductor | Scott Godin, Dan Petrie | sgodin@sipspectrum.com, dpetrie@sipez.com | https://github.com/py-vcon/py-vcon/tree/vcon-core-05 https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/05/ |
