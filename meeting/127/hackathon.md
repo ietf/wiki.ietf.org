@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-15T01:35:26.885Z
+date: 2026-11-15T01:36:57.070Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -663,7 +663,6 @@ Shailesh Prabhu (shailesh.prabhu@nokia.com)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
 Justin Kintzele (jkintzele@jdieselny.com)
-Shailesh Prabhu (shailesh.prabhu@nokia.com)
 
 - **Project info**
 
