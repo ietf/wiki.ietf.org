@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-15T18:23:24.798Z
+date: 2026-11-15T19:36:46.235Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -75,7 +75,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 3. (meeting related) [Meeting decisions for the IESG](https://docs.google.com/presentation/d/1jFl9N_Q_q5cqLCOUsniDVH7qEzm_xDXNaOlICgl1boM/edit?slide=id.p#slide=id.p) (Roman)
 > 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/1csGS4ycZYY60aF4FE68Yf-e7jGnZfoqq/edit?usp=drive_link&ouid=107255401564969802807&rtpof=true&sd=true) and [Emergency guardrail](https://docs.google.com/presentation/d/11OZ2CTGhSRFqcVcMAd0NOEtQ81whUN8o/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (Gunter & Éric)
 > 4. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
-> 99. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
+> 5. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
 
 >
 > Note1: All agenda topics which don't finish on Sunday will be scheduled on Monday if deemed to have sufficient priority
@@ -92,6 +92,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
     Random order: INT, RTG, ART, WIT, OPS, SEC, IRTF, IAB, GEN
 >3. Liaison BCP update 4052bis and 4053bis (Suresh)
 >4. Possible joint meeting with with MPEG/SVTA on Networked-Assisted Media Delivery (Ali) (if there is time) ([slides](https://docs.google.com/presentation/d/1hg-S-ja5dbQCB7hfREhy6nhNmQNvoCKLBPMyGTCZD40/edit?usp=sharing))([text](https://docs.google.com/document/d/1epf0OtFZ7n03iFw-l8c5KgZDfVatvkgRV-5y5PEqYIg/edit?usp=sharing))
+>5. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
 
 ### 14:00-1600: [IAB afternoon meeting](https://wiki.ietf.org/group/iab/Agenda127)
 
