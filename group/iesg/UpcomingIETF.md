@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-15T19:36:46.235Z
+date: 2026-11-15T19:38:48.401Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -90,7 +90,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 >1. Welcome and introductions (5 min)
 >2. Area walkthrough for hot topics (45 min)
     Random order: INT, RTG, ART, WIT, OPS, SEC, IRTF, IAB, GEN
->3. Liaison BCP update 4052bis and 4053bis (Suresh)
+>3. Liaison BCP update 4052bis and 4053bis (Suresh) ([slides](https://docs.google.com/presentation/d/1H4RWGZ7J9aM8CLsXo4gCYTaBvxvpjZ5vFQJX-NdDLqo/edit?usp=drive_link))
 >4. Possible joint meeting with with MPEG/SVTA on Networked-Assisted Media Delivery (Ali) (if there is time) ([slides](https://docs.google.com/presentation/d/1hg-S-ja5dbQCB7hfREhy6nhNmQNvoCKLBPMyGTCZD40/edit?usp=sharing))([text](https://docs.google.com/document/d/1epf0OtFZ7n03iFw-l8c5KgZDfVatvkgRV-5y5PEqYIg/edit?usp=sharing))
 >5. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
 
