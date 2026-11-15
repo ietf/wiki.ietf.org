@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-15T20:21:35.020Z
+date: 2026-11-15T20:51:52.012Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -74,7 +74,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 > 2. [RPC processes questions for the IESG](https://docs.google.com/presentation/d/1nwfTRUVy_0Po35Xq54QIdytuC-xoaO85U2JdccCIh0Q/edit?slide=id.p#slide=id.p) and [RPC Updates](https://docs.google.com/presentation/d/1BpHpw8LhUWQavFmlPRprpLY5DID6nF73WEI47zaVygw/edit?usp=sharing) (Jean & Sandy) (15 mins)
 > 3. (meeting related) [Meeting decisions for the IESG](https://docs.google.com/presentation/d/1jFl9N_Q_q5cqLCOUsniDVH7qEzm_xDXNaOlICgl1boM/edit?slide=id.p#slide=id.p) (Roman)
 > 3. [Defending against potential AI-slop attack](https://docs.google.com/presentation/d/1csGS4ycZYY60aF4FE68Yf-e7jGnZfoqq/edit?usp=drive_link&ouid=107255401564969802807&rtpof=true&sd=true) and [Emergency guardrail](https://docs.google.com/presentation/d/11OZ2CTGhSRFqcVcMAd0NOEtQ81whUN8o/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (Gunter & Éric)
-> 4. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha)
+> 4. [Community Survey](https://docs.google.com/presentation/d/1M4NFoP0JkyLtJJDWL8_Xo8Hae2C8pJ6RVrQe8Vy3w1o/edit?slide=id.h6457179060de1943_2_0#slide=id.h6457179060de1943_2_0) (Akanksha) - DEFERRED TO DECEMBER 3
 > 5. Should IETF web properties use our [own AIPREF attachment](https://docs.google.com/presentation/d/1xO52UOTX4lVZH7oMQzTMf-yI7IsMhyFM/edit?usp=sharing&ouid=110729489178259489389&rtpof=true&sd=true) (see also [draft-ietf-aipref-attach](https://datatracker.ietf.org/doc/draft-ietf-aipref-attach/)) (recurring topic by Éric, low priority)
 
 >
@@ -111,11 +111,7 @@ Please add any topics for either IESG only meetings at IETF 126, or the joint me
 
 ## Monday, November 16, 2026
 
-### 07:30-08:50 - IESG Meeting (Room: Plaza A)
-
-> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1002
-> 
-> 1. 
+No IESG meeting.
 
 ### 12:45-13:45: IETF-3GPP Coordination (Room: Plaza A)
 
