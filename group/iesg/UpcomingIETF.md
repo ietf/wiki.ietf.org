@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-15T16:53:56.020Z
+date: 2026-11-15T16:54:03.047Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
