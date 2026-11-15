@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-14T21:37:36.271Z
+date: 2026-11-15T01:35:26.885Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -663,6 +663,7 @@ Shailesh Prabhu (shailesh.prabhu@nokia.com)
 Cheng Zhou (zhouchengyjy@chinamobile.com)
 Changhua Pei (chpei@cnic.cn)
 Justin Kintzele (jkintzele@jdieselny.com)
+Shailesh Prabhu (shailesh.prabhu@nokia.com)
 
 - **Project info**
 
@@ -671,6 +672,7 @@ Justin Kintzele (jkintzele@jdieselny.com)
 - To validate the core components including the Agent system and observability, Benchmarking harness functionality
 - Demonstrate key applications (such as Campus Network Agent Benchmarking, AI Guardrail) which consume network management observability data
 - Develop Control & Enforcement Plane to implement Agent Control requirements and Agent Intervention Requirements
+- Showcase policy-driven observability, automated refusal of unsafe actions, and human-in-the-loop rollback and recovery controls during a 4K streaming session handover
 - Extend agent observability with runtime metrics (e.g., task/model/tool-call latency, errors, and token usage) and a common execution trajectory representation for failure diagnosis.
 - Prototype AgentOps anomaly detection and failure attribution to identify responsible agents and root-cause steps, providing evidence to support evaluation and guardrail intervention.
 
