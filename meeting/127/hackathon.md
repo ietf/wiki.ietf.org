@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-15T02:10:43.380Z
+date: 2026-11-15T21:27:51.686Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -1239,18 +1239,17 @@ This project brings public implementations, test cases and a mapping experiment,
   
 ---
 
-### EDHOC in a swarm of DotBots
+### A DotBot Swarm in the LAKE
 
 **Champion(s)**
 - Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
 
 **Project Info**
 
-Deploy EDHOC to a swarm of DotBots, using lakers (Rust EDHOC implementation) over Mari, a scalable low-power local connectivity protocol supporting mobility, which enables the 1k DotBots Testbed (https://github.com/DotBots).
+Deploy LAKE (EDHOC) to a swarm of DotBots, using lakers (Rust LAKE implementation) over Mari, a scalable low-power local connectivity protocol supporting mobility, which enables the 1k DotBots Testbed (https://github.com/DotBots).
 
 plans for the hackathon include:
 - over-the-air deployment of lakers to a swarm of DotBots
-- authenticate Mari network join using EDHOC, for every robot in the swarm
 - ELA (lake-authz) for zero-touch enrollment of the robots
 - measure handshake time and memory usage at swarm scale
 
