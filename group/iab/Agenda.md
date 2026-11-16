@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-07T09:36:08.289Z
+date: 2026-11-16T18:05:17.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -11,7 +11,7 @@ dateCreated: 2023-12-04T23:35:41.632Z
 # IAB Informal Meeting Agenda: 2026-12-02, 16:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-12-02
+## There WILL be a meeting on 2026-12-02
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
@@ -19,9 +19,9 @@ dateCreated: 2023-12-04T23:35:41.632Z
 
 * Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1853bd6046f7c32b5d609d34df995dd6
 
-### 1. Topic (Owner)
+### 1. ISE Survey Report (Dhruv)
 
-Context: 
+Context: Finalize ISE survey report
 
 ## Regrets
 - 
