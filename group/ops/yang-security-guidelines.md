@@ -2,7 +2,7 @@
 title: YANG module security considerations
 description: 
 published: true
-date: 2026-04-07T14:28:26.133Z
+date: 2026-10-16T20:25:05.157Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:44:50.512Z
@@ -23,12 +23,12 @@ Further, if new RPC operations have been defined, then the security consideratio
 
 This section is modeled after the template described in Section 3.7.1 of [RFC9907].
 
-The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4252], TLS [RFC9846], and QUIC [RFC9000]) and (2) have to use mutual authentication.
+The "[module-name]" YANG module defines a data model that is designed to be accessed via YANG-based management protocols, such as the Network Configuration Protocol (NETCONF) [RFC6241] and RESTCONF [RFC8040]. These YANG-based management protocols (1) have to use a secure transport layer (e.g., SSH [RFC4253], TLS [RFC9846], and QUIC [RFC9000]) and (2) have to use mutual authentication (e.g., for SSH, the SSH Authentication Protocol [RFC4252]).
 
 The Network Configuration Access Control Model (NACM) [RFC8341] provides the means to restrict access for particular NETCONF or RESTCONF users to a preconfigured subset of all available NETCONF or RESTCONF protocol operations and content.
 
 > Note: [RFC8341] (or a future RFC that replaces it) MUST be listed as a normative reference.
-> By default, [RFC4252], [RFC6241], [RFC8040], [RFC9846], [RFC9000], and [RFC9907] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
+> By default, [RFC4252], [RFC4253], [RFC6241], [RFC8040], [RFC9846], [RFC9000], and [RFC9907] (or future RFCs that replace any of them) are listed as informative references unless normatively cited in other sections of the document that specifies the YANG module.
 
 ### Writable nodes section:
 
@@ -92,6 +92,7 @@ Modules that use the groupings that are defined in this document should identify
   * Nit: clarified cross references [JM:2025-07-23]
   * Nit: clarified instructions about particulalry sensitive nodes [Med:2026-07-15]
   * Updated reference to RFC 8446 to RFC 9846 (published July 2026) [SG: 2026-08-27]
+  * Corrected SSH transport reference (RFC4252 → RFC4253) and cited RFC4252 for mutual authentication [MJ:2026-10-16]
   
   
 

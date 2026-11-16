@@ -2,7 +2,7 @@
 title: IETF 127 Arrival Coordination
 description: For ease of taxi-sharing or having companions to take the public transport from the airport to the IETF 127 venue and hotels.
 published: true
-date: 2026-04-06T19:12:56.185Z
+date: 2026-11-16T05:08:05.965Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-06T19:05:38.385Z
@@ -54,7 +54,7 @@ For ease of taxi-sharing or having companions to take the public transport from 
 
 | TIME | FLIGHT | NAME | EMAIL | AIRPORT | TERMINAL | DESTINATION | NOTES |
 |:----:|:------:|:----:|:-----:|:-------:|:--------:|:-----------:|:-----:|
-|      |        |      |       |         |          |             |       |
+| 8:55AM | UA336 | Lixia Zhang | lixia@cs.ucla.edu | SFO |          | Hilton San Francisco Union Square | share ride  |
 |      |        |      |       |         |          |             |       |
 |  |  |   |  |  |   |          |       |
 |  |  |   |  |  |   |  |       |

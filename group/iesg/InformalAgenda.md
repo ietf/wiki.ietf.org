@@ -2,15 +2,18 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-09-28T06:23:34.304Z
+date: 2026-11-15T21:55:21.558Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - October 1, 2026
+# Informal Telechat - December 10, 2026
 
 There **WILL** be a meeting on this date.
+
+
+
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -28,7 +31,6 @@ Meeting password: 12345
 
 
 ## Regrets
-Deb Cooley (most likely in transit)
 
 
 ## Agenda
@@ -37,23 +39,29 @@ Deb Cooley (most likely in transit)
 Note that this page is public.
 {.is-info}
 
-
-
 ### Administrivia
 
 ### Document Discussions
 
 
-
 ### Management Issues
+
+- Joint discussion with IAB: BOFs and Charter reviews
+    - What is the clear boundary between shepherding a BOF and being seen as a proponent?
+    - Right time for the IAB shepherd to get involved with the BoF prep
+    - How can IAB members best support ADs in BoF process?
+    - Should we have more joint discussions about BoFs and bringing new work?
+    - What does the IESG want from the IAB in BOF reports and charter reviews?
+
 
 ### WG News 
 
 ### Documents to Swap 
 
+
+
 ### Executive Sessions
 
-1. [Appeal](https://docs.google.com/document/d/19usfekh4MMN-n2wt4fNk81WwopMTBpGqo0Ug8-pz9Hk/edit?tab=t.0#heading=h.2rt4yglnilao) (Roman)
 
 ### AOB
 
@@ -65,7 +73,7 @@ Please list topics in this section that could use discussion but may not warrant
 ### Topics Deferred Till Next Informal 
 * IESG review of liaison statement drafts (4052bis & 4053bis), hopefully with Suresh present for discussion [raised at IETF 126 joint meeting]
 * `code` formatting in drafts, `.txt` output and doc production (Inacio)
-
+* Can I know a little more context on ROCEv2: what might or might not be in scope of IETF specs/guidance, or pointers to help me frame this. (Gorry) - Prefer before IETF127.
 -------
 
 

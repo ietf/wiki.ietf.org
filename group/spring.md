@@ -2,7 +2,7 @@
 title: SPRING WG - Source Packet Routing in Networking
 description: Welcome to the SPRING Working Group Wiki
 published: true
-date: 2026-09-11T09:23:14.422Z
+date: 2026-11-13T17:32:44.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-26T15:06:15.491Z
@@ -40,6 +40,7 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
   * [Responsible Chair: Alvaro]
   * 2025-10-03 Authors sent request
   * This document depends on draft-ietf-spring-srv6-path-segment, so we will wait until that one passes WGLC.
+  * 2026-09-30 The dependency on draft-ietf-spring-srv6-path-segment has been removed.  Waiting on Shepherd review.
 * draft-ietf-spring-sr-redundancy-protection
   * [Responsible Chair: Joel]
   * 2026-03-20 @ IETF 125: Authors asked for WGLC.
@@ -51,6 +52,8 @@ Chairs notepad: https://wiki.ietf.org/en/group/spring/chairs_notepad
   * 2026-08-13: Authors sent request.
 * draft-ietf-spring-sr-policy-nrp
   * 2026-07-22 (IETF 126) Authors requested WGLC
+* draft-ietf-spring-srv6-policy-sid-list-opt
+  * 2026-11-02: Authors requested WGLC
   
 > History of WGLC
 https://wiki.ietf.org/en/group/spring/WGLC_history
@@ -68,12 +71,6 @@ https://wiki.ietf.org/en/group/spring/WGLC_history
   * 2026-01-13 waiting for WG engagment
 * draft-yang-spring-srv6-verification
   * 2026-03-20 (IETF 125) Authors asked for adoption.
-* draft-yang-spring-sid-as-source-address
-  * [Responsible Chair: Bruno]
-  * 2026-03-20 (IETF 125) Authors asked for adoption.
-  * 2026-06-17 Clarification request: is the draft specific to VPN or general? General, authors will update the draft.
-  * 2026-06-18 draft -11 published, clarifying that this is a general topic, not VPN specific
-  * 2026-07-10 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/lPZ4XrZTnmy1CJMix_Q8ppLkRnw/)
 * draft-stone-spring-mpte-sr
   * 2026-07-22 (IETF 126) Authors requested adoption
   * will wait for the progress of the [architecture](https://datatracker.ietf.org/doc/draft-kompella-teas-mpte/) in the TEAS WG

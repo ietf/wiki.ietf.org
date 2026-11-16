@@ -2,7 +2,7 @@
 title: SUSTAIN PRG - Sustainability and the Internet Proposed Research Group
 description: 
 published: true
-date: 2025-08-04T17:58:08.497Z
+date: 2026-10-30T06:10:52.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T17:32:33.956Z
@@ -50,7 +50,9 @@ This is meant to make it easier for people to find their way around the IETF reg
 #### Events
 
 - In December 2022, the [IAB workshop on Environmental Impact of Internet Applications and Systems (eimpactws)](https://datatracker.ietf.org/group/eimpactws/about/) was held.
+- In September 2023, the workshop on [Carbon-Aware Networks](https://eng.ox.ac.uk/carbonawarenetworksworkshop) was held.
 - In November 2024, a SUSTAIN [Sidemeeting at IETF 121](https://github.com/rezaki-ali/IRTF_SUSTAIN_RG) was held.
+- In July 2026, the workshop [The Internet meets the Electricity Grid: Technical Standards and Societal Challenges](https://www.uni-passau.de/en/sustainability/news-and-successes/current-events/event-archive/workshop-of-the-internet-research-task-force) was held.
 
 #### Relevant Internet-drafts
 

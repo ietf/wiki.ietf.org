@@ -2,32 +2,41 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-09-23T15:20:08.932Z
+date: 2026-11-16T18:05:17.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
 ---
 
-# IAB Informal Meeting Agenda: 2026-10-07, 14:00 UTC (1 hour)
+# IAB Informal Meeting Agenda: 2026-12-02, 16:00 UTC (1 hour)
 
 
-## There WILL NOT be a meeting on 2026-10-07
+## There WILL be a meeting on 2026-12-02
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items below.
 {.is-info}
 ## Details
 
-* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1462ee51b58235f48f3c18833c20dbe7
+* Webex Link: https://ietf.webex.com/ietf/j.php?MTID=m1853bd6046f7c32b5d609d34df995dd6
 
+### 1. ISE Survey Report (Dhruv)
 
-
-### 1. Topic (Owner)
-
-Goal: 
-Context: 
-
+Context: Finalize ISE survey report
 
 ## Regrets
+- 
+
+### Potential Additional Topic for this or future meeting
+
+- Update to IAB statement on Appeal
+- Closing of some public IAB mailing lists and moderation procedures
+- [Topics for future IAB+IESG discussions](https://wiki.ietf.org/group/iab/iab-iesg)
+- IETF-RIR Admin Support Group
+- ISE Survey Feedback
+- Year 2038 (and other years) problems
+
+
+
 
 
 
@@ -35,12 +44,6 @@ Context:
 
 See [2026-2027 Schedule](https://wiki.ietf.org/group/iab/2026_Schedule)
     
-- **2026-09-30 - 2026-10-01: IAB Strategy Meeting, Tokyo**
-- 2026-10-07 Informal 1400-1500 UTC
-- 2026-10-14 Informal 2300-0000 UTC
-- **2026-10-21: Formal 1300-1500 UTC**
-- 2026-10-28 Informal 0600-0700 UTC
-- 2026-11-04 Informal 1400-1500 UTC
 
 ### 2026-11-14 - 2026-11-20: IETF 127 
 

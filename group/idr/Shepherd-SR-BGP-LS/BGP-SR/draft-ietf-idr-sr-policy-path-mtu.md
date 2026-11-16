@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-ietf-idr-sr-policy-path-mtu
 description: Shepherd draft-ietf-idr-sr-policy-path-mtu
 published: true
-date: 2026-03-16T23:00:14.129Z
+date: 2026-10-18T22:30:32.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T00:09:15.826Z
@@ -18,7 +18,7 @@ dateCreated: 2025-02-25T00:09:15.826Z
 **adopted:** [9/1/2024](https://mailarchive.ietf.org/arch/msg/idr/xUckKQncQ4rLVCCAkBO6bQ6zcuk/) (8/1 to 8/30 call) 
 **current version:** -14
 **Early Allocation**: yes, call (1/5/2026 - 1/19/2026) 
-**implementations:** 1 (Huawei in VRP8)    
+**implementations:** 1 (Huawei in VRP8, Cisco IOSXR)  
 **related bgp-ls draft:** none
 
 ## Review for -14 
