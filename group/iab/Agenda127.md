@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-16T13:59:34.630Z
+date: 2026-11-16T20:09:51.221Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -90,6 +90,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 >
 > - Year 2038 (and other years) problems (Suresh, with Wes Hardaker) - 40 mins
 > - Architecture Principle Document (Mark) [[proposal]](https://projects.mnot.net/I-D/draft-nottingham-iab-arch.html) - 40 mins
+> - Potential IAB workshop on Agentic Identity (Yaroslav) - if time allows
 
 
 
