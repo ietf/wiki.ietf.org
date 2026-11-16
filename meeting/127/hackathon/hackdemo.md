@@ -24,6 +24,7 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |An Agentic AI Framework for the Management of Networks, Security, and AI Services (AAiF)  | Jaehoon (Paul) Jeong, Kihyun Shim | tlarlguswh@skku.edu | https://github.com/jaehoonpauljeong/I2ICF/tree/main/IETF-127  |
 |An Agentic AI Security Framework for Security Management in Mobile Networks | Jaehoon (Paul) Jeong, Joseph Ahn | ahnjs124@skku.com | https://github.com/jaehoonpauljeong/5G-I2NSF/tree/main/IETF-127  |
 | vCon (Conversation Container) - vConductor (Conversational Intelligence) | Scott Godin, Dan Petrie | sgodin@sipspectrum.com, dpetrie@sipez.com | https://github.com/py-vcon/py-vcon/tree/vcon-core-05 https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/05/ |
+| SenseBeen Hybrid TLS 1.3 Demo (X25519MLKEM768) | Jordan Louis Henderson | ops@sensebeen.com | [SenseBeen PQC project background](https://github.com/jocuhinside/sensebeen/blob/fix/pqc-smoke-test-cleanup/pqc/README.md) |
 |iPerf2 for Android | Bob McMahon | bob.mcmahon@umbernetworks.com | https://play.google.com/store/apps/details?id=com.rjmcmahon.iperf2client https://sourceforge.net/projects/iperf2/ |
 | IOAM Global Opaque Block (GOB) | Stefano Salsano | stefano.salsano@uniroma2.it | https://github.com/netgroup/ioam-gob-kernel-playground https://datatracker.ietf.org/doc/draft-mayer-bpm-ioam-gob/ |
 | Agent action evidence loop interop | Steven Mih | steven@actionstate.ai | https://datatracker.ietf.org/meeting/127/materials/slides-127-hackathon-sessd-agent-action-evidence-interop-results-01.pdf |
