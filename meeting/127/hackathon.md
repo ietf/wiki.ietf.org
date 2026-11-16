@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-15T21:27:51.686Z
+date: 2026-11-16T13:41:12.312Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -10,7 +10,7 @@ dateCreated: 2026-04-06T19:09:13.171Z
 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-* :spiral_calendar: **When**: 14-15 November 2026 (Saturday - Sunday)
+1. * :spiral_calendar: **When**: 14-15 November 2026 (Saturday - Sunday)
 * :hotel: **Where**: Hilton San Francisco Union Square
 * :cityscape: **Room**: Continental 4
 {.grid-list}
@@ -1286,34 +1286,33 @@ https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
 
 - **Champions**
   - Harsh Thumar, harshthummar1000@gmail.com (remote, India UTC+5:30)
-	- Prince Upadhyay, upadhyayprince0019@gmail.com (remote, India UTC+5:30)
+  - Prince Upadhyay, upadhyayprince0019@gmail.com (remote, India UTC+5:30)
 
 - **Project Info**
+  In MCP, the server a client connects to (which may be untrusted) tells the client which authorization server to use (RFC 9728), and one client identity can be reused across many authorization servers (Client ID Metadata Documents). The Enterprise-Managed Authorization extension adds RFC 8693 token exchange at the identity provider followed by an RFC 7523 JWT bearer grant at the MCP authorization server. This project builds a machine-checked model of these flows and delegated payments in the Tamarin prover to evaluate client-side defensive invariants.
 
-  In MCP, the server a client connects to (which may be untrusted) tells the client which authorization server to use (RFC 9728), and one client identity can be reused across many authorization servers (Client ID Metadata Documents). The Enterprise-Managed Authorization extension adds RFC 8693 token exchange at the identity provider followed by an RFC 7523 JWT bearer grant at the MCP authorization server. This project builds a machine-checked model of these flows in the Tamarin prover, to find attacks or prove which client-side checks (issuer, resource, client record) are sufficient.
+- **Outcomes & Verification Results**
+  - **9 Tamarin Models:** Covered AS-selection, authorization code binding, audience indicators (RFC 8707), issuer identification (RFC 9207), Rich Authorization Requests (RFC 9396), and DPoP sender-constraining (RFC 9449).
+  - **376 Automated CI Checks:** Verified all safety and authentication lemmas in Tamarin 1.12.0 (`scripts/prove.sh`).
+  - **Ablation Lattice:** Evaluated all 64 permutations of defensive checks. Formally verified the single-check trap: omitting RFC 9207 (`iss`) enables AS mix-up attacks; omitting RFC 8707 (`aud`) enables cross-gateway token passthrough.
+  - **Delegated Payments Case Study:** Mapped RFC 9396 to NPCI UPI Circle (OC 201 / OC 201-B), formally proving that real-time synchronous status lookup (MMS) is strictly required to prevent post-revocation token replay.
 
-- **Hackathon Plan**
-  - Model discovery (RFC 9728), PKCE and resource indicators (RFC 8707).
-  - Validate the model against published 2026 MCP SDK advisories: with a fix removed, the model should rediscover the known issue; with the fix in place, the property should hold.
-  - Write down every assumption the spec leaves open; turn confirmed findings into proposed conformance tests.
-  - Later: add Client ID Metadata Documents and Enterprise-Managed Authorization (ID-JAG).
+- **Reproducibility**
+  - Docker verification: `docker run --rm mcp-auth-tamarin ./scripts/reproduce.sh`
 
-- **Looking for**
-  - People with Tamarin, ProVerif or formal OAuth analysis experience.
-  - OAuth WG and MCP authorization folks willing to review the model's assumptions.
+- **Repositories & Documentation**
+  - GitHub Repository: https://github.com/HarshThumar/mcp-auth-tamarin
+  - Technical Whitepaper: https://harshthumar.github.io/whitepaper/agent-payments-india/
+  - Research Blog: https://harshthumar.github.io/blog/2026-11-ietf127-mcp-authorization/
 
-- **Related documents**
+- **Related Documents**
   - [MCP authorization specification](https://modelcontextprotocol.io/specification/draft/basic/authorization), [MCP security best practices](https://modelcontextprotocol.io/specification/draft/basic/security_best_practices)
-  - [RFC 9728](https://datatracker.ietf.org/doc/rfc9728/), [RFC 8707](https://datatracker.ietf.org/doc/rfc8707/), [RFC 9207](https://datatracker.ietf.org/doc/rfc9207/), [RFC 8693](https://datatracker.ietf.org/doc/rfc8693/), [RFC 7523](https://datatracker.ietf.org/doc/rfc7523/)
-  - [draft-ietf-oauth-identity-assertion-authz-grant](https://datatracker.ietf.org/doc/draft-ietf-oauth-identity-assertion-authz-grant/)
-  - [MCP conformance suite](https://github.com/modelcontextprotocol/conformance)
+  - [RFC 9728](https://datatracker.ietf.org/doc/rfc9728/), [RFC 8707](https://datatracker.ietf.org/doc/rfc8707/), [RFC 9207](https://datatracker.ietf.org/doc/rfc9207/), [RFC 8693](https://datatracker.ietf.org/doc/rfc8693/), [RFC 7523](https://datatracker.ietf.org/doc/rfc7523/), [RFC 9396](https://datatracker.ietf.org/doc/rfc9396/), [RFC 9449](https://datatracker.ietf.org/doc/rfc9449/)
 
-- **Repository**
-  - https://github.com/HarshThumar/mcp-auth-tamarin
+- **Results Presentation**
+  - Remote participants: results and open questions posted in writing.
 
-- **Results presentation**
-  - The champion participates remotely; results and open questions will be posted in writing.
-
+----
 ----
 
 ### OP-Experiment: DNSSEC-backed key currency and revocation for signed email (OPKEY)
