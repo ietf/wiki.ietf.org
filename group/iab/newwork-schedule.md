@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-11-16T19:40:12.730Z
+date: 2026-11-16T19:40:31.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -19,7 +19,7 @@ TODO: Ask HotRFC and dispatch chairs to mention IAB New Work "Help Desk"
 ## Monday 16th November
 
 Beverage Break, **11:00-11:30** (after dispatch)
-Volunteers: Dhruv, Alvaro, Warren, Matthew
+Volunteers: Dhruv, ~~Alvaro~~, Warren, ~~Matthew~~
 
 - Mark Blunk (apple) stopped by for guidance on his [work](https://datatracker.ietf.org/doc/draft-apple-cfrg-vdaf-preamble/) and does it belong in CFRG or not. 
 - Beena Sharma (VeDA) interested in how IAB and IETF deal with policy related to Agentic Identity
