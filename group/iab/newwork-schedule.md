@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-11-05T13:12:34.682Z
+date: 2026-11-16T19:39:55.337Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -12,6 +12,7 @@ dateCreated: 2024-06-28T10:06:07.006Z
 
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot, but more is always better!  
 
+TODO: Ask HotRFC and dispatch chairs to mention IAB New Work "Help Desk"
 
 # IETF 127 San Francisco
 
@@ -19,7 +20,9 @@ Please put your name in this list to sign up for a slots. The goal is to have 2-
 
 Beverage Break, **11:00-11:30** (after dispatch)
 Volunteers: Dhruv, Alvaro, Warren, Matthew
-TODO: Ask HotRFC and dispatch chairs to mention IAB New Work "Help Desk"
+
+- Mark Blunk (apple) stopped by for guidance on his [work](https://datatracker.ietf.org/doc/draft-apple-cfrg-vdaf-preamble/) and does it belong in CFRG or not. 
+- Beena Sharma (VeDA) interested in how IAB and IETF deal with policy related to Agentic Identity
 
 ## Thursday 19th November
 
