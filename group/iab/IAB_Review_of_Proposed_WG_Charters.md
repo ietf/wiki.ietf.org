@@ -2,7 +2,7 @@
 title: IAB Review of Proposed WG Charters
 description: 
 published: true
-date: 2026-11-07T13:35:14.302Z
+date: 2026-11-16T18:45:39.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T21:01:18.463Z
@@ -65,19 +65,19 @@ Charter review is one of the main points at which the IAB can:
 
 ### 1. Trigger
 
-- IAB Executive Director monitors the IESG telechat agenda in Datatracker.
+- IAB Executive Administrative Manager monitors the IESG telechat agenda in Datatracker.
 - When a charter or re-charter is placed on an agenda, they starts a thread in the IAB Slack channel `#iab` with the link to the charter. 
 
 ### 2. Reviewer selection
 
-- IAB Executive Director asks for volunteers in the thread.
+- IAB Executive Administrative Manager asks for volunteers in the thread.
 - The IAB Chair and other members help match the charter to IAB member expertise.
 - Conflicts of interest are considered when assigning.
-- If nobody volunteers, the IAB Chair or the IAB Executive Director assigns a reviewer.
+- If nobody volunteers, the IAB Chair or the IAB Executive Administrative Manager assigns a reviewer.
 
 ### 3. Tracking
 
-- Once a reviewer confirms, IAB Executive Director (or IAB Chair) opens an issue in the IAB GitHub repository [intarchboard/responsibilities](https://github.com/intarchboard/responsibilities) containing:
+- Once a reviewer confirms, IAB Executive Administrative Manager (or IAB Chair) opens an issue in the IAB GitHub repository [intarchboard/responsibilities](https://github.com/intarchboard/responsibilities) containing:
   - charter link, telechat date, assigned reviewer;
   - review status (assigned / in progress / sent / skipped).
 - The issue is closed when the review has been sent to the IESG, or the skip is recorded.
@@ -87,7 +87,7 @@ Charter review is one of the main points at which the IAB can:
 - Reviewers should target responding during the **internal review** stage, so that the IESG can take the feedback into account before deciding to send the charter for external review.
 - In the worst case, the review should be sent before the IESG finalizes (approves) the charter.
 - Early reviews are strongly preferred.
-- IAB Executive Director (or IAB Chair) send a reminder to the assigned reviewer ahead of the telechat at which the charter is scheduled for discussion.
+- IAB Executive DAdministrative Manager (or IAB Chair) send a reminder to the assigned reviewer ahead of the telechat at which the charter is scheduled for discussion.
 
 ### 5. Discussion within the IAB
 
