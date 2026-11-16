@@ -2,7 +2,7 @@
 title: Hackdemo Happy Hour
 description: 
 published: true
-date: 2026-11-15T23:54:12.414Z
+date: 2026-11-16T01:00:25.442Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-11-11T11:19:41.122Z
@@ -25,3 +25,4 @@ Hackathon teams are welcome and encouraged to add their project in the table bel
 |An Agentic AI Security Framework for Security Management in Mobile Networks | Jaehoon (Paul) Jeong, Joseph Ahn | ahnjs124@skku.com | https://github.com/jaehoonpauljeong/5G-I2NSF/tree/main/IETF-127  |
 | vCon (Conversation Container) - vConductor (Conversational Intelligence) | Scott Godin, Dan Petrie | sgodin@sipspectrum.com, dpetrie@sipez.com | https://github.com/py-vcon/py-vcon/tree/vcon-core-05 https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/05/ |
 |iPerf2 for Android | Bob McMahon | bob.mcmahon@umbernetworks.com | https://play.google.com/store/apps/details?id=com.rjmcmahon.iperf2client https://sourceforge.net/projects/iperf2/ |
+| IOAM Global Opaque Block (GOB) | Stefano Salsano | stefano.salsano@uniroma2.it | https://github.com/netgroup/ioam-gob-kernel-playground https://datatracker.ietf.org/doc/draft-mayer-bpm-ioam-gob/ |
