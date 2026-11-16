@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-15T21:59:30.905Z
+date: 2026-11-16T13:59:34.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -47,7 +47,9 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 > - Moderation procedures and Closing of some public IAB mailing lists (Dhruv) [[Slide]](https://docs.google.com/presentation/d/1jco93XW1Tqp-nN_ZA8DQsgzneQ24iAtDjqbwfmw5UQs/edit?usp=sharing) - 15 mins
 > - Proposed RIR Admin Support Group (Dhruv) [[GDoc]](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing) - 30 mins
 > - [BOF Coverage](https://wiki.ietf.org/group/iab/Bof127)
-> - Executive Session: Appeal - 15 mins
+> - [How to better operationalize charter reviews (including re-charters)]( https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters#operational-process)
+> - [De facto v/s Open Standards](https://docs.google.com/document/d/1tGbZ2LwCwGneB7FwsHBPBdMzaSqwputt_bwBaUB_1r4/edit?usp=sharing)
+> - Executive Session: Appeals - 15 mins
 
 
 
@@ -136,8 +138,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 
 
 ## Potential Topics / Parking Lot
-- [How to better operationalize charter reviews (including re-charters)]( https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters#operational-process)
-- [De facto v/s Open Standards](https://docs.google.com/document/d/1tGbZ2LwCwGneB7FwsHBPBdMzaSqwputt_bwBaUB_1r4/edit?usp=sharing)
+
 
 
 
