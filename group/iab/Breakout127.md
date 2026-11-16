@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-11-15T21:25:44.185Z
+date: 2026-11-16T03:00:25.093Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -50,5 +50,6 @@ For food & beverage service requests, please include:
 
 
 ## Friday 
+- 10:00-10:30: IABOpen speaker for KL (Dhruv)
 
 
