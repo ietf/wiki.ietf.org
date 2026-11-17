@@ -2,7 +2,7 @@
 title: Typical INTernet Area Issues
 description: Typical INTernet Area Issues
 published: true
-date: 2023-02-19T06:27:50.864Z
+date: 2026-09-06T12:17:15.194Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-09T21:35:20.467Z
@@ -34,7 +34,7 @@ In URI, the format of IPv6 literals uses square brackets to differentiate the ':
 
 ### New Extension Headers and Options
 
-All new IPv6 Extension Headers and Extension Header Options should be reviewed by the [6man working group](https://datatracker.ietf.org/wg/6man/about/). Extension Header Option Type code points include 3 bits of fine-grained behaviour indicators ([RFC8200 §4.2](https://www.rfc-editor.org/rfc/rfc8200.html#section-4.2)) that should be given due consideration.
+All new IPv6 Extension Headers and Extension Header Options should be reviewed by the [6man working group](https://datatracker.ietf.org/wg/6man/about/). Extension Header Option Type code points include 3 bits of fine-grained behaviour indicators ([RFC8200 §4.2](https://www.rfc-editor.org/rfc/rfc8200.html#section-4.2) and [RFC9673](https://www.rfc-editor.org/rfc/rfc9673.html)) that should be given due consideration.
 
 ### New ICMPv6 ND Options
 

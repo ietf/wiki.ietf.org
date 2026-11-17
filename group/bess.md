@@ -2,7 +2,7 @@
 title: BESS WG - BGP Enabled ServiceS
 description: This wiki is for the BESS WG.
 published: true
-date: 2026-07-28T02:22:43.006Z
+date: 2026-11-11T16:32:03.501Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:17:26.188Z
@@ -66,43 +66,38 @@ This section lists actions other than document updates
 
 
 ## Latest RFCs
-* RFC 9721 Extended Mobility Procedures for Ethernet VPN Integrated Routing and Bridging (EVPN-IRB)
-* RFC 9722 Fast Recovery for EVPN Designated Forwarder Election
-* RFC 9784 Virtual Ethernet Segments for EVPN and Provider Backbone Bridge EVPN
-* RFC 9785 Preference-Based EVPN Designated Forwarder (DF) Election
-* RFC 9786 EVPN Port-Active Redundancy Mode
-
+* RFC 10018 Multicast and Ethernet VPN with Segment Routing Point-to-Multipoint (P2MP) and Ingress Replication
 
 
 
 ## Documents in RFC editor queue
 
-* draft-ietf-bess-bgp-srv6-args-10
-* draft-ietf-bess-evpn-redundant-mcast-source-15
+* draft-ietf-bess-bgp-sdwan-usage-37
+* draft-ietf-bess-evpn-ipvpn-interworking-18
+* draft-ietf-bess-evpn-unequal-lb-35
 
 ## Documents sent to IESG
 Shepherd's name indicated within parenthesis.
 
-* draft-ietf-bess-evpn-ipvpn-interworking-14
-* draft-ietf-bess-mvpn-evpn-sr-p2mp-14
+* draft-ietf-bess-vpls-multihoming
 
 
 ## Documents under Shepherds Review
 
-- draft-ietf-bess-evpn-bfd-10 (Matthew):
-- draft-ietf-bess-evpn-mvpn-seamless-interop-08 (Matthew): 
+- draft-ietf-bess-evpn-bfd-15 (Matthew):
+  - Waiting for Implementation
+- draft-ietf-bess-evpn-mvpn-seamless-interop-08 (Mankamana): 
+  - Waiting for review comment to be addressed
 
-- draft-ietf-bess-evpn-unequal-lb (Stephane):
-  - WGLC done
-	- Neeraj to fix nits, then will move to IESG
 
 - draft-ietf-bess-evpn-geneve: (Matthew)
 	- expired. 
   - Moved to experimental now , Matthew to write up and move to next step (09/06)
-- draft-ietf-bess-vpls-multihoming (Matthew):
-- draft-ietf-bess-bgp-sdwan-usage (Matthew)
-	- Telechat on 2/29
-  - park it for now (09/06)
+-  (Matthew):
+
+
+- draft-ietf-bess-evpn-per-mcast-flow-df-election (Jeffery)
+- draft-ietf-bess-rfc7432bis-14 (Jeffery)
 
 
 ## Documents that failed Working Group Last Call 
@@ -116,11 +111,9 @@ Shepherd's name indicated within parenthesis.
 
 
 ## Documents candidates for Working Group Last Call
-
-
 * draft-ietf-bess-evpn-ac-aware-bundling (Jeffrey)
   - Outstanding questions/comments from Jeffrey
-  - Refreshed, plan to discuss in IETF124
+    needs further discussions with Mankamana
   
 * draft-ietf-bess-evpn-per-mcast-flow-df-election (Jeffrey)
   - Shepherd review done; pending author responses
@@ -133,44 +126,38 @@ Shepherd's name indicated within parenthesis.
   - Jeffrey to check updates against his review
   
 
-* draft-ietf-bess-bgp-multicast-controller
+* draft-ietf-bess-bgp-multicast-controller (Stephane)
   - GenArt early review passed
   - Revision -12 posted on 12/30/23 to address RtgDir early review comments. No acknowledgement from reviewer yet.
   - Requested Susan for IDR review for both bgp-multicast drafts.
-  - Susan comment has been addressed, waiting for her comment. 
+  - Susan comment has been addressed, waiting for her comment.
+  - needs follow-up with Robert Raszuk
 
-* draft-ietf-bess-bgp-multicast
+* draft-ietf-bess-bgp-multicast (Stephane)
   - GenArt and RtgDir early review passed ( revision -07)
-  - Susan comment has been addressed, waiting for her comment. 
-  - Expired 
+  - waiting to go with the controller draft together 
 
+* draft-ietf-bess-evpn-dpath-04 (Jeffery) 
 
-* draft-ietf-bess-evpn-bfd
-  - Needs joint WG LC with BFD WG (will CC rtg-bfd@ietf.org) (Matthew)
-  - early review to be started 
-  
 ## Recently adopted documents
-* draft-ietf-bess-mup-safi-00 (Matthew)
-* draft-sajassi-bess-evpn-umr-mobility-02 (Stephane)
+* draft-ietf-bess-rfc6514bis-00
+* draft-ietf-bess-evpn-ip-mac-proxy-adv-00
 
 ## Documents requested for Working Group adoption (Non Expired drafts only)
 
-* draft-rabadan-bess-evpn-inter-domain-opt-b
-* draft-rabnic-bess-evpn-mcast-eeg
-* draft-rabnag-bess-evpn-anycast-aliasing
-* draft-kriswamy-bess-evpn-perflow-df
+* draft-rabnic-bess-evpn-mcast-eeg (Stephane)
+* draft-rabnag-bess-evpn-anycast-aliasing (Matthew)
+* draft-kriswamy-bess-evpn-perflow-df (Jeffery - pending author response)
 
 
 ## Documents that failed WG adoption
-* draft-wang-bess-sbfd-discriminator
-* draft-thubert-bess-secure-evpn-mac-signaling (3/13/24)
 
 ## Working group document status (Non Expired only)
 
 (Removed as this is tracked in datatracker)
 
 
-- draft-ietf-bess-ebgp-dmz-08 (Matthew): 
+- draft-ietf-bess-ebgp-dmz-11 (Matthew): 
 	- New version of the document published
 	- IDR chairs OK to LC with an IDR shepherd.
 

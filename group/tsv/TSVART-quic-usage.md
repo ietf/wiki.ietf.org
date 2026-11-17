@@ -2,7 +2,7 @@
 title: Protocol Considerations for using QUIC
 description: A collection of considerations needed to go through when defining a protocol or application's usage of QUIC as transport protocol. 
 published: true
-date: 2026-08-24T12:33:30.383Z
+date: 2026-09-25T14:30:31.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-24T07:58:48.215Z
@@ -18,7 +18,7 @@ Defining application usage of QUIC is potentially challenging and this section c
 
 The QUIC [Applicability statement](https://datatracker.ietf.org/doc/rfc9308/) includes some guidance on aspects of QUIC to consider. 
 
-## QUIC Connections
+## Properties of QUIC Connections
 
 ### Application Identification
 
@@ -38,19 +38,23 @@ Applications that require long-lived QUIC connections, with that we mean connect
 
 If one have requirements on periodic rekeying and re-authentication one will have to consider how they handle some of the existing limitations of QUIC. QUIC only does ephemeral key exchange at the intitial TLS handshake. One potential solution to this is to require using [TLS extended key update for QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) for ephemeral key updates, and can consider [Exported Authenticators in TLS](https://datatracker.ietf.org/doc/rfc9261/) for re-authentication. The other alternative, if the application is capable of supporting this, is to ensure that new QUIC connections are established periodically and used to replace those that have been used. 
 
+Independent of the need for forward secrecy rekeying, QUIC supports the key update mechanism, see [RFC 9001 Section 6](https://www.rfc-editor.org/rfc/rfc9001.html#name-key-update). This mechanism is required to handle situations where the used cipher suit approaches its AEAD limit, or simply because the peer excercise the mechanism, possibly for implementation dependent reasons. 
+
 ### Connection close
 
 QUIC provides several methods to close connections. It does not offer a method to announce planned closures (aka graceful close). Applications can provide their own method to achieve this.
 
 ## QUIC Streams
 
-QUIC supports multiple streams (multistreaming) within a connection. Each stream in a connection has a unique identifier (a stream ID), identifiers are never reused. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+QUIC supports multiple streams (multistreaming) within a connection [RFC900]. Each stream in a connection has a unique identifier (a stream ID), identifiers are never reused. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
 
 The data carried on QUIC streams is entirely an application concern. QUIC provides the means to an open stream, reliably exchange data, and close it. Applications need to provide comprehensive documentation on how all of the stream behaviours are used. Failure to do so can raise interoperability risks.
 
+There are different services that can be provided using a QUIC stream:
+
 ### Reliable Streams
 
-QUIC provides in-order reliable delivery using a Stream. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees. [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams.
+QUIC provides in-order reliable delivery using a Stream [RFC9000]. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees.  
 
 QUIC does not retransmit packets. Stream data reliability is achieved by retransmission of lost data. Implementations can transmit different ranges of stream data. 
 
@@ -74,7 +78,9 @@ QUIC datagrams do not provide any transport multiplexing identifier. Application
 
 A QUIC stream can be reset by the sender, but a reset can be requested by the receiver. To the application, such a request looks like the stream being reset by the receiver.
 
-[It's probably worth explaining that RFC 9000 allows a bidi stream to be reset in one direction but operate normally in the other, but also assess if real implementations actually allow this.]
+[RFC9000] defines a bidirectional stream, that can be reset in one direction, but continue to transfer data normally in the other direction. Experience is recommended to understand how this is realised in actual implementations.
+
+The [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams.
 
 ### Stream concurrency limits
 
@@ -92,32 +98,56 @@ In order to support the long-term maintainability of application protocols using
 
 ## Designing for new QUIC versions/evolution
 
-QUIC may be expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. Some QUIC features are defined as extensions or are supported by options. Not all stacks are equal in what they offer, nor in the APIs that they provide.
+QUIC is expected to continue to evolve as new versions and options emerge. The design is intentionally flexible. 
+
 
 # Topics to consider
 
-### What is the logical byte stream model used by the application? 
+This section provides some questions to help identify the suitability of a new specification for standardisation. 
 
-This could be a bi-directional or uni-directional stream. It could be datagram, etc. Is the communication Client to Server or Peer to Peer?
+### Why does this application need QUIC?
+
+Please consider if there are alternate mechanisms to achieve similar objective that would not require.
+
+What feature(s) that are offered by QUIC does the application need?
+
+### Has there been consideration of using a service over HTTP or TCP instead?
+
+QUIC is not supported on all paths. A QUIC service may anyway need to fall-back to another transport service for a real-world deployment. How will fall-back be realised for this application?
 
 ### Not all paths (currently) support QUIC! 
 
-How does the application fall-back to a different transport service (such as TCP) if the path doesn't allow setup of a QUIC connection? What is the need for NAT and Firewall Traversal?
+How does the application fall-back to a different transport service (such as TCP) if the path does not allow setup of a QUIC connection? 
 
-### Consider using a service over HTTP or TCP instead?
-A QUIC service may anyway need to fall-back to this service for a real-world deployment.
+Paths with middleboxes might not pass QUIC packets. Is there a need to use the application over a path deploying NAT or a Firewall?
 
-### What are the deployment incentives / implementation experience?
+### What is the logical byte stream model used by the application? 
 
-Please consider if there are alternate mechanisms to achieve similar objective that would not require QUIC.
+The byte stream model could be a bi-directional or uni-directional stream. It could be datagram, etc. What model(s) is required to support the application? 
 
-### How is flow control used? 
+Is the communication Client to Server or Peer to Peer?
 
-The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? Please explain the usage. QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
+### How is QUIC flow control used? 
+
+[RFC9000] defines QUIC flow control at both the individual stream level and the overall connection level. The way flows are used, priorities and managed depends on the application: what is the design of application interaction with streams? Please explain the usage. QUIC provides significant flexibility and there is currently no consistent API that applications can bind with.
 
 ### Does a new QUIC application need a unique UDP Port? 
 
-RFC 7605 provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, (RFC 7301) can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
+[RFC7605] provides guidance on the use of port numbers and the criteria for new port assignments, including a test for whether a proposed service is distinct from an existing service. A service that requires a new Application-Layer Protocol Negotiation (ALPN) identifier, [RFC7301] can request to register this in the IANA TLS ALPN Protocol IDs registry and not seek a new port assignment.
+
+### Does QUIC require a UDP Checksum? 
+
+QUIC provides robust cryptographic authentication and encryption for its headers and the UDP payload [RFC9001]. For IPv4,the UDP checksum is optional, because the IP-layer already checks the IP address [RFC8085]. The UDP checksum is mandatory for QUIC with IPv6, because the network stack uses this checksum to verify the delivery endpoint and packet integrity [RFC8200].
+
+### What is the implementation experience and the expected deployment incentives?
+
+Implementation experience has been important in the development of QUIC standards and tests of interoperability have proved important. Not all stacks are equal in what they offer, nor in the APIs that they currently provide. Some QUIC features are defined as extensions or are supported by options for a version of QUIC.
+
+Is there implementation experience and has any proposed used been tested with specific clients and servers?
+
+What are the incentives for deploying the method using QUIC transport?
+
+
 
 
 

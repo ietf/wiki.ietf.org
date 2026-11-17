@@ -2,7 +2,7 @@
 title: BIER WG - Bit Indexed Explicit Replication
 description: 
 published: true
-date: 2026-02-25T07:06:12.810Z
+date: 2026-10-20T07:38:20.976Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-05T16:35:42.289Z
@@ -83,7 +83,7 @@ This page will be updated with more details as we figure things out.
 |-----------------------------|-----------------------------------------|-----------------------------|---------------------------------------------------|-----------------------|-------------------------------|------------------------------------------|-----------------------------|------------------------------|-------------------|-------|
 | draft-ietf-bier-frr         | Return back from IESG       | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Needs to be re-initiated |
 |draft-ietf-bier-oam-requirements| RFC Ed Queue | N/A  | Yes | Yes | Yes | N/A | Yes | Yes | Yes |     Yes  |
-|draft-ietf-bier-ospfv3-extensions| Needs review in LSR WG |  | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |  Needs to be re-initiated     |
+|draft-ietf-bier-ospfv3-extensions| Review request sent in LSR WG, AD's comments addressed |  | Yes | Yes | Yes | N/A | Yes  | Yes  | Not yet |       |
 |draft-ietf-bier-lsr-non-mpls-extensions| Waiting for WG Chair Go-Ahead |Sent to LSR WG| Yes | Yes | Yes | Not yet | Not yet | Not yet | Not yet |  Received replies from all authors  |
 | draft-ietf-bier-tether      | IESG Expired | N/A | Not yet | Yes | Yes | N/A | Yes | Yes | Not yet |  Received replies from all authors  |
 |draft-ietf-bier-use-cases    | IESG Expired, Needs more work  | N/A | Yes | Yes  | Yes  | Not yet | Not yet | Not yet | Not yet |       |

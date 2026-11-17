@@ -2,7 +2,7 @@
 title: OAuth Spec Clusters
 description: 
 published: true
-date: 2026-07-28T11:37:36.711Z
+date: 2026-08-24T17:44:30.832Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-28T09:32:30.263Z
@@ -104,11 +104,11 @@ Collects best-current-practice guidance for deploying OAuth securely across nati
 * RFC 8252 (draft-ietf-oauth-native-apps) — OAuth 2.0 for Native Apps
 * RFC 8725 (draft-ietf-oauth-jwt-bcp) — JSON Web Token Best Current Practices
 * RFC 9700 (draft-ietf-oauth-security-topics) — OAuth 2.0 Security Best Current Practices
+* RFC 10017 (draft-ietf-oauth-browser-based-apps) — OAuth 2.0 for Browser-Based Applications
+* RFC 10027 (draft-ietf-oauth-cross-device-security) — Cross-Device Flows: Security Best Current Practice
 
 ### Active
 
-* draft-ietf-oauth-cross-device-security — Cross-Device Flows: Security Best Current Practice
-* draft-ietf-oauth-browser-based-apps — OAuth 2.0 for Browser-Based Applications
 * draft-ietf-oauth-rfc8725bis — JSON Web Token Best Current Practices (update)
 * draft-ietf-oauth-security-topics-update — Updates to OAuth 2.0 Security Best Current Practice
 

@@ -2,7 +2,7 @@
 title: Expert Topics
 description: 
 published: true
-date: 2026-02-26T13:25:38.615Z
+date: 2026-09-17T06:53:29.212Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-09-07T14:15:47.058Z
@@ -93,9 +93,9 @@ For a more complete discussion of these topics, please see https://wiki.ietf.org
 * "This document introduces no new security considerations" is nearly always wrong (though the new considerations may not be very interesting)
 
 
-## Transport Area (tsv) 
+## Web and Internet Transport Area (wit)
 
-For a more complete discussion of these topics, please see https://wiki.ietf.org/en/group/tsv/TSVART-common-issues
+For a more complete discussion of transport topics, please see https://wiki.ietf.org/en/group/tsv/TSVART-common-issues
 
 * Port registrations, ADs should encourage a check early if they really are well motivated. 
 * Using _tcp and _udp in SRV DNS records
@@ -112,3 +112,10 @@ For a more complete discussion of these topics, please see https://wiki.ietf.org
   * If UDP is used then considerations for zero-checksum with IPv6 is likely needed (RFC6935, RFC6936).
   * ECN usage with tunnels (RFC 6040)
   * Nested congestion control and repair mechanisms interactions
+  
+For HTTP related review, please see https://httpwg.org/admin/directorate/guidelines
+* If the draft specifies an application that uses HTTP (e.g., a “HTTP API”), how well does it fit with the advice in Building Protocols with HTTP? This document is a BCP, and so should be followed. However, note that there are few hard requirements in it.
+* Do extensions conform to the appropriate advice in HTTP Semantics? Have they been discussed with a wider community than just the application at hand, if they’re generic (e.g., a method or status code)?
+* Do HTTP header and trailer fields use Structured Fields? There are sometimes good reasons not to use them, but often they’re not used because authors aren’t aware of them early in the drafting process.
+* Does the draft conform to the conventions in the HTTP Editor Style Guide? When documents specifying HTTP-related things use similar conventions and terminology, it improves readability and aids understanding.
+* Does the document refer to HTTP correctly?

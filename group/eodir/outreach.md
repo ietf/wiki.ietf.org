@@ -2,7 +2,7 @@
 title: Outreach
 description: Various IETF Outreach activities 
 published: true
-date: 2026-07-20T08:14:43.960Z
+date: 2026-11-05T13:23:52.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T10:40:12.870Z
@@ -44,7 +44,16 @@ Some examples of outreach activities are listed in the table below
 |Open Source Community|Implementers|full participation|-|IETF Hackathon outreach by Charles|
 |Civil Society|NGO, Professional associations|supporter|-|-|
 
+## Planned Outreach activities
 
+This table collects future events where the IETF outreach activities are planned or desirable. Feel free to add more events or add your name to an existing event if you are planning to attend (even if someone has volunteered already!).
+
+|When|Event|Target Audience|Participation|Volunteers|Remarks|
+|---|---|---|---|---|---|
+|Dec 2026|[IGF 2026](https://igf2026.intgovforum.org/)|IG|supporter|Roman, Dirk, Dhruv, Yaroslav, Suresh, Alvaro, Warren|-|
+|March 2027|[APRICOT 2027](https://2027.apricot.net/)|Operators|Knowledge sharing |Dhruv, Jen||
+|May 2027|[RIPE94](https://www.ripe.net/meetings/calendar/ripe-94/)|Operators|Participants|Jen|Potentially collocating interims for 1-2 WGs on Monday. v6ops/6man (+ smth else?)|
+|June 2027|[NANOG100]()|Operators|Participants|Yingzhen|-|
 
 ## Outreach activities, done in the past
 
@@ -52,6 +61,17 @@ This table collects the various IETF outreach activities done by individuals to 
 
 |When|Event|Target Audience|Participation|By|Remarks|
 |---|---|---|---|---|---|
+|Nov 2026|[AfIGF](https://igf.africa/africa-igf-2026/2026-schedule/)|Internet Governance|all levels|Roman|Africa at the Standards Table: Why Participation in the IETF Matters panel (organized by ISOC+IETF); Strengthening Internet Governance for Africa's Digital Future (organized by the AUC); Digital Emblems (DIEM WG) pitch (organized by the ICRC)|
+|Oct 2026|[RIPE93](https://ripe93.ripe.net/)|Operators|Participants |Jen Linkova, Suresh, Yaroslav, Èric V| [IPv6](https://ripe93.ripe.net/programme/meeting-plan/sessions/152/9R9WYW/)<br>[BoF](https://ripe93.ripe.net/programme/meeting-plan/sessions/127/)<br> [LT](https://ripe93.ripe.net/programme/meeting-plan/sessions/167/KREQC9/) |
+|Oct 2026|[SECTOR](https://blackhat.com/sector/)|Mixed|Participants|Paul Wouters|[Slide](https://i.blackhat.com/SecTor-2026/presentations/SecTor2026-IETF-PaulWouters.pdf)|
+|Oct 2026|[ICANN87](https://meetings.icann.org/en/meetings/icann87/)|Mixed|All Levels|Roman,Warren,David,Dan York|[Video](https://icann.zoom.us/rec/play/yvo8T_Uvcqr9UJsSdKSqHkuXeBAnuM2LqS97Ry97HdUxehKVJiB3cjinZ9uqcHPedVc8zcpYxSh8cqx2.ocrTIGsqNDcfEX21?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1792463462000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Ficann.zoom.us%2Frec%2Fshare%2FQp0GapQxkT_z85EHdc8Q4NfkjORqduE8DqQIgZU84qrP4ZdWcXiwU-8rQLhD0xgM.4eLSb0H2JauNqGbk%3FstartTime%3D1792463462000)|
+|Oct 2026|[LACNIC46](https://lacnic46.lacnic.net/en)|Operators|Participants |Jen Linkova, Alvaro| A lightning talk "why should you care about the IETF" [slides](https://apievt.lacnic.net/wp-content/uploads/2026/08/why-should-you-care-about-ietf-v1-jen-linkova.pdf) <br> "BGP in 2026: Threats, Incidents, and Solutions" [Details](https://lacnic46.lacnic.net/en/programme/agenda/bgp-in-2026-threats-incidents-and-solutions)|
+|Oct 2026|[OpenSSL](https://2026.openssl-conference.org/)|Mixed|Participants|Yarolsav|[Link](https://openssl2026.sched.com/event/2VSQL/whats-behind-the-masque)|
+|Oct 2026|[GSMA 6G Community Workshop](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_events/gsma-6g-community-workshop-prague-2026/)|Mixed|Participants|Charles Eckel|[Slide](https://gsma.co1.qualtrics.com/CP/File.php?F=F_Nf1wCpVFo6W11wt)|
+|Oct 2026|[HKSU](https://hksu.ee.nfu.edu.tw) Taiwan IETF Program|Students|Participants|Dhruv|[Slide](https://docs.google.com/presentation/d/1p4uX3-yGRbJwiXR-mcVesU2g5EzqYQgB/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true)|
+|Sept 2026|[APNIC62](https://conference.apnic.net/62/program/program/index.html#/day/1/)|Operators|Participants|Suresh, Dhruv|[Whats new at IETF](https://conference.apnic.net/62/assets/presentation-files/303b3fff-d1a8-4d23-8e3c-9cbfbbe528cd.pdf)<br>[IP geo workshop report](https://conference.apnic.net/62/assets/presentation-files/bd8185cc-7b34-4f44-86d3-bc2dd593f08e.pdf)<br>[Videos](https://conference.apnic.net/62/program/program/index.html)|
+|Sept 2026|[RFCsWeLove](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|Regional|Participants|Suresh, Dhruv|[Details](https://www.iiesoc.in/post/rfcs-we-love-apnic62-mumbai)|
+|Sept 2026|[inSIG 2026]()|Internet Governance|all levels|Dhruv|[Slide](https://docs.google.com/presentation/d/1-zIwyBSIlz6p9FbM7uDfK2Xb3D_flCXLONCePpxn0Nw/edit?usp=sharing); Inaugural Speech|
 |July 2026|[Connections2026](https://connections.iiesoc.in/)|Regional|Participants|Dhruv, Mohit|[Slides](https://docs.google.com/presentation/d/1ebC6PvqeUCza_jRh9pFu6oZe5fH1uTUC22S0JSgggxA/edit)|
 |June 2026|[Nanog97](https://nanog.org/events/nanog-97/)|Operators|Participants|Yingzhen, Yaroslav|[slides](https://nanog.org/events/nanog-97/content/5762/)|
 |May 2026|[LACNIC45](https://lacnic45.lacnic.net)|Operators|Participants|Alvaro|[slides](https://apievt.lacnic.net/wp-content/uploads/2026/05/lacnic45-open-standards-keynote-alvaro-retana.pdf)<br>[IAB Workshop Report](https://lacnic45.lacnic.net/en/programme/agenda/ip-geolocation-update)|
@@ -132,10 +152,11 @@ This table list IETFers that can potentially help for specific events and commun
 |---|---|---|
 |Operators|APRICOT/APNIC|Dhruv Dhody|
 |Operators|NANOG|Yingzhen Qu, Zhaohui (Jeffrey) Zhang|
-|Operators|RIPE|Mirjam Kühne|
+|Operators|RIPE|Mirjam Kühne, Jen Linkova|
 |Operators|LACNIC|Alvaro Retana|
 |Operators|MANRS|Nick Hilliard, Melchior Aelmans|
 |Operators|AutoCon|Mahesh Jethanandani|
+|Operators|AusNOG|Jen Linkova|
 |Operators|NOGs|Reaching out to local IETFers, ISOC local chapters|
 |DNS|ICANN|David Lawrence, Wes Hardaker, Warren Kumari, Daniel Migault|
 |DNS|DNS-OARC|Shumon Huque, Wes Hardaker, Warren Kumari|

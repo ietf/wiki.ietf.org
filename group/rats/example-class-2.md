@@ -1,11 +1,11 @@
 ---
 title: RATS WG - Example Class 2 Attester
-description:
+description: 
 published: true
-date: 2026-07-19T19:00:00.607Z
-tags:
+date: 2026-08-31T15:36:19.524Z
+tags: 
 editor: markdown
-dateCreated: 2026-07-19T19:00:00.607Z
+dateCreated: 2026-07-22T06:28:01.509Z
 ---
 
 This is part of the [RATS Atomic Composite](atomic-composites) visual language.
@@ -13,10 +13,10 @@ This is part of the [RATS Atomic Composite](atomic-composites) visual language.
 ~~~ aasvg
 .-----------.
 | Verifier  |
-'-+---------'
-  |       ^             |   .-.
-  v       |       .---->+--+ B |
-.---------+-.     |     |   '-'
+'---------+-'
+  ^       |             |   .-.
+  |       V       .---->+--+ B |
+.-+-------+-.     |     |   '-'
 |    RP     +-----+
 +-----------+     |     |   .-.
 | Conveyer  |     '---->+--+ C |

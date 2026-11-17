@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-chen-idr-bgp-sr-policy-cp-validity
 description: Shepherd draft-chen-idr-bgp-sr-policy-cp-validity
 published: true
-date: 2026-01-06T23:36:39.348Z
+date: 2026-10-18T23:26:15.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T14:26:50.442Z
@@ -15,12 +15,37 @@ dateCreated: 2025-02-25T14:26:50.442Z
 **Type:** Proposed Standard 
 **WG status:** Individual draft   
 **call for adoption:** authors feel ready, needs revision (-04) + Check for Spring  
-**current version:** 04, Needs -05   
-**spring document**: draft-chen-spring-sr-policy-cp-validity 
+**current version:** 04, Needs -06  
+**spring document**: draft-ietf-spring-sr-policy-cp-validity 
 **Early Allocation**: needs early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
 
+## Version -05
+### technical issues 
+Technical issue 01 from -03 is resolved. Technical issue -02 is not. I have restated this issue as technical issue 1 
+#### Technical issue 1 - TEA template check, section 2 
+
+Old text:/ This document defines CP Validity
+   Sub-TLV to carry the validity control parameters of a candidate path./
+   
+New text:/This document defines CP Validity
+   Sub-TLV to carry the validity control parameters of a candidate path.
+   The CP Validity SubTLV is defined in this document to be contained in the 
+   SR Policy TLV. If multiple CP Validity SubTLVs are included in the 
+   SR Policy TLV, only the first CP Validity SubTLV is sent to the SRPM
+   and distributed via BGP./ 
+  
+### Technical issue 2- Add Cross-WG appendix to draft 
+
+Add an appendix to aid review that includes 3 sections: 
+
+1) Spring WG  
+2) PCE WG 
+3) SRV6 WG 
+
+In each group, briefly point to the drafts or pending work that 
+interacts with your draft.  This purpose of this appendix is to provide a quick index for reviewers for your draft.  It will be removed prior to publication. 
 
 ## Version -04 
 The technical issues from -03 review remain.  Please address these 

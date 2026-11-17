@@ -2,15 +2,18 @@
 title: Informal Telechat Agenda
 description: Topics for the next IESG Informal Telechat
 published: true
-date: 2026-08-13T19:58:34.971Z
+date: 2026-11-15T21:55:21.558Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:46:23.149Z
 ---
 
-# Informal Telechat - August 27, 2026
+# Informal Telechat - December 10, 2026
 
 There **WILL** be a meeting on this date.
+
+
+
 
 > **Note to the community:** Unlike formal IESG telechats, informal IESG telechats are not generally open to the public. (The Webex URL and meeting calendar are available below purely as a service to the IESG.)
 {.is-info}
@@ -30,54 +33,47 @@ Meeting password: 12345
 ## Regrets
 
 
-
 ## Agenda
 
 > When you add an agenda item, please change the line at the top to indicate that there *is* a meeting scheduled (remove "**NOT**"). Please enter agenda items in the appropriate sections below.
 Note that this page is public.
 {.is-info}
 
-
-
 ### Administrivia
 
 ### Document Discussions
 
 
-
 ### Management Issues
 
+- Joint discussion with IAB: BOFs and Charter reviews
+    - What is the clear boundary between shepherding a BOF and being seen as a proponent?
+    - Right time for the IAB shepherd to get involved with the BoF prep
+    - How can IAB members best support ADs in BoF process?
+    - Should we have more joint discussions about BoFs and bringing new work?
+    - What does the IESG want from the IAB in BOF reports and charter reviews?
 
-1. [Update](https://docs.google.com/document/d/1ZEv89umNXWU6JlxXbQiYo5teLdeUwPjDvjM9l2E3iaY/edit?tab=t.0) to "Guidance on Area Director Sponsoring of Documents" (Roman, Mahesh)
-
-2. [Guiance to directorate reviewers about using tools for reviews](https://docs.google.com/document/d/1myapEKv6DmGHZwy9xxgPGpX7E84G4S0gv9i_Co0_WIQ/edit?usp=sharing)  (Deb, Tommy)
 
 ### WG News 
 
-
-
 ### Documents to Swap 
+
+
 
 ### Executive Sessions
 
 
-    
-1. Appeal processing (Roman)
-
 ### AOB
-1. Liaison statements to IAB and IESG (Dhruv)
 
 
 ### Parking Lot
 Please list topics in this section that could use discussion but may not warrant a meeting on their own. 
 
-*  Ombudsteam Requests Update to IESG Statement on Harassment (invite ombudsteam to join)
-
 
 ### Topics Deferred Till Next Informal 
 * IESG review of liaison statement drafts (4052bis & 4053bis), hopefully with Suresh present for discussion [raised at IETF 126 joint meeting]
 * `code` formatting in drafts, `.txt` output and doc production (Inacio)
-
+* Can I know a little more context on ROCEv2: what might or might not be in scope of IETF specs/guidance, or pointers to help me frame this. (Gorry) - Prefer before IETF127.
 -------
 
 

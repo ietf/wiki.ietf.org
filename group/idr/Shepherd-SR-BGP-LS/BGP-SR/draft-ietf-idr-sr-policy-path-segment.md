@@ -2,7 +2,7 @@
 title: Shepherd Reviews (draft-ietf-idr-sr-policy-path-segment)
 description: Shepherd draft-ietf-idr-sr-policy-path-segment
 published: true
-date: 2026-01-05T22:07:36.315Z
+date: 2026-10-18T22:37:39.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-25T01:30:56.613Z
@@ -16,10 +16,16 @@ dateCreated: 2025-02-25T01:30:56.613Z
 **Type:** Proposed Standard 
 **status:** WG Draft  
 **adopted:**  [draft-li-sr-policy-path-segment-01](https://datatracker.ietf.org/doc/draft-li-idr-bgp-ls-sr-policy-path-segment/)
-**current version:** -14
+**current version:** -15
 **Early Allocation**: yes 
-**implementations:** 1 (Huawei in VRP)   
+**implementations:** 1 (Huawei in VRP, Cisco IOSxr) (??)    
 **bgp-ls draft:** [draft-ietf-idr-bgp-ls-sr-policy-path-segment](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)
+
+
+## Review -15 and -16 
+**draft:** [draft-ietf-idr-sr-policy-path-segment-15](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-15)
+**status:** Needs Appendix with Cross-WG Summary (Spring, PCE, and SRv6OPs). 
+
 
 ## Review -14
 **draft:**  [draft-ietf-idr-sr-policy-path-segment-14](https://datatracker.ietf.org/doc/html/draft-ietf-idr-sr-policy-path-segment-14)

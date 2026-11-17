@@ -2,22 +2,22 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-08-24T09:03:32.974Z
-tags: 
+date: 2026-11-16T13:41:12.312Z
+tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
 ---
 
 The Internet Engineering Task Force (IETF) is holding a hackathon to encourage developers and subject matter experts to discuss, collaborate, and develop utilities, ideas, sample code, and solutions that show practical implementations of IETF standards.
 
-* :spiral_calendar: **When**: 14-15 November 2026 (Saturday - Sunday)
+1. * :spiral_calendar: **When**: 14-15 November 2026 (Saturday - Sunday)
 * :hotel: **Where**: Hilton San Francisco Union Square
-* :cityscape: **Room**: TBD
+* :cityscape: **Room**: Continental 4
 {.grid-list}
 
 **Sign up for the Hackathon**
-* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/)
-* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/)
+* [Onsite registration](https://registration.ietf.org/127/new/hackathon_onsite/hackathon_only/standard/)
+* [Remote registration](https://registration.ietf.org/127/new/hackathon_remote/hackathon_only/standard/)
 {.links-list}
 
 **View the list of registered**:
@@ -31,13 +31,13 @@ The IETF Hackathon is free to attend and is open to everyone. It is a collaborat
 
 ## Agenda 
 ***Subject to Change***
-Hackathon *(all times are GMT-4)*
+Hackathon *(all times are in PST/UTC-8)*
 
 ### Saturday, 14 November 
 
 * **09:30** : Room open for setup by project champions
 * **10:00** : Room open for all - pastries and coffee provided
-* **10:30** : Hackathon kickoff
+* **10:30** : Hackathon kickoff: [Meetecho](https://meetings.conf.meetecho.com/ietf127/?session=35922)
 * **10:45** : Form teams, see [Team Schedule](teamschedule)
 * **12:30** : Lunch provided
 * **15:30** : Afternoon break - snacks provided
@@ -50,23 +50,10 @@ Hackathon *(all times are GMT-4)*
 * **09:30** : Room opens - pastries and coffee provided
 * **12:30** : Lunch provided
 * **13:30** : Hacking stops, prepare brief presentation of project
-* **14:00** : Project results presentations
+* **14:00** : Project results presentations: [Meetecho](https://meetings.conf.meetecho.com/ietf127/?session=35923)
 * **16:00** : Hackathon ends
 * **17:00** : Tear down complete
 {.grid-list}
-
-Related activities before and after the Hackathon weekend
-
-## Hackdemo Happy Hour
-  * Share your Hackathon project with the IETF community
-  * Monday, 16 November, Time: 19:00 - 20:00, Room: **TBD**
-  * View the [schedule](hackdemo) or reserve space for your team/project
-    * Reservations for space must be made by 13:00, Monday 16 November
-
-## Shared Workspace
-  * Space for groups to gather and collaborate on running code 
-  * Monday - Friday, 16-20 November, Room: **TBD** 
-  * View the [schedule](codelounge) or reserve space for your team/project
 
 **NOTE:** You will need an [IETF Datatracker](https://datatracker.ietf.org) account to login to the Hackathon Meetecho sessions. 
 
@@ -81,14 +68,28 @@ If you received the email but the link to create an account has expired, please 
 3. Enter the email address that you registered with for the Hackathon
 4. Follow the instructions in the email you receive
 
+
+Related activities before and after the Hackathon weekend
+
+## Hackdemo Happy Hour
+  * Share your Hackathon project with the IETF community
+  * Monday, 16 November, Time: 18:30 - 19:30, Room: East Lounge
+  * View the [schedule](hackdemo) or reserve space for your team/project
+    * Reservations for space must be made by 13:00, Monday 16 November
+
+## Shared Workspace
+  * Space for groups to gather and collaborate on running code 
+  * Monday - Friday, 16-20 November, Room: Continental 2 
+
+
 ## Presentation and Meeting Materials
 
 * You can share the code you're working on through the [IETF Hackathon GitHub](https://github.com/ietf-hackathon), or via the links provided in the project descriptions below.
     * Request to be added to IETF GitHub organization by sending your GitHub ID to (hackathon-chairs@ietf.org).
-* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/126/session/33500/propose_slides) at 14:00-16:00.
+* Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/127/session/35923/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
 * The Hackathon Results presentations from Sunday, 14:00-16:00, are available on Datatracker:
-    * https://datatracker.ietf.org/meeting/127/session/hackathon#autoid-16
+    * https://datatracker.ietf.org/meeting/127/session/hackathon#autoid-19
 
 ## Participant Preparation and Prerequisites
 ### Project Teams and Champions
@@ -127,16 +128,13 @@ If you received the email but the link to create an account has expired, please 
      
 ### Project Presentations
   * All teams have the opportunity to present what they did at the end of the Hackathon.
-  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/127/session/33500/propose_slides) at 14:00-16:00.
+  * Hackathon project result presentations should be uploaded to Datatracker under the specific session [Hackathon Results Presentations](https://datatracker.ietf.org/meeting/127/session/35923/slides) at 14:00-16:00.
     * To upload your presentation, you must have a Datatracker account and be logged in.
     * DO NOT WAIT until just before the start of the Hackathon project presentations to upload your presentation, as it may be lost in the chaos.
 
 ## Network
 
 **Access to the IETF network**
-The NOC team has an ongoing experiment that allows you to join the IETF network remotely as well as at an IETF meeting venue. 
-
-* [How to Instructions](/meeting/125/hackathon/hacknet_instructions)
 
 Requests for networking capabilities beyond wireless access to the IETF network (e.g., wired ports, L2 access, prefix delegation) can be sent to <support@ietf.org>. 
 All requests are addressed on a best effort basis. Advance notice is appreciated and improves the odds of your request being fulfilled.
@@ -169,6 +167,34 @@ All Hackathon participants are free to work on any code. The rules regarding tha
 
 For inspiration and examples of previous Hackathon projects see the [previous Hackathon page](/meeting/125/hackathon#projects-included-in-hackathon).
 
+----
+
+### RESTful Provisioning Protocol (RPP)
+- **Champions**
+Maarten Wullink maarten.wullink@sidn.nl
+Pawel Kowalik pawel.kowalik@denic.de
+
+- **Project Info**
+The RPP working group is focused on designing a new RESTful protocol for registering objects in a shared registry, e.g. xxTLD registries. This will result in a series of specifications known collectively as the RESTful Provisioning Protocol (RPP).
+
+- **Hackathon Plan**
+	- Discuss current drafts
+  - Validate current and future RPP work 
+  - Develop running code based on latest version of drafts
+  - Other interesting ideas
+  
+- **Related documents**
+
+- [WG Charter](https://datatracker.ietf.org/wg/rpp/about/)
+- [Requirements](https://datatracker.ietf.org/doc/draft-ietf-rpp-requirements/)
+- [Architecture](https://datatracker.ietf.org/doc/draft-ietf-rpp-architecture/)
+- [Data Object](https://datatracker.ietf.org/doc/draft-ietf-rpp-data-objects/)
+- [Core](https://datatracker.ietf.org/doc/draft-ietf-rpp-core/)
+- [JSON](https://datatracker.ietf.org/doc/draft-ietf-rpp-json/)
+- [JSContact Profile](https://datatracker.ietf.org/doc/draft-wullink-rpp-jscontact-profile/)
+
+---
+
 ### Identifier Locator Network Protocol (ILNP)
 
   - Saleem Bhatti saleem@st-andrews.ac.uk
@@ -186,18 +212,1577 @@ For inspiration and examples of previous Hackathon projects see the [previous Ha
   - draft-bhatti-ilnp-nonce
   - The basic approach is to deprecate the concept of an IP Address and replace it with addressing using separate Locator and Identifier values, a pairing of which forms an Identifier-Locator Vector (ILV). Our ongoing research is based on an implementation of ILNP on IPv6 using FreeBSD.
 
-### Second Project Here (replace me)
+---
+
+### <a id="Thread"></a>Low-Power Wireless IPv6 Networking with Thread *
+- **Champion**
+Stuart Cheshire &lt;cheshire@apple.com&gt;
+
+- **Thread Overview**
+
+  [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol)) is a specification for how to carry IPv6 datagrams over a self-configuring mesh of low-power [IEEE 802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) wireless links. [Stuart Cheshire](https://www.threadgroup.org/thread-group#board&officers:~:text=Stuart%20Cheshire) gave a [brief presentation about Thread](https://www.youtube.com/watch?v=DplqxrH6Xbg&t=2148s) at the [IETF 119 IAB Open meeting in Brisbane](https://datatracker.ietf.org/meeting/119/proceedings#iab). The [Thread specification](https://www.threadgroup.org/support#specifications) is developed and published by the [Thread Group](https://www.threadgroup.org/). There are several independent implementations of Thread, the main one being the [OpenThread open source project](https://openthread.io/). This Hackathon event is open to all — Thread Group membership is *not* required, though of course Thread Group members are also welcome to participate.
+
+- **Participants and Project Info**
+  - To avoid taking up too much space on the main Hackathon page, Thread participants and projects are listed separately on the [Thread Projects page](/meeting/127/hackathon/thread-projects).
+
+
+---
+### Low-Latency, Low-Loss, Scalable Throughput (L4S) and Accurate ECN Interop
 - **Champions**
-name and email
+Greg White (g.white@cablelabs.com)
 - **Project Info**
-project description
+L4S and AccECN enable applications to receive fine-grained congestion feedback from the network that allows them to achieve full link utilization, ultra-low latency, ultra-low latency variation, and near-zero packet loss.
+This Interop Event will bring together different congestion control implementations and different network implementations of L4S, TCP Accurate ECN, QUIC AckECN, WebRTC, etc. to test RFC/draft compliance, interoperability, and performance in various conditions.
+- **Related RFCs**
+RFC9330
+RFC9331
+RFC9332
+RFC9768
+RFC8888
 
 ---
 
+### 802.11 MAC Performance as a Function of Active IP Devices
+
+* **Champion**
+  * Bob McMahon, Umber Networks, bob.mcmahon@umbernetworks.com
+
+* **Project Info**
+  * This project will measure 802.11 MAC performance as a function of the number of active IP devices and offered load.
+  * We will use a controlled 802.11 test environment in which the number of actively contending devices can be varied while independently observing both MAC behavior and application/transport performance.
+  * The experimental system includes a controlled MAC load generator with up to 45 Wi-Fi clients, a programmable 2x2 MIMO RF test rig, passive Umber Sonde monitors, a conventional Wi-Fi AP, an Umber UAX-8 system, and synchronized iperf2 measurement endpoints.
+  * Initial measurements will examine aggregation, contention, retries, useful airtime, throughput, latency, and responsiveness as the number of active devices increases.
+  * We will correlate endpoint measurements with independent observations of activity on the air and repeat experiments under controlled RF conditions.
+  * Once the MAC behavior is characterized, we will explore the effects on congestion control, ECN/L4S, and user-perceived delay.
+  * Additional experiments will compare conventional distributed Wi-Fi operation with centralized coordination using the Umber architecture under the same RF conditions, active-device population, and offered load.
+  * Participants are encouraged to suggest experiments, examine the measurements, bring congestion-control implementations, and use their own devices as measurement endpoints.
+  * MAC rig: [https://www.umbernetworks.com/mac-rig-reference.html](https://www.umbernetworks.com/mac-rig-reference.html)
+  * Fi-Wi problem statement: [https://www.umbernetworks.com/ietf-fiwi-problem-statement.html](https://www.umbernetworks.com/ietf-fiwi-problem-statement.html)
+  * iperf2 Android client: [Google Play](https://play.google.com/store/apps/details?id=com.rjmcmahon.iperf2client)
+
+---
+
+### Independent time anchoring
+
+- **Champions**
+
+  * Jonna Fassbender, Umarise, j.fassbender@umarise.com (remote)
+
+- **Project Info**
+
+  * This project is about proving that a given digest existed no later than a given point in time, and verifying that claim offline, without contacting the party that produced it and without trusting a block explorer.
+  * Draft: [draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)
+  * What we are looking for is implementations written from the document alone. Test vectors are in Appendix D; the negative ones are in D.6. If your implementation accepts the positive vectors and rejects the negative ones, the specification did its job. If you had to guess somewhere, or two readings of a step were both defensible, that is the result we most want to hear.
+  * Note that a proof is only complete once the anchoring transaction is confirmed, so a live run spans at least one block interval. The vectors let you test verification without waiting.
+  * Any language. A Bitcoin full node is useful but not required; a validated header set is enough.
+
+---
+### Addressing Multi-Agent Delegation: TTTPS & AUDIT Open Testbed *
+
+- **Champions**
+  * Heime Jorgen, Kenosian, <heime.jorgen@proton.me>
+
+- **Project Info**
+  * **Objective:** Demonstrating **Hardware Temporal Attestation** (TTTPS 180-octet PoT Core + AWS Nitro PTP) and **Fail-Closed Replay Ledger** (Amazon MemoryDB for Redis) for high-speed, asynchronous multi-agent delegation.
+  * **AUDIT BoF Support:** Providing a "Running Code" Open Conformance Testbed and **K-Lean Formal Verification API** in support of the **AUDIT (Agent Use of Delegation and Interaction Traceability) BoF**.
+  * **Formal Verification (K-Lean Engine):**
+    * Live Conformance API: `https://kpp.kenosian.com/api/verify`
+    * Proof Vault & UI: `https://kpp.kenosian.com/k-lean.html` | `https://kpp.kenosian.com/kenosian-vault`
+    * Evaluates 5 Formal Invariant Fixtures: `BoundedParse`, `InvalidIngressNoMutation`, `ValidIngressMayCommit`, `AtomicReplayAtMostOneCommit`, and `DropHasNoDisposition`.
+  * **Specifications:**
+    * [draft-helmprotocol-tttps-12](https://datatracker.ietf.org/doc/draft-helmprotocol-tttps/)
+    * [draft-helmprotocol-confidence-02](https://datatracker.ietf.org/doc/draft-helmprotocol-confidence/)
+    * [draft-helmprotocol-deepspace-02](https://datatracker.ietf.org/doc/draft-helmprotocol-deepspace/)
+  * **Repositories:**
+    * OpenTTT Core Engine: [https://github.com/Helm-Protocol/OpenTTT](https://github.com/Helm-Protocol/OpenTTT)
+    * OpenTTT MCP SDK: `@helm-protocol/ttt-mcp`
+  * **Looking for:** Participants interested in AI agent security, RATS CMW / SCITT receipt logging, or testing synthetic time-skew and replay attacks against O(1) admission gates.
+
+---
+### OpenNHP: Network-infrastructure Hiding Protocol (NHP) *
+
+- **Champions**
+
+  **Benfeng Chen**  
+  benfeng@gmail.com  
+  support@opennhp.org
+
+  *(Newcomers, security researchers, and AI-assisted testers are welcome — remote participation supported.)*
+
+- **Project Info**
+
+  **OpenNHP** is an open-source implementation of the **Network-infrastructure Hiding Protocol (NHP)**, a Zero Trust protocol that provides **authenticate-before-connect** semantics: protected resources stay invisible to the network until a client proves its identity cryptographically.
+
+  **An AI vulnerability storm is coming.** AI systems can now find new vulnerabilities, write exploits, and scan the entire Internet faster than ever. Traditional security (patching, signatures, and detection-and-response) is too slow to keep up: an exposed service can be found and attacked within minutes of a new flaw being discovered. We believe the most effective defense is not to out-race AI attackers but to **hide from them**. If an attacker cannot see a service, it cannot scan, fingerprint, or exploit it, no matter how capable the attacker is.
+
+  At IETF 126, independent testers, including an autonomous AI attacker, found no way to reach protected services without authentication. Passive reconnaissance did show that DNS and Certificate Transparency logs can reveal parts of the deployment topology. For IETF 127 we have hardened the public demo and invite participants, human and AI, to try again.
+
+- **What's new since IETF 126:**
+  - `server.opennhp.org` is now fully invisible — no HTTPS surface; it only answers valid NHP knocks
+  - `ac.opennhp.org` enforces access with **eBPF/XDP**, dropping unauthorized packets at the network driver before the Linux TCP/IP stack
+  - New login-portal integration demo at `demo.opennhp.org`
+  - JavaScript SDK agent and NHP-Relay (HTTP-to-NHP translation) for browser-based clients
+
+- **Challenge objectives include:**
+  - Discovering or accessing protected services without authentication
+  - Pointing AI and autonomous agents at NHP-protected infrastructure to see how far they get
+  - Passive reconnaissance: CT log and DNS enumeration, metadata correlation
+  - Active scanning of hidden ports, IP addresses, and domain names
+  - Bypassing authentication or authorization, including replay and knock-forgery attempts
+  - Testing DDoS and pre-authentication attack resistance of the eBPF/XDP data path
+  - Reviewing the protocol design against draft-opennhp-ztcpp-nhp
+  - Interoperability and performance testing
+
+- **Success criteria:**
+  - If you can discover or reach a protected resource without authenticating, we want to understand and fix the weakness.
+  - If you can't, your results add independent evidence that hiding is a practical defense against AI-driven attacks.
+  - Either way, we will publicly credit participants who share findings.
+
+- **Links:**
+  - **Call for Participation:** https://opennhp.org/blog/ietf-127-hackathon-call-for-participation/
+  - **Website:** https://opennhp.org/
+  - **Source Code:** https://github.com/OpenNHP/opennhp
+  - **Live Demo:** https://opennhp.org/demo/
+  - **Internet-Draft:** https://datatracker.ietf.org/doc/html/draft-opennhp-ztcpp-nhp
+  - **IETF 126 Results:** https://opennhp.org/blog/ietf-126-hackathon-results/
+
+---
+
+### AER-1: Verifiable AI Agent Execution Receipts *
+
+- **Champions**
+  - rambo (AI ops, Zambo) <rambo-ops@agentmail.to> (remote)
+  
+  - **Project Info**
+    - Draft: draft-zambo-aer1-11 — https://datatracker.ietf.org/doc/draft-zambo-aer1/
+  - AER-1 defines a verifiable receipt for AI agent executions: a tamper-evident record of what ran, what it touched, and what came out, with canonical JSON serialization and a conformance test-vector suite.
+    - What we are looking for is implementations written from the document alone, in new languages. Test vectors ship with the kit; if your implementation accepts the positive vectors and rejects the negative ones, the specification did its job. If you had to guess somewhere, that is the result we most want to hear.
+  - Any language. Independent implementations already exist in TypeScript, Python, Node.js, Java, Perl, Rust, Go, C#, and Swift; open lanes include Ruby, PHP, Lua, Elixir, Zig, Dart, Scala, and Haskell.
+  - Kit (conformance runner + vectors): https://gitlab.com/rambozambodotdev/zambo
+  - Live demo, no signup: https://rambozambodotdev.gitlab.io/aer1-hub/try/
+
+---
+
+### Validate YANG-Push to Message Broker End-To-End Data Processing Chain
+- **Champion(s)**
+Thomas Graf (thomas.graf @ swisscom.com)
+Leonardo Rodoni  (leonardo.rodoni @ swisscom.com)
+Maxence Younsi (maxence.younsi4 @ swisscom.com)
+Ahmed Elhassany (ahmed.elhassany @ swisscom.com)
+Benoit Claise (benoit @ everything-ops.net)
+Paolo Lucente  (paolo @ pmacct.net)
+Vivekananda Boudia (vivekananda.boudia @ insa-lyon.fr)
+Pierre Francois (pierre.francois @ insa-lyon.fr)
+Qin Wu (bill.wu @ huawei.com)
+Rob Wilton (rwilton @ cisco.com)
+Daniel Voyer (davoyer @ cisco.com)
+Scott Huang (scohuang @ cisco.com)
+Muthumayan Madhayyan (muthu @ cisco.com)
+Deepya Mandadi (dmandadi @ blueplanet.com)
+Jérémie Leska (jeremie.leska @ 6wind.com)
+Irfan Mohammad (irfan @ arrcus.com)
+Per Andersson (per.ietf @ ionio.se)
+Mohamed Kheir (mkheir @ singlestore.com)
+Helmar Becker (hellmar.becker @ clickhouse.com)
+
+- **Draft Specifications Message Broker**
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-yang-message-broker-integration
+https://datatracker.ietf.org/doc/html/draft-ietf-nmop-message-broker-telemetry-message
+https://datatracker.ietf.org/doc/html/draft-netana-netmod-yang-anydata-validation
+
+- **Draft Specifications YANG-Push**
+https://datatracker.ietf.org/doc/html/rfc8639
+https://datatracker.ietf.org/doc/html/rfc8641
+https://datatracker.ietf.org/doc/html/rfc9196
+https://datatracker.ietf.org/doc/html/rfc10035
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-notif-envelope
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yang-notifications-versioning
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-udp-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-distributed-notif
+https://datatracker.ietf.org/doc/html/draft-ietf-netconf-yp-transport-capabilities
+
+- **Project Info**
+https://www.network-analytics.org/yp/, validate and verify
+
+- 6 YANG-Push Publishers
+- 3 YANG-Push Receivers
+- 3 YANG-Push Network Telemetry Message
+- 2 YANG Message Broker Producer
+- 1 Schema Registry
+- 3 YANG Message Broker Consumers
+
+implementation in the area of YANG data schema validation and obtaining latest YANG-Push subscription state. Subscribe to YANG data on YANG-Publisher, obtain and register all YANG modules necessary to build YANG schema tree, register YANG schemas to Schema Registry and verify YANG notifications against scheme trees and produce and consume from Message Broker.
+
+- **Repositories**
+https://github.com/network-analytics/ietf-network-analytics-document-status/tree/main/127/Hackathon
+https://github.com/network-analytics/yang-kafka-integration
+https://github.com/network-analytics/NetCalyx/releases/tag/v0.3.0
+https://github.com/NetGauze/NetGauze/releases/tag/v0.14.0
+https://github.com/pmacct/pmacct
+https://github.com/CESNET/libyang/releases/tag/v5.4.9
+
+
+---
+### AINETOPS — Network-Management Agent Interoperability
+
+- **Champions**
+Sun Qiong (sunqiong@chinatelecom.cn)
+Fu Yu (fuy44@chinatelecom.cn)
+Song Xin (songx18@chinatelecom.cn)
+Yu Yunfu (Yuyf12@chinatelecom.cn)
+Luo Runze (luorz4@chinatelecom.cn)
+Roland Schott (Roland.Schott@telekom.de)
+Nirali Vasoya (nvasoya@cisco.com)
+Scott Huang (scohuang@cisco.com)
+Muthumayan Madhayyan (muthu@cisco.com)
+David Chuck (dachuck@cisco.com)
+Dan Voyer (davoyer@cisco.com)
+
+- **Project Info**  
+Connect an external capacity-planning agent to an agentic network-management platform to identify best paths that meet capacity constraints. Using A2A for task exchanges and evaluating MCP or a platform API for data access, we will test skill-interface discovery, input/output validation, and exchange of results with supporting evidence. The goal is to demonstrate interoperability between independent implementations and document where existing mechanisms suffice or additional shared definitions are needed. Testing will use a controlled environment without production network changes.
+
+- **Repos**
+[AINETOPS proposal](https://github.com/dan-voyer/IETF/tree/main/AINETOPS-proposal) - working text describing the operational interoperability problems
+[Schema Interfaces for Network Management Agent Skills](https://github.com/agentic-network-management/agent-schema-interfaces) - working draft for the schema-interface
+
+---	
+### SW103K Layer 2 Compression and Decompression Protocol Interop
+
+- **Champions**
+Katerega Micheal (chief3@chazahgroup.org)
+
+- **Project Info**
+SW103K is a Layer 2 compression and decompression protocol designed to enable efficient data representation for transmission and storage while preserving the ability to reconstruct the original data when required. The protocol supports diverse applications and use cases without being limited to a specific industry or deployment scenario.
+
+This Interop Event will bring together SW103K implementations and test environments to evaluate interoperability, compression and decompression correctness, data integrity, and performance under different data and operating conditions. Initial testing will focus on two use cases: bandwidth reduction during data transmission and storage reduction through compressed-data persistence, with decompression and restoration performed only when explicitly requested. Testing will measure compression efficiency, data size reduction, throughput, processing overhead, and accurate reconstruction of the original data.
+
+- **Related RFCs**
+RFC894
+RFC1122
+RFC2544
+RFC9293
+---
+### EarlyAttestationBleed, EarlyAttestationTschüss (EAT) and co: CVE-2026-100835 of CVSS 9.1 and 41+ other CVEs of up to expected CVSS 10.0 on Early Attestation
+
+- **Champions (Remote, please contact by email)**
+
+	- Muhammad Usama Sardar (muhammad_usama.sardar at tu-dresden.de)
+  - Viacheslav Dubeyko
+  - Jean-Marie Jacquet
+  - Songbo Bu
+  - (Please feel free to add your name here)
+
+- **Potential collaboration with other projects/champions**
+	- TBA
+
+- **Draft vulnerable to CVEs**
+ >  - [Early attestation](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
+
+- Current analysis
+> Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/)
+
+- **Project Motivation**
+
+> #### EarlyAttestationTschüss (EAT)
+> 
+> - [al-ice.ai](https://al-ice.ai/posts/2026/10/privasys-ra-tls-five-cves-channel-binding-self-disclosure/)
+> 
+> ##### CVE-2026-100835 
+> ##### CVE-2026-108362
+> 
+> 
+> - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-11-0-fixes/)
+> - [firewallchronicle](https://firewallchronicle.com/topic/vulnerabilities/privasys-ra-tls-clients-identity-validation-flaw/)
+> - [Phish Herald](https://phishherald.com/topic/vulnerabilities/orgs-face-impersonation-risk-privasys-ra-tls/)
+> 
+> ##### CVE-2026-108265
+> 
+> 
+> - [circuitobserver](https://circuitobserver.com/section/vulnerabilities/9-1-cve-allows-relay-attack-on-privasys-enclave/)
+> - [techwirebeat](https://techwirebeat.com/topic/vulnerabilities/organisations-at-risk-privasys-sgx-apps-face/)
+> 
+> ##### CVE-2026-108266
+> 
+> 
+> - [honeypotdaily](https://honeypotdaily.com/category/vulnerabilities/can-attackers-impersonate-privasys-rustls/)
+> - [techsecobserver](https://techsecobserver.com/section/vulnerabilities/privasys-rustls-v0-8-1-patches-cve-2026-108266-to/)
+> - [techsecheadlines](https://techsecheadlines.com/section/vulnerabilities/privasys-rustls-ra-tls-binding-flaw-cve-2026/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/orgs-at-risk-critical-privasys-rustls-bug/)
+> - [datasaferadar](https://datasaferadar.com/section/vulnerabilities/privasys-rustls-quote-relay-flaw-bypasses/)
+> 
+> ##### CVE-2026-108267
+> 
+> 
+> 
+> - [vectorupdate](https://vectorupdate.com/news/vulnerabilities/update-privasys-go-to-v0-5-1-to-stop-attackers/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/privasys-go-flaw-lets-attackers-relay-attestation/)
+> - [redteamtribune](https://redteamtribune.com/topic/vulnerabilities/privasys-go-quote-relay-bug-bypasses-attestation/)
+> - [darkwebdispatch](https://darkwebdispatch.com/topic/vulnerabilities/patch-privasys-go-before-v0-5-1-to-block-critical/)
+> 
+> ##### CVE-2026-108268
+> 
+> 
+> - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-enclave-os-tls-quote-relay-bug-bypasses/)
+> - [malwarechronicle](https://malwarechronicle.com/category/vulnerabilities/update-privasys-enclave-os-now-to-block-critical/)
+> - [bitshieldnews](https://bitshieldnews.com/section/vulnerabilities/9-1-cvss-privasys-enclave-os-critical-flaw/)
+> 
+> ##### CVE-2026-108269
+> 
+> 
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
+> - [vulnpost](https://vulnpost.com/news/vulnerabilities/privasys-ra-tls-relay-flaw-bypasses-security-in/)
+> - [netsecobserver](https://netsecobserver.com/news/vulnerabilities/privasys-ra-tls-critical-relay-vulnerability/)
+> - [datasafetimes](https://datasafetimes.com/topic/vulnerabilities/cvss-9-1-privasys-ra-tls-clients-0-5-0-vulnerable/)
+> - [sandboxgazette](https://sandboxgazette.com/c/vulnerabilities/how-privasys-ra-tls-clients-let-attackers-spoof/)
+> - [cloudsecpulse](https://cloudsecpulse.com/c/vulnerabilities/organizations-at-risk-critical-privasys-ra-tls/)
+> - [redteamlog](https://redteamlog.com/category/vulnerabilities/privasys-ra-tls-fixes-enclave-session-binding/)
+> 
+
+
+> #### EarlyAttestationBleed
+> 
+> - [Freenode](https://freenode.net/article/early-attestation-bugs-crack-cocos-ai-and-contrast-tls-claims)
+> - (German) [Cybersecurity news (CVE-2026-92701)](https://cybersecurity-news.de/cve-2026-92701-trusted-execution-environments-0-8-2/)
+> - (German) [Cybersecurity news (CVE-2026-92702)](https://cybersecurity-news.de/cve-2026-92702-cocos-ai-0-8-2/)
+> - (Chinese) [Security 114](https://www.anquan114.com/archives/7429)
+> - [Flashbots](https://collective.flashbots.net/t/earlyattestationbleed-paper-review/6054)
+> 
+> ##### CVE-2026-100833
+> 
+> - [America's Cyber Defense Agency (CISA)](https://www.cisa.gov/news-events/bulletins/sb26-271)
+> - [Alan Turing Institute](https://github.com/alan-turing-institute/cyber-threat-observatory/blob/main/reports/2026-09-27/TIER_3_CVE-2026-100833.md)
+> - [Offseq](https://radar.offseq.com/threat/contrast-edgelesssyscontrast-versions-1140-before-1231-generate-runtime-policies-that-fail-to-detect-d602b2a9f5df6321)
+> - [The Hacker wire](https://www.thehackerwire.com/vulnerability/CVE-2026-100833/)
+> - [CVE Brief](https://cvebrief.com/cve/cve-2026-100833/)
+
+> #### Intra-handshake.fail
+   > - https://www.theregister.com/security/2026/07/04/confidential-computings-trust-mechanism-is-broken-the-fix-may-not-exist/5266056
+   > - https://www.scworld.com/brief/confidential-computings-remote-attestation-protocol-may-have-fundamental-flaw
+
+
+- **Implementations vulnerable to CVEs**
+> - [Meta’s Private Processing for WhatsApp](https://ai.meta.com/static-resource/private-processing-technical-whitepaper)
+> - [Edgeless Systems Contrast](https://github.com/edgelesssys/contrast)
+
+- **Project Background**
+   > EarlyAttestationTschüss (EAT) https://www.researchgate.net/publication/417343302_EarlyAttestationTschuss_EAT
+   > Code under Apache-2.0 License: https://github.com/muhammad-usama-sardar/intra-handshake.fail
+   > Intra-handshake.fail: https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS
+   > EarlyAttestationBleed: https://www.researchgate.net/publication/414529199_EarlyAttestationBleed_Three_Critical-severity_Vulnerabilities_of_CVSS_90_in_Confidential_Computing
+
+
+- **Project Info**
+
+  - 2 fundamental ways to combine attestation in TLS:
+    - Early (intra-handshake) attestation
+    - Standard (post-handshake) attestation: [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-expat/)
+  - Complicated Hybrids (Early + Standard attestation): [Internet draft](https://datatracker.ietf.org/doc/draft-fossati-seat-early-attestation/)
+- **Hackathon plan**
+  	- Discuss the nits of [relay attacks](https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS)
+    - Discuss open issues
+	    - What is the "long-term identity" of the CC workload? How is "long-term identity" assigned to the CC workload? Which entity supplies this "long-term identity"? How is that Identity Supplier trusted?
+		- How is CA-certified Long-Term Key (LTK) injected in the Confidential Computing workload in the first place?
+  - We aim to seek collaborators (knowledgeable about at least one of the following: TLS, remote attestation, formal methods or confidential computing) who will join us in this project. We also welcome reviewers who can give us feedback on the draft. If you are interested, please contact by email. 
+  - Tool for formal analysis: We currently use ProVerif but other tools are very welcome.
+      
+- **Background on Diversion Attacks**
+
+  - [Identity crisis/diversion attacks](https://www.researchgate.net/publication/398839141_Identity_Crisis_in_Confidential_Computing_Formal_Analysis_of_Attested_TLS)
+  - [Identity crisis repo](https://github.com/CCC-Attestation/formal-spec-id-crisis)
+  
+- **Background on Relay Attacks**
+  - [RIPE video](https://ripe93.ripe.net/programme/meeting-plan/sessions/137/GJXMGP/#video)
+  - IEPG [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-iepg-sessa-05-intra-handshakefail-cve-2026-33697-00) and [video](https://youtu.be/g8q_u19vXzk?t=4404) at IETF 126
+  - Further slides and videos in this [draft](https://datatracker.ietf.org/doc/draft-intra-handshake-fail/), more specifically [here](https://www.ietf.org/archive/id/draft-intra-handshake-fail-61.html#section-20.1.1).
+  - [Wiki page](https://github.com/EuroProofNet/ProgramVerification/wiki/AttestedTLS)
+
+---
+### AI2II: AI-Assisted Protocol Implementation & Interoperability
+
+- **Champions**
+  - Alexander Pelov (IMT Atlantique) — alexander.pelov@imt-atlantique.fr
+  - Ivaylo Petrov (Google) — ivaylopetrov@google.com
+  
+- ** Supporters **
+  - Marco Tiloca (RISE) — marco.tiloca@ri.se 
+  - Rikard Höglund (RISE) — rikard.hoglund@ri.se 
+
+- **Project Info**
+
+-  **Bring an Internet-Draft. Build with AI. Test interoperability!**
+
+  AI2II (AI-to-Implementation-to-Interop) explores how AI coding agents can accelerate protocol implementation, verification, and interoperability testing.
+
+  The goal is pragmatic: **produce running code, test it against independent implementations, identify problems, and provide feedback to IETF draft authors.**
+
+-  **What can you do?**
+  - **Port:** Take an existing implementation and its draft, and port it to another language.
+  - **Implement:** Start from an Internet-Draft and build a new implementation using AI coding agents.
+  - **Extend & Fix:** Add protocol features, discover bugs, and generate regression tests.
+  - **Interop:** Test independent implementations against each other and investigate failures.
+
+
+-  **A framework to get started**
+
+  We bring an existing open-source multi-agent framework providing separate implementation and verification agents, automated tests, interoperability checks, and structured feedback.
+
+  The framework is a **starting point, not a prescribed methodology**. Bring your own coding agents, models, and workflows. The objective is working implementations, not promoting a particular tool.
+
+
+-  **Learning from the experience**
+
+
+  Alongside the code, we aim to document the approaches used, including tools, models, workflows, successes, failures, and human interventions. These experiences will contribute to a shared **AI-Assisted Protocol Engineering Cookbook** to help the IETF community learn what works.
+
+
+- **Candidate experiments**
+  - **WIMSE:** Run interop of several supporting implementations.
+  - **OSCORE Multicast Notifications:** Port an existing C implementation and test interoperability. ( https://github.com/apelov/coap-multicast-notifications ).
+  - **ICMPv6-SEC:** Implement experimental QUIC timer adaptation and evaluate it in a high-delay network testbed. 
+  - **CORECONF / SCHC:** Generate implementations and tests for YANG/CBOR-based management.
+  - **Your own Internet-Draft or implementation!**
+
+
+-  **Expected outcomes:** Running code, test vectors, interoperability results, bug fixes, feedback to draft authors, and reusable lessons learned.
+
+
+- **Good for newcomers:** Yes — examples and guidance will be available.
+
+
+-  **Repository:** : https://github.com/apelov/AI2II
+  
+---
+### ICON: AI Agent observability for Benchmarking and AI Guardrail Protection 
+
+- **Champions**
+Qin Wu (bill.wu@huawei.com)
+Giuseppe Fioccola (giuseppe.fioccola@huawei.com)
+King Daniel (d.king@lancaster.ac.uk)
+Luis M. Contreras (luismiguel.contrerasmurillo@telefonica.com)
+Swamynathan B (swamynathan.b.ietf@outlook.com)
+Shailesh Prabhu (shailesh.prabhu@nokia.com)
+Cheng Zhou (zhouchengyjy@chinamobile.com)
+Changhua Pei (chpei@cnic.cn)
+Justin Kintzele (jkintzele@jdieselny.com)
+
+- **Project info**
+
+- Develop an Architectural Framework for observability and benchmarking of a network diagnosis AI agent
+- Develop an Architectural Framework for observability, Intervention and Control of a network management agent. 
+- To validate the core components including the Agent system and observability, Benchmarking harness functionality
+- Demonstrate key applications (such as Campus Network Agent Benchmarking, AI Guardrail) which consume network management observability data
+- Develop Control & Enforcement Plane to implement Agent Control requirements and Agent Intervention Requirements
+- Showcase policy-driven observability, automated refusal of unsafe actions, and human-in-the-loop rollback and recovery controls during a 4K streaming session handover
+- Extend agent observability with runtime metrics (e.g., task/model/tool-call latency, errors, and token usage) and a common execution trajectory representation for failure diagnosis.
+- Prototype AgentOps anomaly detection and failure attribution to identify responsible agents and root-cause steps, providing evidence to support evaluation and guardrail intervention.
+
+
+- **Related Drafts**
+https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/
+https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/
+https://datatracker.ietf.org/doc/draft-contreras-bpm-ai-agent-benchmarking/
+https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/
+
+- **Repositories**
+https://github.com/billwuqin/Agent-Observability-Intervention-Control
+ 
+--- 
+### Agent memory integrity: does your agent's memory store notice tampering? 
+- **Champions**
+Yasha Khandelwal, yasha.khandelwal@tech4biz.io (remote, India UTC+5:30)
+- **Project Info**
+Bring the memory or checkpoint store your agent uses and leave with its own row on a public scorecard. The method, draft-khandelwal-bpm-agent-memory-integrity (BPM, joint BMWG/IPPM session at IETF 127), applies ten edits to a store beneath its own API: one record altered, a record deleted, records reordered, a forged record, a cross-context replay, a whole-store rollback, a restored copy of an erased record, and so on. It then reads back through the store's own API and records whether the store refused on read, served the edit and flagged it at a later audit, or served it as genuine. The open-source implementation, agmi (MIT; pip install agent-memory-integrity), has 39 published rows across 26 released stores, including LangGraph, Letta, Mem0, LlamaIndex, the OpenAI Agents SDK, Vertex AI Memory Bank and Bedrock AgentCore Memory.
+- **Hackathon Plan**
+Measure the stores participants bring. Write the one adapter class a new store needs. Compare detection points: read path versus later audit. Fold the weekend's results into the BPM presentation.
+- **Potential collaboration**
+Independent time anchoring (an anchor kept outside the store is the configuration that refuses rollback and resurrection in our measurements); AER-1 execution receipts; the AUDIT BoF; the Agent Evidence Conformance Matrix (Sankalp Gilda) and WEXP Appraisal Core (Mikhail Sergeev), both of which name this project on this page.
+- **What to bring**
+A laptop with Python 3.11 or later and a local instance of your store. File-based stores need no network at all. Install ahead of the day: pip install agent-memory-integrity (0.7.0 carries all ten edits).
+- **When**
+Remote, Saturday 14 November, 09:00 to 13:00 Pacific, on the Hackathon Zulip stream; check-ins at 09:15 and 11:30 Pacific. Email ahead for other hours.
+- **Links**
+Draft: https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/
+Code: https://github.com/tech4biz-yasha/agent-memory-integrity
+Scorecard: https://agentmemoryintegrity.org
+
+
+---
+### In Loving Memory of Dave Täht (1965-2025)
+- **Champions**
+Frank (Frantisek) Borsik frank@libreqos.com / frantisek.borsik@gmail.com
+- **Project Info**
+I want to meet people that used to work with Dave and/or want to learn more about his work inside/outside of IETF. I plan to bring stickers - LibreQoS, Dave's latest thing, as well as his signature "This Machine Kills Vogons" and a scrap book with photos ready for anyone willing to share a thought or two, or just sign in...will be in place as well:
+https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
+
+Dave was one of the instigators of the IETF AQM and Packet Scheduling working group, and not only the co-author of RFC8290 (FQ-CoDel) and a contributor to RFC8289 (CODEL), but also RFC7567 (IETF Recommendations Regarding Active Queue Management), RFC8034 (Active Queue Management (AQM) Based on Proportional Integral Controller Enhanced (PIE) for Data-Over-Cable Service Interface Specifications (DOCSIS) Cable Modems), RFC7928 (Characterization Guidelines for Active Queue Management (AQM), RFC7806 (On Queuing, Marking, and Dropping), and RFC8033 (Proportional Integral Controller Enhanced (PIE): A Lightweight Control Scheme to Address the Bufferbloat Problem). He also made contributions to the DOCSIS 3.1 standard.
+
+- **Repository**
+https://github.com/LibreQoE/LibreQoS/pull/684
+
+---
+### DNS Based Agent Discovery
+
+* Champions
+   * Lori Jakab (Cisco), [lojakab@cisco.com](mailto:lojakab@cisco.com)
+   * Jim Mozley (Infoblox), [jmozley@infoblox.com](mailto:jmozley@infoblox.com)
+   * Nic Williams (Infoblox), [nwilliams@infoblox.com](mailto:nwilliams@infoblox.com)
+   * Ingmar Van Glabbeek [ivanglabbeek@infoblox.com]
+(mailto:ivanglabbeek@infoblox.com)
+   * Daniel King (Lancaster University), [d.king@lancaster.ac.uk](mailto:d.king@lancaster.ac.uk)
+* Project Info
+   * Agent protocols such as MCP and A2A discover agents through documents fetched over HTTPS from a well-known URI, which assumes the client already knows a host name or a catalog. On a local network there is often neither.
+
+We have two projects for DNS-based agent discovery:
+
+One project implements draft-jakab-dawn-agent-discovery-mdns, which advertises agents with plain mDNS/DNS-SD: one service type, `_agents._tcp`, and one instance per agent protocol, named by the `proto` TXT key and optionally by a subtype (`_mcp._sub`, `_a2a._sub`). A handful of other TXT keys tell a client, before it connects, how to reach the endpoint, which logical agent it belongs to (`desc-ref`), and whether its cached description is still current (`desc-ref-digest`). The same keys are the subject of draft-blwm-dawn-common-discovery-parameters and serve unicast DNS discovery too, so one vocabulary covers the local network and the Internet. Discovery records on the link are not authenticated, so clients list what they find, connect only on explicit action, and can corroborate a local claim against a signed global record.
+
+The second project is unicast DNS for AI Discovery (DNS-AID), which explores how agents and agentic workloads publish and discover connectivity and capability metadata using existing DNS mechanisms: SVCB, DNS-SD-style names, DNSSEC and optional DANE/TLSA. All drafts are inputs to the IETF DAWN working group.
+
+* Hackathon Plan
+   * Announce toy MCP servers and A2A agents on a shared link as `_agents._tcp` instances, including an agent that offers both protocols as two instances sharing one `desc-ref`.
+   * Discover the MCP servers from a fork of OpenAI's Codex CLI, which lists them in `/mcp` next to the configured ones and connects only when the user asks.
+   * Bring your own agent: announce your MCP server or A2A agent with `dns-sd -R` or `avahi-publish-service` and see it discovered. MCP servers also show up in the Codex fork.
+   * Test interoperability across mDNS implementations, including subtype browsing: Apple mDNSResponder, Avahi, python-zeroconf, and the Rust `mdns-sd` crate.
+   * Sign a zone and publish the same agent with DNS-AID (`_index._agents.<domain>` SVCB, TLSA/DNSSEC) and with the common parameters, compare what each client understands, and corroborate a link-local instance against the signed global record to catch a spoof.
+   * Write up the results as an Implementation Status section (RFC 7942) for the next revisions of the drafts.
+* What to Bring
+   * A macOS or Linux laptop. mDNS is link-local, if you want to connect to participants; remote participants can work through the sandbox below, and are welcome to review the drafts and the code. A travel router provides a multicast-friendly segment in case the venue Wi-Fi filters mDNS.
+* Related Documents
+   * Zero-Configuration Agent Discovery: https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/
+   * Common discovery parameters: https://datatracker.ietf.org/doc/draft-blwm-dawn-common-discovery-parameters/
+   * Multicast DNS (RFC 6762) and DNS-Based Service Discovery (RFC 6763)
+   * DNS-AID, discovery of agents through unicast DNS: https://datatracker.ietf.org/doc/draft-mozleywilliams-dnsop-dnsaid/
+   * DAWN requirements: https://datatracker.ietf.org/doc/draft-king-dawn-requirements/
+   * DAWN working group: https://datatracker.ietf.org/group/dawn/about/
+* Sandbox
+   * Instruqt track, no install needed: https://play.instruqt.com/infoblox/invite/b0uvyonms8e2
+* Repository
+   * [TBA]
+   
+  
+---
+
+### YANG Data Normalization
+
+- **Champions**
+  - Ana Méndez (ana.mendezperez@telefonica.com)
+  - Diego López (diego.r.lopez@telefonica.com)
+  - Lucia Cabanillas (lucia.cabanillasrodriguez@telefonica.com)
+
+- **Project Info**
+YANG-modeled data can be represented using different encodings, including XML, JSON, and CBOR. Even when these representations convey equivalent information, encoding-specific differences can produce different byte sequences, hashes, and signatures.
+For the IETF 127 Hackathon, we will demonstrate a normalization procedure that parses XML, JSON, and CBOR representations into a common abstract syntax tree and generates a deterministic normalized representation.
+The demo will show equivalent interface data using the three encodings, display their resulting trees, and verify that they produce identical normalized bytes and SHA-256 fingerprints. The project will also help identify additional normalization rules and interoperability test cases for future versions of the draft.
+  
+
+- **Related Documents**
+  - draft-mendez-opsawg-yang-normalization (https://datatracker.ietf.org/doc/draft-mendez-opsawg-yang-normalization/)
+
+- **Related Repositories**
+  - https://github.com/ana-mp26/yang-normalization (draft)
+  - https://github.com/tefiros/yang-data-normalization/ (implementation)
+---
+
+
+### Post-Quantum Cryptography (PQC) in X.509, Signatures, KEMs, CMS and protocols
+- **Champion(s)**
+John Gray (john.gray@entrust.com)
+Daniel Van Geest (Daniel.vangeest@cryptonext-security.com)
+Mike Ounsworth (mike.ounsworth@crypticforest.ca)
+Jean-Pierre Fiset (jp@crypto4a.com)
+Massimiliano Pala (massimiliano.pala@wellsfargo.com)
+
+- **Draft Specifications**
+https://datatracker.ietf.org/doc/html/rfc9881
+https://datatracker.ietf.org/doc/rfc9935/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-pq-composite-kem/
+https://datatracker.ietf.org/doc/rfc9629/
+https://datatracker.ietf.org/doc/rfc9810/
+https://datatracker.ietf.org/doc/rfc9909/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-certdiscovery
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-composite-sigs/
+https://datatracker.ietf.org/doc/draft-ietf-lamps-cms-frodokem/
+https://datatracker.ietf.org/doc/draft-longa-cfrg-frodokem/
+https://datatracker.ietf.org/doc/draft-song-lamps-cms-composite-frodokem/
+https://datatracker.ietf.org/doc/draft-song-lamps-pq-composite-frodokem/
+
+- **Project Info**
+Test interoperability of Post Quantum algorithms in x.509 structures (Certificates, keys, CMS and other drafts).   This project started in November 2022 and continues to evolve.  We currently have github automated tooling that automatically tests submitted artifacts allowing implementations to get immediate feedback on their compatibility. This allows us to test interoperability between different algorithm implementations, gain experience using these new algorithms, and provide feedback to the standards groups about practical usage.
+A good starting place is our Github repository: https://github.com/IETF-Hackathon/pqc-certificates
+
+For information on OIDs used to create interoperable structures, consult: https://github.com/IETF-Hackathon/pqc-certificates/blob/master/docs/oid_mapping.md
+
+At IETF 127, we plan to add more automation and others are invited to test interoperability.  
+- FrodoKEM and Classic McEliece have been standardized at ISO, so participants are welcome to test those algorithms. 
+- There are new drafts for FrodoKEM composite algorithms, prototype OIDs and artifacts for those can be added for testing
+- Test vectors for draft-ietf-lamps-certdiscovery are needed
+- Some experimentation with Merkle Tree Certificates is also being tested.  For example the ldp mechanism
+
+Repository:  https://github.com/IETF-Hackathon/pqc-certificates
+
+---
+
+### Working on GREEN Use-Case Events
+
+- **Champions**
+  - Emile Stephan ([emile.stephan@orange.com](mailto:emile.stephan@orange.com))
+  - Marisol Palmero ([marisolpalmero7@gmail.com](mailto:marisolpalmero7@gmail.com))
+  - Benoît Claise ([benoit@everything-ops.net](mailto:benoit@everything-ops.net))
+  - Jan Lindblad ([jan.lindblad+ietf@for.eco](mailto:jan.lindblad+ietf@for.eco))
+  - Reshad Rahman ([reshad@yahoo.com](mailto:reshad@yahoo.com))
+  - Muhammad Awais Jadoon ([muhammad.awaisjadoon@interdigital.com](mailto:muhammad.awaisjadoon@interdigital.com))
+  - Luis M. Contreras ([luismiguel.contrerasmurillo@telefonica.com](mailto:luismiguel.contrerasmurillo@telefonica.com))
+  - Irfan Mohamad (irfanm@arrcus.com)
+  - Gen Cheng (chengen@huawei.com)
+  
+- **Collaborators**
+
+  - Contributions from GREEN participants and Hackathon attendees are welcome.
+
+- **Project Info**
+
+Hackathon table:
+  - UCs simulator https://github.com/emile22/allrun53
+
+  - Show cases https://github.com/marisolpalmero/GREENHack127
+  
+  - Live showcase:  https://ietf-wg-green.github.io/green-hackathon-127/showcase_live.html
+
+For IETF 127, the focus is on GREEN use-case events. The goal is to identify use case triggers, state transitions, measurements, and energy-related actions: we want to shake the GREEN WG drafts and see which events fall out. We plan to:
+
+  - turn GREEN use cases into simple event sequences;
+  - refine event details for implementation and testing;
+  - run a small simulator and inspect YANG state;
+  - feed what we learn back into the GREEN WG work.
+
+See https://github.com/ietf-wg-green/green-hackathon-127
+
+- **Related Documents**
+
+  - GREEN WG: https://datatracker.ietf.org/group/green/
+  - Use Cases for Energy Efficiency Management: https://datatracker.ietf.org/doc/draft-ietf-green-use-cases/
+  - Framework for Energy Efficiency Management: https://datatracker.ietf.org/doc/draft-ietf-green-framework/
+  - Power and Energy YANG Module: https://datatracker.ietf.org/doc/draft-ietf-green-power-and-energy-yang/
+  - Terminology for Energy Efficiency Network Management: https://datatracker.ietf.org/doc/draft-ietf-green-terminology/
+  - RFC 8348 ” A YANG Data Model for Hardware Management: https://datatracker.ietf.org/doc/rfc8348/
+
+- **Repos and Previous Hackathon Material**
+ 
+   There was a GREEN Hackathon table at [IETF 123](https://wiki.ietf.org/meeting/123/hackathon) and [IETF 126](https://wiki.ietf.org/en/meeting/126/hackathon). 
+   
+  - Current GREEN use-case source: https://github.com/emile22/draft-ietf-green-use-cases
+  - IETF 123 Hackathon page: https://wiki.ietf.org/en/meeting/123/hackathon
+  - IETF 123 GREEN Hackathon report: https://datatracker.ietf.org/meeting/123/materials/slides-123-green-sessa-05-report-from-the-ietf-123-hackathon-00
+  - IETF 126 Hackathon page: https://wiki.ietf.org/en/meeting/126/hackathon
+  - IETF 126 Hackathon materials: https://datatracker.ietf.org/meeting/126/session/hackathon
+  - Previous GREEN Hackathon repository/resources: https://github.com/luismcontreras/HackathonIETF123
+
+---
+
+### SRv6 SFC Control Plane Implementation
+ 
+- **Champions**
+Masahiro Asami (asami@fnsc.co.jp)
+Ryosuke Takenaka (takenaka@fnsc.co.jp)
+ 
+- **Project Info**
+  - This project aims to implement control plane functionality for SRv6 Service Function Chaining (SFC), based on the architecture described in [draft-watal-spring-srv6-sfc-sr-aware-functions].
+
+  - The primary focus is on implementing a BGP FlowSpec sender to distribute traffic classification rules and the associated information needed to steer traffic through SRv6-based Service Function Chains.
+
+---
+### Experiment on Incident Server Implementation Using Agentic AI
+
+- **Champions**
+Henry Yu (hyu2010b@gmail.com)
+Yanxia Tan (tanyx11@chinaunicom.cn)
+
+- **Project Info**
+  - This project is an experiment on how to use AI-related technology to implement the incident server defined in [1] for optical transport networks. The experiment boundary is within the functionality of the incident server.  (That being said, incident prevention [2], which is essential to SLA assurance, may also be our experiment target. But we will focus on incident first.)
+
+  - The experiment will study/investigate relevant AIOPs questions, such as
+   (1) how agents (i.e., NMA specifically) uses cognitive reasoning for incident handling
+   (2) what and how AI-data (e.g., knowledge graph and ontology) should be constructed and used to assist cognitive reasoning
+   (3) what and how tools are used by NMA
+
+  - We have already done some preliminary work [3] at the IETF 126 hackathon. 
+
+  - References:
+  [1] https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/
+  [2] https://datatracker.ietf.org/doc/draft-yu-ccamp-sla-assurance-optical-yang/
+  [3] https://datatracker.ietf.org/meeting/126/materials/slides-126-hackathon-sessd-issues-and-incidents-identification-using-agentic-ai-and-knowledge-graph-00
+
+---
+
+### RTP Frame Acknowledgement
+- **Champions**
+Erik Språng  (sprang@google.com)
+- **Project Info**
+  - This project aims to implement a prototype of the RTP Frame Acknowledgement draft [1] in libwebrtc [2]. We hope to demonstrate improved responsiveness of real-time video streams, especially in scenarions with high loss and RTT.
+  - References:
+  [1] https://datatracker.ietf.org/doc/draft-ietf-avtcore-frame-acknowledgement/
+  [2] https://webrtc.googlesource.com/src/
+
+---
+
+### Agentic AI Project for Network, Security, and AI Service Management
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+  - The goal of this project is to demonstrate the feasibility of an Agentic AI framework for the autonomous management of networks, security, and AI services based on natural language intents. The framework consists of a User System, a Cloud System, an Edge System, and Devices with Worker Agents.
+  - The framework uses Intent-Based Networking (IBN) to translate human-language intents into structured policies through an Intent Translator. A Knowledge Base and an Agent Catalog support policy validation and the selection of appropriate Worker Agents. These agents collaborate through the Agent-to-Agent (A2A) protocol and access tools and resources through the Model Context Protocol (MCP) to execute the requested services. The framework supports policy enforcement, continuous monitoring, and reporting of execution results, enabling users to manage network, security, and AI services through coordinated AI agents.
+- **References**
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
+
+---
+
+### I2ICF Project for Intent-Driven Autonomous SDV Robots
+- **Champions**
+Jaehoon Paul Jeong (pauljeong@skku.edu)
+- **Project Info**
+  - The goal of the Interface to In-Network Computing Functions (I2ICF) is to demonstrate the feasibility of an intent-driven autonomous navigation framework for Software-Defined Vehicle (SDV) robots. The framework enables users to specify a destination through natural language intent, allowing an SDV robot to autonomously perceive its surroundings, plan its route, and make navigation decisions.
+  - During navigation, the SDV robot continuously monitors its environment and dynamically adjusts its route in response to obstacles and changing conditions. The framework is demonstrated in a virtual environment, where the SDV robot autonomously navigates to its destination. Users can monitor the entire navigation process and review the robot's decisions and corresponding actions, providing visibility into its autonomous behavior.
+- **References**
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/01/
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/01/
+https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/03/
+
+---
+### CoAP over BPv7 with IPN Addressing and Message Aggregation
+
+- **Champions**
+  - Mahitab Salah Elattar (Remote Champion) — mahitab.elattar@outlook.com
+  - Anna Calveras (Onsite Champion) — anna.calveras@upc.edu
+  - Affiliation: Universitat Politècnica de Catalunya (UPC), Wireless Networks Group (WNG)
+
+- **Related WGs:** CoRE, DTN
+
+- **Project Info**
+
+  This project implements and tests the Constrained Application Protocol (CoAP) over Bundle Protocol Version 7 (BPv7), based on draft-ietf-core-coap-bp-05, and aims to feed implementation experience back to the CoRE WG.
+
+  The prototype uses three-component IPN endpoint identifiers (RFC 9758), a direct no-proxy design, µD3TN with AAP2, and a modified aiocoap library. A three-node Rover–Satellite–Earth testbed (Satellite acting as BP relay) runs Safety GET and Science POST applications using Single and Aggregate messages.
+
+- **Scope:** NON unicast requests. CON, Observe, block-wise/Q-Block, OSCORE/BPSec and group communication are out of scope.
+
+- **Hackathon Goals:**
+  - Run end-to-end CoAP GET and POST exchanges over BPv7 using IPN addressing.
+  - Test IPN endpoint identification, application registration, and message demultiplexing.
+  - Test Single and Aggregate message handling, including 24-bit Message IDs, Tokens, Payload-length framing, and request–response correlation.
+  - Analyse captured BPv7 traffic using Wireshark and a custom Lua dissector.
+  - Identify unclear or underspecified points in Draft-05 and report them to the CoRE WG.
+  - Find a second implementation to begin interoperability testing.
+
+- **Current Status:**
+  A working research prototype has been tested in a controlled three-node environment. Wireshark captures show two CoAP requests carried in one BPv7 Aggregate bundle, with responses returned separately. Full Draft-05 conformance and interoperability have not yet been verified.  The implementation currently uses experimental CoAP Payload-length option number 65000. Alignment with the final option assignment and required option properties remains an open implementation issue.
+
+- **Technologies:** 
+CoAP, BPv7, DTN, IPN, µD3TN, AAP2, Python, aiocoap, CBOR, Wireshark, Lua.
+- **Repository:** https://github.com/ENTEL-WNG/CoAPoverBP-IPN-Draft05-NoProxy
+- **Related Internet-Draft:** https://datatracker.ietf.org/doc/draft-ietf-core-coap-bp/05/
+
+ 
+ **Participation:**
+  Remote participation is welcome. Sample captures and the Lua dissector are available in the repository for participants who wish to contribute without building the testbed. Implementers of CoAP or BPv7 stacks are particularly encouraged to join for interoperability testing.
+  
+---
+### DAWN - ARD: Agent Resource Discovery
+
+- **Champions**
+  - Junjie Bu (bujunjie@gmail.com)
+  - Jaime Jiménez (jaime@iki.fi)
+	- ...
+ 
+- **Project Info**
+
+  Agent Resource Discovery (ARD) is a set of three drafts submitted to DAWN
+  that describe how AI agents publish a manifest, how clients look it up and
+  search it, and how the first contact between an agent and a discovered
+  resource takes place. The work is a joint proposal from Google, Hugging Face,
+  Amazon and Ericsson. Anyone working on DAWN or on agent discovery in general
+  is welcome at the table.
+
+- **Hackathon Plan**
+
+  - Running code for the manifest format and the lookup flow in the discovery draft
+  - A client that performs the initial contact handshake against a published manifest
+  - Interop between independent implementations and feedback to the draft authors
+  - Compare notes with the DNS-AID project on the DNS side of discovery
+
+- **Related Documents**
+  - ARD Architecture: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-architecture/
+  - ARD Manifest and Lookup: https://datatracker.ietf.org/doc/draft-bu-dawn-ard-discovery/
+  - ARD Initial Contact: https://datatracker.ietf.org/doc/draft-jimenez-dawn-ard-initial-contact/
+
+---
+### Action Evidence Packages for AI agents: recompute, don't inherit *
+
+- **Champions**
+  - Anton Sokolov, anton.sokolov@tyche.institute
+
+- **Project Info**
+
+  An AI agent acts under a mandate. Afterwards, someone has to check what it did, under which mandate, and whether that mandate still held at the moment of the action.
+
+  An Action Evidence Package (AEP) bundles three things:
+  - the action;
+  - the authority it ran under;
+  - the attestation evidence.
+
+  An offline verifier can then recompute every digest and verdict itself, instead of trusting a neighbouring artifact.
+
+  At IETF 126 we showed AEP appraised by Project Veraison as RATS evidence. That run produced a freshness fix in Veraison (veraison/services#427).
+
+  For 127, the question is simple: if you build a verifier from the documents alone, do you reach the same verdicts we do on the same packages?
+
+- **Hackathon Plan**
+  - Run the attackable sandbox. Forge, replay and overreach packages against a mandate-enforcing verifier, and record which attacks are caught and at which step.
+  - Recompute digests and receipt bindings independently. Use the SCITT payload-binding draft and the AEP composition draft. Write down every place where the text had to be guessed.
+  - Check how a verifier stops. After the first rejection, later checks are reported as not evaluated rather than silently passed.
+  - Compare verdict tables between implementations, and publish each disagreement as an issue.
+  - If we work as one team only, we report it as a single-team reproducibility exercise.
+
+- **Looking for**
+  - Anyone writing a second verifier, in any language.
+  - People working on RATS, SCITT or COSE.
+  - Participants from the AUDIT BoF who want to test agent-delegation evidence against real packages.
+
+- **Related documents**
+  - draft-sokolov-rats-aep-composition: https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/
+  - draft-mih-sokolov-scitt-payload-binding: https://datatracker.ietf.org/doc/draft-mih-sokolov-scitt-payload-binding/
+
+- **Repositories and artifacts**
+  - Round 1 for AEP verifiers, open at this hackathon (Tyche sandbox specification, 22 test vectors, rules, answer key fixed in advance): https://github.com/tyche-institute/aep-sandbox/tree/main/hackathon/ietf127
+  - Attackable sandbox: https://github.com/tyche-institute/aep-sandbox (online: https://tyche.institute/lab/aep-ctf/)
+  - Reference verifiers, offline TypeScript and Python, with conformance vectors: https://github.com/tyche-institute/eatf-verifier
+  - IETF 126 Veraison reproducibility artifact: https://github.com/tyche-institute/aep-veraison-freshness
+  - Live demo console: https://demo.eatf.eu
+
+- **Results presentation**
+  - Sunday 15 November, Hackathon Results.
+---
+### Benchmarking Methodology for Route Origin Validation (ROV)
+
+- **Champions**
+
+  Libin Liu (liulb@zgclab.edu.cn) (remote)  
+  Nan Geng (gengnan@huawei.com) (remote)  
+  Yanqi Chen (chenyq@zgclab.edu.cn) (remote)
+
+- **Project Info**
+
+  This project implements and evaluates a repeatable benchmarking methodology for routers supporting Route Origin Validation (ROV). The prototype uses BIRD, BRIO, and Bngblaster to evaluate ROV performance and its impact on routing.
+
+- **Hackathon Plan**
+
+  Present the benchmarking implementation and experimental results, and discuss feedback on the methodology.
+
+- **Related Documents**
+
+  draft-lg-bpm-benchmarking-methodology-for-rov-00 — Benchmarking Methodology for Route Origin Validation (ROV)
+
+- **Repository**
+
+  https://github.com/LibinLiu0189/Benchmarking-Methodology-for-Route-Origin-Validation/tree/tom473/implementation-results
+---
+
+### Oblivious CoAP in `aiocoap`
+- **Champions**
+
+  Martine S. Lenders (ietf@lenders.berlin) (remote)
+
+- **Project Info**
+
+	This project aims to implement a first prototype of Oblivious CoAP in `aiocoap`.
+  
+- **Hackathon Plan**
+
+  - Provide an HPKE shim in `aiocoap`
+  - Evaluate suitability of available HPKE Python libraries to use for that
+  - Use HPKE shim to implement Oblivious CoAP.
+  
+- **Relate Documents**
+  - draft-lenders-core-oblivious-coap-01 — Oblivious CoAP
+
+- **Repositories and artifacts**
+  - https://codeberg.org/aiocoap/aiocoap
+
+---
+
+### SRv6 SFC Architecture with SR-aware Functions
+- **Champions**
+Wataru Mishima (mishima@nw.kanagawa-it.ac.jp)
+Yuta Fukagawa (y.fukagawa@ntt.com)
+- **Project Info**
+Implement the components described in Chapter 4, "Overview of Architecture," of "draft-watal-spring-srv6-sfc-sr-aware-functions," including the Application Layer and Intent-Enabled Layer defined in RFC 9315. Also, develop a Linux client that configures policy-based routing based on BGP FlowSpec rules.
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-watal-spring-srv6-sfc-sr-aware-functions/06/
+https://datatracker.ietf.org/doc/draft-watal-srv6ops-srv6-sfc-deployment/01/
+https://datatracker.ietf.org/doc/html/rfc9315
+
+---
+
+### On-Path delay measurements using IOAM DEX
+- **Champion(s)**
+Alex Huang Feng (alex.huang-feng@t-systems.com)
+Thomas Graf (thomas.graf@swisscom.com)
+Benoit Claise (benoit@everything-ops.net)
+Pierre Francois (pierre.francois@insa-lyon.fr)
+Justin Iurman (justin.iurman@gmail.com)
+Daniel Voyer (davoyer@cisco.com)
+Holger Keller (holger.keller@telekom.de)
+
+- **Project Info**
+Implement IOAM DEX Extensions to compute the On-Path delay as defined in RFC9951 in Vector Packet Processor (VPP).
+Collect IPFIX packets from the aggregated delay metrics as defined in RFC9951.
+
+- **Specifications**
+https://datatracker.ietf.org/doc/draft-netana-ippm-ioam-on-path-delay/
+https://datatracker.ietf.org/doc/html/rfc9951
+https://datatracker.ietf.org/doc/html/rfc9326
+https://datatracker.ietf.org/doc/html/rfc9486
+
+
+- **Repositories**
+https://github.com/network-analytics/vpp-srh-onpath-telemetry
+https://github.com/network-analytics/vpp
+
+---
+
+### IOAM Global Opaque Block (GOB): namespace-implied mode and backward compatibility
+
+- **Champions**
+Stefano Salsano, Univ. of Rome Tor Vergata / CNIT, stefano.salsano@uniroma2.it (onsite)
+Andrea Mayer, Univ. of Rome Tor Vergata / CNIT, andrea.mayer@uniroma2.it (onsite)
+
+- **Project Info**
+The Global Opaque Block (GOB) extends the IOAM Pre-allocated Trace Option (RFC 9197) with a single global metadata region placed at the tail of the option, after the node data space, so that legacy IOAM transit nodes never reach it. It carries path-level records such as an accumulated delay, in the same IOAM option that carries the per-node trace. Draft: https://datatracker.ietf.org/doc/draft-mayer-bpm-ioam-gob/ (BPM WG, individual submission). Running code: Linux kernel implementation with a dedicated eBPF program type for the GOB payload, iproute2 support, interactive demo shown at the IETF 126 Hackathon within the "In-Network Telemetry Aggregation" project. Playground with build instructions: https://github.com/netgroup/ioam-gob-kernel-playground
+
+Hackathon plan:
+1. Implement the new namespace-implied mode of the -00 draft in the Linux kernel and iproute2: the IOAM Namespace-ID implies presence, size and schema of the GOB, no trailer, a 4-octet accumulated delay carried in exactly 4 octets inside a PTO that is plain RFC 9197 on the wire.
+2. Measure backward compatibility: a path mixing stock Linux IOAM nodes and GOB-aware nodes; legacy nodes record their node data and never touch the GOB.
+3. Time permitting: latency percentiles vs. number of GOB-aware hops, as input for BPM benchmarking.
+
+Related: "On-Path delay measurements using IOAM DEX" (RFC 9951); we will coordinate on the accumulated-delay use case.
+
+Bring a Linux laptop; we provide VMs with the GOB kernel on our testbed. Remote participants welcome.
+
+
+---
+
+### Mapping IETF Device YANG Models to Vendor-Native YANG Models *
+
+- **Champions**
+  - Ian Farrer (Deutsche Telekom) — ian.farrer@telekom.de
+  - Kris Lambrechts (Intwine) — kris@intwine.net
+
+- **Project Info**
+
+  IETF device YANG models promise vendor-independent network automation, but limited native vendor support has hindered their adoption. **Off-box YANG-to-YANG translation** bridges this gap by mapping standardized IETF models to vendor-native models, enabling operators to use common configurations across heterogeneous networks without requiring device software changes.
+
+  Building on an existing [StratoWeave implementation](https://github.com/stratoweave/sorespo/tree/translate) supporting Cisco IOS XR and Juniper Junos, this hackathon aims to:
+
+  - Extend mappings to additional vendors and IETF YANG modules.
+  - Test interoperability using common configurations across vendors.
+  - Identify translation challenges and gaps in existing standards.
+
+  The work is described in [draft-fl-nmop-device-yang-vendor-mapping](https://datatracker.ietf.org/doc/draft-fl-nmop-device-yang-vendor-mapping/).
+
+  Contributors interested in YANG, NETCONF, and multi-vendor network automation are welcome.
+
+---
+
+### WEXP Appraisal Core -02: two appraisers, specification-derived tests and a SCITT boundary experiment
+- **Champions**
+Mikhail Sergeev, mikhailsergeev369@gmail.com (remote)
+- **Take part**
+  - Replay the published corpus comparison: fork [wexp-check](https://github.com/WEXP-dev/wexp-check), enable Actions in the fork, and run "Replay the corpus comparison" ([REPRODUCE.md](https://github.com/WEXP-dev/wexp-check/blob/main/REPRODUCE.md)).
+  - Examine a record or format of your own, or an Internet-Draft: [start an interoperability check](https://github.com/WEXP-dev/interop-test-lab/blob/main/START-HERE.md). A project name and one public link are enough.
+  - Run your own implementation of Core-02 on the public corpus: [bring an implementation](https://github.com/WEXP-dev/interop-test-lab/blob/main/BRING-AN-IMPLEMENTATION.md).
+  - Live on the Hackathon Zulip stream Saturday and Sunday, 11:00–12:00 PST (19:00–20:00 UTC); at other times a reply within 12 hours.
+- **Project Info**
+WEXP Appraisal Core ([draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/), an individual Internet-Draft with intended status Informational) defines appraisal of support for exact execution-related claims, with three verdicts: accept, downgrade and reject. Its Boundary Ceiling limits which content bases can be supported, without creating support by itself.
+This project brings public implementations, test cases and a mapping experiment, and invites others to reproduce the results and contribute new cases.
+  - **wexp-ref**: reference appraiser for Core-02.
+  - **wexp-check**: a second Core-02 appraiser, written in a separate AI-assisted session operated by the same person as wexp-ref. That the session did not consult wexp-ref or any WEXP corpus expectations is an operator declaration and has not been independently verified; the wexp-ref Core-02 module was public before wexp-check started. Its initial version was frozen before the first recorded corpus comparison; later changes are documented.
+  - **wexp-vectors**: set 001 contains 89 specification-derived cases with frozen expected results; set 002 adds 35 cases exploring the section 7 boundary matrix and related checks. A separate session, operated by the same person, re-derived all 89 set 001 expected results; that it consulted neither appraiser is an operator declaration and has not been independently verified. Its handoff, derivation and comparison records are public.
+  - **scitt-receipt-boundary-001/pkg-001** in wexp-interop: a Receipt from a pinned, archived scitt-api-emulator revision mapped to a Core-02 boundary finding. Both appraisers match the frozen expectations on all 20 result components for four normalized inputs.
+
+  Current state, 10 November 2026: both appraisers at the listed revisions agree with each other and with the expected results on all 124 corpus cases. The first frozen wexp-check run agreed on 122/124; two interpretation differences were documented and aligned, producing 124/124. The four SCITT inputs are a separate comparison.
+  The original comparison runs were performed under the same operator and do not establish independent implementation provenance. On 10 November 2026 Laurent Lemonnier replayed both comparisons in GitHub Actions in his own repository, at the pinned revisions, with the same results: 89/89 and 35/35 against both expectations and the reference, and all four SCITT inputs equal to the expectations. This is a replay of the published procedure with our code and public expectations, not an independent implementation; the optional SCITT registration was not repeated. Records: [SCITT package card, revision 7](https://github.com/WEXP-dev/wexp-interop/blob/1abd2815b82eb5c380359fc69fe808fe3e6f9e19/experiments/scitt-receipt-boundary-001/packages/pkg-001/README.md), which records this external replay; [corpus comparison](https://github.com/WEXP-dev/wexp-check/blob/4af1e69d5f9b3e28ed8efffba07e188a26a25828/reproductions/2026-11-10-lemonnier/README.md).
+- **Hackathon Plan**
+  - Reproduce: follow [wexp-check/REPRODUCE.md](https://github.com/WEXP-dev/wexp-check/blob/a2fd1ffd/REPRODUCE.md) for the corpus comparison and the "Repeat the appraisal" section of the [SCITT package instructions](https://github.com/WEXP-dev/wexp-interop/blob/a45c88e9/experiments/scitt-receipt-boundary-001/packages/pkg-001/REPRODUCE.md). The appraisal runs use Python 3.12 and the standard library. Re-running the SCITT emulator has separate dependencies.
+  - Break the comparison: change an expectation or remove a case in a local copy, then run the documented comparison with `--baseline` and confirm that it exits non-zero and names the case.
+  - Review the text: examine the documented interpretation differences (P08, P18) and open questions; propose clarifications or counterexamples.
+  - Bring a record: help define an explicit mapping from your evidence format (a verdict record, agent audit record, permission receipt, action evidence package or SCITT statement) to normalized Core-02 inputs. Run both appraisers and inspect the supported claims, verdicts, reasons and limitations.
+  - Share a result: contribute the inputs, source revisions and outputs. We will document reproducible results and disagreements in wexp-interop, with contributor attribution.
+- **Cross-project interop**
+  - Action Evidence Packages ([draft-sokolov-rats-aep-composition](https://datatracker.ietf.org/doc/draft-sokolov-rats-aep-composition/)): a candidate for a shared comparison table. Agree the exact claim and mapping, then record the AEP verifier outcome, any mapping diagnostic, and any Core-02 appraisal separately. Record cases where no complete normalized Core input can be constructed.
+  - AER-1 execution receipts ([draft-zambo-aer1](https://datatracker.ietf.org/doc/draft-zambo-aer1/)) and SCITT time anchors ([draft-fassbender-scitt-time-anchor](https://datatracker.ietf.org/doc/draft-fassbender-scitt-time-anchor/)): published conformance vectors; a mapping of one vector to a normalized Core-02 input, run through both appraisers, is a result we would record in wexp-interop with attribution agreed with the participating contributors.
+  - Agent Action Capsule ([draft-mih-scitt-agent-action-capsule](https://datatracker.ietf.org/doc/draft-mih-scitt-agent-action-capsule/)): a WEXP-side proposal is already available in wexp-interop.
+  - Agent memory integrity ([draft-khandelwal-bpm-agent-memory-integrity-00](https://datatracker.ietf.org/doc/draft-khandelwal-bpm-agent-memory-integrity/00/)): explore how storage-tampering detection results relate to Coverage-00's distinction between supplied-view correspondence and population completeness.
+- **Looking for**
+  - More replays of the two comparisons on other machines, agreeing or not; and a second implementation of Core-02 from the text by another team.
+  - Owners of the formats above who want a Core-02 verdict table for their vectors.
+- **Related documents**
+  - [draft-sergeev-wexp-core-02](https://datatracker.ietf.org/doc/draft-sergeev-wexp-core/02/)
+  - [draft-sergeev-wexp-coverage-00](https://datatracker.ietf.org/doc/draft-sergeev-wexp-coverage/00/)
+  - [draft-sergeev-claim-boundaries-02](https://datatracker.ietf.org/doc/draft-sergeev-claim-boundaries/02/)
+- **Repositories** (snapshots checked 10 November 2026)
+  - [wexp-vectors](https://github.com/WEXP-dev/wexp-vectors) `edd67056`
+  - [wexp-ref](https://github.com/WEXP-dev/wexp-ref) `56289024`
+  - [wexp-check](https://github.com/WEXP-dev/wexp-check) `4af1e69d` (appraiser code unchanged since `a2fd1ffd`)
+  - [wexp-interop](https://github.com/WEXP-dev/wexp-interop) `1abd2815`
+- **Results presentation**
+  - Sunday 15 November, Hackathon Results. The champion participates remotely through written discussion; results and open questions will be posted in writing.
+  
+---
+
+### A DotBot Swarm in the LAKE
+
+**Champion(s)**
+- Geovane Fedrecheski (geovane.fedrecheski at inria.fr)
+
+**Project Info**
+
+Deploy LAKE (EDHOC) to a swarm of DotBots, using lakers (Rust LAKE implementation) over Mari, a scalable low-power local connectivity protocol supporting mobility, which enables the 1k DotBots Testbed (https://github.com/DotBots).
+
+plans for the hackathon include:
+- over-the-air deployment of lakers to a swarm of DotBots
+- ELA (lake-authz) for zero-touch enrollment of the robots
+- measure handshake time and memory usage at swarm scale
+
+Specifications:
+- https://datatracker.ietf.org/doc/rfc9528/
+- https://datatracker.ietf.org/doc/draft-ietf-lake-authz/
+
+Repositories:
+- https://github.com/lake-rs/lakers
+- https://github.com/geonnave/lakers-dotbot
+- https://github.com/DotBots/mari
+- https://github.com/DotBots/pydotbot
+
+---
+
+### Model for distributed policy sharing
+- **Champions**
+Lucia Cabanillas, lucia.cabanillasrodriguez@telefonica.com
+Diego López, diego.r.lopez@telefonica.com
+Ana Méndez, ana.mendezperez@telefonica.com
+Pedro Martínez-Julia, pedromj@gmail.com
+ 
+- **Project Info**
+This project demonstrates a framework for sharing and managing policies across heterogeneous domains using a YANG-based model. Policies are expressed in their own native languages and encapsulated in a YANG artifact that carries metadata such as area, language, owner, author, origin and, optionally, a cryptographic provenance signature. The prototype implements a policy lifecycle (create, validate, distribute, enforce and remove) in which the framework routes each policy, based on its area, to the right domain. The demonstration runs in two independent domains. In the first, an OPA Policy Decision Point receives and evaluates Rego policies. In the second, a controller receives an RFC 9061 policy requiring an IPsec tunnel between two nodes. 
+ 
+- **Related Drafts** 
+https://datatracker.ietf.org/doc/draft-cabanillas-nmop-policy-sharing-model/
+- **Related Repositories**
+https://github.com/LuciaCabanillasRodriguez/policy-sharing-model
+
+---
+
+### Formal model of MCP Authorization: untrusted servers, Discovery and Enterprise token exchange
+
+- **Champions**
+  - Harsh Thumar, harshthummar1000@gmail.com (remote, India UTC+5:30)
+  - Prince Upadhyay, upadhyayprince0019@gmail.com (remote, India UTC+5:30)
+
+- **Project Info**
+  In MCP, the server a client connects to (which may be untrusted) tells the client which authorization server to use (RFC 9728), and one client identity can be reused across many authorization servers (Client ID Metadata Documents). The Enterprise-Managed Authorization extension adds RFC 8693 token exchange at the identity provider followed by an RFC 7523 JWT bearer grant at the MCP authorization server. This project builds a machine-checked model of these flows and delegated payments in the Tamarin prover to evaluate client-side defensive invariants.
+
+- **Outcomes & Verification Results**
+  - **9 Tamarin Models:** Covered AS-selection, authorization code binding, audience indicators (RFC 8707), issuer identification (RFC 9207), Rich Authorization Requests (RFC 9396), and DPoP sender-constraining (RFC 9449).
+  - **376 Automated CI Checks:** Verified all safety and authentication lemmas in Tamarin 1.12.0 (`scripts/prove.sh`).
+  - **Ablation Lattice:** Evaluated all 64 permutations of defensive checks. Formally verified the single-check trap: omitting RFC 9207 (`iss`) enables AS mix-up attacks; omitting RFC 8707 (`aud`) enables cross-gateway token passthrough.
+  - **Delegated Payments Case Study:** Mapped RFC 9396 to NPCI UPI Circle (OC 201 / OC 201-B), formally proving that real-time synchronous status lookup (MMS) is strictly required to prevent post-revocation token replay.
+
+- **Reproducibility**
+  - Docker verification: `docker run --rm mcp-auth-tamarin ./scripts/reproduce.sh`
+
+- **Repositories & Documentation**
+  - GitHub Repository: https://github.com/HarshThumar/mcp-auth-tamarin
+  - Technical Whitepaper: https://harshthumar.github.io/whitepaper/agent-payments-india/
+  - Research Blog: https://harshthumar.github.io/blog/2026-11-ietf127-mcp-authorization/
+
+- **Related Documents**
+  - [MCP authorization specification](https://modelcontextprotocol.io/specification/draft/basic/authorization), [MCP security best practices](https://modelcontextprotocol.io/specification/draft/basic/security_best_practices)
+  - [RFC 9728](https://datatracker.ietf.org/doc/rfc9728/), [RFC 8707](https://datatracker.ietf.org/doc/rfc8707/), [RFC 9207](https://datatracker.ietf.org/doc/rfc9207/), [RFC 8693](https://datatracker.ietf.org/doc/rfc8693/), [RFC 7523](https://datatracker.ietf.org/doc/rfc7523/), [RFC 9396](https://datatracker.ietf.org/doc/rfc9396/), [RFC 9449](https://datatracker.ietf.org/doc/rfc9449/)
+
+- **Results Presentation**
+  - Remote participants: results and open questions posted in writing.
+
+----
+----
+
+### OP-Experiment: DNSSEC-backed key currency and revocation for signed email (OPKEY)
+
+- **Champion(s)**: Shigeya Suzuki (shigeya@wide.ad.jp)
+- **Project info**:
+  - Originator Profile (project page): https://originator-profile.org/en-US/
+  - draft-shigeya-dns-opkey-00: https://datatracker.ietf.org/doc/draft-shigeya-dns-opkey/
+  - Originator Profile Framework v0.2 (Public Drafts, published 27 October 2026):
+    - Architectural Overview: https://docs.originator-profile.org/en/aov/
+    - Core Specification: https://docs.originator-profile.org/en/core/
+    - Web Media Use Case Specification: https://docs.originator-profile.org/en/web-media/
+    - Email Use Case Specification: https://docs.originator-profile.org/en/email/
+  - dnsdata-go (Go DNS library with OPKEY support, v0.12.0): https://github.com/shigeya/dnsdata-go
+  - opkey-dig (OPKEY lookup tracer, MIT): https://github.com/shigeya/op-experiment-01
+
+- **Organizations**: Keio University / Originator Profile CIP / WIDE Project
+
+- **Participation**: onsite
+
+- **Description**:
+  Originator Profile (OP) lets a recipient's software verify who originated a web page or an email, through signed profiles issued by organizations that validated the originator. These profiles carry attributes of the originator that third parties have validated, such as membership in an association or an editorial policy, not only who the originator is. The verifier checks the documents locally and asks the DNS, under DNSSEC, only whether keys are current and whether profiles have been revoked. draft-shigeya-dns-opkey defines the records for this. It requests a new RR type, OPKEY, with the TLSA format; whether a new type is needed, or TLSA itself at these names will do, is an open question. For this hackathon, the data is published as TLSA records at the names the draft defines.
+
+  At this hackathon we will:
+
+  1. Publish OPKEY records (TLSA form) under `_op` in a real DNSSEC-signed zone, and verify them live against the public DNS.
+  2. Send S/MIME-signed email with an OP bundle through an ordinary mail provider, and verify it on arrival with live DNS lookups.
+  3. Revoke a profile by removing its Originator Key Record from the DNS, and measure how long it takes until verification fails. We will also try revoking an annotation (adding a Revocation Record) and withdrawing an issuer key.
+  4. Show OPKEY support in a DNS library (dnsdata-go) and a small `opkey-dig` tool.
+
+  We would like to hear from people who work on DNS libraries and tools, DNSSEC validation in applications, and DKIM / DMARC, about what breaks.
+
+----
+
+### Agent credential conformance: build evidence, authorization and identity *
+
+- **Champions**
+  - Abdel Fane, OpenA2A, abdel@opena2a.org (onsite)
+- **Project Info**
+  Open conformance fixtures for AI agent credentials, run against verifiers we didn't write, every difference filed the same day. We bring 47 pinned fixtures and two reference verifiers of our own (Go and Python) for ATX, a signed build evidence credential for agents, plus our identity and authorization suites, and a kit that runs the fixtures through your verifier and reports agree, disagree and couldn't read. It runs on your laptop, uploads nothing, needs no network after install.
+- **Hackathon Plan**
+  - Run the fixtures against every verifier at the table; publish a results table.
+  - Implement Mission-Bound Authorization (draft-mcguinness-oauth-mission) and the WIMSE agent delegation chain (draft-asor-wimse-agent-delegation-chain) from the text; report where we had to guess.
+- **Looking for**
+  - Anyone with a verifier or issuer for agent credentials, in any language.
+  - People in RATS, SCITT, WIMSE, OAuth and the AUDIT BoF.
+- **Cross-project**
+  Most agent evidence projects here record what an agent did; we test evidence of how it was built. To try together: Action Evidence Packages, AER-1, the TTTPS and AUDIT testbed, WEXP.
+- **Thanks**
+  Every tester is credited by name. Per confirmed bug in our fixtures, kit or spec reported Nov 14 to 20: 100 US dollars to the open-source project or nonprofit of the finder's choice, 1,500 cap (terms: README, Bounty).
+- **Get the kit**
+  https://github.com/opena2a-standards/atx-conformance/releases/tag/kit-2026-11-14 (macOS, Linux, Windows builds; 265 files in SHA256SUMS
+- **What to bring**
+  A laptop with Go 1.22 or later (1.23 or later on macOS 26).
+- **Repository**
+  https://github.com/opena2a-standards/atx-conformance
+- **When**
+  Table: Saturday and Sunday. Remote via the Hackathon Zulip stream; check-ins Sat 12:00 and 17:00, Sun 11:00 Pacific.and 17:00 and Sunday 11:00 Pacific.
+
+### Agent action evidence interop: who approved it, what was allowed, what happened
+
+- **Champions**
+
+Steven Mih, Action State, steven@actionstate.ai (on site)
+Laurent Lemonnier, iSoluce, laurent@isoluce.net (remote)
+
+- **Project Info**
+
+Several drafts record what an AI agent did. Each says, in its own text, what it does not prove, often which person approved that exact action. This project composes them with a signed decision record and checks the result with independent code written from the documents.
+
+Track 1, evidence chains: the Agent Action Capsule cases with the current library; an agent pass carried three ways; a plan run with its manifest and checkpoint; one refund running through the four drafts of the SCITT adoption discussion of 18 November (draft-thaha-scitt-agent-execution-evidence, draft-lemonnier-scitt-decision-provenance, draft-wright-verdict-record, draft-xg-payment-dispute-profile). Two approvals signed with a real passkey. Every case has failing cases, each caught where expected. The data is synthetic.
+
+Track 2, deterministic encodings for COSE: draft-mih-sokolov-cose-deterministic-encodings end to end. Positive vectors run by two implementations; negative vectors (header absent, encoding not implemented, preimage not in the declared form, hash over another serialization), each failing for its stated reason.
+
+- **Hackathon Plan**
+
+1. One record, two logs: register the same Signed Statements on two independently run Transparency Services, and have each receipt verified by the other party's verifier.
+2. Register a Hash Envelope through a SCITT + SCRAPI implementation and verify the receipt offline.
+3. Results checked in, not pasted: one folder per vector set, a README naming the implementation and commit that produced each result, a pass/fail table.
+4. Run it yourself, offline, and tell us where your reading of a draft differs from ours.
+
+- **Looking for**
+
+Anyone running a Transparency Service, or writing a verifier for any of these drafts, in any language.
+
+- **Links**
+
+Code, vectors and failing cases: https://github.com/Laurent-Lemonnier/dps-scitt-decision-layer
+Transparency Service: https://ts.isoluce.net
+Related projects: Independent time anchoring (Jonna Fassbender), AER-1, WEXP Appraisal Core-02 (Mikhail Sergeev).
+
+---
+### Agent Evidence Conformance Matrix: cross-project verification and continuous interoperability
+
+- **Champions**
+
+Sankalp Gilda, sankalp.gilda@gmail.com (remote)
+
+- **Project Info**
+
+A reproducible conformance matrix across the agent-evidence projects on this page. It runs each project's emitted records through shared test vectors and offline verifiers, and it separates four outcomes: agreement, contradiction, unsupported check, and insufficient evidence. Each cell says whether it used the project's own records or our adapter, and each result states how many projects it covers.
+
+It starts from cross-library results that are already run: RFC 8785 canonicalizers in Rust, Go, Python and Node, and DSSE PAE and signing in Rust, Go and Python. It grows by pull request, and a standing dashboard continues after the event.
+
+- **Hackathon Plan**
+
+1. Inventory the projects on this page that emit records, and screen which ones each result can honestly cover.
+2. Publish a versioned external-verifier contract with adapters, and reproduce the JCS and DSSE results with pinned versions and negative tests.
+3. Fill the matrix with a replay command for every cell, and record each verifier result with its package, version, input digest and corpus revision.
+4. Open pull requests that run the shared vectors in each project's own CI.
+5. Produce joint results with Agent action evidence interop (Laurent Lemonnier, Steven Mih).
+
+- **Looking for**
+
+Anyone who emits or verifies agent-evidence records, in any language. Send a few sample records or a repository path on the Hackathon Zulip stream, or open a pull request.
+
+- **Links**
+
+Matrix repository: https://github.com/probityai/agent-evidence-matrix
+Related projects: Agent action evidence interop, WEXP Appraisal Core-02, Agent memory integrity.
+
+---
+### Batch Authorization Delegation: One Approval, Agent-Specific Permissions
+
+- **Champions**
+ Yuan Ni, niyuan1@huawei.com (remote)
+ Chunchi Peter Liu, liuchunchi@huawei.com (remote)
+
+- **Project Info**
+	* An orchestrator agent coordinates specialized agents to complete a user request. For example, a Product Manager Agent coordinates Development and Testing Agents to implement and test a feature; a Personal Assistant coordinates Calendar and Email Agents to schedule a meeting and notify attendees.
+	* Batch Authorization Delegation lets the orchestrator request permissions for these specialized agents together, reducing repeated user approval interactions while allowing each sub-agent to obtain only its assigned permissions. 
+	* The demo illustrates a Personal Assistant coordinating Calendar and Email Agents. Users can approve both permissions, approve only one, or decline both.
+	* Try the demo locally to explore user approval, per-agent tokens, and resource responses through a web interface. Calendar and email operations are simulated.
+
+- **Links**
+	* Draft: https://datatracker.ietf.org/doc/draft-ni-oauth-batch-authorization-delegation/
+           https://github.com/NiYuan224/draft-ni-oauth-batch-authorization-delegation/blob/main/draft-ni-oauth-batch-authorization-delegation.md
+	* Code and instructions: https://github.com/NiYuan224/draft-ni-oauth-batch-authorization-delegation/tree/main/demo
+  
+- **Looking for**
+  * Participants interested in multi-agent authorization to try the demo, share use cases, and help improve the draft and implementation. 
+
+----
+### PQC DNSSEC MTL Deduplication Strategies
+
+- **Champions**
+Joe Harvey (jsharvey@verisign.com)
+Swapneel Sheth (ssheth@verisign.com)
+Andrew Kaizer (akaizer@verisign.com)
+Hongying Dong (hdong@verisign.com)
+
+
+- **Draft Specifications**
+[1] https://datatracker.ietf.org/doc/draft-kaizer-dnsop-ml-dsa-mtl-dnssec/
+[2] https://datatracker.ietf.org/doc/draft-hdong-dnsop-ml-dsa-mtl-dnssec-sigtag-ext/
+[3] https://datatracker.ietf.org/doc/draft-westerbaan-dnssec-mldsa/
+
+- **Project Info**
+This hackathon effort is looking at different Merkle Tree Ladder (MTL) deduplication techniques for post-quantum cryptography (PQC) DNSSEC. One example is looking at deduplication techniques for dynamic MTL DNSSEC signatures. These techniques help make PQC DNSSEC with MTL more efficient.  The deduplication techniques will be evaluated in comparison to transmitting pure ML-DSA-44 DNSSEC signatures per draft specification [3].
+
+- **Related Groups**
+•	PQ DNSSEC Research Side Meetings
+•	DNS Operations (DNSOP) Working Group
+•	Crypto Forum Research Group (CFRG)
+
+
+
+----
+
+### RSVP-TE Signaling over an SRv6 Forwarding Plane (RSv6-TE)
+
+**Champions**
+Vishnu Pavan Beeram, HPE (vbeeram@hpe.com)
+Colby Barth, HPE (jonathan.barth@hpe.com)
+Andrew Smith, Arrcus (andy@arrcus.com)
+Minjie Dai, HPE (minjie.dai@hpe.com) (remote)
+Jayant Agarwal, HPE (jayant.agarwal@hpe.com) (remote)
+
+**Project Info**
+This project tests RSVP-TE signaling over an SRv6 forwarding plane, as specified in [draft-beeram-teas-rsvp-srv6](https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/) ("Signaling RSVP-TE Tunnels on an SRv6 Forwarding Plane Using End.X Segment Identifiers"). RSVP-TE provides distributed bandwidth reservation. SRv6 End.X SIDs provide the forwarding path.
+
+The goal is to interop between HPE (Juniper cRPD) and Arrcus (ArcOS container).
+
+**Hackathon Plan**
+
+- Bring up the lab.
+- Interop: run RSVP-TE SRv6 tunnels between cRPD and ArcOS nodes in both directions.
+- Check the format of the protocol extensions across both implementations.
+- Review the draft text against what the implementations do, and record any gaps or ambiguities for the next revision.
+- Newcomers can follow a worksheet (available on demand) to explore the lab.
+
+**References**
+
+[1] [https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/](https://datatracker.ietf.org/doc/draft-beeram-teas-rsvp-srv6/)
+
+----
+
+### Authenticated Transfer (atproto)
+
+**Champions**
+
+Bryan Newbold (bnewbold@robocracy.org) (arriving Saturday mid-day)
+Daniel Holmgren (daniel@blueskyweb.xyz)
+
+**Project Info**
+
+Authenticated Transfer (atproto) is a decentralized social web protocol.
+
+- https://datatracker.ietf.org/wg/atp/about/
+- https://datatracker.ietf.org/doc/draft-holmgren-at-repository/04/
+- https://atproto.com
+
+**Hackathon Plan**
+
+We don't have a single plan for the hackathon, but are interested in both proving out recently proposed changes from the mailing list (floats and URIs), and chatting with adjacent standards projects (OAuth, CBOR, HPKE, WebSocket, etc).
+
+- implement floating-point numbers proposal (https://bnewbold.leaflet.pub/3myzwz2tvgk26) and document test cases
+- experiment with `at:space/` URI syntax proposal
+- experiment with IPv6-only accounts and repository hosting
+- experiment with Post-Quantum keys and signatures
+- discuss "Spaces" proposal (https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
+
+----
+
+### Glint ASN.1 checker
+- **Champions**
+
+Corey Bonnell (corey.bonnell@turbolightsolutions.com)
+Daniel Van Geest (daniel.vangeest@cryptonext-security.com)
+- **Project Info**
+
+[Glint](https://github.com/turbolight-solutions/glint) is a vibe-coded ASN.1 checker for Internet-Draft and RFC authors. It parses modules per ITU-T X.680–X.683 (2021), resolves IMPORTS against a corpus of every ASN.1 module published in an RFC or an active Internet-Draft, and verifies that ASN.1 quoted in a draft's prose matches the draft's own module. A [Web UI](https://glint.turbolightsolutions.com/) is available.
+
+In this hackathon we plan to:
+
+- integrate a Claude Code skill for applying errata to the corpus.  This will focus on ASN.1 (module and inline) errata only, the applied errata can be checked by Glint.
+- integrate with the CI/CD of internet drafts so that ASN.1 can be automatically verified before publication. Projects in the [lamps-wg](https://github.com/lamps-wg) repo will be initial targets (only due to champions' other work), but other projects are welcome.
+
+Looking for:
+
+- Project naming suggestions.
+- internet draft repos to add CI/CD.
+- ideas for improvement to the tool.
+
+----
+### Testing Congestion Control and Queue Management Mechanisms
+
+- **Champions**
+Mohit P. Tahiliani (tahiliani@nitk.edu.in)
+Vivek Jain (jain.vivek.anand@gmail.com)
+Vishal Kamath (vishalkamath.221cs261@nitk.edu.in) [Remote]
+
+- **Project Info**
+Objective 1: Testing the integration of picoquic, quiche and neqo with ns-3
+Objective 2: Exploring the feasibility of conducting congestion control and ECN/L4S related experiments using picoquic and ns-3 
+Objective 3: Testing the implementation of [rate-limited sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/) in picoquic
+Objective 4: Testing the implementation of [Alternative Backoff with ECN](https://www.rfc-editor.org/info/rfc8511/) in msquic, mvfst and quiche. 
+
+- **Related Documents**
+  - [Internet Draft on Rate Limited Sender](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
+  - [RFC 8511](https://datatracker.ietf.org/doc/rfc8511/)
+- **Related Repositories** 
+  - [ns-3](https://gitlab.com/nsnam/ns-3-dev/)
+  - [picoquic](https://github.com/private-octopus/picoquic)
+  - [quiche](https://github.com/cloudflare/quiche)
+  - [neqo](https://github.com/mozilla/neqo)
+  - [msquic](https://github.com/microsoft/msquic)
+  - [mvfst](https://github.com/facebook/mvfst)
+----
+### BMWG - YANG model for management of Network Tester
+- **Champion(s)**
+  - Vladimir Vassilev (vladimir@lightside-instruments.com)
+- **Project(s)**
+  - Model implementation with software and programmable logic for 1Gb Ethernet
+  - RFC2544 benchmark test in python
+  - TG configuration to PCAP and PCAP to TG configuration conversion scripts
+- **Specifications**
+  - [draft-ietf-bmwg-network-tester-cfg](https://tools.ietf.org/html/draft-ietf-bmwg-network-tester-cfg)
+- **Repositories**
+  - Scripting - [YANG/NETCONF benchmark orchestration code](https://github.com/lightside-instruments/rfc2544-benchmark)
+  - Software - [YANG/NETCONF device side code](https://sourceforge.net/p/yuma123/git/ci/master/tree/example-modules/ietf-traffic-generator)
+  - FPGA -[HDL](https://github.com/vlvassilev/network-interconnect-tester-cores/tree/master/lib/hw/lsi/cores/traffic_generator_gmii)
+  - Hardware - [board design](https://github.com/vlvassilev/spark)
+  - Getting started - [walk-through](https://www.hackster.io/lightside-instruments/network-programmability-kit-for-ultra96-07435c)
+  - Wireshark extcap interface for NETCONF [netconfdump](https://github.com/vlvassilev/wireshark-extcap-netconf)
+
+---
+### MIMI Interop (More Instant Messaging Interoperability)
+
+**Champions**
+- Mark Atwood, mark@reviewcommit.com (remote)
+
+**Project Info**
+
+MIMI lets different messaging providers' users talk to each other, with end-to-end encryption from MLS (RFC 9420). This project brings independent MIMI implementations together to test against the current drafts, both on the wire and against public test providers, and sends what we find back to the MIMI working group.
+
+Drafts targeted:
+- draft-ietf-mimi-protocol-07
+- draft-ietf-mimi-content-10
+- draft-ietf-mimi-room-policy-04
+- draft-ietf-mimi-arch-03
+- draft-ietf-mls-extensions (AppDataUpdate)
+
+Implementations taking part, or welcome to:
+- **mimid** (Rust, over OpenMLS): https://github.com/MarkAtwood/mimid. Covers protocol-07 hub and follower, content-10 and room-policy-04.
+- **Haven** (Rust, Apache-2.0): https://github.com/havenmessenger/interop. A runnable mTLS hub (`mimi-hubd`), with protocol-07 wire and JSON lanes.
+- Any other MIMI implementation, at any draft revision. Phoenix (mimi-content, mimi-room-policy), Arkret (coland) and nexun (mimi-rs) implementers are especially welcome. Libraries are welcome too: content and room-policy cross-checks need no server.
+
+Public test providers, up for the weekend:
+- `mimid.reviewcommit.com`: mimid. Seeded users `mimi://mimid.reviewcommit.com/u/alice`, `/u/carol` and `/u/dave` answer keyMaterial.
+- `haven.reviewcommit.com`: Haven's mimi-hubd at edd3ba1, run by the champion.
+- `mimi.havenmessenger.com`: Haven's own hub. It needs a client certificate; request one through https://github.com/havenmessenger/interop/issues.
+- Directory for each: `https://<provider>/.well-known/mimi-protocol-directory`.
+
+**Hackathon Plan**
+- Run protocol-07 end to end between providers: directory, keyMaterial, submitMessage, update (participant list, Add/Remove, leave by reference), notify, consent, identifierQuery and reportAbuse.
+- Swap mimi-content-10 encodings in both directions; bring your fixtures.
+- Cross-check room-policy-04 components.
+- Record each mismatch with its draft section and line, decide whose reading is right, and take questions about the drafts to the MIMI WG.
+- Status so far: mimid and Haven agree byte-for-byte on 25 of 25 mimid-encoded and 23 of 24 Haven-encoded protocol-07 messages, and interoperate live over the internet. Open questions include the reportAbuse success status (§5.9 names no code) and the exhausted keyMaterial response (mimi-protocol#184).
+
+**When and where**
+- Remote: Saturday 14 November 09:00-17:00 and Sunday 15 November 09:00-14:00 Pacific, then the results presentations.
+- Chat: `#mimi` on the IETF Zulip, https://zulip.ietf.org/#narrow/stream/mimi (log in with your Datatracker account), with the Hackathon Zulip stream for hackathon-wide notices.
+- Peering: to test against a provider above, open an issue at https://github.com/havenmessenger/interop/issues (Haven) or email the champion (mimid).
+
+**Related documents**
+- https://datatracker.ietf.org/wg/mimi/about/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-protocol/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-content/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-room-policy/
+- https://datatracker.ietf.org/doc/draft-ietf-mimi-arch/
+- RFC 9420 (MLS)
+
+----
+
+### DNS Operator-Led Transport Signaling (OOTS)
+- **Champions**
+  - Johan Stenstam, johan.stenstam@internetstiftelsen.se
+  - Joe Abley, joe.abley@cloudflare.com (remote)
+  - Philip Homburg, philip.hommburg@nlnetlabs.nl (remote)
+- **Project Info**
+The OOTS initiative is based on the idea of authoritative nameserver operators signaling the ability of an authoritative nameserver to provide service over other types of transport than UDP/TCP (aka "Do53"). Typically DoT, DoQ and DoH in different combinations. The OOTS signal is sent as a new SVCB Svcparam:
+
+_dns.name.server. IN SVCB oots="dot:50,doq:20"
+
+and may be sent as an opportunistic signal in the Additional Section for a response to some other query. Alternatively the signal may be sent as the Answer to a direct query for the signal.
+A resolver that understands the signal may use it to upgrade the transport used and thereby provide improved privacy for its end users.
+
+Because this signaling is directly betwen authoritative server and resolver it does not require any changes to customer zones, nor to delegation information in either parent or child zone.
+
+----
+
+### vCon
+
+- **Champions**
+
+  - Dan Petrie (dan.ietf@sipez.com)
+
+
+
+- **Project Info**
+
+**WG:** [vCon](https://datatracker.ietf.org/group/vcon/about/)
+
+**I-D:** [vCon core](https://datatracker.ietf.org/doc/draft-ietf-vcon-vcon-core/)
+
+**Repos:**
+
+  - [python_vcon - python vCon library and CLI](https://github.com/py-vcon/py-vcon/tree/integration-features)
+
+  - [py_vcon_server - vCon integration and AI enabled workflow server ](https://github.com/py-vcon/py-vcon/blob/integration-features/py_vcon_server/README.md)
+
+<br>
+
+  One of the primary goals of vCon is to ease and standardize the integration and data transfer of conversational data between enterprise or contact center:
+
+  
+
+  - Communications systems (email, sms, web chate, voice and video calls)
+
+  - Data consumer or customer data platform
+
+  - AI, ML and algorithmic analysis services, model training and testing
+
+  - CRM systems
+
+  
+
+- **Hackathon Objective**
+
+The goal for this hackathon is to implement and test the big changes between the 04 and 05 draft
+
+ - Session Object
+ 
+ - Event Object migration from party_history Object
+ 
+ - channel contributor Event
+ 
+ - Redaction tagging
+ 
+ - Migration tools for converting vCons from 04 to 05
+
+ - JSON Schema and CDDL testing
+ 
+----
+
+### QCBOR v2 / CBOR Serialization
+- **Champions**
+Laurence Lundblade <lgl@island-resort.com>
+- **Project Info**
+Complete, check and release QCBOR v2-beta-1 that supports draft-ietf-cbor-serialization. I'd like help verifying the seriaization modes support and
+that upgrading from QCBOR v1 to v2 works for your project. QCBOR is a full features CBOR library in C. See https://github.com/laurencelundblade/QCBOR/tree/dev. (My arrival in SF is delayed until Saturday night)
+
+
+----
+
+### Multipath Traffic Engineering (MPTE)
+
+- **Champions**
+
+    - Kireeti Kompella (kireeti.ietf@gmail.com)
+    - Vishnu Pavan Beeram (vbeeram@juniper.net)
+
+- **Project Info**
+Multipath Traffic Engineering (MPTE) is a traffic engineering (TE) paradigm that combines TE with Equal/Unequal-Cost Multipath (ECMP/UCMP) load-balancing. The notions of MPTE and of an MPTE Directed Acyclic Graph (MPTED) tunnel are introduced in [draft-kompella-teas-mpte].  An MPTED tunnel is a Traffic Engineering (TE) construct that contains a constrained set of paths representing an optimized Directed Acyclic Graph (DAG) from one or more ingresses to one or more egresses.  The paths that make up an MPTED tunnel traverse a set of junction nodes, and the state associated with the MPTED at each junction node constitutes a set of previous-hops and a set of next-hops over which traffic is load-balanced in a weighted fashion.  Provisioning an MPTED tunnel in a TE network using a signaling protocol involves provisioning control and forwarding plane state at each junction node. An MPTED tunnel may be realized over a Multiprotocol Label Switching (MPLS) forwarding plane or a native Internet Protocol (IP) v4/v6 forwarding plane using an appropriate tunnel type.  Depending on the deployment needs, a centralized or a distributed approach MAY be adopted for provisioning an MPTED tunnel.
+
+	- Hackathon Goals - 
+  		- Demonstrate MPTE functionality and get feedback on:
+  			- the unique characteristics of MPTE tunnels (multiple ingresses, multiple egresses, largely pinned DAG shape, handling resource failures and congestion events)
+    		- the MPTE RSVP signaling procedures and sequences in detail.
+    		- the MPTE data model for managing MPTED tunnels and junctions (config/state).
+    		- the different tunnel types (traditional/shared MPLS forwarding plane, Native v4/v6)
+
+
+- **Specifications**
+
+  - https://datatracker.ietf.org/doc/draft/draft-kompella-teas-mpte/01/
+  - https://datatracker.ietf.org/doc/draft-kompella-lsr-mptecap/00/
+  - https://datatracker.ietf.org/doc/draft-kbr-teas-mptersvp/02/
+  - https://datatracker.ietf.org/doc/draft-beeram-pce-pcep-mpted/00/
+  - https://datatracker.ietf.org/doc/draft-beeram-teas-yang-mpted/01/
+  - https://datatracker.ietf.org/doc/draft-stone-spring-mpte-sr/01/
+
+----
+### BGP MNH (MultiNexthop Attribute)
+- **Champions**
+   Kaliraj Vairavakkalai - kaliraj@hpe.com
+   
+- **Draft link**
+   https://datatracker.ietf.org/doc/html/draft-ietf-idr-multinexthop-attribute-05
+   
+- **Project Info**
+   + Implement, showcase BGP MNH
+   + Demo usecases on Juniper-HPE virtual devices (VMX, cRPD)
+   
+- **Demo Usecase Scenarios**
+   + WECMP with MNH in lieu of AddpathMultipath
+     Addpath Multipath is used widely by operators today, but has RIB scale implications with high RIB size. RIB-out at RR and RIB-in at receiving PEs both increase proportional to path-count. 
+     This demo shows how same effective result can be achieved using BGP MNH, by advertising the multiple NHs in the same attribute, expressing the multipath WECMP bandwidth ratios per nexthop leg.
+   + MNH on Flowspec routes for Redirect usecases
+     This demo will try advertising MNH on Flowspec route, to redirect traffic to a set of NHs, which could be unlabeled or labeled.
+----
+
 Don’t see anything that interests you? Feel free to add a project to the list, sign up as its champion, and show up to work on it. Note: you **must login** to the wiki to add content. If you add a new project, we suggest you send an email to (hackathon@ietf.org) to let others know. You may generate interest in your project and find other people who want to contribute to it.
+
 
 **TEMPLATE:** Copy/paste and update the following template to add your project to the list:
 
+----
 ```markdown
 ### Your Project
 - **Champions**

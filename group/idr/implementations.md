@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-08-22T20:30:32.742Z
+date: 2026-09-11T13:13:20.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -16,13 +16,13 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-vpn-prefix-orf](/group/idr/implementations/draft-ietf-idr-vpn-prefix-orf)
   
 - [draft-ietf-idr-rfc4360bis](/group/idr/implementations/draft-ietf-idr-rfc4360bis)
-
+- [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
+ - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
 
 ## Implementation reports for Drafts at IESG
- - [draft-ietf-idr-bgp-sr-policy-nrp](/group/idr/implementations/draft-ietf-idr-sr-policy-nrp)
+
 - [draft-ietf-idr-bgpls-inter-as-topology-ext](/group/idr/implementations/draft-ietf-idr-bgpls-inter-as-topology-ext)
  - [draft-ietf-idr-ts-flowspec-srv6-policy](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
-  - [draft-ietf-idr-sr-policy-seglist-id](/group/idr/implementations/draft-ietf-idr-sr-policy-seglist-id)
 
 ## Implementation report for Documents sent back to WG 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
@@ -41,7 +41,8 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-5g-edge-service-metadata](/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 - [draft-ietf-idr-best-external](/group/idr/implementations/draft-ietf-idr-best-external) 
 - [draft-ietf-idr-sla-exchange](/group/idr/implementations/draft-ietf-idr-sla-exchange)
-- [draft-ietf-idr-next-next-hop-nodes/](/group/idr/implementations/draft-ietf-idr-necxt-next-hop-nodes)
+- [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-necxt-next-hop-nodes)
+-  [draft-ietf-idr-rtc-hierarchical-rr](/group/idr/implementations/draft-ietf-idr-rtc-hierarchical-rr) 
 
  #### Core Documents sent back to WG - 2 implementatinos 
  - [draft-ietf-idr-sdwan-edge-discovery](/group/idr/implementations/draft-ietf-idr-sdwan-edge-discovery)
@@ -51,12 +52,12 @@ dateCreated: 2023-03-13T05:29:13.348Z
 - [draft-ietf-idr-wide-bgp-communities](/group/idr/implementations/draft-ietf-idr-wide-bgp-communities)
  
 #### Core - needs 2 implementatioms 
- - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) - Needs two implementatios 
+ - [draft-ietf-idr-sr-policy-ifit](/group/idr/implementations/draft-ietf-idr-sr-policy-ifit) 
  - [draft-ietf-idr-route-oscillation-stop](/group/idr/implementations/draft-ietf-idr-route-oscillation-stop)
  - [draft-ietf-idr-rtc-no-rt](/group/idr/implementations/draft-ietf-idr-rtc-no-rt)
  - [draft-ietf-idr-rs-bfd](/group/idr/implementations/draft-ietf-idr-fs-bfd) 
  - [draft-ietf-idr-elc](/group/idr/implementations/draft-ietf-idr-elc)
- - [draft-ietf-idr-next-next-hop-nodes](/group/idr/implementations/draft-ietf-idr-next-next-hop-nodes)
+
 
 #### Core Allocation 
  - [draft-ietf-idr-dynamic-cap](/group/idr/implementations/draft-ietf-idr-dynamic-cap)
@@ -114,8 +115,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
  - [draft-ietf-idr-bgpls-segment-routing-epe](/group/idr/implementations/draft-ietf-idr-bgpls-segment-routing-epe)
  - [draft-ietf-idr-bgp-ls-segment-routing-ext-implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-ext)
  - [draft-ietf-idr-bgp-extended-implementations](/group/idr/implementations/draft-ietf-idr-bgp-extended)
-- [draft-ietf-idr-RFC5575bis](/group/idr/implementations/draft-ietf-idr-rfc5575bis) 
- - [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
+- [draft-ietf-idr-flow-spec-v6 implementations](/group/idr/implementations/draft-ietf-idr-flow-spec-v6)
  - [draft-ietf-idr-ts-flowspec-srv6-policy implementations](/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
  - [draft-ietf-idr-tunnel-encaps implementations](/group/idr/implementations/draft-ietf-idr-tunnel-encaps)
  - [draft-ietf-idr-bgp-ls-segment-routing-msd implementations](/group/idr/implementations/draft-ietf-idr-bgp-ls-segment-routing-msd)

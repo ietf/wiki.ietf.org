@@ -2,7 +2,7 @@
 title: PCE WG - Path Computation Element
 description: Welcome to the PCE WG Wiki
 published: true
-date: 2026-08-20T09:27:54.150Z
+date: 2026-11-12T12:12:29.291Z
 tags: wg
 editor: markdown
 dateCreated: 2022-07-23T18:39:51.941Z
@@ -28,12 +28,13 @@ Once the chairs have concluded, the document would move to the actual WG adoptio
 
 | Draft | Remarks |
 |---|---| 
-|draft-all-pce-srv6-policy-sid-list-optimization|related draft in spring is under adoption call - draft-ali-spring-srv6-policy-sid-list-optimization|
 |draft-zhang-pce-resource-sharing | Looking for interest on the mailing list to consider the I-D again, last presented in IETF 106; Pending comments from [Adrian](https://mailarchive.ietf.org/arch/msg/pce/0gOBAglL5bQMUlcpLBJmQj82lwk/) | 
 | draft-chen-pce-sr-ingress-protection | Expired; lead author not active in IETF anymore |
 | draft-many-pce-stateful-amendment | Formal email to be sent to list by authors |
 | draft-contreras-pce-pam | last presented at IETF 126 |
 | draft-sidor-pce-binding-label-sid-extensions | last presented at IETF 126 |
+| draft-sidor-pce-lsp-state-reporting-extensions | last presented at IETF 125 |
+| draft-ali-pce-sr-policy-msd-consideration | last presented at IETF 125 |
 
 
 
@@ -45,7 +46,7 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | State | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
 | draft-gandhi-pce-pm | Pending | Polled during IETF 126 | Julien |
-| draft-lee-pce-pcep-ls-optical | Pending | Depends on draft-ietf-pce-pcep-ls : now WGLC done with consensus | - |
+|draft-all-pce-srv6-policy-sid-list-optimization|-|-|-|
 | draft-wang-pce-vlan-based-traffic-forwarding | Pending |Authors have moved VLAN forwarding details to the appendix| - |
 
 
@@ -53,7 +54,8 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 
 | Draft |  Remarks | Responsible Chair |
 | --- | --- | --- |
-| draft-ietf-pce-topology-filter | Adoption 2026-05-05; IPR-5/5 | Dhruv |
+| draft-ietf-pce-pcep-ls-optical | Adoption 2026-09-17; IPR-5/5 | Dhruv |
+
 
 
 
@@ -65,16 +67,19 @@ This is a queue of Individual I-D for which the WG adoption call is to be issued
 | Draft | Remarks |Action|
 | --- | --- | --- |
 | [draft-ietf-pce-stateful-interdomain](https://datatracker.ietf.org/doc/draft-ietf-pce-stateful-interdomain) | EXPIRED; -07 posted on 2025-03-03  | Boris and Oscar promised reviews at 122 |
-| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -10 posted on 2026-04-03 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
-| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -09 posted on 2026-02-20  | waiting for spring draft for WGLC |
+| [draft-ietf-pce-pcep-l2-flowspec](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-l2-flowspec) | -11 posted on 2026-11-02 |  this I-D relies on the processing rules as per RFC 9168; updates IANA registry for RFC 9168 |
+| [draft-ietf-pce-pcep-pmtu](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-pmtu/) | -10 posted on 2026-09-16  | waiting for spring draft for WGLC |
 | draft-ietf-pce-pcep-srv6-yang |  -09 posted on 2026-05-13 | Model refactoring to make SR as generic container |
 | [draft-ietf-pce-controlled-id-space](https://datatracker.ietf.org/doc/draft-ietf-pce-controlled-id-space) | -05 posted on 2026-06-23 | - |
-|draft-ietf-pce-pcep-bfd-parameters|-02 posted on 2026-02-24 | - |
+|draft-ietf-pce-pcep-bfd-parameters|-03 posted on 2026-10-28 | - |
 | draft-ietf-pce-operational| -03 posted on 2026-07-05  | May 'live' with WG for long while | 
-|draft-ietf-pce-bier-te | -03 posted on 2026-01-06 | Needs more review |
-|draft-ietf-pce-pcep-nrp|-01 posted on 2026-07-06 | - |
-|draft-ietf-pce-sr-mpls-sid-verification | Adopted 2026-01-14| - |
+|draft-ietf-pce-bier-te | -04 posted on 2026-10-18
+| Needs more review |
+|draft-ietf-pce-pcep-nrp|-02 posted on 2026-11-02 | - |
+|draft-ietf-pce-sr-mpls-sid-verification | -01 posted on 2026-10-18| - |
+| draft-ietf-pce-topology-filter | -02 posted on 2026-11-02 | - |
 | draft-ietf-pce-enhanced-errors | Parked WG I-D | Chairs concluded to park this document until we have implementations and mechanism using this approach |
+
 
 
 ## WG documents that authors consider ready for LC
@@ -96,10 +101,9 @@ This is a queue of PCE WG I-Ds, to be last called. This is maintained to give vi
 
 |Order|Draft | Imp Sec | Op Sec| State | Remarks | Responsible Chair | Shepherd |
 | ---| --- | --- | --- | --- | --- | --- |---|
-|1| [draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)|Y|Y|-19 posted on 2026-07-06 | In WG LC (Ends 2026-08-04; IPR - 4/5 author) + (2/3 contributor) | Dhruv | Andrew |
-|-| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
-|-| draft-ietf-pce-stateful-pce-autobw-update |N|N| -04 posted on 2026-05-03 | Added support for SR | - | - |
-|-| draft-ietf-pce-entropy-label-position |Y|Y| -05 posted on 2026-05-07 |-| - | - |
+|1| draft-ietf-pce-stateful-pce-autobw-update |Y|Y| -04 posted on 2026-05-03 | Added support for SR | - | - |
+|2| [draft-ietf-pce-pcep-ifit](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ifit) |N|Y| -09 posted on 2026-07-06 | - | - | - |
+|-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| Y|Y|Returned to WG by AD| Update and coordinate with SPRING |Dhruv|Yisong|
 |-| draft-ietf-pce-pcep-extension-pce-controller-srv6 |N|Y| -06 posted on 2026-03-16 | - | - | Yisong |
 
 
@@ -110,6 +114,8 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 | Draft| State| Remarks| Shepherd|
 | --- | --- | --- | --- |
 |[draft-ietf-pce-pcep-ls](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-ls) | WG Consensus: Waiting for Write-Up| Pending Shepherd Review since 2026-06-01| Julien|
+|[draft-ietf-pce-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-pce-sr-p2mp-policy)| Revised I-D Needed - Issue raised by WGLC | on WG agenda for IETF 127 | Adrian |
+|draft-ietf-pce-entropy-label-position |WG Consensus: Waiting for Write-Up : Proposed Standard|Pending Shepherd Review since 2026-10-12 | Andrew |
 
 
 
@@ -117,9 +123,9 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft| State| Remarks| Shepherd|AD|
 | --- | --- | --- | --- | --- |
-| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | AD Evaluation::Revised I-D Needed| Authors made an update on 2026-07-05 | Julien | Ketan|
-| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | AD Evaluation::Revised I-D Needed | AD replied June 25, 2026. Way forward TBD (Experimental suggested by Dhruv, Pending on Authors since) | Andrew | Ketan |
-|[draft-ietf-pce-pcep-extension-pce-controller-sr](https://datatracker.ietf.org/doc/draft-ietf-pce-pcep-extension-pce-controller-sr)| AD Evaluation| Sent to AD on 2026-06-23 | Yisong | Ketan |
+| [draft-ietf-pce-flexible-grid](https://datatracker.ietf.org/doc/draft-ietf-pce-flexible-grid) | IESG Evaluation::AD Followup| - | Julien | Ketan|
+| [draft-ietf-pce-state-sync](https://datatracker.ietf.org/doc/draft-ietf-pce-state-sync) | AD Evaluation::Revised I-D Needed | AD Evaluation::Revised I-D Needed | Andrew | Ketan |
+
 
 
 [AD's Document Queue](https://datatracker.ietf.org/doc/ad/ketan.talaulikar)
@@ -130,17 +136,15 @@ This is a queue of documents after WG LC and before being sent to the IESG.
 
 |Draft|State|Remarks|Shepherd|
 | --- | --- | --- | --- |
-| [draft-ietf-pce-pceps-tls13](https://datatracker.ietf.org/doc/draft-ietf-pce-pceps-tls13/) |in-progress, awaiting publisher|- | Andrew |
-| [draft-ietf-pce-sid-algo](https://datatracker.ietf.org/doc/draft-ietf-pce-sid-algo) | blocked, publish incomplete(?)| - | Dhruv | 
-|draft-ietf-pce-sr-bidir-path|in-progress, formatting|-|Dhruv| 
-|draft-ietf-pce-circuit-style-pcep-extensions|in-progress, awaiting 1st editor|-|Dhruv|
-|[draft-ietf-pce-multipath](https://datatracker.ietf.org/doc/draft-ietf-pce-multipath) | blocked, intake form pending | - | Adrian
+|draft-ietf-pce-circuit-style-pcep-extensions|Final Approval Pending|-|Dhruv|
 
 ## Recent RFCs
 
 |RFC|Remarks|Shepherd|
 | --- | --- | --- |
-| --- | --- | --- |
+| RFC 10066 | was draft-ietf-pce-multipath | Adrian |
+| RFC 10067 | was draft-ietf-pce-sr-bidir-path | Dhruv |
+
 
 
 
@@ -159,8 +163,7 @@ This is a queue of PCE WG I-Ds that have a requirement for early codepoint alloc
 
 |Draft|State|Remarks|IANA 1st|Renewal|Expiry|
 | --- | --- | --- | --- | --- | --- |
-|draft-ietf-pce-multipath|In WGLC| various |2022-05-09|2024-04-25 and 2025-04-04|2027-05-09|
-|draft-ietf-pce-sr-p2mp-policy |WG I-D|- ASSOCIATION Type<br>- Generalized Endpoint Types<br>- SR-P2MP-POLICY-CAPABILITY<br>- IPV4-SR-P2MP-INSTANCE-ID<br>- IPV6-SR-P2MP-INSTANCE-ID<br>- CCI Object Type - SR P2MP Policy|2022-05-09 and 2024-08-27|2026-04-03 and 2025-07-10|2027-05-09 and 2026-08-27|
+|draft-ietf-pce-sr-p2mp-policy |WG I-D|- ASSOCIATION Type<br>- Generalized Endpoint Types<br>- SR-P2MP-POLICY-CAPABILITY<br>- IPV4-SR-P2MP-INSTANCE-ID<br>- IPV6-SR-P2MP-INSTANCE-ID<br>- CCI Object Type - SR P2MP Policy|2022-05-09 and 2024-08-27|2026-04-03 and 2025-07-10|2027-05-09 and 2027-08-27|
   
 ### Recent Errata
 

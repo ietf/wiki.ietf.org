@@ -2,7 +2,7 @@
 title: First Meeting
 description: 
 published: true
-date: 2026-03-16T02:22:08.876Z
+date: 2026-10-27T18:13:24.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-05T19:49:53.740Z
@@ -40,5 +40,6 @@ This is a list of several administrative items that are usually handled at the f
 - Identify Tools Team Liaison (2026-2027: Jason Livingood and Nick Sullivan)
 - Identify [EODir Liaison](/group/iab/EODIR_Liaison) (2026-2027: Warren Kumari)
 - Identify [IAB_Outreach_Coordinator](/group/iab/IAB_Outreach_Coordinator) (2026-2027: Yaroslav Rosomakho)
+- Identify [IAB Liaison to the Technical Deep Dive (TDD)](https://github.com/IETF-TDD/Logistics/blob/main/IAB-Liaison.md) (2026-2027: Warren Kumari)
 - Plenary preparation
 

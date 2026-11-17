@@ -2,7 +2,7 @@
 title: Information on draft-ietf-idr-node-target-ext-comm Implementations
 description: draft-ietf-idr-node-target-ext-comm implement
 published: true
-date: 2026-08-22T18:54:40.128Z
+date: 2026-09-01T08:42:01.411Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T18:35:48.901Z
@@ -13,16 +13,17 @@ dateCreated: 2026-08-22T18:35:48.901Z
 | Implementation | Version | configuration example | reference |   
 |---|---|---|---|
 |  FRR  | 9.0  | yes | FRR  | [FRR-BGP-docs]( https://docs.frrouting.org/en/latest/bgp.html#clicmd-set-extcommunity-nt-EXTCOMMUNITY)
-|  Huawei | VRP 9 (? VRP 8) | yes | Jie Dong (VRP 8 and VRP 9 configurations | 
+|    |   |   |   | 
 {.dense}
 
 
 ## Implementation of features 
 | Features| Section | FRR  | Huawei VRP | Notes |   
 |---|---|---|---|--| 
-| Node Target Extended Community Transitive (0x01) | 2.0 | yes | yes | send and receive | Node Target Extended Community Non-Transitive (0x41) | 2.0 | yes yes | send and receive | 
-| Node Target Ext. Community match BGP ID | 3.0 | yes | yes |   
-| Node Target Ext. Community non-match BGP ID | 3.0 | yes | yes | 
+| Node Target Extended Community Transitive (0x01) | 2.0 | yes |   | send and receive 
+| Node Target Extended Community Non-Transitive (0x41) | 2.0 | yes | | send and receive | 
+| Node Target Ext. Community match BGP ID | 3.0 | yes |  |   
+| Node Target Ext. Community non-match BGP ID | 3.0 | yes |  | 
 (.dense)
 
 ## Configuration for Node Target Extended Community 

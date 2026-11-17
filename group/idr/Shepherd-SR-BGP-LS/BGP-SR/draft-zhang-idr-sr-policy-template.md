@@ -2,7 +2,7 @@
 title: Shepherd Reviews for draft-zhang-idr-sr-policy-template 
 description: Shepherd draft-zhang-idr-sr-policy-template 
 published: true
-date: 2026-01-07T01:13:05.635Z
+date: 2026-10-19T02:22:24.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-26T00:56:51.369Z
@@ -21,6 +21,18 @@ dateCreated: 2025-02-26T00:56:51.369Z
 **Early Allocation**: yes, need early allocation 
 **implementations:** H3C and ZTE (2 implementations) 
 **bgp-ls draft:** none
+
+## Review of -08 
+This draft needs to have Spring support for the draft, and discussions on interactions in IDR. 
+
+Discussions in IDR WG need to determine how templates interact with other SR-TE functions passed by IDR. 
+
+For example, what happens if two TLVs occur: 
+a) same NLRI with SR Policy TLV with Template ID 
+b) same NLRI with SR Policy TLV with no template. 
+
+Does section 5 contain enough information to determine that both sets of information are pass to the SRPM? 
+
 
 ## Review of -06 
 There are no effective changes between version -04 and -06 

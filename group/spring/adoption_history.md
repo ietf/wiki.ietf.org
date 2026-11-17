@@ -2,7 +2,7 @@
 title: spring WG Adoption History
 description: 
 published: true
-date: 2026-06-04T16:31:44.564Z
+date: 2026-11-13T17:32:46.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T18:47:02.283Z
@@ -116,5 +116,12 @@ dateCreated: 2023-08-14T18:47:02.283Z
   * 2025-04-02 Authors sent request  
   * 2026-05-18 IPR confirmation call sent (by Joel)
   * Actually adopted in January 2026
+* draft-yang-spring-sid-as-source-address
+  * [Responsible Chair: Bruno]
+  * 2026-03-20 (IETF 125) Authors asked for adoption.
+  * 2026-06-17 Clarification request: is the draft specific to VPN or general? General, authors will update the draft.
+  * 2026-06-18 draft -11 published, clarifying that this is a general topic, not VPN specific
+  * 2026-07-10 [Call for Adoption](https://mailarchive.ietf.org/arch/msg/spring/lPZ4XrZTnmy1CJMix_Q8ppLkRnw/)
+  * 2026-09-07 Adopted
 
 

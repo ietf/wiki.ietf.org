@@ -2,7 +2,7 @@
 title: IAB Retreat 2026
 description: 
 published: true
-date: 2026-08-20T02:37:37.472Z
+date: 2026-10-01T04:05:50.957Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T12:32:20.876Z
@@ -31,19 +31,218 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 [Shibuya Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/shibuya-e/index.html)
 [Cerulean Tower Tokyu Hotel](https://www.tokyuhotels.co.jp/en/cerulean-h/index.html)
 
+## Remote Participation
+https://meet.google.com/win-aofy-rmb
 
-### Confirmed In-person
+## Agenda
+
+### Wednesday, September 30, 2026 (UTC +9)
+
+To join the video meeting, click this link: https://meet.google.com/win-aofy-rmb
+Otherwise, to join by phone, dial +81 3-4545-0450 and enter this PIN: 286 361 340 7394#
+To view more phone numbers, click this link: https://tel.meet/win-aofy-rmb?hs=5
+
+#### 09:00-09:15:  Arrivals, Welcome, Goals for the Strategy Meeting (Dhruv)
+- Slides: [IAB Strategy Meeting 2026](https://docs.google.com/presentation/d/1Ul8jjCXUCXC4BGYnmpl3YfSTi0Cnl1Az/edit?usp=sharing&ouid=107384305768468665839&rtpof=true&sd=true)
+
+#### 09:15-10:30: The IAB and the IETF
+
+- BOFs and New Work in the IETF (Yaroslav, Matthew)
+    - Brainstorming: Should the IAB better support BoFs? Should we improve on the IAB BoF shepherd role? 
+    - Related reading: [Role of IAB in New Work and BOF Shepherding](https://www.iab.org/role/evaluating-new-work-proposals/)	and [IAB Statement](https://datatracker.ietf.org/doc/statement-iab-member-roles-in-evaluating-new-work-proposals/)
+    - [Slides](https://docs.google.com/presentation/d/11sSHBY46SB1cbJqYZuaqDc4anqwNagy0EJdnTCS_CBg/edit?usp=sharing)
+   - How to improve [our role in revieweing proposed WG charters](https://wiki.ietf.org/en/group/iab/IAB_Review_of_Proposed_WG_Charters) (Dhruv)
+	- [Slide](https://docs.google.com/presentation/d/1y0-zFVCd95GpgVx56GLqfOaAxv0pktZSVsyzd_3p0mQ/edit?usp=sharing)
+
+- The relationship between the IAB and the IETF (Roman)
+    - [What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB?](https://docs.google.com/presentation/d/15DzbfufljYolP7bLvmD1Mghtf9bIKJJvAXWval2cR2Q/edit?usp=sharing) 
+
+#### 10:30-10:45: Break
+
+#### 10:45-11:30: The IAB and the IRTF 
+
+- The Relationship Between the IAB and the IRTF (Dirk)
+    - Why the IAB does RGs review and How we can improve on it? 
+    - [Slide](https://docs.google.com/presentation/d/1ikfsJV6532LfidUqDZrfcONXPxyw0HtJ/edit?usp=sharing&ouid=116915396165434556239&rtpof=true&sd=true)
+    - Related Reading: [IRTF RG review process & goals](https://wiki.ietf.org/group/irtf/iabreviewprocess)
+    
+#### 11:30-12:00: IAB Open at IETF 127
+- Goal: Brainstorm topics/speakers for [technical talk](https://iab.privatewikis.ietf.org/iabopen)
+
+#### 12:00-13:00: Lunch
+
+#### 13:00-14:30: Internet Architecture
+
+- Brainstorming: Should the IAB do more architectural work? (Alvaro, Matthew)
+
+    - [Slides](https://docs.google.com/presentation/d/1cnhvQKboqk_epz6TThtG753ziq5sLdZ2g77ZHYIUSCA/edit?usp=sharing)
+
+- Possible document on architectural principles (Mark)
+
+#### 14:30-15:00: Invited Talk on IPv6 (Lorenzo Colitti)
+
+  - IPv6 deployment and what standards were necessary to unlock its various phases; what gaps are still left (enterprise and small-scale multihoming); and why IPv6 remains essential for end-to end and connectivity and how that ties into DHCP vs SLAAC vs PD 
+
+#### 15:00-15:30: Break
+
+#### ITU-PP (15:30-16:00)
+- [ITU Plenipotentiary Conference](https://docs.google.com/presentation/d/1AHnOBPNHNADzMP7td6pweLJHbAHYtlQO/edit?usp=sharing&ouid=106264033400188371525&rtpof=true&sd=true) (Tanya,ISOC) 
+
+#### IAB Processes and Administrivia (16:00-17:30)
+
+- Reviewing Formal & Informal Meeting Structure (Cindy)
+
+    - [Slides: The Earth is Not Flat and Also It Revolves Around the Sun (Part 2)](https://docs.google.com/presentation/d/1_UbeqrV-wwjzlf-dky1WM_wa6wFnOmE9MJIcXT1wEKQ/edit?usp=sharing)
+
+
+- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
+
+- IAB Responsibilities
+    - [GitHub Responsibility Tracker](https://github.com/intarchboard/responsibilities/issues) (all)
+    - [Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1)
+    - [#104](https://github.com/intarchboard/responsibilities/issues/104) - Incoming Liaison from SG17 to support Child Online Protection (COP) - *Even though it is marked for information, should we still reply?*
+    - [#90](https://github.com/intarchboard/responsibilities/issues/90) - Wider QUIC adoption - *is there any more information or we close?*
+    - [#89](https://github.com/intarchboard/responsibilities/issues/89) - Residential Proxy - *is there any next steps or we close?*
+    - [#88](https://github.com/intarchboard/responsibilities/issues/88) - How to adopt RFC 9945 for IAB Lists
+    - [#66](https://github.com/intarchboard/responsibilities/issues/66) - E-Voting Tool - *lets close*
+    - [#52](https://github.com/intarchboard/responsibilities/issues/52) - Is there standardization effort needed on Agent to Agent communication - *overtaken by events, lets close*
+    - [#49](https://github.com/intarchboard/responsibilities/issues/49) - EDM Program: Incentive alignment and Deployability - *close?*
+    - [#44](https://github.com/intarchboard/responsibilities/issues/44) - Limited Domains Architectural Guidelines
+
+- Appeal Handling (Mark)
+
+    - Does the IAB need to update its procedures?
+    - [Proposal](https://docs.google.com/document/d/1j17dwNW_IuMTGtZqOji1IWT_SLZV8NNAP_5AEzUNYGg/edit?usp=sharing)
+
+- Executive Session: Appeal Response
+
+#### 19:00: Group Dinner: Gallery 11
+
+# Thursday, October 1, 2026  (UTC +9)
+
+#### 09:00-10:30: Internet Governance
+
+- [Regional Trends Report](https://docs.google.com/presentation/d/1antBqp3w8oIQWAi5XFHph2TWHzyEh31Q/edit?usp=drive_link&ouid=106264033400188371525&rtpof=true&sd=true) (Ryan/ISOC)
+- IGF 2026 (Yaroslav, Dhruv)
+    - How to make the most out of the event? 
+    - [Shortlist of Workshops](https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing)
+    
+#### 10:30-10:45: Break
+
+#### 10:45-11:30: Long-Term Objectives for Internet Governance (Mark)
+
+- What are our long term objectives for Internet Governance? 
+- How do they align with events? 
+- Should we write it down?
+
+#### 11:30-12:00: IAB Input to RSS Governance
+
+Slides: [ICANN GWG Root Server System Governance Framework](https://docs.google.com/presentation/d/1fpmoRTl3V_Xedd2h6Te3eIYGFREsC8uI5F511jA9t80/edit?slide=id.h7c587d02ac8b8e7d_0_0&resourcekey=0-II6aqrGct1ZBUNEv9jyMvw#slide=id.h7c587d02ac8b8e7d_0_0) (Warren)
+Context: 
+- [IAB Responds to the ICANN Public Comment on "Functional Model for Root Server System Governance](https://www.iab.org/announcements/iab-response-to-functional-model-for-root-server-system-governance/)
+- [Root Server System GWG Review](https://docs.google.com/document/d/1NJxYfSZ3Y_5KYBKsi2nMeIlv8OJD84CpPY3cft9mn44/edit?usp=sharing)
+- [The Root Server System Governance Structure](https://www.icann.org/en/system/files/files/governance-structure-root-server-system-18feb26-en.pdf)
+
+#### 12:00-13:00: Lunch
+
+#### 13:00-15:00: Outreach & Liaison
+
+- [Updates from Liaison Coordinators](https://docs.google.com/presentation/d/1PitP0Lot4wX7Ww-G3-GbTjlDI2uSx_3oUbyT6_Ia1Ns/edit?usp=sharing) (Suresh, Warren, Yaroslav, Yingzhen)
+
+	- [Relationship with ETSI](https://docs.google.com/presentation/d/1Y_bzdGOe4K4AXxZ7D-QFPAVcF4ikxWM42i0oI_bwSdo/edit?usp=sharing) (Suresh)
+
+- [Outreach Planning for 2027](https://docs.google.com/presentation/d/1hekHUt2kECFePlx_QFW80r7BLaVw9ugn/edit?slide=id.p1#slide=id.p1) (Yaroslav, Warren, Dhruv)
+    - [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/) - updated
+    - Any progress on [Local NOG](https://github.com/intarchboard/responsibilities/issues/51#issuecomment-3673861097)?
+
+- Improving collaboration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
+	- [Proposal](https://docs.google.com/document/d/1PJyHlPyaX6o6is9mINItR-RjVC3Y3yZnGK7Qw_LyXIY/edit?usp=sharing)
+
+- [Improving collaboration with ICANN and coordination among ICANN appointees](https://docs.google.com/presentation/d/1DubNyRPgwr2_gh-G3ovOlLd5zhj3o2LliiyJFPkVhQU/edit?usp=sharing) (Warren, Suresh)
+
+- [Relationship with Linux Foundation](https://docs.google.com/presentation/d/1BTkAyw2-faFlAKVLFWZ8Y7d4VHA6ZaGa0zJvz7fRWt4/edit?usp=sharing) - should we do something? (Dhruv, Suresh)
+
+- Brainstorming: What else to be done to get more operator involvement at the IETF? (Warren, Suresh)
+	- Lessons from RIPE/NANOG/APNIC. See [this](https://github.com/intarchboard/responsibilities/issues/78#issuecomment-4631219855)
+
+#### 15:00-15:30: Break
+
+#### 15:00-16:30: Workshops & Programs
+
+
+- Ideas for Future Workshops (All)
+    - [Year 2038 (and other years) problems](https://ant.isi.edu/~hardaker/tmp/IAB_Workshop_on_Y2038.pdf) (proposed by Wes)
+    - [Workshop on Networked-Assisted Media Delivery (jointly with MPEG/SVTA)](https://docs.google.com/presentation/d/17gNONb9VDbOE5JBa0JTLF0S3B_i2W65E7rhek1IqJKI/edit?usp=sharing) (Ali)
+
+- PQ Workshop Prep (Nick/Yaroslav)
+
+- [Review of EDM, what's next?](https://docs.google.com/presentation/d/1jCXHDWmnVBqv0Z0uTEE6cYBvkZG6fvGhzjF3wSifnIQ/edit?usp=sharing) (Warren)
+
+- Ideas for Future IAB Technical Program (All)
+	- Are there any changes to be made in ways we do technical programs?
+
+
+#### 16:30-17:00: Strategy Meeting Debrief and Review of Action Items
+- What went well? What could be better?
+- What topics were raised that would benefit from further discussion?
+- What are the next steps to move things forward, and who owns them?
+
+- [Slides](https://docs.google.com/presentation/d/1E64SePZMW3imNlM72bF4YTOtbb2g85sklZTzNhVy2PQ/edit?usp=sharing)
+
+## Guidance
+- Please add slides (if any) to the agenda in the wiki to provide an oppurtunity for others to review in advance
+
+
+## Proposed Topics (not yet on the agenda) / Parking Lot
+
+- add items here
+
+
+
+
+## Topics for Future IAB+IESG
+
+> Also see [Joint topics in IESG Strategy Meeting Agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
+
+## Side Activities 
+### IAB Social/Dinner for Sept 30th Evening
+- Time: 19:00
+- Location: Gallery 11 restaurant, inside the Hotel Indigo Shibuya (15 minute walk from Google)
+  - [2 Chome-25-12 Dogenzaka, Shibuya, Tokyo 150-0043, Japan](https://maps.app.goo.gl/R2bseEgeE7sKUzQm6)
+
+### WIDE
+- Date: 2nd Oct
+- Time: 0900-1200 (room opens at 0830)
+- Venue: Keio University
+> G-Lab, 6th Floor, East Research Building
+Keio University Mita Campus
+https://www.keio.ac.jp/en/about/campus/mita/map/
+The East Research Building is Building No. 13 on the campus map.
+No registration or check-in is required. Please come directly to the meeting room.
+
+>Google Map:  https://maps.app.goo.gl/yRKaivZ8ExndrGDg6 
+Jun: We will be at the bldg by the street. You use the door at left, (right is security box) get into the bldg from the left entrance, and catch the elevator to 6th floor.
+- Agenda: 
+	- [Watt-Bit](https://www.meti.go.jp/english/press/2025/0612_001.html) collabration between electricity and telecommunications entities
+  - Medical device standardization with the Internet from ISO/IEC point of view.
+  
+  
+IRTF: [grids meets the Internet](https://datatracker.ietf.org/meeting/126/materials/slides-126-sustain-report-from-passau-workshop-part-2-dirk-kutscher-00)  
+
+> Anyone intrested in [teamLab Borderless](https://www.teamlab.art/e/tokyo/): MORI Building DIGITAL ART MUSEUM, Azabudai Hills after we are done with Keio university?
+
+
+## Confirmed In-person
 
 | **Name** | **Dietary Restrictions** | **Arriving** | **Leaving** | **Hotel**                  |
 |----------|--------------------------|--------------|-------------|----------------------------|
-| Dhruv    | None                     | 2026-09-28   | 2026-10-02  |  JR-EAST HOTEL METS SHIBUYA|
+| Dhruv    | None                     | 2026-09-28<br>NRT JL0754<br>@ 1435 | 2026-10-02  |  JR-EAST HOTEL METS SHIBUYA|
 | Warren   | None                     | 2026-09-28   | 2026-10-02  | Shibuya Stream Excel Tokyu |
-| Dirk     | None, but want good sushi| 2026-09-28   | 2026-10-02  | TBD                        |
 | Yaroslav | None                     | 2026-09-29   | 2026-10-09  | TBD                        |
-| Chris I  | None                     | TBD            |    TBD         |   TBD (likely Westin nearby)                         |
-| Yingzhen | None                     |      TBD        |     TBD        |    TBD                        |
+| Chris I  | None                     | 2026-09-29            |    2026-10-02         |   Tokyo Marriott Hotel                         |
+| Yingzhen | None                     |  2026-09-28   |2026-10-03        |    Shibuya Excel                       |
 | Matthew  | None, +1 to Dirk         |  2026-09-28  |     2026-10-02        |    Doubletree Ariake                        |
-| Suresh  | Vegetarian                 |     2026-09-29     |  2026-10-02  |    TBD                        |
+| Suresh  | Vegetarian                 |     2026-09-29     |  2026-10-02  |    Westin                        |
 | Alvaro | None | 2026-09-28 | 2026-10-02 | Shibuya Stream |
 | Mark | No shellfish | 2026-09-22 | 2026-10-02 | Shibuya Stream |
 | Ali | No pork (and love sushi) | 2026-09-26 | 2026-10-03 | Sheraton Miyako |
@@ -55,57 +254,12 @@ These hotels close to the venue (No warranty expressed or implied :-P):
 
 ### Remote
 - Ryan Polk
+- Dirk Kutscher
 
 ### Regrets
 - Jason Livingood
+- Jana Iyengar
 
-## Agenda - TBD
-
-## Proposed Topics
-
-- Evaluation of Formal and Informal Meeting Structure of the IAB, what can be done async, what is appropriate for Informal v/s Formal? (Cindy)
-	- Evaluation of Meeting time rotations v/s Fixed time?
-- [IAB Strategy Meeting Planning](https://iab.privatewikis.ietf.org/en/strategy_meeting) (Dhruv)
-- Why IAB does RG review and How we can improve on it? (Roman/Dirk)
-- What is the correct framing for IAB statements when we talk about the relationship between IETF and IAB? 
-- Update to Appeal Handling Procedures (if any) (Mark)
-- What are our long term objectives for Internet Governance? How do they align with events? Should we write it down. (Mark)
-- Outreach Related Topics (Yaroslav & Warren)
-	- IGF 2026 
-  - Planning for 2027 
-  	- [Miro Board](https://miro.com/app/board/uXjVGpFV1Yk=/)
-    - Any progress on Local NOG?
-- ISOC Related Topics (Ryan)
-	- ITU-T PP
-- Workshop Related Topics
-	- PQ Workshop Recap and Next Steps (Nick)
-  - Ideas for future workshop?
-- ISE Survey Results (Dhruv)
-- Improving collabration with RIRs - possible admin support group - IETF-RIR (Dhruv, Suresh)
-- Improving collabration with ICANN and coordination among ICANN appointees (Warren, Suresh)
-- Introspection: Role of IAB in this "AI Moment"
-	- agentic AI architecture for instance
-- Possible document: architectural principles (Mark)
-- Relationship with Linux Foundation - should we do something? (Dhruv, Suresh) 
-- Brainstorming: Emerging Trends and Where the IAB Can Contribute?
-- Brainstorming: Should the IAB do more architectural work? If so, how?
-- Brainstorming: What else to be done to get more operator involvement at the IETF?
-- Brainstorming: Should the IAB better support BoFs? Should we develop IAB BoF shepherd role? (Yaroslav)
-- [GitHub Responsability Tracker](https://github.com/intarchboard/responsibilities/issues)
-- Invited Talk: Lorenzo (TBC)
-
-## Topics for Future IAB+IESG
-
-> Also see [Joint topics in IESG Strategy Meeting Agenda](/group/iesg/RetreatInfo#joint-topics-with-the-iab-for-future)
-
-## Side Activities 
-- IAB Social/Dinner for Sept 30th Evening
-
-#### if there is interest...
-- Meet Jun Murai, WIDE Project 
-- Visit any University in Tokyo
-	- Ali will be visiting universities in Osaka and Tokyo region
-- Any outreach activity?
 
 
 ## All Retreat Archives

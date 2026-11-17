@@ -2,7 +2,7 @@
 title: MPLS WG Document Statuses
 description: Shows the queues for document processing
 published: true
-date: 2026-08-23T23:09:06.686Z
+date: 2026-10-20T14:43:53.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-20T17:40:21.250Z
@@ -17,7 +17,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd  |
 | --- | --- | --- | --- |
-| 2026-08-11 | draft-beeram-spring-rsvp-sr-mpls | Negotiating with SPRING chairs | Tarek |
+
 ## Queued for WG Adoption Poll
 
 Documents in this state are waiting for the chairs to issue an adoption poll. Adoption polls and working group last calls will be paced by the chairs so that the working group participants are not swamped with review activity.
@@ -26,12 +26,12 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll done | WG Adoption Poll | Remarks | Responsible Chair |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-25 | draft-beeram-mpls-rsvp-sr | Completed | Pending revision update  | | Tarek |
 
 ## In Adoption Poll
 
 | Draft | Adoption Poll end date | Remarks | Responsible Chair |
 | --- | --- | --- | --- |
-
 
 ## Adoption Poll Complete But Pending Author Action
 
@@ -39,7 +39,6 @@ Adoption polls may succeed or fail. In the case of failure, the document moves b
 
 | Draft | Date | Action Needed | Responsible Chair | Notes |
 | --- | --- | --- | --- | -- |
-
 
 ## MPLS WG Documents
 
@@ -51,6 +50,7 @@ The authors have indicated to the chairs that they consider these documents read
 
 | Date | Draft | Remarks | Shepherd |
 | --- | --- | --- | --- |
+| 2026-09-28 | draft-ietf-mpls-stamp | Plan presentation at IETF-127 | Tony |
 
 ## Queued for WG Last Call
 
@@ -60,13 +60,11 @@ This is generally a FIFO queue, but special cases may arise and the chairs may i
 
 | Date | Draft | IPR Poll | RTG Dir Review | Remarks | Shepherd |
 | --- | --- | --- | --- | --- | --- |
-| 2026-08-11 | draft-ietf-mpls-on-path-telemetry-flag | Started 2026-08-11 | Pending RTG Dir review by Gyan Mishra |  | Tony |
 
 ## In Working Group Last Call
 
 | Draft | Date Started | Date Ends | IPR Poll complete? | Shepherd | Notes |
 |---|---|---|---|---|---|
-| draft-ietf-mpls-mna-ioam | 2026-08-19 | 2026-09-03 | Yes | Adrian | |
 
 ## Working Group Last Call Completed Pending Action
 

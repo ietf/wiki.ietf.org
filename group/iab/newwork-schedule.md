@@ -2,7 +2,7 @@
 title: New Work "Help Desk"
 description: 
 published: true
-date: 2026-07-20T09:58:38.223Z
+date: 2026-11-16T19:46:33.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-28T10:06:07.006Z
@@ -11,6 +11,24 @@ dateCreated: 2024-06-28T10:06:07.006Z
 # New Work "Help Desk"
 
 Please put your name in this list to sign up for a slots. The goal is to have 2-3 IAB members commited for each slot, but more is always better!  
+
+TODO: Ask HotRFC and dispatch chairs to mention IAB New Work "Help Desk"
+
+# IETF 127 San Francisco
+
+## Monday 16th November
+
+Beverage Break, **11:00-11:30** (after dispatch)
+Volunteers: Dhruv, ~~Alvaro~~, Warren, ~~Matthew~~
+
+- Mark Blunk (apple) stopped by for guidance on his [work](https://datatracker.ietf.org/doc/draft-apple-cfrg-vdaf-preamble/) and does it belong in CFRG or not. 
+- Beena Sharma (VeDA) interested in how IAB and IETF deal with policy related to Agentic Identity
+- Weiqang and Mohit Tahiliani stopped by to say Hi
+
+## Thursday 19th November
+
+Beverage and Snack Break, **16:00-16:30**
+Volunteers: Dhruv, Warren, Matthew, Suresh
 
 # IETF 126 Vienna
 
@@ -22,17 +40,18 @@ TODO: Ask HotRFC and dispatch chairs to mention it
 Beverage Break, **11:00-11:30** (after dispatch)
 IAB Members: Dhruv, Matthew, Warren
 
-Tara Tarakiyee asked about how to progress [work](https://tarakiyee.github.io/funder-guide-draft/draft-tarakiyee-funder-guide.html) "Evaluating Technical Standards in the Public Interest: A Guide for Public Funding Organizations", we directed them to first post in EODIR and then take the work forward.  
-
-Some other side conversation were unrelated to new work! 
-
-Talked to Jim if some dispatch folks can pointed to the IAB if they need some help. 
+- Tara Tarakiyee asked about how to progress [work](https://tarakiyee.github.io/funder-guide-draft/draft-tarakiyee-funder-guide.html) "Evaluating Technical Standards in the Public Interest: A Guide for Public Funding Organizations", we directed them to first post in EODIR and then take the work forward.  
+- Some other side conversation were unrelated to new work! 
+- Talked to Jim if some dispatch folks can point to the IAB if they need some help. 
 
 ## Thursday 23rd July
 
 Beverage and Snack Break, **16:00-16:30**
 IAB Members: Dhruv, Matthew, Warren, Suresh
 
+- Tom newton and Andrew campling stopped by
+- Hesham from RIPE talked about enum and other matters where collabration can be done
+- Julien Mais Nokia talked to us about PEARG slides
 
 # IETF 125 Shenzhen
 

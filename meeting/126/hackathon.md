@@ -2,7 +2,7 @@
 title: IETF 126 Hackathon
 description: 
 published: true
-date: 2026-07-20T09:41:13.438Z
+date: 2026-09-04T10:00:03.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T23:23:50.526Z
@@ -824,7 +824,7 @@ Summarized in [draft-intra-handshake-fail](https://datatracker.ietf.org/doc/draf
       - [Confidential Computing Consortium (CCC)  Attestation SIG's adopted project](https://github.com/ccc-attestation/attested-tls-poc)
 
 - **Project Background**
-   > Code under Apache-2.0 License: https://github.com/CCC-Attestation/formal-spec-KBS
+   > Code under Apache-2.0 License: https://github.com/muhammad-usama-sardar/intra-handshake.fail
    > Paper: https://www.researchgate.net/publication/408219182_Intra-handshakefail_CVE-2026-33697_High-severity_CVE_in_Attested_TLS
 
 
