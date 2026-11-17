@@ -40,9 +40,15 @@ If one have requirements on periodic rekeying and re-authentication one will hav
 
 Independent of the need for forward secrecy rekeying, QUIC supports the key update mechanism, see [RFC 9001 Section 6](https://www.rfc-editor.org/rfc/rfc9001.html#name-key-update). This mechanism is required to handle situations where the used cipher suit approaches its AEAD limit, or simply because the peer excercise the mechanism, possibly for implementation dependent reasons. 
 
+### Connection close
+
+QUIC provides several methods to close connections. It does not offer a method to announce planned closures (aka graceful close). Applications can provide their own method to achieve this.
+
 ## QUIC Streams
 
-QUIC supports multiple streams (multistreaming) within a connection [RFC900]. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+QUIC supports multiple streams (multistreaming) within a connection [RFC9000]. Each stream in a connection has a unique identifier (a stream ID), identifiers are never reused. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+
+The data carried on QUIC streams is entirely an application concern. QUIC provides the means to an open stream, reliably exchange data, and close it. Applications need to provide comprehensive documentation on how all of the stream behaviours are used. Failure to do so can raise interoperability risks.
 
 There are different services that can be provided using a QUIC stream:
 
@@ -50,13 +56,23 @@ There are different services that can be provided using a QUIC stream:
 
 QUIC provides in-order reliable delivery using a Stream [RFC9000]. These can be uni- or bi-directional and initiated by either client or server. Closing streams can be done reliably or using a reset, which does not provide delivery guarantees.  
 
-Applications may need to define error codes to indicate reasons for closing streams. 
+QUIC does not retransmit packets. Stream data reliability is achieved by retransmission of lost data. Implementations can transmit different ranges of stream data. 
+
+Applications can use the difference between reliable and unreliable close to indicate application-specific behaviours.
+
+A stream reset is communicated using a frame that carries an error code field. This field represents an application-level code, rather than a transport one. Applications need to consider defining one or more error codes to indicate reasons behind the reset.
+
+Some implementations may expose an API that communicates transport acknowledgement of received stream data. However, this does not guaranteed delivery to an application layer. Application may want to define an application-level acknowledgement method.
 
 ### Unreliable Datagrams
 
 The [QUIC DATAGRAM frame](https://datatracker.ietf.org/doc/rfc9221/) is a widely-implemented QUIC extension. This provides unreliable datagrams, where the datagram payload must fit within the MTU available to the QUIC connection. 
 
 Datagrams are congestion-controlled, but not subject to flow control. Because there are no reliability or order guarantees, applications may need to build these on top if they are required.
+
+Datagrams losses can be detected; unreliability is achieved by not retransmitting the lost data. Some implementations may expose an API that communicates transport acknowledgement of received datagram data. However, this does not guaranteed delivery to an application layer. Application may want to define an application-level acknowledgement method.
+
+QUIC datagrams do not provide any transport multiplexing identifier. Applications that require the concept of independent data flows based on datagrams need to implement application-layer multiplexing. A common strategy is place this at the beginning of the datagram payload.
 
 ### Stream resets can occur asynchronously
 
@@ -65,6 +81,20 @@ A QUIC stream can be reset by the sender, but a reset can be requested by the re
 [RFC9000] defines a bidirectional stream, that can be reset in one direction, but continue to transfer data normally in the other direction. Experience is recommended to understand how this is realised in actual implementations.
 
 The [Reliable Reset-at extension](https://datatracker.ietf.org/doc/draft-ietf-quic-reliable-stream-reset/) provides more control over data delivery for reset streams.
+
+### Stream concurrency limits
+
+QUIC uses a window-based limit to the number of streams that can be open at any time. Endpoints advertise an initial limit that controls how many streams can be opened by the peer. The limit can be updated through the lifetime of the connection.
+
+Open streams consume resources on both endpoints. Applications that depend on high levels of concurrency should consider any requirements for concurrency minimums and performance impact or failure modes if concurrency limits fall lower.
+
+## Designing for application mapping extensibility
+
+The QUIC transport protocol provides several primitives that have large code point spaces. For example, the application error code space can hold 2^62-1 values.
+
+In order to support the long-term maintainability of application protocols using QUIC, they should be designed with extensibility in mind.
+
+[Considerations For Maintaining Protocols Using Grease and Variability](https://datatracker.ietf.org/doc/draft-edm-protocol-greasing/) provides several useful recommendations. Key points include ignoring reception of primitives using unknowncode points, and reserving a large range of "grease" values solely for the purpose of testing this requirement. Application likely also from creating their own IANA registries, and registration policies, to ensure long term success.
 
 ## Designing for new QUIC versions/evolution
 
