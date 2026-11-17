@@ -46,7 +46,7 @@ QUIC provides several methods to close connections. It does not offer a method t
 
 ## QUIC Streams
 
-QUIC supports multiple streams (multistreaming) within a connection [RFC900]. Each stream in a connection has a unique identifier (a stream ID), identifiers are never reused. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
+QUIC supports multiple streams (multistreaming) within a connection [RFC9000]. Each stream in a connection has a unique identifier (a stream ID), identifiers are never reused. Each stream is an independent data flow. This avoids head-of-line-blocking between streams. However, there are no ordering or priority guarantees between data sent using different streams. Managing this is application-specific.
 
 The data carried on QUIC streams is entirely an application concern. QUIC provides the means to an open stream, reliably exchange data, and close it. Applications need to provide comprehensive documentation on how all of the stream behaviours are used. Failure to do so can raise interoperability risks.
 
