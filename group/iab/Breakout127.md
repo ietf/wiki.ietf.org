@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-11-17T23:46:20.595Z
+date: 2026-11-17T23:54:12.315Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -44,6 +44,7 @@ For food & beverage service requests, please include:
 - 09:00-12:00: UNAVAILABLE (Private RIR meeting, contact Paige)
 - 14:00-15:00: Possible IAB Workshop (Dhruv)
 - 16:00-17:00: Liaison Coordinator Office Hours
+- 17:00-18:00: Brain Storming (Alvaro, Yingzhen)
 
 ## Thursday 
 - 07:30-09:00: IAB Business Meeting
