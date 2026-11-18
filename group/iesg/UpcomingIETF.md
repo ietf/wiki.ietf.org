@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-18T19:32:47.680Z
+date: 2026-11-18T22:46:53.135Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -213,7 +213,8 @@ If you would like your meeting to be added to the main meeting agenda, please em
 
 * 10:45 - 11:30 -- SQUAD BoF follow-up (Gorry - Private)
 * 11:30 - 12:00 -- Reserved for Roman and Jay by Andy
-* 16:00 - 16:30 -- TDD chairs meeting
+* 16:00 - 16:30 -- TDD chairs meeting (Andy)
+* 16:30 - 17:30 -- RDAP Extensions Draft (Andy)
 * 17:30 - 18:00 -- Pre-plenary relaxation time (Éric)
 
 
