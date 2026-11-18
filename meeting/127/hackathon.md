@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-18T01:01:32.373Z
+date: 2026-11-18T01:07:00.953Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -926,13 +926,14 @@ Erik Språng  (sprang@google.com)
 
 ---
 
-### Agentic AI Project for Network, Security, and AI Service Management
+### An Agentic AI Security Framework for Security Management in Mobile Networks
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-  - The goal of this project is to demonstrate the feasibility of an Agentic AI framework for the autonomous management of networks, security, and AI services based on natural language intents. The framework consists of a User System, a Cloud System, an Edge System, and Devices with Worker Agents.
-  - The framework uses Intent-Based Networking (IBN) to translate human-language intents into structured policies through an Intent Translator. A Knowledge Base and an Agent Catalog support policy validation and the selection of appropriate Worker Agents. These agents collaborate through the Agent-to-Agent (A2A) protocol and access tools and resources through the Model Context Protocol (MCP) to execute the requested services. The framework supports policy enforcement, continuous monitoring, and reporting of execution results, enabling users to manage network, security, and AI services through coordinated AI agents.
+  - This document proposes an Agentic AI Security Framework for security management in mobile networks.  A Security Application Function (SAF) Agent translates a network administrator's security intent to hold security objectives into a high-level security policy.  A Security Control Function (SCF) Agent receives the high-level policy and translates it into a low-level security policy that will be enforced by distributed Network Security Functions (NSFs) in mobile networks.
+  - The SCF Agent sends the low-level security policy to an appropriate NSF.  Policy generation, monitoring, and continuity across a data path are integrated into a closed-loop control with an Observe-Reason-Act-Verify process.  The proposed framework can be applied to enterprise, campus, cloud, and edge networks along with existing network-management mechanisms.  This document describes the architecture, a policy-continuity example, standard integration points, and security considerations.
 - **References**
+https://datatracker.ietf.org/doc/draft-ahn-nmrg-5g-security-i2nsf-framework/04/
 https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
 
 ---
