@@ -2,7 +2,7 @@
 title: IETF 127 Hackathon
 description: 
 published: true
-date: 2026-11-16T13:41:12.312Z
+date: 2026-11-18T01:01:32.373Z
 tags: hackathon
 editor: markdown
 dateCreated: 2026-04-06T19:09:13.171Z
@@ -937,16 +937,18 @@ https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
 
 ---
 
-### I2ICF Project for Intent-Driven Autonomous SDV Robots
+### An Agentic AI Framework for the Management of Networks, Security, and AI Services (AAiF) 
 - **Champions**
 Jaehoon Paul Jeong (pauljeong@skku.edu)
 - **Project Info**
-  - The goal of the Interface to In-Network Computing Functions (I2ICF) is to demonstrate the feasibility of an intent-driven autonomous navigation framework for Software-Defined Vehicle (SDV) robots. The framework enables users to specify a destination through natural language intent, allowing an SDV robot to autonomously perceive its surroundings, plan its route, and make navigation decisions.
-  - During navigation, the SDV robot continuously monitors its environment and dynamically adjusts its route in response to obstacles and changing conditions. The framework is demonstrated in a virtual environment, where the SDV robot autonomously navigates to its destination. Users can monitor the entire navigation process and review the robot's decisions and corresponding actions, providing visibility into its autonomous behavior.
+  - The goal of An Agentic AI Framework for the Management of Networks, Security, and AI Services (AAiF) is to demonstrate the feasibility of an intent-driven agentic AI framework for enforcing human-language intents on target devices, such as Software-Defined Vehicles (SDVs). The framework translates a user’s natural language intent into a policy through an Intent Translator in the Edge Agent, and the Worker Agent on each target device enforces it. Agents communicate via the Agent-to-Agent (A2A) protocol and the Model Context Protocol (MCP). It targets data centers, corporate, campus, and home networks rather than public networks such as the Internet.
+  - As a use case, a user specifies a destination through natural language intent, allowing an SDV to autonomously perceive its surroundings, plan its route, and make navigation decisions. During navigation, the SDV’s Worker Agent reports monitoring data to the Orchestrator in the Edge Agent. The Orchestrator uses it as closed-loop feedback, so the route is dynamically adjusted in response to obstacles and changing conditions. The use case is demonstrated in a virtual environment, where users can monitor the entire navigation process and review the SDV’s decisions and corresponding actions, providing visibility into its autonomous behavior.
 - **References**
-https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-problem-statement/01/
-https://datatracker.ietf.org/doc/draft-jeong-nmrg-i2icf-framework/01/
-https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/03/
+https://datatracker.ietf.org/doc/draft-jeong-nmrg-agentic-ai-framework/
+https://datatracker.ietf.org/doc/draft-gu-nmrg-intent-translator/
+https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases/
+https://datatracker.ietf.org/doc/draft-an-nmrg-i2icf-cits/
+
 
 ---
 ### CoAP over BPv7 with IPN Addressing and Message Aggregation
