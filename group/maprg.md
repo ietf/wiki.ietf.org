@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-07-24T11:35:30.204Z
+date: 2026-11-19T21:47:48.807Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -17,6 +17,25 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 
 ## MAPRG Presentations
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
+
+
+### November 2026 (San Francisco) [YouTube](https://youtu.be/sFl3Y2CiNB8?t=40s) [intro slides](https://datatracker.ietf.org/doc/slides-127-maprg-intro-mirjadave/)
+
+- Heads-up talk: Email Security in Practice and Provider Dependencies [YouTube](https://youtu.be/sFl3Y2CiNB8&t=5m40s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-email-security-in-practice-and-provider-dependencies/), David Plonka, November 2026
+
+- Heads-up talk: Specifying and Managing Disclosure Constraints on Network Research Measurements [YouTube](https://youtu.be/sFl3Y2CiNB8&t=12m24s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-specifying-and-managing-disclosure-constraints-on-network-research-measurements/), Nik Sultana, November 2026
+
+- Measuring Starlink Direct to Cell on ordinary phones, from crowdsourced scans and drive tests [YouTube](https://youtu.be/sFl3Y2CiNB8&t=21m3s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-ookla-measuring-starlink-direct-to-cell-on-ordinary-phones-in-the-wild/), Luke Kehoe, November 2026
+
+- Revisit DANE for the Web: A Performance Perspective [YouTube](https://youtu.be/sFl3Y2CiNB8&t=42m) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-revisit-dane-for-the-web-a-performance-perspective/), Yixin Sun, November 2026
+
+- TurboTest: Learning When Less Is Enough Through Early Termination of Internet Speed Tests [YouTube](https://youtu.be/sFl3Y2CiNB8&t=58m55s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-turbotest-learning-when-less-is-enough-through-early-termination-of-internet-speed-tests/), Haarika Manda 2026
+
+- Evaluating SCONE for Adaptive Bitrate Video Streaming over Satellite Networks [YouTube](https://youtu.be/sFl3Y2CiNB8&t=1h15m12s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-evaluating-scone-for-adaptive-bitrate-video-streaming-over-satellite-networks/), Raghav Kejriwal, November 2026
+
+- PrivAudit: A Dual-Lens Auditing Framework for Website Privacy Practices under the CCPA [YouTube](https://youtu.be/sFl3Y2CiNB8&t=1h30m14s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-privaudit-a-dual-lens-auditing-framework-for-website-privacy-practices-under-the-ccpa/), Mohamed Dawoud, November 2026
+
+- Split Alignment: Diffusing SPF Vulnerabilities with DMARC [YouTube](https://youtu.be/sFl3Y2CiNB8&t=1h43m46s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-split-alignment-diffusing-spf-vulnerabilities-with-dmarc/), Muhammad Hamza, November 2026
 
 ### July 2026 (Vienna) [YouTube](https://youtu.be/Rm4XAVJ4Pxs?t=12s) [intro slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-intro-mirjadave)
 - Heads-up talk: Towards a Common Measurement Framework for Large-Scale libp2p Deployments using CBOR-based Verifiable Telemetry [YouTube](https://www.youtube.com/watch?v=Rm4XAVJ4Pxs&t=5m25s) [slides](https://datatracker.ietf.org/meeting/126/materials/slides-126-maprg-maprg-towards-a-common-measurement-framework-for-large-scale-libp2p-deployments-using-cbor-based-verifiable-telemetry--johanna-m), Johanna Moran, July 2026
