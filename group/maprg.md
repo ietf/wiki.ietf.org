@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-11-19T21:47:48.807Z
+date: 2026-11-19T21:49:06.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -19,7 +19,7 @@ For the full charter see:https://datatracker.ietf.org/rg/maprg/charter/
 One of the main deliverables of MAPRG is measurement reports in the form of presentations. Here are the recordings of select presentations:
 
 
-### November 2026 (San Francisco) [YouTube](https://youtu.be/sFl3Y2CiNB8?t=40s) [intro slides](https://datatracker.ietf.org/doc/slides-127-maprg-intro-mirjadave/)
+### November 2026 (San Francisco) [YouTube](https://youtu.be/sFl3Y2CiNB8?t=40s) [intro slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-intro-mirjadave)
 
 - Heads-up talk: Email Security in Practice and Provider Dependencies [YouTube](https://youtu.be/sFl3Y2CiNB8&t=5m40s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-email-security-in-practice-and-provider-dependencies/), David Plonka, November 2026
 
