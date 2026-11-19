@@ -2,7 +2,7 @@
 title: Advice for WG Chairs
 description: 
 published: true
-date: 2022-12-20T01:11:34.980Z
+date: 2026-11-19T17:31:40.010Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T01:11:30.818Z
@@ -18,6 +18,8 @@ Please take time to browse the following URL:
 
 It contains many valuable resources.
 
+- [Advice for WG Chairs](/group/ops/Chairs)
+- [Handling drafts that only define IPFIX Information Elements](/group/ops/ipfix-ie-requests#notes-for-wg-chairs)
 
 ## Meetings 
 
