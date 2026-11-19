@@ -2,7 +2,7 @@
 title: MAP RG Wiki
 description: 
 published: true
-date: 2026-11-19T21:54:06.700Z
+date: 2026-11-19T22:11:20.567Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:30:29.448Z
@@ -21,9 +21,9 @@ One of the main deliverables of MAPRG is measurement reports in the form of pres
 
 ### November 2026 (San Francisco) [YouTube](https://youtu.be/sFl3Y2CiNB8?t=40s) [intro slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-intro-mirjadave)
 
-- Heads-up talk: Email Security in Practice and Provider Dependencies [YouTube](https://youtu.be/sFl3Y2CiNB8&t=5m40s) [slides](https://datatracker.ietf.org/doc/slides-127-maprg-email-security-in-practice-and-provider-dependencies/), David Plonka, November 2026
+- Heads-up talk: Email Security in Practice and Provider Dependencies [YouTube](https://youtu.be/sFl3Y2CiNB8&t=5m40s) [slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-email-security-in-practice-and-provider-dependencies), David Plonka, November 2026
 
-- Heads-up talk: Specifying and Managing Disclosure Constraints on Network Research Measurements [YouTube](https://youtu.be/sFl3Y2CiNB8&t=12m24s) [slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-email-security-in-practice-and-provider-dependencies), Nik Sultana, November 2026
+- Heads-up talk: Specifying and Managing Disclosure Constraints on Network Research Measurements [YouTube](https://youtu.be/sFl3Y2CiNB8&t=12m24s) [slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-specifying-and-managing-disclosure-constraints-on-network-research-measurements), Nik Sultana, November 2026
 
 - Measuring Starlink Direct to Cell on ordinary phones, from crowdsourced scans and drive tests [YouTube](https://youtu.be/sFl3Y2CiNB8&t=21m3s) [slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-maprg-ookla-measuring-starlink-direct-to-cell-on-ordinary-phones-in-the-wild), Luke Kehoe, November 2026
 
