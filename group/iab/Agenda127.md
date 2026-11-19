@@ -2,7 +2,7 @@
 title: IAB Agenda at IETF 127
 description: 
 published: true
-date: 2026-11-19T03:48:45.789Z
+date: 2026-11-19T03:49:17.243Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:17:55.116Z
@@ -109,7 +109,7 @@ To reserve the IAB breakout room, please use [IAB Breakout Room at IETF 127](/gr
 {.is-info}
 
 > Agenda:
-> - Prep for IGF2026 (with Isra Rosas, ISOC) [GDoc] - 30 mins
+> - Prep for IGF2026 (with Isra Rosas, ISOC) [[GDoc]](https://docs.google.com/document/d/17Vdj0dgv1VyoblRrRL1ewZPNz9u3YqPjnUOtS6O9bc8/edit?usp=sharing) - 30 mins
 > - Linux Foundation (Suresh) - 15 mins
 > - ETSI (Suresh) - 15 mins
 > - Q&A with IETF Counsel - 10 mins
