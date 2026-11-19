@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-11-19T12:58:36.469Z
+date: 2026-11-19T13:25:45.308Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -60,6 +60,8 @@ none
 - [draft-li-idr-bgp-sr-policy-bfd-extension](https://datatracker.ietf.org/doc/draft-li-idr-bgp-sr-policy-bfd-extension/) - [02](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-li-idr-bgp-sr-policy-bfd-extension/) - **Needs -03 and WG discussions on interactions** 
 
 - [draft-lin-idr-sr-policy-headend-behavior](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) - [(-01 to -06)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-liu-idr-srv6-policy-headend-behavior/) - **Needs -07** prior to Adoption call (reduced or non-reduced question), has Spring support  
+
+-[draft-ramasamy-idr-sr-policy-composite-perflow](/datatracker.ietf.org/doc/draft-ramasamy-idr-sr-policy-composite-perflow/) -[(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ramasamy-idr-sr-policy-composite-perflow/)
 
 - [draft-zhang-idr-sr-policy-enhanced-detnet](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-enhanced-detnet/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-enhanced-detnet) - **Needs -04 and detnet support** 
 
