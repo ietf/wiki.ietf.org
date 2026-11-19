@@ -2,7 +2,7 @@
 title: IAB Breakout Room at IETF 127
 description: 
 published: true
-date: 2026-11-17T23:54:12.315Z
+date: 2026-11-19T21:39:12.929Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-13T19:20:10.858Z
@@ -48,6 +48,7 @@ For food & beverage service requests, please include:
 
 ## Thursday 
 - 07:30-09:00: IAB Business Meeting
+- 11:30-12:30: Cindy, Laura, Greg
 
 
 
