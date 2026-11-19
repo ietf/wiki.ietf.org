@@ -2,7 +2,7 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2026-07-10T16:01:09.387Z
+date: 2026-11-19T17:27:10.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z
@@ -34,6 +34,15 @@ There are many ways to shoot yourself in the foot when writing an Internet Draft
 Note that these are just the personal views and advice from the current OpsAD - it is far from complete, feel free to send me additional pointers / ways which you've seen people trip over operational bits.
 
 RFC 5706 Appendix A. - "Guidelines for Considering Operations and Management of New Protocols and Protocol Extensions" (https://tools.ietf.org/html/rfc5706) contains a checklist which is also very helpful. As a side note, we are considering this RFC for a bis. If you are interested, do let us know.
+
+### IPFIX Information Elements
+
+Most new IPFIX Information Elements (IEs) don't need an Internet-Draft. The IANA [IPFIX Information Elements registry](https://www.iana.org/assignments/ipfix/) uses Expert Review ([RFC 7012](https://datatracker.ietf.org/doc/rfc7012/), Section 7.4), so IEs can be requested directly from IANA and reviewed by the designated experts (IE Doctors) under the Guidelines for Authors and Reviewers of IPFIX Information Elements ([RFC 7013](https://datatracker.ietf.org/doc/rfc7013/), BCP 184).
+
+Before writing a draft that only defines IPFIX IEs, see:
+
+[Requesting IPFIX Information Elements](/group/ops/ipfix-ie-requests): when an IANA request is enough, when a draft is still appropriate, and what a good request contains.
+
 
 ### AI in Operations (AIOPS)
 
