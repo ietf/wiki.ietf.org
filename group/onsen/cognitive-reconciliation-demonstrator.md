@@ -2,7 +2,7 @@
 title: Cognitive Reconciliation for YANG and TMF: a Demonstrator
 description: Public, reproducible demonstrator for draft-janz-onsen-cognitive-reconciliation: agent-to-agent reconciliation of the L3SM-to-TMF and L3SM-to-L3NM problems, run on your own model API licence.
 published: true
-date: 2026-11-18T02:49:19.065Z
+date: 2026-11-19T13:43:37.285Z
 tags: onsen, yang, tmf, l3sm, l3nm, reconciliation, demonstrator, internet-draft
 editor: markdown
 dateCreated: 2026-11-18T02:49:19.065Z
@@ -20,6 +20,17 @@ Two cases, at the two ends of a cognition-placement spectrum:
 
 It also runs the model-drift lifecycle — reactive detection and node-scoped re-reconciliation, and a measured proactive-notification gain — and a step-through movie that visualises each stage, marked for where it sits on the placement spectrum and for whether more cognition would add anything.
 
+## Explanatory material: a concept note and two videos
+
+The automated reconciliation process can be hard to follow from the demonstrator alone. A concept note and two narrated videos explain it. The videos are AI generated and carefully curated.
+
+They set out how the process handles the two cases, TM Forum to L3SM and L3SM to L3NM, and where the handling differs. Of greater interest, they explain why it must differ, under a framework that distinguishes translation problems from binding problems. A correspondence between two models that the models themselves settle is a translation: it can be settled once and published as a mapping. A correspondence that only one of the systems can settle is a binding: it is made by a judgment in that system, and no mapping can fix it in advance. The framework is set out in the first video, and it goes a long way toward explaining the history of issues behind the ONSEN problem statement.
+
+- Part 1 (video, about 20 minutes): the framework and the method
+- Part 2 (video, about 18 minutes): the two cases, step by step
+- Concept note (PDF, 10 pages)
+- All files, with transcripts (download the videos to view them): https://github.com/ChrisFJanz/onsen-cognitive-reconciliation/tree/main/translation-or-binding
+
 ## How to use it
 
 Repository: **https://github.com/ChrisFJanz/onsen-cognitive-reconciliation**
@@ -32,6 +43,8 @@ Repository: **https://github.com/ChrisFJanz/onsen-cognitive-reconciliation**
 ## Frozen, but not artificial
 
 The step-through movies are frozen, but they are not staged. Each is a snapshot of the full process rig described in draft-janz-onsen-cognitive-reconciliation and in draft-janz-nmrg-adhoc-semantic-reconciliation: real runs of the published harness, with the reconciliation transcripts recorded so the runs replay offline. Every scored figure is a real output of the harness, not an illustration.
+
+The reported figures come from gpt-4o runs. A fresh live run, with a different model or at a later date, will vary; the exact figures reported in the draft replay offline from the recorded transcripts in `transcripts/` (run with `--resume`), with no API calls.
 
 ## Contact
 
