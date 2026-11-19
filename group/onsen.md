@@ -2,7 +2,7 @@
 title: ONSEN - Operationalizing Network & SErvice abstractioNs Wiki
 description: 
 published: true
-date: 2026-11-14T19:02:57.468Z
+date: 2026-11-19T19:55:06.386Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-03T21:49:19.822Z
@@ -55,3 +55,15 @@ SORESPO helps you create and manage Layer 3 VPN services across a multi-vendor n
 Built on [StratoWeave] (https://www.stratoweave.org), SORESPO transforms your service definition through layers of network and device configuration, creating the interfaces, VRFs, and BGP settings required on each router. The same service model supports Juniper cRPD and Cisco IOS XRd with MPLS, and Nokia SR Linux with VXLAN and BGP EVPN. These layers handle the differences between platforms, so you can work with a consistent service definition while SORESPO generates the configuration appropriate to each device.
  
 Use SORESPO to explore how a standard service model becomes a working network service, experiment with changes in a lab, or build a foundation for your own orchestration system. As a reference implementation, it lets you follow the path from customer requirements to device configuration and adapt the models and transforms to your network.
+
+<br>
+
+### Cognitive Reconciliation Demonstrator - YANG-to-TMF and LxSM-to-LxNM Model Reconciliation
+
+A public, reproducible demonstrator for draft-janz-onsen-cognitive-reconciliation. It applies the agent-to-agent reconciliation methodology of draft-janz-nmrg-adhoc-semantic-reconciliation to two ONSEN problems: mapping the L3SM to TM Forum models and APIs (the problem set out in draft-lls-onsen-yang-tmf-mapping) and reconciling the L3SM with the L3NM. In each case two AI agents, each holding one of the models, work out the correspondence between them.
+
+Anyone can rerun the published harness with their own model API licence or step through recorded runs offline. A short concept note, "Translation or binding: two kinds of model interoperability", and two explanatory videos set out why the two problems call for different workflows.
+
+Overview, results and links: [Cognitive Reconciliation for YANG and TMF: a Demonstrator](/en/group/onsen/cognitive-reconciliation-demonstrator)
+
+Code and run instructions: https://github.com/ChrisFJanz/onsen-cognitive-reconciliation 
