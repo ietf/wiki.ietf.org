@@ -2,7 +2,7 @@
 title: Cognitive Reconciliation for YANG and TMF: a Demonstrator
 description: Public, reproducible demonstrator for draft-janz-onsen-cognitive-reconciliation: agent-to-agent reconciliation of the L3SM-to-TMF and L3SM-to-L3NM problems, run on your own model API licence.
 published: true
-date: 2026-11-19T13:43:37.285Z
+date: 2026-11-19T16:31:45.815Z
 tags: onsen, yang, tmf, l3sm, l3nm, reconciliation, demonstrator, internet-draft
 editor: markdown
 dateCreated: 2026-11-18T02:49:19.065Z
@@ -24,11 +24,11 @@ It also runs the model-drift lifecycle — reactive detection and node-scoped re
 
 The automated reconciliation process can be hard to follow from the demonstrator alone. A concept note and two narrated videos explain it. The videos are AI generated and carefully curated.
 
-They set out how the process handles the two cases, TM Forum to L3SM and L3SM to L3NM, and where the handling differs. Of greater interest, they explain why it must differ, under a framework that distinguishes translation problems from binding problems. A correspondence between two models that the models themselves settle is a translation: it can be settled once and published as a mapping. A correspondence that only one of the systems can settle is a binding: it is made by a judgment in that system, and no mapping can fix it in advance. The framework is set out in the first video, and it goes a long way toward explaining the history of issues behind the ONSEN problem statement.
+They set out how the process handles the two cases, TM Forum to L3SM and L3SM to L3NM, and where the handling differs. Of greater interest, they explain why it must differ, under a framework that distinguishes translation problems from binding problems. A correspondence between two models that the models themselves settle is a translation: it can be settled once and published as a mapping. A correspondence that only one of the systems can settle is a binding: it is made by a judgment in that system, and no mapping can fix it in advance. The framework is set out in the first video, and it goes a long way toward explaining the history of issues behind the ONSEN problem statement. The distinction is not new in substance: the note's closing part, "Antecedents", shows where it already appears in the IETF's own documents, including RFC 8309, RFC 9182 Section 5 and the TEAS TE and service mapping model, and the note consolidates and names it.
 
 - Part 1 (video, about 20 minutes): the framework and the method
 - Part 2 (video, about 18 minutes): the two cases, step by step
-- Concept note (PDF, 10 pages)
+- Concept note (PDF, version 1.1, 12 pages)
 - All files, with transcripts (download the videos to view them): https://github.com/ChrisFJanz/onsen-cognitive-reconciliation/tree/main/translation-or-binding
 
 ## How to use it
