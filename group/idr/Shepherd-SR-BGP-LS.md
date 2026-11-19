@@ -2,7 +2,7 @@
 title: Shepherd Review for IDR drafts for the Segment Routing and BGP-LS Technology
 description: Review SR and BGP-LS
 published: true
-date: 2026-11-19T13:55:41.827Z
+date: 2026-11-19T13:56:38.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T18:05:42.647Z
@@ -63,13 +63,13 @@ none
 
 - [draft-liu-idr-bgp-sr-policy-cp-threshold] (https://datatracker.ietf.org/doc/draft-liu-idr-bgp-sr-policy-cp-threshold/) -[(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/raft-liu-idr-bgp-sr-policy-cp-threshold/) - review pending 
 
-- [draft-ramasamy-idr-sr-policy-composite-perflow](/datatracker.ietf.org/doc/draft-ramasamy-idr-sr-policy-composite-perflow/) -[(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ramasamy-idr-sr-policy-composite-perflow/) - second composite draft 
+- [draft-ramasamy-idr-sr-policy-composite-perflow](/datatracker.ietf.org/doc/draft-ramasamy-idr-sr-policy-composite-perflow/) -[(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ramasamy-idr-sr-policy-composite-perflow/) - second composite draft (review pending) 
 
--[draft-xl-idr-bgp-sr-policy-pathrate](datatracker.ietf.org/doc/draft-xl-idr-bgp-sr-policy-pathrate/) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-xl-idr-bgp-sr-policy-pathrate/) 
+-[draft-xl-idr-bgp-sr-policy-pathrate](datatracker.ietf.org/doc/draft-xl-idr-bgp-sr-policy-pathrate/) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-xl-idr-bgp-sr-policy-pathrate/) - review pending 
 
-[draft-xiong-idr-cats-sr-policy](https://datatarcker.ietf.org/doc/draft-xiong-idr-cats-sr-policy) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-xiong-idr-cats-sr-policy) 
+[draft-xiong-idr-cats-sr-policy](https://datatarcker.ietf.org/doc/draft-xiong-idr-cats-sr-policy) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-xiong-idr-cats-sr-policy) - review pending 
 
-[draft-yu-idr-bgp-sr-policy-orf]((https://datatarcker.ietf.org/doc/draft-xiong-idr-cats-sr-policy) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/(idr-bgp-sr-policy-orf)
+[draft-yu-idr-bgp-sr-policy-orf]((https://datatarcker.ietf.org/doc/draft-xiong-idr-cats-sr-policy) [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/(idr-bgp-sr-policy-orf) - review pending 
 
 - [draft-zhang-idr-sr-policy-enhanced-detnet] (https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-enhanced-detnet/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-zhang-idr-sr-policy-enhanced-detnet) - **Needs -04 and detnet support** 
 
