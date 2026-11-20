@@ -2,7 +2,7 @@
 title: Protocol Implementation Reports
 description: 
 published: true
-date: 2026-11-20T14:39:47.137Z
+date: 2026-11-20T14:53:56.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-13T05:29:13.348Z
@@ -30,7 +30,7 @@ dateCreated: 2023-03-13T05:29:13.348Z
 
  ## Implementation reports for drafts at WG LC  
  
- - [draft-ietf-idr-otc-rs-verification](/group/idr/implementations/draft-ietf-idr-otc-rs-veriication)
+ - [draft-ietf-idr-otc-rs-verification](/group/idr/implementations/draft-ietf-idr-otc-rs-verification)
  
  
  ## implementations at Pre-WG LC  (2  implementations) 
