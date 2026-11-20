@@ -2,7 +2,7 @@
 title: Upcoming IETF Meeting
 description: This is scratch space for the upcoming IETF meeting; it will be cleared afterwards and reused for the next meeting.
 published: true
-date: 2026-11-19T15:45:31.690Z
+date: 2026-11-20T20:20:41.140Z
 tags: iesg
 editor: markdown
 dateCreated: 2022-07-23T19:50:44.319Z
@@ -162,7 +162,7 @@ No IESG breakfast. IAB has a [breakfast meeting](https://wiki.ietf.org/group/iab
 
 ### 12:30-14:00 - Joint IAB/IESG Lunch and Meeting (Room: Plaza A)
 
-> Meetecho: https://meetings.conf.meetecho.com/ietf126/?session=1007
+> Meetecho: https://meetings.conf.meetecho.com/ietf127/?session=1007
 > 
 > 1. Welcome
 > 2. Post-meeting review (randomized)
