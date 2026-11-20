@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-16T18:05:17.301Z
+date: 2026-11-20T01:45:15.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -27,9 +27,8 @@ Context: Finalize ISE survey report
 - 
 
 ### Potential Additional Topic for this or future meeting
-
-- Update to IAB statement on Appeal
-- Closing of some public IAB mailing lists and moderation procedures
+- Executive Session: IESG Confirmation
+- Executive Session: Appeals
 - [Topics for future IAB+IESG discussions](https://wiki.ietf.org/group/iab/iab-iesg)
 - IETF-RIR Admin Support Group
 - ISE Survey Feedback
