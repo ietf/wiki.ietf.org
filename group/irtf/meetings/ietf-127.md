@@ -2,7 +2,7 @@
 title: IRTF Meeting Report for IETF-127
 description: IRTF Research Group Meetings at IETF-127 in San Francisco
 published: true
-date: 2026-11-24T17:51:43.896Z
+date: 2026-11-24T17:52:59.479Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-24T17:47:53.387Z
@@ -10,8 +10,7 @@ dateCreated: 2026-11-24T17:47:53.387Z
 
 # IRTF Activities at IETF-127
 
-
-
+![irtf-ietf127-linkedin.png](/irtf-ietf127-linkedin.png){.align-center}
 The [Internet Research Task Force (IRTF)](https://www.irtf.org/) met alongside IETF-127 in San Francisco on 14–20 November 2026. This report covers sessions of 12 research groups, including the inaugural meeting of the new proposed **Networking for AI Research Group (Net4AI)**, the **IRTF Open Meeting (IRTFOPEN)**, and the **ARMOR side meeting**.
 
 The **IRTF Open Meeting** brought the community together around the Applied Networking Research Prize talks by **Mona Wang on WireWatch** and **Protick Bhowmick on RevDNS**, followed by **Mark Handley's invited talk, Big Dumb Networks**, on the architecture of AI training interconnects. These presentations connected research on security, decentralized infrastructure, and large-scale networking with practical deployment challenges.
