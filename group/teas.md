@@ -2,7 +2,7 @@
 title: TEAS WG - Traffic Engineering Architecture And Signaling
 description: TEAS Working Group Wiki
 published: true
-date: 2026-10-29T07:39:53.286Z
+date: 2026-11-25T17:51:25.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T07:21:34.351Z
@@ -69,11 +69,11 @@ See [PSGuidelines](/group/teas/PSGuidelines)
 
  #### ACTN POI
 
-Occurs every 2 week(s) on Tuesday effective Tuesday, September 1, 2026 until Tuesday, November 10, 2026 from 8:30 PM to 9:30 PM, (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Occurs every 2 week(s) on Tuesday effective Tuesday, January 19, 2027 until Tuesday, March 2, 2027 from 9:30 PM to 10:30 PM, (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
 
-- [TEAS WG Announcement](https://mailarchive.ietf.org/arch/msg/teas/ljQS5SDN_hEBpFLpsHjV-f_XCwo/)
-- [Add to Calendar](https://cisco.webex.com/cisco/j.php?MTID=md7b51d0eaf76d43f5ad7b661d887732a)
-- [Join Meeting](https://cisco.webex.com/cisco/j.php?MTID=ma12b5fb9466e83afdb5df1f71c2feb3c)
+- [TEAS WG Announcement](https://mailarchive.ietf.org/arch/msg/teas/RdNd4Io-aFp-B4mC7A6QUCD3iek/)
+- [Add to Calendar](https://cisco.webex.com/cisco/j.php?MTID=m8b02e091e99c4a3b9bb4cf0718498777)
+- [Join Meeting](https://cisco.webex.com/cisco/j.php?MTID=m79cf9fc48c4db6339df70fcd3d6a8f9e)
 
  #### TE Models - Design Discussion
 
