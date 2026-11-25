@@ -2,7 +2,7 @@
 title: OPS Area (Operations & Management)
 description: 
 published: true
-date: 2026-11-19T17:27:10.416Z
+date: 2026-11-25T20:45:44.584Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-20T00:25:37.192Z
@@ -51,7 +51,7 @@ closed-loop remediation, intent translation, autonomous device management — bu
 related IETF drafts remain scattered across OPSAWG, NMOP, and individual submissions with
 no chartered home. The Management AD has posted evaluation guidance covering the current
 landscape, categories of work suited to IETF standardization, and open questions: see
-[AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/e/en/group/ops/aiops).
+[AI-Driven Network Operations: Evaluation Guidelines](https://wiki.ietf.org/en/group/ops/aiops).
 
 **Side meeting — IETF 126, Vienna:** Friday, July 24, 08:00 local time, Park Suite 4.
 Remote participation via [WebEx](https://ietf.webex.com/meet/sidemeetings1). The meeting
