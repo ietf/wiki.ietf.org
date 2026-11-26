@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-26T18:59:46.436Z
+date: 2026-11-26T19:00:21.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -25,7 +25,7 @@ Context: Finalize ISE survey report
 
 ### 2. IETF 127 Recap (all)
 
-Context: Bring any topics from BoFs, side meetings, IABOpen, New work help desk that needs IAB wide discussion
+Context: Bring any topics from BoFs, side meetings, IABOpen, New work help desk, mails that needs IAB wide discussion
 
 ## Regrets
 - 
