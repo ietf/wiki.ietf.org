@@ -2,7 +2,7 @@
 title: Agenda
 description: Agenda and information for IAB Meetings
 published: true
-date: 2026-11-20T01:45:15.668Z
+date: 2026-11-26T18:59:46.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-04T23:35:41.632Z
@@ -22,6 +22,10 @@ dateCreated: 2023-12-04T23:35:41.632Z
 ### 1. ISE Survey Report (Dhruv)
 
 Context: Finalize ISE survey report
+
+### 2. IETF 127 Recap (all)
+
+Context: Bring any topics from BoFs, side meetings, IABOpen, New work help desk that needs IAB wide discussion
 
 ## Regrets
 - 
