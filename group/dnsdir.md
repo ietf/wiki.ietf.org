@@ -2,7 +2,7 @@
 title: DNS Directorate
 description: DNS directorate reviewers assist Area Directors, Working Group chairs, and document authors with documents containing DNS-related content.
 published: true
-date: 2026-11-09T13:31:19.297Z
+date: 2026-11-27T07:57:19.221Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-09T06:48:33.347Z
@@ -35,27 +35,27 @@ The DNS directorate reviewers and secretary are volunteers, and serve at the ple
 
 Here are the expectations of the process of assignment of review tasks to members of the DNS Directorate.
 
-Sometimes DNS Directorate members take an extended period of time to respond to assignment requests. This delay creates unnecessary problems. The co-chairs aren't sure if these requests should be given to someone else, and the longer the chairs wait, the less the time for the subsequent review if the review needs to be re-assigned  to another member, which is unfair on them.
+Sometimes DNS Directorate members take an extended period of time to respond to assignment requests. This delay creates unnecessary problems. The co-chairs aren't sure if these requests should be given to someone else and the longer the co-chairs wait, there's less time for the subsequent review if it needs to be re-assigned to another member. That is unfair on them.
 
 If a DNS Directorate member's availability hasn't been updated in the datatracker (i.e., https://datatracker.ietf.org/group/dnsdir/reviewers/foo@example.com/settings/), nobody knows if an intended stuckee is unavailable and shouldn't get further assignment requests for a while.
 
 Here are the expectations:
 
-a) If you are going to be out of touch for any reason for more than 1 week please enter your absence into the Datatracker and you won't be bugged (you can do this for shorter periods also if you want - its up to you).
+a) If you are going to be out of touch for any reason for more than 1 week please enter your absence into the Datatracker and you won't be bugged. You can also do this for shorter periods if you want - it's up to you.
 
-b) When a review is assigned, your acceptance or rejection is due within 72 hours (i.e. 3 days) (yes, that's a whole lot shorter than 1 week, but if teh review is re-assigned, then this leaves the next reviewer less time to perform the review).
+b) When a review is assigned, your acceptance or rejection is expected within 72 hours (i.e. 3 days). Yes, that's a whole lot shorter than 1 week because a timely response is needed. Waiting 1 week to re-assign an I-D would leave the next reviewer less time to perform the review.
 
-c) If in absence of acceptance or rejection within this 72 hour period, then this is recorded in the datatracker.
+c) If a response isn't received within this 72 hour period, it gets recorded in the datatracker.
 
-d) If you are marked as non-responsive three or more times in the most recent 12 months, you will be asked whether you are still interested in being a reviewer in the DNS Directorate.
+d) If you are marked as non-responsive three or more times in the most recent 12 months, you will be asked whether you are still interested in being a member of the DNS Directorate.
 
-e) In absence of response to d) in a further 7 days, a "no" to the question will be assuled and the AD will be requested to take the necessary action.
+e) When there is no response to d) within 7 days, a "no" reply  will be assumed and the AD will be requested to take the necessary action.
 
 The email address provided in the datatracker will be used. Please monitor it regularly.
 
-If you provided a nag point of contact (slack or something else) it will be used that for last minute nags when you have not responded to an email request within the 72-hour period.
+If you provide the co-chairs with a point of contact (slack or something else), it will be used for last minute nags when you have not responded to an email request within the 72-hour period.
 
-These are not "rules" per se, but these are the DNS directorate chairs and ADs expectations, so that we all can manage the DNS Directorate review work smoothly and efficiently, with the minimum of friction and surprises as we go.
+These are not "rules" per se, but they are the expectations of the DNS directorate's co-chairs and ADs. They will help everyone to manage the DNS Directorate review work smoothly and efficiently, with the minimum of friction and surprises as we go.
 
 # Review Template
 
